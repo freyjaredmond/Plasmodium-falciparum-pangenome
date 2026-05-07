@@ -1,0 +1,70 @@
+## Create the job
+#!/bin/bash
+#SBATCH --job-name=lfof
+#SBATCH --partition=med
+#SBATCH --time=24-00:00:00
+#SBATCH --mem=40G
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=40
+#SBATCH --array=1-19
+#SBATCH --output=job.%x.%A_%a.%N.out
+#SBATCH --error=job.%x.%A_%a.%N.err
+#SBATCH --mail-user=>email address<
+#SBATCH --mail-type=END,FAIL
+
+
+# Load / activate liftoff
+module load liftoff/1.6.3
+
+
+username=>username,
+oldGenome="pf3D7"
+
+DATADIR="/home/$username/hc-storage/LiftOff_Practice"
+GENOMEDIR="$DATADIR/Genome_Data"
+
+# File listing the 19 target genome directory names
+targets_file="$DATADIR/targets_19.txt" #lists all the directories
+
+
+# Select target genome for this array task
+
+newGenome=$(sed -n "${SLURM_ARRAY_TASK_ID}p" "$targets_file") #run each line of the txt 
+
+
+# Genome assembly and annotation of the reference to lift genes from
+
+oldGenome_asm="$GENOMEDIR/$oldGenome/pf3D7_Genome.fasta"
+oldGenome_gff="$GENOMEDIR/$oldGenome/pf3D7.gff"
+
+# Target genome assembly to lift genes to
+
+newGenome_asm="$GENOMEDIR/$newGenome/${newGenome}_Genome.fasta"
+
+# Create output directories
+
+OUTDIR="$GENOMEDIR/$newGenome/liftoff_out"
+mkdir -p "$OUTDIR"
+
+INTERDIR="$OUTDIR/intermediate_dir_${SLURM_ARRAY_JOB_ID}_${SLURM_ARRAY_TASK_ID}"
+mkdir -p "$INTERDIR"
+
+
+# Extract list of annotation feature types to lift over
+
+cat $oldGenome_gff | grep -v '#' | cut -f3 | sort | uniq > "$oldGenome_gff"_feature_type_list.txt
+
+# Run liftoff
+
+liftoff \
+  "$newGenome_asm" \
+  "$oldGenome_asm" \
+  -g "$oldGenome_gff" \
+  -o "$OUTDIR/${newGenome}_liftover.gff3" \
+  -u "$OUTDIR/${newGenome}_liftover_unmapped_features.txt" \
+  -exclude_partial \
+  -dir "$INTERDIR" \
+  -copies \
+  -polish \
+  -cds \
+  -f "$oldGenome_gff"_feature_type_list.txt
