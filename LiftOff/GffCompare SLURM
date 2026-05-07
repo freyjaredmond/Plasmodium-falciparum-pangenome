@@ -1,0 +1,41 @@
+#!/bin/bash
+#SBATCH --job-name=lfof
+#SBATCH --partition=med
+#SBATCH --time=24-00:00:00
+#SBATCH --mem=40G
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=40
+#SBATCH --array=1-19
+#SBATCH --output=job.%x.%A_%a.%N.out
+#SBATCH --error=job.%x.%A_%a.%N.err
+#SBATCH --mail-user=>email<
+#SBATCH --mail-type=END,FAIL
+
+# Run gffcomapre 
+## Load / activate gffcompare  
+module load gffcompare/0.12.10
+username=>username<
+
+##define the directories and new genome
+DATADIR="/home/$username/hc-storage/LiftOff_Practice"
+GENOMEDIR="$DATADIR/Genome_Data"
+targets_file="$DATADIR/targets_19.txt" #file with directories in
+
+newGenome=$(sed -n "${SLURM_ARRAY_TASK_ID}p" "$targets_file") 
+
+#original GFF file
+refGff="$GENOMEDIR/$newGenome/${newGenome}.gff"  
+ref="$newGenome"
+
+#make output file
+OUTDIR="$GENOMEDIR/$newGenome/gff_compare_out"
+mkdir -p "$OUTDIR"
+
+# keep liftover output file as fofn (file of file names)
+echo "$GENOMEDIR/$newGenome/liftoff_out/${newGenome}_liftover.gff3_polished" > input_gff
+#  Run gffcompare for liftover (-i flag) vs the selected annotation to compare against (say reference annotation -r flag)
+gffcompare \
+-i input_gff \
+-o "$OUTDIR/${ref}_original_vs_${newGenome}_gffcomp" \
+-r "$refGff" \
+-p "$ref"_vs_"$newGenome"_TCONS
