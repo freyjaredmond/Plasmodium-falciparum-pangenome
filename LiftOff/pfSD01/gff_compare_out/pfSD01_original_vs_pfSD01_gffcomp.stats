@@ -1,0 +1,6 @@
+# gffcompare v0.12.10 | Command line was:
+#gffcompare -i input_gff -o /home/freyja/hc-storage/LiftOff_Practice/Genome_Data/pfSD01/gff_compare_out/pfSD01_original_vs_pfSD01_gffcomp -r /home/freyja/hc-storage/LiftOff_Practice/Genome_Data/pfSD01/pfSD01.gff -p pfSD01_vs_pfSD01_TCONS
+#
+
+ Total union super-loci across all input datasets: 5501 
+5591 out of 5591 consensus transcripts written in /home/freyja/hc-storage/LiftOff_Practice/Genome_Data/pfSD01/gff_compare_out/pfSD01_original_vs_pfSD01_gffcomp.combined.gtf (0 discarded as redundant)
