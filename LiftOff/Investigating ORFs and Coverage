@@ -1,4 +1,9 @@
-## A script to count and plot the number of lifted over gene models from 3D7 had valid ORFs and to plot a histogram of the coverage ##
+# This script reads a LiftOff polished GFF3 file for a given P. falciparum genome assembly and extracts valid_ORF status and coverage values for all protein coding genes.
+# It produces two figures:
+# 1. A bar chart showing the frequency of genes with valid_ORF=1 and valid_ORF=0
+# 2. A histogram of LiftOff coverage values across all protein coding genes
+# Input: LiftOff polished GFF3 file
+# Output: bar chart PNG, coverage histogram PNG
 
 import matplotlib.pyplot as plt
 def extract_plot(plasmodium,gff):
@@ -40,7 +45,7 @@ def extract_plot(plasmodium,gff):
     ax.set_ylabel("Frequency")
     ax.set_xlabel("Coverage")
     ax.set_title(f"Histogram of the coverage of the {plasmodium} liftoff")
-    fig.savefig(f"{plasmodium}_cov_hist_png", dpi=300)
+    fig.savefig(f"{plasmodium}_cov_hist.png", dpi=300)
 
     print( valid_orf,no_orf)
 
