@@ -13,7 +13,7 @@ found in [`GET_PANGENES_OUTPUT`](GET_PANGENES_OUTPUT).
 ---
 
 ## Quality Control
-Quality metrics were generated using the bash script [`Quality/Quality.sh`](Quality/Quality.sh), 
+Quality metrics were generated using the bash script [`Run quality control`](Quality/Run%20quality%20control), 
 with the resulting metrics file found at [`Quality/all_clusters_quality.txt`](Quality/all_clusters_quality.txt).
 Plots of quality metrics were produced using [`Quality/Quality.py`](Quality/Quality.py) 
 and can be found in the [`Quality`](Quality) folder.
@@ -21,10 +21,9 @@ and can be found in the [`Quality`](Quality) folder.
 ![Max Distance](Quality/Max_distance.png)
 
 A Python script is also provided that maps each genome against 3D7 to identify any 
-structural abnormalities: [`Gene_Locations.py`](Gene_Locations.py)
+structural abnormalities: [`Gene Locations.py`](Gene%20Locations.py)
 
-![Chromosome Location](Chromosome_location.png)
-
+![Chromosome Location](Quality/Chromosome_location.png)
 ---
 
 ## Pangenome Graphs
