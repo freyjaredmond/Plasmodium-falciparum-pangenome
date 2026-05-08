@@ -10,7 +10,7 @@ LiftOff version 1.6.3 was run on the HPC using [`LiftOff SLURM`](LiftOff%20SLURM
 ---
 
 ## LiftOff Analysis
-Plots of the number of valid ORFs and gene coverage were generated using [`investigating ORFs and Coverage`](investigating%20ORFs%20and%20Coverage). The relevant plots can be found in each genome's folder e.g. [`pf7G8`](pf7G8).
+Plots of the number of valid ORFs and gene coverage were generated using [`investigating ORFs and Coverage.py`](investigating%20ORFs%20and%20Coverage.py). The relevant plots can be found in each genome's folder e.g. [`pf7G8`](pf7G8).
 
 ---
 
@@ -20,9 +20,9 @@ GffCompare version 0.12.10 was run on the HPC, comparing the original genome ann
 ---
 
 ## GffCompare Analysis
-The frequency of GffCompare tracking codes was plotted using [`Plotting tracking codes`](Plotting%20tracking%20codes). The frequency of tracking codes was explored for all gene annotations as well as for gene annotations with valid ORFs using [`Filtering for valid ORF=1`](Filtering%20for%20valid%20ORF%3D1). The results of this analysis can be found in [`Tracking_codes.tsv.tsv`](Tracking_codes.tsv.tsv) and [`Tracking_codes_orf1.tsv`](Tracking_codes_orf1.tsv).
+The frequency of GffCompare tracking codes was plotted using [`Plotting tracking codes.py`](Plotting%20tracking%20codes.py). The frequency of tracking codes was explored for all gene annotations as well as for gene annotations with valid ORFs using [`Filtering for valid ORF=1.py`](Filtering%20for%20valid%20ORF%3D1.py). The results of this analysis can be found in [`Tracking_codes.tsv.tsv`](Tracking_codes.tsv.tsv) and [`Tracking_codes_orf1.tsv`](Tracking_codes_orf1.tsv).
 
 ---
 
 ## Protein Alignment
-To characterise genes that were not receiving exact matches between the original and lifted over annotations, pairwise protein alignment was carried out to determine sequence similarity using [`Protein Sequence Analysis`](Protein%20Sequence%20Analysis). The results can be found in the [`Protein Comparison`](Protein%20Comparison) folder.
+To characterise genes that were not receiving exact matches between the original and lifted over annotations, pairwise protein alignment was carried out to determine sequence similarity using [`Protein Sequence Analysis.py`](Protein%20Sequence%20Analysis.py) for the 7G8-2019 and NF135.C10 genomes. The results can be found in the [`Protein Comparison`](Protein%20Comparison) folder.
