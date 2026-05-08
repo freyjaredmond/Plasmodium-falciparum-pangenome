@@ -1,0 +1,14 @@
+#install homologues
+git clone https://github.com/eead-csic-compbio/get_homologues.git
+perl install.pl
+# need R
+module avail R
+module load R/
+
+
+
+
+#make core growth curve
+./plot_pancore_matrix.pl -f core_both -i /mnt/hc-storage/users/freyja/get_pangenes/inputs_for_growth_pangenes/PlasmoDB68_PfalciparumNF135C10_0taxa_2neigh_algMmap_/core_gene.tab
+#make pangene growth curve
+./plot_pancore_matrix.pl -f pan -i /mnt/hc-storage/users/freyja/get_pangenes/inputs_for_growth_pangenes/PlasmoDB68_PfalciparumNF135C10_0taxa_2neigh_algMmap_/pan_gene.tab
