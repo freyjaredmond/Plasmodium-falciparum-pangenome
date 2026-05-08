@@ -10,7 +10,7 @@ LiftOff version 1.6.3 was run on the HPC using [`LiftOff SLURM`](LiftOff%20SLURM
 ---
 
 ## LiftOff Analysis
-Plots of the number of valid ORFs and gene coverage were generated using [`investigating ORFs and Coverage.py`](investigating%20ORFs%20and%20Coverage.py). The relevant plots can be found in each genome's folder e.g. [`pf7G8`](pf7G8).
+Plots of the number of valid ORFs and gene coverage were generated using [`Investigating ORFs and Coverage.py`](Investigating%20ORFs%20and%20Coverage.py). The relevant plots can be found in each genome's folder e.g. [`pf7G8`](pf7G8).
 
 ---
 
@@ -25,4 +25,4 @@ The frequency of GffCompare tracking codes was plotted using [`Plotting tracking
 ---
 
 ## Protein Alignment
-To characterise genes that were not receiving exact matches between the original and lifted over annotations, pairwise protein alignment was carried out to determine sequence similarity using [`Protein Sequence Analysis.py`](Protein%20Sequence%20Analysis.py) for the 7G8-2019 and NF135.C10 genomes. The results can be found in the [`Protein Comparison`](Protein%20Comparison) folder.
+To characterise genes that were not receiving exact matches between the original and lifted over annotations, pairwise protein alignment was carried out to determine sequence similarity using [`Protein sequence analysis.py`](Protein%20sequence%20analysis.py) for the 7G8-2019 and NF135.C10 genomes. The results can be found in the [`Protein Comparison`](Protein%20Comparison) folder.
