@@ -1,0 +1,35 @@
+# This SLURM script runs GET_PANGENES quality control analysis on each pangene cluster
+# check_quality.pl runs Clustal Omega to generate multiple sequence alignments and AliStat to calculate distance metrics for each cluster
+# REQUIREMENTS: GET_PANGENES check_quality.pl, Clustal Omega, AliStat
+# INPUT: GET_PANGENES output directory containing .cdna.fna cluster files
+# OUTPUT: all_clusters_quality.txt — TSV containing per-cluster quality metrics
+#         including SE of protein length, SE of sequence distance and maximum distance
+# NOTE: Full paths required due to HPC environment issues
+#!/bin/bash
+#SBATCH --job-name=check_quality
+#SBATCH --output=check_quality_%j.log
+#SBATCH --error=check_quality_%j.err
+#SBATCH --partition=low
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=8G
+#SBATCH --time=48:00:00
+
+
+micromamba activate get_pangenes
+
+
+export PATH=$PATH:/mnt/hc-storage/users/freyja/micromamba/envs/get_pangenes/bin
+export PATH=$PATH:/mnt/hc-storage/users/freyja/get_pangenes/AliStat-master
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/mnt/hc-storage/users/freyja/micromamba/envs/get_pangenes/lib
+
+
+cd /home/freyja/hc-storage/get_pangenes/inputs_for_growth_filtered_pangenes/PlasmoDB68_PfalciparumNF135C10_2taxa_2neigh_algMmap_/PlasmoDB-68PfalciparumNF135C10
+
+
+for file in *.cdna.fna; do
+    perl /mnt/hc-storage/users/freyja/get_pangenes/plant-scripts/pangenes/check_quality.pl \
+      -d /home/freyja/hc-storage/get_pangenes/inputs_for_growth_filtered_pangenes/PlasmoDB68_PfalciparumNF135C10_2taxa_2neigh_algMmap_ \
+      -i "$file" -n
+done >> /mnt/hc-storage/users/freyja/get_pangenes/all_clusters_quality.txt
+
