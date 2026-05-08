@@ -1,0 +1,49 @@
+# This script provides the SLURM script to run GET_PANGENES with pangenome growth simulations
+# The -c parameter enables random-sampling growth simulations
+# The -t 0 parameter enables full pangenome construction
+# NOTE: Full paths were required for Python and GET_PANGENES due to HPC environment issues
+# GET_PANGENES was not run with homologous chromosome mapping
+# REQUIREMENTS: GET_PANGENES.pl, GET_PANGENES helper script (fixes GFF formatting for 
+#               compatibility with GET_PANGENES when using PlasmoDB annotations)
+# INPUT: 20 P. falciparum genome assemblies (GFF and FASTA)
+# OUTPUT: pangenome matrix, POCS matrix, core_gene.tab, pan_gene.tab
+
+#!/bin/bash
+#SBATCH --job-name=PanGenes_Growth
+#SBATCH --partition=low
+#SBATCH --output=/mnt/hc-storage/users/freyja/get_pangenes/log_files/pangenes_growth_%j.log
+#SBATCH --error=/mnt/hc-storage/users/freyja/get_pangenes/err_files/pangenes_growth_%j.err
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=32
+#SBATCH --mem=128G
+#SBATCH --time=48:00:00
+
+module purge
+
+# Add the environment's bin directory to PATH
+export PATH="/mnt/hc-storage/users/freyja/micromamba/envs/get_pangenes/bin:$PATH"
+
+PROJ="/mnt/hc-storage/users/freyja/get_pangenes"
+GETP="/mnt/hc-storage/users/freyja/micromamba/envs/get_pangenes/bin/get_pangenes.pl"
+PY="/mnt/hc-storage/users/freyja/micromamba/envs/get_pangenes/bin/python"
+
+# Create directories
+INPUT_ORIGINAL="$PROJ/inputs_flat"
+INPUT_GROWTH="$PROJ/inputs_for_growth_filtered"
+HELPER="$PROJ/get_pangenes_helper.py"
+
+mkdir -p "$PROJ/log_files" "$PROJ/err_files"
+
+# Copy input files to new directory 
+rm -rf "$INPUT_GROWTH"
+mkdir -p "$INPUT_GROWTH"
+cp "$INPUT_ORIGINAL"/*.{gff,fasta,fa,fna} "$INPUT_GROWTH/" 2>/dev/null
+
+# Fix the GFFs in the NEW directory
+for gff in "$INPUT_GROWTH"/*.gff; do
+  "$PY" "$HELPER" --input_gff "$gff"
+done
+
+# Run pangenes on the NEW input directory
+"$GETP" -d "$INPUT_GROWTH" -t 0 -c # -t 2  filters out singletons
+
