@@ -4,7 +4,7 @@
 # NOTE: Full paths were required for Python and GET_PANGENES due to HPC environment issues
 # GET_PANGENES was not run with homologous chromosome mapping
 # REQUIREMENTS: GET_PANGENES.pl, GET_PANGENES helper script (fixes GFF formatting for 
-#               compatibility with GET_PANGENES when using PlasmoDB annotations)
+#               compatibility with GET_PANGENES when using PlasmoDB annotations - kindly shared to me by Luc)
 # INPUT: 20 P. falciparum genome assemblies (GFF and FASTA)
 # OUTPUT: pangenome matrix, POCS matrix, core_gene.tab, pan_gene.tab
 
