@@ -13,3 +13,23 @@ pangenome construction.
 
 Full details of the LiftOff analysis, including scripts and results, can be found in the
 [LiftOff README](LiftOff/README.md).
+----------------------------
+## Running GET_PANGENES to Produce the *P. falciparum* Pangenome
+
+To construct the *P. falciparum* pangenome, the GET_PANGENES pipeline was run on 20 
+whole-genome *P. falciparum* assemblies. Full details of the pipeline, scripts and 
+outputs can be found in the [GET_PANGENES README](GET_PANGENES/README.md).
+The resulting pangenome was found to consist of approximately 45% core genes.
+
+![Pangenome Occupancy](GET_PANGENES/Pangenome_occupancy_bar_growth.png)
+
+Pangenome growth simulations were computed to estimate the total size of the core and 
+pan-genome (20 permutations). The number of singleton genes contributed by each genome 
+was also identified.
+
+![Singleton Counts](GET_PANGENES/Singleton.png)
+
+Sample distance heatmaps were computed to explore the genomic similarity between 
+genome assemblies using POCS (Percentage of Conserved Sequences).
+
+![POCS Heatmap](GET_PANGENES/POCS_heatmap.png)
