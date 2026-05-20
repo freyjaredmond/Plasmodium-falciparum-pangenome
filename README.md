@@ -17,7 +17,9 @@ Full details of the LiftOff analysis, including scripts and results, can be foun
 ## Running GET_PANGENES to Produce the *P. falciparum* Pangenome
 
 To construct the *P. falciparum* pangenome, the GET_PANGENES pipeline was run on 20 
-whole-genome *P. falciparum* assemblies. Full details of the pipeline, scripts and 
+whole-genome *P. falciparum* assemblies. Note that the analysis was re run on 16 genomes as
+ML01, TG01, SD01 and NF135.C10 were not found to be of high enough quality (mixed infections, assembly errors).
+Full details of the pipeline, scripts and 
 outputs can be found in the [GET_PANGENES README](GET_PANGENES/README.md).
 The resulting pangenome was found to consist of approximately 45% core genes.
 
