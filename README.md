@@ -64,3 +64,8 @@ All of the scripts and analyses are found here [Exploring the pangenome README](
 ![Evidence for the pangenome](Exploring_the_pangenome/Figure3_pangenome_support_sixteen.png)
 
 
+----------------------------
+## Characterising the functions of pangenes
+GO enrichment analysis was performed on the cloud and core genes. The scripts and outputs are found here: [README.md](Function_of_pangenes/README.md)
+![GO BP](Function_of_pangenes/GO_BP_dotplot_sixteen.png)
+
