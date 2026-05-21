@@ -1,4 +1,5 @@
-### A script to map gene expression taken from PlasmoDB (the studies used are shown in "Gene_expression_all.txt"
+### A script to map gene expression taken from PlasmoDB (gene expression data was taken for
+## all available RNA-seq data on PlasmoDB v68) ##
 ## and mapped to the pangenome, with statistical analysis carried out ##
 ## Input: gene expression data from PlasmoDB, pangenome matrix ##
 ## Output: boxplot mapping gene expression to each occupancy level ##
