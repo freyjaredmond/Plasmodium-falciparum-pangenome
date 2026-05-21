@@ -13,6 +13,7 @@ pangenome construction.
 
 Full details of the LiftOff analysis, including scripts and results, can be found in the
 [LiftOff README](LiftOff/README.md).
+
 ----------------------------
 ## Running GET_PANGENES to Produce the *P. falciparum* Pangenome
 
