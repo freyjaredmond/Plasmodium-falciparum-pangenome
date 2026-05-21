@@ -17,8 +17,7 @@ Full details of the LiftOff analysis, including scripts and results, can be foun
 ## Running GET_PANGENES to Produce the *P. falciparum* Pangenome
 
 To construct the *P. falciparum* pangenome, the GET_PANGENES pipeline was run on 20 
-whole-genome *P. falciparum* assemblies. Note that the analysis was re run on 16 genomes as
-ML01, TG01, SD01 and NF135.C10 were not found to be of high enough quality (mixed infections, assembly errors).
+whole-genome *P. falciparum* assemblies.
 Full details of the pipeline, scripts and 
 outputs can be found in the [GET_PANGENES README](GET_PANGENES/README.md).
 The resulting pangenome was found to consist of approximately 45% core genes.
@@ -35,3 +34,15 @@ Sample distance heatmaps were computed to explore the genomic similarity between
 genome assemblies using POCS (Percentage of Conserved Sequences).
 
 ![POCS Heatmap](GET_PANGENES/POCS_heatmap.png)
+
+## Rerunning GET_PANGENES
+The analysis was re run on 16 genomes exlcuding ML01, TG01, SD01 and NF135.C10 were not found to be of high enough quality (mixed infections, assembly errors).
+These genomes were inflating the cloud, shell and soft-core count.
+
+The new results are also found in [GET_PANGENES README](GET_PANGENES/README.md).
+
+![Pangenome Occupancy](GET_PANGENES/Pangenome_occupancy_bar_growth_16_pseudo.png)
+
+![Singleton Counts](GET_PANGENES/Singleton_16.png)
+
+![POCS Heatmap](GET_PANGENES/POCS_heatmap_16.png)
