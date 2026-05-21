@@ -1,0 +1,129 @@
+### The R markdown code for running GO enrichment on the pangenome
+### Input: list of core genes, cloud genes and all genes, as well as the best 
+### annotations file
+### Output: GO enrichment dot plots
+---
+title: "Cluster1"
+output: html_document
+date: "2026-02-18"
+---
+install clusterprofiler and load packages
+```{r}
+library(clusterProfiler)
+library(enrichplot)
+library(tidyverse)  
+packageVersion("clusterProfiler")
+```
+
+
+
+#Read in the data
+
+```{r}
+data <-read.delim("Best_annotations_16") #this is in the correct format col 1 gene, col2 GO ID
+core_list <-read.table("Core_genes_3D7_cluster_sixteen.txt", header=FALSE)$V1 #make a vector of all the genes
+cloud_list <-read.table("Cloud_genes_3D7_cluster_sixteen.txt", header=FALSE)$V1
+all_list <- read.table("allgenes_3D7_cluster_sixteen.txt", header=FALSE)$V1
+
+```
+
+#Filter for the first two columns(TERM2GENE)
+#Filter  for first and third (TERM2NAME)
+
+
+```{r}
+cc_t2g <- data%>%filter(Type=="CC")%>%select(GO_ID,Gene_ID)
+bp_t2g <-data %>%filter(Type=="BP")%>%select(GO_ID,Gene_ID)
+mf_t2g <-data %>%filter(Type=="MF")%>%select(GO_ID, Gene_ID)
+cc_t2n <- data%>%filter(Type=="CC")%>%select(GO_ID,GO_term)
+bp_t2n <-data %>%filter(Type=="BP")%>%select(GO_ID,GO_term)
+mf_t2n <-data %>%filter(Type=="MF")%>%select(GO_ID, GO_term)
+```
+
+
+#perform analysis for cc
+```{r}
+comparison_cc<-compareCluster(geneClusters=list(core=core_list,cloud=cloud_list),
+          fun="enricher",
+          TERM2GENE=cc_t2g,
+          TERM2NAME=cc_t2n,
+          pvalueCutoff=0.05,
+          pAdjustMethod="BH",
+          universe=all_list,
+          minGSSize=5, #more lenient
+          maxGSSize=500,#default
+          qvalueCutoff=0.2)#default
+
+          
+```
+
+#visualise and save
+```{r}
+p<-dotplot(comparison_cc, showCategory=15)
+ggsave("GO_CC_dotplot_sixteen.png", 
+       plot = p,
+       width = 15, 
+       height = 30, 
+       units = "cm")
+```
+
+
+#perform analysis for bp
+```{r}
+comparison_bp<-compareCluster(geneClusters=list(core=core_list,cloud=cloud_list),
+          fun="enricher",
+          TERM2GENE=bp_t2g,
+          TERM2NAME=bp_t2n,
+          pvalueCutoff=0.05,
+          pAdjustMethod="BH",
+          universe=all_list,
+          minGSSize=5, #more lenient
+          maxGSSize=500,#default
+          qvalueCutoff=0.2)#default
+
+          
+```
+
+#visualise
+```{r}
+p2<-dotplot(comparison_bp, showCategory=15)
+ggsave("GO_BP_dotplot_sixteen.png", 
+       plot = p2,
+       width = 15, 
+       height = 30,  
+       units = "cm")
+
+
+```
+
+
+#perform analysis for mpf
+```{r}
+comparison_mf<-compareCluster(geneClusters=list(core=core_list,cloud=cloud_list),
+          fun="enricher",
+          TERM2GENE=mf_t2g,
+          TERM2NAME=mf_t2n,
+          pvalueCutoff=0.05,
+          pAdjustMethod="BH",
+          universe=all_list,
+          minGSSize=5, #more lenient
+          maxGSSize=500,#default
+          qvalueCutoff=0.2)#default
+
+          
+```
+
+#visualise
+```{r}
+p3<-dotplot(comparison_mf, showCategory=15)
+ggsave("GO_MF_dotplot_sixteen.png", 
+       plot = p3,
+       width = 15, 
+       height = 30, 
+       units = "cm")
+```
+
+
+
+
+
