@@ -29,6 +29,7 @@ Script is here: [RNA-seq](Gene_expression.py)
 
 ## Proteomics
 Peptide count data was taken from Siddiqui et al. (2022) and mapped to the pangenome clusters- note that peptide count was only available for 3D7
+
 Ghizal Siddiqui, Amanda De Paoli, Christopher A MacRaild, Anna E Sexton, Coralie Boulet, Anup D Shah, Mitchell B Batty, Ralf B Schittenhelm, Teresa G Carvalho, Darren J Creek, A new mass spectral library for high-coverage and reproducible analysis of the Plasmodium falciparum–infected red blood cell proteome, GigaScience, Volume 11, 2022, giac008, https://doi.org/10.1093/gigascience/giac008
 The script is here: [Peptide count](proteomics.py)
 
