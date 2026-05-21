@@ -55,3 +55,12 @@ The mean percentage of pangenes with InterPro IDs, protein length, paralog count
 All of the scripts and analyses are found here [Exploring the pangenome README](Exploring_the_pangenome/README.md)
 
 ![Characterising the pangenome](Exploring_the_pangenome/Figure2_pangenome_characteristics_sixteen.png)
+
+----------------------------
+## Evidence for pangenes
+Mean pLDDT scores, RNA-seq data and peptide counts were mapped to the pangenome.
+All of the scripts and analyses are found here [Exploring the pangenome README](Exploring_the_pangenome/README.md)
+
+![Evidence for the pangenome](Exploring_the_pangenome/Figure3_pangenome_support_sixteen.png)
+
+
