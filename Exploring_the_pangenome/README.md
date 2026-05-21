@@ -13,4 +13,4 @@ The paralog counts were taken from PlasmoDB and mapped to the pangene clusters, 
 ## Ortholog counts
 The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of ortholog counts. This analysis was also repeated with RIF and VAR genes removed. [Filtered Orthologs](ortholog_box_grouped_filtered_sixteen.png)
 
-![Pangenome characterisation](Figure2_pangenome_characterisation_sixteen.png)
+![Pangenome characterisation](Figure2_pangenome_characteristics_sixteen.png)
