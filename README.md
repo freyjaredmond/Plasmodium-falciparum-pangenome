@@ -53,4 +53,4 @@ The new results are also found in [GET_PANGENES README](GET_PANGENES/README.md).
 The mean percentage of pangenes with InterPro IDs, protein length, paralog count and ortholog count were mapped to the pangenome.
 All of the scripts and analyses are found here [Exploring the pangenome README](Exploring_the_pangenome/README.md)
 
-![Characterising the pangenome](Figure2_pangenome_characteristics_sixteen.png)
+![Characterising the pangenome](Exploring_the+pangemom/Figure2_pangenome_characteristics_sixteen.png)
