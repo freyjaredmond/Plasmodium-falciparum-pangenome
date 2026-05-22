@@ -11,3 +11,12 @@ To run ClusterProfiler the GO annotations were selected using this script
 [Best annotations](Best_annotations.py)
 
 ![GO Enrichment](Figure4_GO_sixteen.png)
+
+## Domain Occupancy
+The representative InterPro domain was assigned to each cluster and the mean occupancy of that domain
+was calculated [Domain Occupancy](domain_occupancy.py).
+
+Selected families were explored and GO enirchment was run on invariable (occupancy >10), partially
+variable (occupancy >=10 and occupancy <15) and invariable (occupancy >15).
+
+![Domain Occupancy](Figure5_domains_GO.png)
