@@ -69,3 +69,5 @@ All of the scripts and analyses are found here [Exploring the pangenome README](
 GO enrichment analysis was performed on the cloud and core genes. The scripts and outputs are found here: [README.md](Function_of_pangenes/README.md)
 ![GO BP](Function_of_pangenes/GO_BP_dotplot_sixteen.png)
 
+Mean domain occupancy was also calculated across the pangenome [Domain Occupancy](domain_occupancy.py), and the function of highly variable and invariable pangenes was explored.
+![Domain Occupancy](Figure5_domains_GO.png)
