@@ -51,7 +51,7 @@ GET_PANGENES was rerun on 16 genomes to exlude the following genomes:
 - SD01 (large missassembly)
 - NF135.C10 (admixed infection)
 
-![Pangenome Occupancy](Pangenome_occupancy_bar_16.png)
+![Pangenome Occupancy](Pangenome_occupancy_bar_growth_16.png)
 
 ![Singleton Counts](Singleton_16.png)
 
