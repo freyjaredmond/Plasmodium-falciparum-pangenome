@@ -44,14 +44,14 @@ The POCS dendrogram and heatmap were produced using [`POCS_Dendrogram.py`](POCS_
 
 ![POCS Heatmap](POCS_heatmap.png)
 
-# This analysis was rerun on 16 genomes, exlcuding the following:
+# 16 genome pangenome
+GET_PANGENES was rerun on 16 genomes to exlude the following genomes:
 - ML01 (mixed infection)
 - TG01 (mixed infection)
 - SD01 (large missassembly)
 - NF135.C10 (admixed infection)
-Pseudogenes were included in this analysis to account for the high proportion of pseudogenes that may account for shell classifications.
 
-![Pangenome Occupancy](Pangenome_occupancy_bar_16_pseudo.png)
+![Pangenome Occupancy](Pangenome_occupancy_bar_16.png)
 
 ![Singleton Counts](Singleton_16.png)
 
