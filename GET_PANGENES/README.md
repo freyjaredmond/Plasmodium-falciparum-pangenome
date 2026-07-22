@@ -41,19 +41,20 @@ The singleton count per genome was generated using [`Singletons_graph.py`](Singl
 Pangenome growth simulation graphs were produced using 
 [`Produce_pangenome_growth`](Produce_pangenome_growth), with results found in for the 20 genome pangenome
 [`Core simulation`](core_gene.tab_core_both.pdf) and 
-[`Pangenome simulation`](pan_gene.tab_pan.pdf). For the 16 pangenome they are located [`Core simulation`](core_gene.tab_core_both_PSEUDO.pdf) and 
-[`Pangenome simulation`](pan_gene.tab_pan_PSEUDO.pdf).
+[`Pangenome simulation`](pan_gene.tab_pan.pdf). For the 16 pangenome they are located [`Core simulation`](core_gene.tab_core_PSEUDO.pdf) and 
+[`Pangenome simulation`](pan_gene.tab_PSEUDO.pdf).
 
 The POCS dendrogram and heatmap were produced using [`POCS_Dendrogram.py`](POCS_Dendrogram.py).
+The results of all of these analyses can be found in this folder:
+
 
 # 20 pangenome quality
-To explore the distribution of singletons [`POCS_Dendrogram.py`](POCS_Dendrogram.py).
+To explore the distribution of the singletons and soft-core classifcations, the following script was used 
 
 
-The results of all of these analyses can be found in this folder:
-# 20 pangenome
 
-#16 pangenome
+
+
 
 
 
