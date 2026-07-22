@@ -56,20 +56,12 @@ The results of all of these analyses can be found in this folder
 # 20 pangenome quality
 To explore the distribution of the singletons and soft-core classifcations, the following script was used [`Supplementary A`](supplementary_a.py).
 
-![](Supplementary_a.png)
+![](20_genome_quality.png)
 
 
 
 
 
-
-
-
-
-
-![Singleton Counts](Singleton_16.png)
-
-![POCS Heatmap](POCS_heatmap_16.png)
 
 
 
