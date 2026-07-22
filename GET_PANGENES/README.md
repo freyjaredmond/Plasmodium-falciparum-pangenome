@@ -45,7 +45,9 @@ Pangenome growth simulation graphs were produced using
 [`Pangenome simulation`](pan_gene.tab_PSEUDO.pdf).
 
 The POCS dendrogram and heatmap were produced using [`POCS_Dendrogram.py`](POCS_Dendrogram.py).
-The results of all of these analyses can be found in this folder:
+
+The results of all of these analyses can be found in this folder
+[`16 pangenome`](16_genome.png).
 
 
 # 20 pangenome quality
