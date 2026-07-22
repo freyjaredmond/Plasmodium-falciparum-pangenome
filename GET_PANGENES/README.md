@@ -48,7 +48,8 @@ The POCS dendrogram and heatmap were produced using [`POCS_Dendrogram.py`](POCS_
 
 The results of all of these analyses can be found in this folder
 
-[`16 pangenome`](16_genome.png).
+![](16_genome.png)
+
 
 
 # 20 pangenome quality
