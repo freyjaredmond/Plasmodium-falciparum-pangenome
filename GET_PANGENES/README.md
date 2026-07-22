@@ -14,7 +14,8 @@ pseudogene inclusion is also provided. The exlcuded genomes:
 
 ## Running GET_PANGENES
 The SLURM script for running the 20 genoome GET_PANGENES pangenome can be found here: [`Running GET_PANGENES`](Running%20GET_PANGENES).
-The gff helper script produced by Luc was modifed to include pseudogenes- this can be found here: 
+The gff helper script produced by Luc was modifed to include pseudogenes- this can be found here: [`Pseudogene helper script`](helper_PSEUDO.py).
+
 Output, including the pangenome matrix and pangenome growth simulation results, can be 
 found in [`20 genome GET_PANGENES_OUTPUT`](GET_PANGENES_OUTPUT) and here [`16 genome GET_PANGENES_OUTPUT`](GET_PANGENES_OUTPUT_16_PSEUDO).
 
