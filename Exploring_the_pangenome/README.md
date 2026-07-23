@@ -9,14 +9,14 @@ The InterPro IDs were taken from PlasmoDB and mapped to the pangene clusters, th
 The length of proteins were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of protein lengths amongst pangenome classifications. [Protein length](protein_length.py)
 
 ## Paralog counts
-The paralog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of paralog counts. [Paralog counts](paralog_count.py). This analysis was also repeated with RIF and VAR genes removed. [Filtered Paralogs](paralog_box_grouped_filtered_sixteen.png)
+The paralog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of paralog counts. [Paralog counts](paralog_count.py). This analysis was also repeated with *rif* and *var* genes removed. [Filtered 
 
 ## Ortholog counts
-The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of ortholog counts. This analysis was also repeated with RIF and VAR genes removed. [Filtered Orthologs](ortholog_box_grouped_filtered_sixteen.png)
+The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of ortholog counts. This analysis was also repeated with *rif* and *var* genes removed. [Filtered Orthologs]
 
 The figure is shown below:
 
-![Pangenome characterisation](Figure2_pangenome_characteristics_sixteen.png)
+![Pangenome characterisation](Figure2_pangenome_characteristics_PSEUDO.png)
 
 # Evidence to support the pangenome
 
@@ -24,13 +24,15 @@ The figure is shown below:
 AlphaFold statistics were calculated for each pangene and the mean pLDDT was mapped to each pangenome occupancy. The script is here [Mean pLDDT](plddt.py)
 
 ## RNA-seq
-All available RNA-seq datasets were taken from PlasmoDB and mapped to the pangene clusters- note that gene expression data was only available for 3D7. 
+All available RNA-seq datasets were taken from PlasmoDB and filtered to include sense strand (unique) only data. Gene expression was mapped to the pangene clusters- note that gene expression data was only available for 3D7. 
 Script is here: [RNA-seq](Gene_expression.py)
+Data is here: 
 
 ## Proteomics
-Peptide count data was taken from Siddiqui et al. (2022) and mapped to the pangenome clusters- note that peptide count was only available for 3D7
-
-Ghizal Siddiqui, Amanda De Paoli, Christopher A MacRaild, Anna E Sexton, Coralie Boulet, Anup D Shah, Mitchell B Batty, Ralf B Schittenhelm, Teresa G Carvalho, Darren J Creek, A new mass spectral library for high-coverage and reproducible analysis of the Plasmodium falciparum–infected red blood cell proteome, GigaScience, Volume 11, 2022, giac008, https://doi.org/10.1093/gigascience/giac008
+Peptide count data were taken from PlasmoDB (21 mass spectrometry experiments in total), and the percentage of pangenes with a sum of unique peptides across samples ≥2 was calculated for each pangenome classification.
 The script is here: [Peptide count](proteomics.py)
+Data is here:
 
-![Pangenome support](Figure3_pangenome_support_sixteen.png)
+The figure is shown below:
+
+![Pangenome support](Figure3_pangenome_support_PSEUDO.png)
