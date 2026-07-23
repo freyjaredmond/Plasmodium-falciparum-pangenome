@@ -12,7 +12,7 @@ The length of proteins were taken from PlasmoDB and mapped to the pangene cluste
 The paralog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of paralog counts. [Paralog counts](paralog_PSEUDO.py). This analysis was also repeated with *rif* and *var* genes removed. [Filtered paralog counts](paralog_filtered_PSEUDO.py) 
 
 ## Ortholog counts
-The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of ortholog counts. [Ortholog counts](ortholog_PSEUDO.py). This analysis was also repeated with *rif* and *var* genes removed. [Filtered ortholog counts](ortholog_filtered_PSEUDO.py) 
+The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of ortholog counts. [Ortholog counts](ortholog_PSEUDO.py). This analysis was also repeated with *rif* and *var* genes removed. [Filtered ortholog counts](orthologs_filtered_PSEUDO.py) 
 
 The figure is shown below:
 
@@ -25,7 +25,7 @@ AlphaFold statistics were calculated for each pangene and the mean pLDDT was map
 
 ## RNA-seq
 All available RNA-seq datasets were taken from PlasmoDB and filtered to include sense strand (unique) only data. Gene expression was mapped to the pangene clusters- note that gene expression data was only available for 3D7. 
-Script is here: [RNA-seq](Gene_expression_PSEUDO.py)
+Script is here: [RNA-seq](gene_expression_PSEUDO.py)
 Data is here: [Transcriptomics data](gene_expression_filtered.tsv)
 
 ## Proteomics
