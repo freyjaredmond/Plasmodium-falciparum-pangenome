@@ -4,7 +4,7 @@ from matplotlib.patches import Patch
 from scipy import stats
 import numpy as np
 
-
+# get pangene occupancy
 pangenome = pd.read_csv("PSEUDO/GET_PANGENES_OUTPUT_16_PSEUDO/Clusters_renamed_pseudo.tsv", sep="\t", index_col=0)
 
 pangenome_binary = (pangenome != "-").astype(int)
@@ -15,7 +15,6 @@ occupancy_counts = gene_occupancy.value_counts().sort_index()
 
 print("\nOccupancy counts:")
 print(occupancy_counts)
-
 
 
 def classify_colour(x):
@@ -42,42 +41,41 @@ annotations = annotations[~annotations.index.duplicated(keep="first")]
 # Define the keywords that indicate a gene has no known function
 unknown_keywords = ["hypothetical", "hypothetical protein", "conserved protein, unknown function","conserved Plasmodium protein, unknown function","conserved Plasmodium membrane protein, unknown function"]
 
-# Create a True/False Series: True if the gene's description matches any keyword
+# True if product description matches unknown words
 is_unknown = annotations["Product Description"].str.contains(
     "|".join(unknown_keywords), case=False, na=False
 )
-
+# Get the proportion of known/unknown for each pangenome occupancy
 
 unknown_counts = {}
 known_counts = {}
 total_unknown=[]
 for occ_val in occupancy_counts.index:
 
-    # Step 8a: get the gene IDs of all clusters at this occupancy level
+
     genes_at_occ = gene_occupancy[gene_occupancy == occ_val].index
 
-    # Step 8b: look up whether each of those genes is unknown
+
     unknown_flags = []
     for gene_id in genes_at_occ:
         if gene_id in is_unknown.index:
-            unknown_flags.append(is_unknown[gene_id])  # True or False
+            unknown_flags.append(is_unknown[gene_id]) 
         else:
-            unknown_flags.append(False)  # gene not in annotations, treat as known
+            unknown_flags.append(False)  
 
-    # Step 8c: count the Trues (True = 1, False = 0)
     n_unknown = sum(unknown_flags)
     total_unknown.append(n_unknown)
 
-    # Step 8d: known = total at this occupancy minus the unknowns
+
     n_known = occupancy_counts[occ_val] - n_unknown
 
     unknown_counts[occ_val] = n_unknown
     known_counts[occ_val] = n_known
 
-# Convert dictionaries to Series sorted by occupancy (1 → 16) for plotting
+
 unknown_series = pd.Series(unknown_counts).sort_index()
 known_series = pd.Series(known_counts).sort_index()
-
+# Plot
 
 x_ticks = list(range(1, 17))
 fig, ax = plt.subplots(figsize=(16, 8))
