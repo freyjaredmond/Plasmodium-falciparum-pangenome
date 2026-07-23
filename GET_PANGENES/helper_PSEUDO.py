@@ -1,4 +1,5 @@
-
+## This script parses the PlasmoDB scripts to allow GET_PANGENES to run successfuly ##
+## This script was created by Luc and modified to include pseudogenes ##
 from pathlib import Path
 import os
 import shutil
