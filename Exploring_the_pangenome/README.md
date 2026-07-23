@@ -16,7 +16,7 @@ The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters,
 
 The figure is shown below:
 
-![Pangenome characterisation](Figure2_pangenome_characteristics_PSEUDO.png)
+![Pangenome characterisation](Figure2_pangenome_characteristics_sixteen_PSEUDO.png)
 
 # Evidence to support the pangenome
 
