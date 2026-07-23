@@ -10,7 +10,7 @@ from matplotlib.patches import Patch
 import seaborn as sns
 
 #import the expression data
-expression_data=pd.read_csv("GET_PANGENES_pseudo/peptide_counts_pdb.txt.txt", sep="\t")
+expression_data=pd.read_csv("GET_PANGENES_pseudo/peptide_counts_pdb.txt", sep="\t")
 
 expression_dict=dict(zip(expression_data["Gene ID"], expression_data["Sum of Unique Peptides (Within Samples)"]))
 
