@@ -1,0 +1,26 @@
+## The BLAST script used to compare the VarDom extracted sequence to the normalised dataset taken from Otto et al. (2019)
+## This dataset has the specific Var domain subtypes which will allow domain cassettes to be assigned
+makeblastdb -in varDB.Normalised.1kb(1).aa.fasta -dbtype prot -out varDB_prot 
+
+blastp \
+    -query ${QUERY} \
+    -db ${DB} \
+    -out ${OUTFILE} \
+    -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore stitle" \
+    -evalue 1e-5 \
+    -max_target_seqs 10 \
+    -num_threads ${SLURM_CPUS_PER_TASK}
+
+
+@echo off
+set DB=C:\BLAST\varDB_prot
+set QUERY_DIR=C:\Users\freyj\Documents\MRes Data\GET_PANGENES\GET_PANGENES_pseudo\Var_analysis\domain_fasta_no_cut
+set OUT_DIR=C:\Users\freyj\Documents\MRes Data\GET_PANGENES\GET_PANGENES_pseudo\Var_analysis\blast_results
+
+mkdir "%OUT_DIR%"
+
+for %%f in ("%QUERY_DIR%\*_domains.fasta") do (
+    echo Running BLAST for %%~nf
+    blastp -query "%%f" -db %DB% -out "%OUT_DIR%\%%~nf_blast.txt" -outfmt 6 -evalue 1e-6 -num_threads 4 -max_target_seqs 5
+)
+echo All done
