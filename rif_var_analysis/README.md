@@ -2,5 +2,6 @@
 
 ## *rif* analysis
 
-*rif* subtypes were assigned using STRIDE with the output being listed in this folder 
+*rif* subtypes were assigned using STRIDE with the output being listed in this folder [rif results](rif_results).
+FHEYDER motifs were identified using exact string matching 
 
