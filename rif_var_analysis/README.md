@@ -14,4 +14,4 @@ Domain cassettes were assigned using [assign_cassettes.py](assign_cassettes.py).
 
 ## Visualisation
 The *rif* and *var* panel was plotted using [panel_RIF.py](panel_RIF.py).
-![RIF_Panel](Quality/Chromosome_location.png)
+![RIF_Panel](panel_rif_var.png)
