@@ -4,7 +4,7 @@
 The proportion of unknown genes across each pangenome occupancy was quantified using [`unknown_occupancy_PSEUDO.py`](unknown_occupancy_PSEUDO.py)
 
 ## Uniprot Evidence Codes
-The evidence codes for the 3D7 proteome were extracted using [`confidence_scores_panel.py`](confidence_scores_panel.py)
+The evidence codes for the 3D7 proteome were extracted using [`protnlm_panel.py`](protnlm_panel.py)
 
 ## ProtNLM curated genes
 ProtNLM was run on all 3D7 genes with literature supported annotations in PlasmoDB using the available release listed 
@@ -20,6 +20,6 @@ To run ProtNLM on a genome abesent from ProtNLM's training data, ProtNLM was run
 To assess whether ProtNLM out performs BLAST, BLAST was run on three random sets of 100 genes with UniRef90 as the database
 [`babesia_bash.sh`](babesia_bash.sh). The BLAST and ProtNLM predictions were scored [`Supplementary_scoring.xlsx`](Supplementary_scoring.xlsx) [`ProtNLM_data.xlsx`](ProtNLM_data.xlsx).
 
-[`protnlm_panel.py`](protnlm.py)
+![](protnlm_panel.png)
 
 
