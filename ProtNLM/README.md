@@ -12,4 +12,4 @@ in the ProtNLM Github. For a subset of 10% of genes the ProtNLM predictions were
 product descriptions [`ProtNLM_data.xlsx`](ProtNLM_data.xlsx) using the scoring criteria in [`Supplementary_scoring.xlsx`](Supplementary_scoring.xlsx)
 
 # ProtNLM unknown genes
-ProtNLM
+Curated ProtNLM confidence scores were plotted
