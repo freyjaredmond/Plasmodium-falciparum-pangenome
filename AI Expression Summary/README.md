@@ -1,4 +1,4 @@
-## Statistical AI Transcriptomics Expression Summary
+# Statistical AI Transcriptomics Expression Summary
 The PlasmoDB AI expression transcriptomics expression summary was modified to incorporate:
 - Different expression statistics
 - Fold change directional expression percentiles
@@ -17,7 +17,7 @@ and contextual support. Then the AI is asked to summarise all individual per sum
 to identify the most important findings.
 The output is here [expression_summary](expression_summary)
 
-# Comparing prompts
+## Comparing prompts
 The original beta PlasmoDB expression summary and the new statistical based summary were compared using
 [comparison_prompt.py](comparison_prompt.py)
 The output is here [comparison_output](comparison_output)
