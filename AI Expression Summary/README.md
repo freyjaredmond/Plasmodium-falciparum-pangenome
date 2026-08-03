@@ -6,7 +6,7 @@ The PlasmoDB AI expression transcriptomics expression summary was modified to in
 
 RNA-seq and microarray data was taken from PlasmoDB was taken for all major comparisons. 
 Transcriptomics data was collated into a TSV for each gene of interest using the following
-script [GET_transcriptomics](get_expression_data.py). This script also assigns biological
+script [get_transcriptomics](get_expression_data.py). This script also assigns biological
 importance and confidence scores.
 The output is here [transcriptomics_data](transcriptomics_data)
 
