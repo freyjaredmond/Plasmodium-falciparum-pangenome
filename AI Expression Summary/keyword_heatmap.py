@@ -1,3 +1,6 @@
+### The script used to plot a heatmap showing the difference between the language based magnitude score and the fold change percentile score
+### A large difference indicates that the AI is over or understating the magnitude of change
+### This was carried out on 10 random genes
 import re
 import pandas as pd
 import matplotlib.pyplot as plt
