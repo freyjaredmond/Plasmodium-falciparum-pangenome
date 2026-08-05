@@ -1,3 +1,7 @@
+### The script used to compare the PlasmoDB AI expression summary and the new statistical based summary
+### The AI is asked to count the number of observations and insights across each summary, as well as report contradictions
+### The AI was also asked to identify which summary performed best in the following metrics: headline, tone, technical detail and overall
+### Output is in markdown format
 import os
 import pandas as pd
 from dotenv import load_dotenv
