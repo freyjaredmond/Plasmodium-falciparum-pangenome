@@ -26,5 +26,9 @@ The output is here [expression_summary](expression_summary)
 
 ## Comparing prompts
 The original beta PlasmoDB expression summary and the new statistical based summary were compared using
-[comparison_prompt.py](comparison_prompt.py)
+[comparison_prompt.py](comparison_prompt.py). Here the number of observations/insights were counted in each summary and contradictions were identified. The AI also identified its prefered summary on the following metrics: headline, tone, technical detail and overall.
 The output is here [comparison_output](comparison_output)
+
+
+![Panel](AI_summ_panel.png)
+
