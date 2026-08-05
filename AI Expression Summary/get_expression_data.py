@@ -1,3 +1,7 @@
+### The script used to obtain the transcriptomics data (RNA=seq and microrray) for the genes of interest
+### The script extracts fold change, p-values and expressio values
+### It also calculates directional fold change percentiles and applies biological importance and confidence scoring
+### Output is a TSV
 import pandas as pd
 from pathlib import Path
 import re
