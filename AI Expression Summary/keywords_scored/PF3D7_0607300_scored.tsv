@@ -1,0 +1,22 @@
+study	score	explanation
+Transcriptomes of 7 sexual and asexual life stages (RNA-Seq)	4	Uses "strongest expression" and describes substantial differences across stages with "minimal expression" in early trophozoite, indicating a large change.
+Gametocyte Transcriptomes (RNA-Seq)	4	Uses "strongly upregulated" to describe the 3.4-fold difference between male and female gametocytes.
+Intraerythrocytic development cycle transcriptome (2018) (RNA-Seq)	5	Uses "dramatic upregulation" and describes approximately 10-fold increase, reflecting dramatic change language.
+Intraerythrocytic development cycle transcriptome (2019) (RNA-Seq)	4	Uses "strong upregulation" with 20-30 fold higher expression, indicating a large change.
+IDC in constant temperature and darkness (2020) (RNA-Seq)	5	Uses "dramatic upregulation" and "strong cyclical expression" describing a massive fold change from 0.10 to 50.12 TPM.
+High resolution intraerythrocytic time course transcriptome by RNA-seq (RNA-Seq)	4	Uses "strong cyclical expression" with peak versus low expression described, indicating large change.
+Polysomal and steady-state asexual stage transcriptomes (RNA-Seq)	4	Uses "highest expression" and "consistently higher" to describe differences between polysomal and steady-state levels, with "strong translational regulation."
+Comparison of in vitro versus aseptic mosquito produced sporozoites by RNA-seq (RNA-Seq)	4	Uses "strong upregulation" comparing mosquito-produced versus in vitro sporozoites with near-zero versus 6.83 TPM.
+Oocyst and salivary gland sporozoite transcriptome comparison in P. falciparum (RNA-Seq)	4	Uses "substantial upregulation" with approximately 14-fold higher expression, indicating a large change.
+Ring, Oocyst and Sporozoite Transcriptomes (RNA-Seq)	4	Uses "strongly upregulated" to describe the large difference between oocyst and ring/sporozoite stages.
+Strand specific transcriptome of the intraerythrocytic developmental cycle (RNA-Seq)	2	Describes "predominantly antisense expression" with "minimal" sense strand expression and a "modest peak," indicating low-to-moderate change language.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54) (RNA-Seq)	3	Uses "progressive upregulation" with approximately 19-fold increase, though the keyword "progressive" suggests a notable/moderate change description.
+Transcriptome of the asexual life stages (RNA-Seq)	3	Uses "progressive upregulation" across stages, indicating a notable change pattern across asexual blood stages.
+Blood stage transcriptome (3D7) (RNA-Seq)	3	Describes "cyclical expression" with "peak upregulation" and "minimal expression," combining score 1 and 3 keywords, settling on notable change.
+Strand specific transcriptomes of 4 life cycle stages (RNA-Seq)	3	Uses "notable strand-specific expression patterns" and "moderate bidirectional expression" with substantial decreases described.
+Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020) (RNA-Seq)	3	Uses "moderate, strain-specific expression" with peak values described across strains, indicating notable change.
+Trophozoite and Schizont transcriptomes of PfBDP1HA (RNA-Seq)	3/2	Uses "moderate expression" with 1.7-fold difference and "low and relatively stable" antisense, straddling moderate and modest.
+NSR-seq Transcript Profiling of malaria-infected pregnant women and children (RNA-Seq)	2	Uses "modest upregulation" to describe differences between field isolates and laboratory strain.
+Intraerythrocytic development cycle transcriptome by UTR-Seq (2020) (RNA-Seq)	3/2	Uses "moderate upregulation" with an approximately 1.8-fold increase, straddling moderate and modest.
+Transcriptome in severe vs uncomplicated malaria (RNA-Seq)	0	Describes "no clear differential expression pattern" between conditions with "predominantly antisense" as baseline characterization.
+Heat shock response in sensitive mutants (LRR5, DHC) (RNA-Seq)	2	Uses "modest expression" and "relatively stable" with "notably elevated" in one specific mutant condition, indicating low-to-moderate change.

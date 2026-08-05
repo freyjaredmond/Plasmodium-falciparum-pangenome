@@ -1,0 +1,17 @@
+study	score	explanation
+Intraerythrocytic development cycle transcriptome (2018) (RNA-Seq)	4	Uses "strong" to describe stage-specific expression and describes a clear peak and decline pattern, consistent with a large change.
+Blood stage transcriptome (3D7) (RNA-Seq)	4	Describes "substantial" downregulation and a clear biphasic pattern with peak followed by a large drop in expression.
+Strand specific transcriptome of the intraerythrocytic developmental cycle (RNA-Seq)	4	Uses "strong" for early expression and describes progressive downregulation to "minimal" levels, indicating a large magnitude of change.
+IDC in constant temperature and darkness (2020) (RNA-Seq)	4	Uses "robust" expression at peak with a gradual decline, and the fold change from peak to trough (~5-fold) supports a large change.
+High resolution intraerythrocytic time course by RNA-Seq (RNA-Seq)	4	Uses "strong" cyclical expression with progressive decline to "minimal" levels, consistent with a large change.
+Strand specific transcriptomes of 4 life cycle stages (RNA-Seq)	4	Describes "substantially" higher antisense expression (5.6-35.8 fold) across stages, indicating a large change between sense and antisense.
+Ring, Oocyst and Sporozoite Transcriptomes (RNA-Seq)	4	Uses "strong" antisense expression contrasted with "minimal" sense expression, describing a substantial difference between orientations.
+Comparison of in vitro versus aseptic mosquito produced sporozoites by RNA-seq (RNA-Seq)	4	Uses "strong upregulation" with ~12-fold difference between mosquito and in vitro sporozoites, indicating a large change.
+Transcriptomes of 7 sexual and asexual life stages (RNA-Seq)	4	Describes "substantially downregulated" in schizont and gametocyte stages compared to peak trophozoite expression, indicating a large change.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54) (RNA-Seq)	4	Uses "substantially lower" and "high" expression differences between conditions, describing a large stage-specific change.
+Oocyst and salivary gland sporozoite transcriptome comparison in P. falciparum (RNA-Seq)	4	Uses "substantially upregulated" to describe the difference between salivary gland and oocyst sporozoites, though the 1.75-fold change is moderate, the language maps to score 4.
+Polysomal and steady-state asexual stage transcriptomes (RNA-Seq)	3	Uses "notable enrichment" in polysomal fractions at ring stage, indicating a notable change, though expression is described as relatively stable across subsequent stages.
+Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020) (RNA-Seq)	4	Uses "robust" expression and "notably higher sustained" expression in HB3 strain, with "minimal" antisense, indicating a large change.
+Intraerythrocytic development cycle transcriptome by UTR-Seq (2020) (RNA-Seq)	3	Describes "moderate cyclic expression" with a ~1.7-fold change, consistent with a notable but not large change.
+Transcriptome of the asexual life stages (RNA-Seq)	3	Describes stage-specific regulation with 2.6-fold differential expression but does not use strongly scoring keywords beyond implicit moderate change language.
+NSR-seq Transcript Profiling of malaria-infected pregnant women and children (RNA-Seq)	3	Describes "moderate" expression with approximately 2-fold higher abundance, consistent with a notable change.

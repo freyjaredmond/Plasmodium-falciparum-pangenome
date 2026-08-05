@@ -1,0 +1,23 @@
+study	score	explanation
+IDC in constant temperature and darkness (2020) (RNA-Seq)	5	The summary uses "dramatically increasing" to describe the change from low to peak expression, which maps to a score of 5.
+High resolution intraerythrocytic time course transcriptome by RNA-Seq (RNA-Seq)	5	The summary uses "dramatic upregulation" to describe the expression change, which is a score-5 keyword.
+Intraerythrocytic development cycle transcriptome (2018) (RNA-Seq)	4	The summary uses "strong upregulation" to describe the change from low to high expression, which maps to a score of 4.
+Blood stage transcriptome (3D7) (RNA-Seq)	4	The summary uses "strong cyclical expression" to describe the change and quantifies a 17-fold upregulation, with "strong" mapping to score 4.
+Intraerythrocytic development cycle transcriptome (2019) (RNA-Seq)	4	The summary uses "strong upregulation" to describe the change from ring to schizont stages, which maps to a score of 4.
+Oocyst and salivary gland sporozoite transcriptome comparison in P. falciparum (RNA-Seq)	4	The summary uses "strongly upregulated" to describe the 24-fold difference between oocyst and salivary gland sporozoites, mapping to score 4.
+Comparison of in vitro versus aseptic mosquito produced sporozoites by RNA-seq (RNA-Seq)	4	The summary uses "substantially upregulated" to describe the change from undetectable to expressed, which maps to a score of 4.
+Ring, Oocyst and Sporozoite Transcriptomes (RNA-Seq)	5	The summary uses "dramatic upregulation" to describe the change in oocyst stage compared to other stages, mapping to score 5.
+Strand specific transcriptomes of 4 life cycle stages (RNA-Seq)	4	The summary uses "significantly higher" to describe the difference between antisense and sense expression across stages, mapping to score 4.
+Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020) (RNA-Seq)	N/A	The summary primarily describes baseline expression levels (percentile rankings) rather than clear change between conditions using change-related keywords.
+Strand specific transcriptome of the intraerythrocytic developmental cycle (RNA-Seq)	4	The summary uses "strong upregulation" to describe the change across the developmental cycle, mapping to score 4.
+Polysomal and steady-state asexual stage transcriptomes (RNA-Seq)	4	The summary uses "strong polysomal enrichment" to describe enrichment across stages, with "strong" mapping to score 4.
+Transcriptomes of 7 sexual and asexual life stages (RNA-Seq)	4	The summary uses "marked upregulation" to describe the change from low in rings to high in trophozoites/schizonts, mapping to score 4.
+Trophozoite and Schizont transcriptomes of PfBDP1HA (RNA-Seq)	4	The summary uses "substantial upregulation" to describe the 4.9-fold change between trophozoite and schizont, mapping to score 4.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54) (RNA-Seq)	4	The summary describes "progressive upregulation" with a 180-290-fold increase, though no explicit score-5 keyword is used; the magnitude language is consistent with score 4.
+Transcriptome of sequestration phenotypes (RNA-Seq)	4	The summary uses "markedly elevated" to describe strain-specific differences, with "markedly" mapping to score 4.
+Transcriptome of the asexual life stages (RNA-Seq)	4	The summary describes "progressive upregulation" with approximately 8-fold change, consistent with moderate-to-large change language at score 4.
+Transcriptome in severe vs uncomplicated malaria (RNA-Seq)	4	The summary uses "substantially higher" to describe the antisense vs sense difference, mapping to score 4.
+Gametocyte Transcriptomes (RNA-Seq)	4	The summary uses "substantially upregulated" to describe the female vs male difference, mapping to score 4.
+NSR-seq Transcript Profiling of malaria-infected pregnant women and children (RNA-Seq)	3	The summary uses "notably higher" to describe the 3-4 fold upregulation in field isolates, with "notably" mapping to score 3.
+Intraerythrocytic development cycle transcriptome by UTR-Seq (2020) (RNA-Seq)	3	The summary uses "moderate differential expression" to describe the cyclical changes, with "moderate" mapping to score 3.
+Asexual blood stages, salivary gland sporozoite and midgut oocyst transcriptomes (RNA-Seq)	4	The summary uses "strong upregulation" to describe the oocyst stage expression difference, mapping to score 4.

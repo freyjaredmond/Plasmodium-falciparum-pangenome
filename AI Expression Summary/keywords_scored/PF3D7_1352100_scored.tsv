@@ -1,0 +1,21 @@
+study	score	explanation
+IDC in constant temperature and darkness (2020)	4	Uses "strong biphasic expression" and "pronounced peak" with an 18-fold increase, aligning with strong/pronounced keywords spanning scores 3-4.
+Oocyst and salivary gland sporozoite transcriptome comparison in P. falciparum	4	Uses "strongly upregulated" with approximately 8-fold higher expression, directly matching score 4 keywords.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54)	4	Uses "strong upregulation" comparing blood stage to sporozoites, matching score 4 keywords.
+Comparison of in vitro versus aseptic mosquito produced sporozoites	4	Uses "strong upregulation" to describe the difference between in vitro and mosquito-produced sporozoites, matching score 4 keywords.
+Blood stage transcriptome (3D7)	3	Uses "moderate expression" with a "notable peak" and "pronounced reduction," with notable and pronounced mapping to score 3 keywords.
+Transcriptomes of 7 sexual and asexual life stages	2/3	Uses "minimal expression" in some stages and "progressive downregulation" and "moderate recovery," blending score 2 and 3 language.
+Polysomal and steady-state asexual stage transcriptomes	3	Uses "notably lower" polysomal association compared to steady-state, with "notably" mapping to score 3 keywords.
+Strand specific transcriptomes of 4 life cycle stages	3	Uses "marked upregulation" and "moderate expression" in different stages, with marked and moderate mapping to score 3.
+Strand specific transcriptome of the intraerythrocytic developmental cycle	2	Describes progressive decrease from 13.85 to 4.22 TPM without strong change keywords; "lowest expression" and "negligible" suggest modest change, aligning with score 2.
+Intraerythrocytic development cycle transcriptome (2019)	3	Uses "moderate cyclical expression" with peak and secondary peak descriptions, matching score 3 keywords.
+High resolution intraerythrocytic time course transcriptome	3	Describes "cyclical expression" with approximately 4-fold increase; no strong change keywords but clear stage-specific variation, consistent with moderate/notable change at score 3.
+Transcriptome of the asexual life stages	3/4	Describes clear peak expression in schizonts at 160 TPM versus 33-52 TPM in other stages, representing a notable to substantial change.
+Trophozoite and Schizont transcriptomes of PfBDP1HA	2	Describes approximately 1.7-fold difference, a modest change consistent with score 2 language.
+Intraerythrocytic development cycle transcriptome (2018)	3	Uses "moderate cyclical" expression with a clear peak-to-trough difference, matching score 3 keywords.
+NSR-seq Transcript Profiling of malaria-infected pregnant women and children	2	Uses "moderate expression" and "approximately 2-fold lower," with modest/moderate language fitting score 2.
+Ring, Oocyst and Sporozoite Transcriptomes	3	Uses "moderate expression" and "substantially higher" antisense strand expression, with substantially mapping to score 4 but overall description is moderate, averaging to score 3.
+Intraerythrocytic development cycle transcriptome by DAFT-Seq	0	Uses "relatively stable" and "constitutive expression without major stage-specific regulation," directly matching score 0 keywords.
+Transcriptome of sequestration phenotypes	2	Uses "moderate expression" with "highest levels" in certain conditions, suggesting low-to-moderate differences consistent with score 2.
+Heat shock response in sensitive mutants (LRR5, DHC)	3/2	Uses "moderate upregulation" (2.4-fold) and "modest upregulation," blending score 3 and score 2 keywords.
+Gametocyte Transcriptomes	2	Uses "modest expression" with "slightly higher" levels and "minimal" antisense, with modest and slightly mapping to score 2.

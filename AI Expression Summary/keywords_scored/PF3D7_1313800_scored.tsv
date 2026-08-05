@@ -1,0 +1,21 @@
+study	score	explanation
+Intraerythrocytic development cycle transcriptome (2018) (RNA-Seq)	3	The summary describes expression that "peaks" and "progressively declines," indicating notable change but uses no dramatic or strong keywords.
+Strand specific transcriptome of the intraerythrocytic developmental cycle (RNA-Seq)	4	The term "strong downregulation" and "declining progressively to very low levels" indicate a large magnitude of change.
+Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020) (RNA-Seq)	3	The summary describes "cyclical expression" with "gradual decline to a trough" indicating a notable but not dramatically described change.
+IDC in constant temperature and darkness (2020) (RNA-Seq)	4/5	The phrase "dramatic downregulation" directly maps to a score of 5, but "robust cyclic expression" maps to 4, giving an intermediate score.
+Intraerythrocytic development cycle transcriptome by UTR-Seq (2020) (RNA-Seq)	3	The summary describes "cyclical variation" with a "significant decrease" during mid-cycle and "partial recovery," indicating notable change.
+High resolution intraerythrocytic time course transcriptome by RNA-Seq (RNA-Seq)	3	The summary describes "cyclic expression" with peaks and troughs but uses no strong or dramatic keywords beyond the pattern description.
+Gametocyte Transcriptomes (RNA-Seq)	4	The term "substantially upregulated" directly maps to score 4 keywords.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54) (RNA-Seq)	4	The term "substantial upregulation" directly maps to score 4 keywords.
+Transcriptomes of 7 sexual and asexual life stages (RNA-Seq)	4	The phrase "substantially lower expression" and "strong upregulation" map to score 4 keywords.
+Polysomal and steady-state asexual stage transcriptomes (RNA-Seq)	4	The phrase "substantially reduced polysomal association" maps to score 4 keywords.
+Oocyst and salivary gland sporozoite transcriptome comparison in P. falciparum (RNA-Seq)	4	The term "substantially upregulated" with approximately 14-fold higher expression maps to score 4 keywords.
+Strand specific transcriptomes of 4 life cycle stages (RNA-Seq)	4	The term "marked antisense expression" with "minimal" sense strand expression maps to score 4 keywords.
+Blood stage transcriptome (3D7) (RNA-Seq)	3	The summary describes "peak expression" followed by "sharp decline" indicating notable change, without using score 4/5 keywords explicitly.
+Asexual blood stages, salivary gland sporozoite and midgut oocyst transcriptomes (RNA-Seq)	4	The phrase "strongly upregulated" directly maps to score 4 keywords.
+Ring, Oocyst and Sporozoite Transcriptomes (RNA-Seq)	N/A	The summary describes relative expression levels across stages but uses no clear change-indicating keywords beyond "highest expression."
+Intraerythrocytic development cycle transcriptome (2019) (RNA-Seq)	3	The summary describes "peak expression" with "progressive downregulation" and "moderate recovery," with "moderate" mapping to score 3.
+Comparison of in vitro versus aseptic mosquito produced sporozoites by RNA-seq (RNA-Seq)	4	The phrase "substantially higher expression" maps to score 4 keywords.
+Transcriptome of the asexual life stages (RNA-Seq)	4	The phrase "strong differential expression" maps to score 4 keywords.
+Transcriptome in severe vs uncomplicated malaria (RNA-Seq)	3	The phrase "moderately elevated expression" maps to score 3 keywords.
+Transcriptome of sequestration phenotypes (RNA-Seq)	3	The phrase "notably higher expression" maps to score 3, though "moderate expression" describes baseline rather than change.

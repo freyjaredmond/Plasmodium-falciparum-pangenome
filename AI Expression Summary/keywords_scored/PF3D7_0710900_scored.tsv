@@ -1,0 +1,15 @@
+study	score	explanation
+Intraerythrocytic development cycle transcriptome (2018) (RNA-Seq)	4	Uses "strong upregulation" which aligns with score 4 keywords.
+IDC in constant temperature and darkness (2020) (RNA-Seq)	4	Uses "clear cyclic expression" and describes decline to "minimal levels," with "strong cell cycle-dependent regulation" aligning with score 4.
+Gametocyte Transcriptomes (RNA-Seq)	4	Uses "substantially upregulated" which directly maps to score 4 keywords.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54) (RNA-Seq)	3	Describes "progressive upregulation" with "minimal expression" in one stage and "peak expression" in another, indicating notable change but no strong/substantial keywords.
+Ring, Oocyst and Sporozoite Transcriptomes (RNA-Seq)	4	Uses "strong upregulation" which aligns with score 4 keywords.
+Blood stage transcriptome (3D7) (RNA-Seq)	3	Uses "moderate upregulation" which directly maps to score 3 keywords.
+NSR-seq Transcript Profiling of malaria-infected pregnant women and children (RNA-Seq)	3	Uses "moderate upregulation" which directly maps to score 3 keywords.
+Strand specific transcriptome of the intraerythrocytic developmental cycle (RNA-Seq)	3	Describes "peak expression" with "moderate expression at other timepoints," using language consistent with score 3.
+Intraerythrocytic development cycle transcriptome (2019) (RNA-Seq)	3	Uses "moderate expression" and describes a cyclical pattern, with language fitting score 3.
+Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020) (RNA-Seq)	3	Describes "cyclical expression" with 2-4 fold change but uses no strong/substantial keywords, fitting a notable change at score 3.
+Intraerythrocytic development cycle transcriptome by UTR-Seq (2020) (RNA-Seq)	3	Describes "stage-specific upregulation" with ~2.7-fold change, using language consistent with score 3.
+High resolution intraerythrocytic time course transcriptome by RNA-Seq (RNA-Seq)	3	Describes "oscillatory expression" with ~5-fold periodic regulation but uses no strong/dramatic keywords, fitting score 3.
+Transcriptome of the asexual life stages (RNA-Seq)	3	Uses "moderate differential expression" which directly maps to score 3 keywords.
+Blood stage transcriptome (3D7) (RNA-Seq) (duplicate)	3	Uses "moderate upregulation" which directly maps to score 3 keywords.

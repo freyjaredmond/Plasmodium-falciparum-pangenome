@@ -1,0 +1,22 @@
+study	score	explanation
+Intraerythrocytic development cycle transcriptome (2018) (RNA-Seq)	4	The term "strong upregulation" and "approximately doubling" indicate a large change observed.
+Blood stage transcriptome (3D7) (RNA-Seq)	4	"Strong periodic expression" with a described peak and trough indicates a large change observed.
+Strand specific transcriptome of the intraerythrocytic developmental cycle (RNA-Seq)	0	Described as "consistently high expression" with values ranging narrowly, indicating limited variation across conditions.
+Intraerythrocytic development cycle transcriptome (2019) (RNA-Seq)	4	"High, sustained expression" but with "peak expression" at schizont stages and "modest decline" suggest a large change due to the overall pattern, though "modest" alone would be lower; the dominant descriptor is high sustained with a peak.
+IDC in constant temperature and darkness (2020) (RNA-Seq)	5	"Dramatic drop in expression" explicitly uses the keyword "dramatic," indicating a score of 5.
+Intraerythrocytic development cycle transcriptome by UTR-Seq (2020) (RNA-Seq)	3	"Stage-specific upregulation" with a 1.8-fold increase described as "peak expression" indicates a notable change.
+High resolution intraerythrocytic time course transcriptome by RNA-Seq (RNA-Seq)	4	"Strong cyclic expression" with approximately 4-fold change and "sharp decline" indicate a large change.
+Strand specific transcriptomes of 4 life cycle stages (RNA-Seq)	5	"Dramatically higher antisense expression" explicitly uses the keyword "dramatically," indicating a score of 5.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54) (RNA-Seq)	4	"Strongly upregulated" with 50-70 fold higher expression uses the keyword "strongly," indicating a large change.
+Asexual blood stages, salivary gland sporozoite and midgut oocyst transcriptomes (RNA-Seq)	4	"Strong differential expression" and "markedly reduced expression" use keywords indicating a large change.
+Ring, Oocyst and Sporozoite Transcriptomes (RNA-Seq)	4	"Marked upregulation" uses the keyword "marked," indicating a large change observed.
+Oocyst and salivary gland sporozoite transcriptome comparison in P. falciparum (RNA-Seq)	4	"Strong upregulation" with 5.5-fold higher expression uses the keyword "strong," indicating a large change.
+Comparison of in vitro versus aseptic mosquito produced sporozoites by RNA-seq (RNA-Seq)	4	"Substantially higher expression" and "strong upregulation" use keywords indicating a large change.
+Polysomal and steady-state asexual stage transcriptomes (RNA-Seq)	4	"Consistently high expression" but with "particularly strong translational activity" and 2-fold polysomal enrichment uses "strong," indicating a large change.
+Gametocyte Transcriptomes (RNA-Seq)	4	"Substantially upregulated" uses the keyword "substantially," indicating a large change.
+Heat shock response in sensitive mutants (LRR5, DHC) (RNA-Seq)	2	"Modest upregulation" explicitly uses the keyword "modest," indicating a low-to-moderate change.
+NSR-seq Transcript Profiling of malaria-infected pregnant women and children (RNA-Seq)	4	"Substantially upregulated" uses the keyword "substantially," indicating a large change.
+Transcriptomes of 7 sexual and asexual life stages (RNA-Seq)	3	"Notable decrease" in ookinete stage and "modest stage-specific regulation" combine notable and modest descriptors, but "notable" is the primary change keyword.
+Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020) (RNA-Seq)	0/1	"Consistently high expression" with "modest variation between strains" and "negligible" antisense indicates near-constitutive expression with minimal change.
+Transcriptome of the asexual life stages (RNA-Seq)	0	"Constitutive expression" explicitly uses the keyword for no change, despite high expression levels.
+Transcriptome of sequestration phenotypes (RNA-Seq)	0	"Consistently very high expression" with "constitutive" descriptor and negligible variation indicates no change across conditions.

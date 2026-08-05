@@ -1,0 +1,20 @@
+study	score	explanation
+Intraerythrocytic development cycle transcriptome (2018) (RNA-Seq)	5	Uses "dramatic upregulation" and describes progressive increase to maximal expression, consistent with score 5 keywords.
+Intraerythrocytic development cycle transcriptome (2019) (RNA-Seq)	5	Uses "dramatically upregulated" to describe the change from low ring-stage to peak schizont-stage expression.
+IDC in constant temperature and darkness (2020) (RNA-Seq)	5	Uses "dramatic upregulation" to describe the sharp rise from ~7 TPM to ~380-400 TPM.
+High resolution intraerythrocytic time course transcriptome by RNA-Seq (RNA-Seq)	4	Uses "strong cyclic expression" and describes ~2.8-fold upregulation, consistent with score 4 keywords.
+Transcriptomes of 7 sexual and asexual life stages (RNA-Seq)	5	Uses "dramatically upregulated" to describe the large difference between Gametocyte II and baseline stages.
+Polysomal and steady-state asexual stage transcriptomes (RNA-Seq)	4	Uses "strong stage-specific upregulation" and "peaking dramatically," blending score 4 and 5 language, but the primary descriptor is "strong."
+Intraerythrocytic development cycle transcriptome by DAFT-Seq (3D7, HB3, IT, 2020) (RNA-Seq)	4	Uses "marked strain-specific expression" and describes large differences across strains, consistent with score 4 keywords.
+NSR-seq Transcript Profiling of malaria-infected pregnant women and children (RNA-Seq)	4	Uses "substantially upregulated" to describe ~5-fold higher expression in field isolates, consistent with score 4.
+Mosquito or cultured sporozoites and blood stage transcriptome (NF54) (RNA-Seq)	5	Uses "dramatically upregulated" to describe the large difference between blood stages and sporozoites.
+Blood stage transcriptome (3D7) (RNA-Seq)	4	Uses "strong cyclic expression" and "substantial upregulation" to describe peak versus trough, consistent with score 4.
+Strand specific transcriptome of the intraerythrocytic developmental cycle (RNA-Seq)	4	Uses "strong upregulation" to describe the increase at 40 hpi compared to earlier timepoints, consistent with score 4.
+Trophozoite and Schizont transcriptomes of PfBDP1HA (RNA-Seq)	4	Uses "marked upregulation" to describe the ~17-fold increase from trophozoite to schizont, consistent with score 4.
+Gametocyte Transcriptomes (RNA-Seq)	4	Uses "strong male-biased expression" to describe the ~11-fold difference between male and female gametocytes, consistent with score 4.
+Strand specific transcriptomes of 4 life cycle stages (RNA-Seq)	5	Uses "dramatically higher expression" to describe the ~18-fold antisense versus sense difference, consistent with score 5.
+Ring, Oocyst and Sporozoite Transcriptomes (RNA-Seq)	4	Uses "strong upregulation" to describe the difference between ring stage and sporozoite/oocyst stages, consistent with score 4.
+Transcriptome of the asexual life stages (RNA-Seq)	4	Uses "strong upregulation" to describe schizont expression peaking relative to ring and trophozoite stages, consistent with score 4.
+Transcriptome of sequestration phenotypes (RNA-Seq)	3	Uses "moderate expression" and "notably highest" to describe differences across strains, consistent with score 3.
+Comparison of in vitro versus aseptic mosquito produced sporozoites by RNA-seq (RNA-Seq)	4	Uses "substantial upregulation" to describe the ~5-6 fold difference between mosquito and in vitro sporozoites, consistent with score 4.
+Transcriptome in severe vs uncomplicated malaria (RNA-Seq)	2	Describes "highly variable expression" with "no consistent pattern," indicating only modest or inconsistent changes across conditions.
