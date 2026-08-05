@@ -1,3 +1,6 @@
+### The script used to generate the AI transcriptomics expression summary from transcriptomics data
+### The pipeline consists of two prompts- one to summarise each individual experiment and one to synthesise all per experiment summaries
+### The output is given in markdown
 import os
 import pandas as pd
 from dotenv import load_dotenv
