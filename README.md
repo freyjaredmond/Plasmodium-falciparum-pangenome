@@ -65,7 +65,7 @@ The representative InterPro domain was also assigned to each cluster and the per
 Duplicated genes within a pangene cluster were identified. Reference absent genes were lifted over to 3D7 to find genes that 
 don't map to the reference genome. All of the scripts and outputs are found here [Duplications and Reference Absent Genes README](Duplications%20and%20Reference%20Absent%20Genes/README.md)
 
-![Reference absent genes](no_flank_unmapped.png)
+![Reference absent genes](Duplications%20and%20Reference%20Absent%20Genes/no_flank_unmapped.png)
 
 ----------------------------
 ## *rif* and *var* analysis
@@ -77,7 +77,7 @@ More detail can be found here
 [rif_var_analysis/README.md](rif_var_analysis/README.md)
 
 This allowed *rif* subtypes to be explored across the different pangenome occupancies, as well as exploration of *var* domain cassette consistency across pangenes and across geographical locations.
-![Rif var panel](panel_rif_var.png)
+![Rif var panel](rif_var_analysis/panel_rif_var.png)
 
 ----------------------------
 # ProtNLM analysis
@@ -85,7 +85,7 @@ The performance of ProtNLM was evaluated on *P. falciparum* curated genes, as we
 absent from ProtNLM's training data. The performance of ProtNLM was compated to BLAST. 
 The scripts and outputs of this analysis can be found here [ProtNLM/README.md](ProtNLM/README.md)
 
-![ProtNLM](protnlm_panel.png)
+![ProtNLM](ProtNLM/protnlm_panel.png)
 
 ----------------------------
 # AI Transcriptional Expression Summary
@@ -93,7 +93,7 @@ The beta PlasmoDB summary was evaluated to assess how well the language used mat
 statistics, directional fold change percentiles and explicit confidence and biological importance scoring was calculated and the
 PlasmoDB AI expression summary pipeline was modified to include this new data. The LLM was also asked to compare both the original
 summary and the new statistical one. The prompts are scripts are found here [AI Expression Summary/README.md](AI%20Expression%20Summary/README.md)
-![AI summary](AI_summ_panel.png)
+![AI summary](AI%20Expression%20Summary/AI_summ_panel.py)
 
 ----------------------------
 # AI function prediction pipeline
@@ -101,4 +101,4 @@ Alongside the transcriptomics data, additional data types such as WGCNA coexpres
 
 To evaluate the use of AlphaFold3 in this pipeline, AF3 was first run on curated interactions. Its performance was also assessed on WGCNA coexpressed genes and predicted MAP-X interactors. Further information can be found here [AI Function Prediction Pipeline/README.md](AI%20Function%20Prediction%20Pipeline/README.md).
 
-![Alphafold3](af3_panel.png)
+![Alphafold3](AI%20Function%20Prediction%20Pipeline/af3_panel.png)
