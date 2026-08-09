@@ -34,4 +34,4 @@ AlphaFold3 was run on 10 experimentally confirmed protein interactors and the ch
 is here [actifptm.py](actifptm.py). To extract the chain_ipTM and actifpTM from the jsons, this script was used [extract_scores.py](extract_scores.py).
 
 The AF3 results were then plotted using [af3_panel.py](af3_panel.py)
-[!](af3_panel.png)
+![Panel](af3_panel.png)
