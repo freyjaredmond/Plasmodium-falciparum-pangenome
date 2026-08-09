@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+glycine--tRNA ligase 
+cyclin-like protein, putative 
+threonine--tRNA ligase 
+COBW domain-containing protein 1, putative 
+RNA cytosine C(5)-methyltransferase, putative 
+ATP-dependent 6-phosphofructokinase 
+proliferation-associated protein 2g4, putative 
+conserved protein, unknown function 
+actin-related protein ARP6 
+eukaryotic translation initiation factor 3 subunit M, putative 
+valine--tRNA ligase, putative 
+tRNA pseudouridine synthase, putative 
+elongation factor Tu, putative 
+eukaryotic translation initiation factor 3 subunit B, putative 
+alanine--tRNA ligase 
+cytidine and deoxycytidylate deaminase, putative 
+tRNA N6-adenosine threonylcarbamoyltransferase 
+ribonuclease Z, putative 
+pre-mRNA-processing factor 40, putative 
+RNA methyltransferase, putative 
+RuvB-like helicase 3 
+tetratricopeptide repeat protein, putative 
+tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative 
+Fe-S cluster assembly factor HCF101, putative 
+methyltransferase, putative 
+serine/threonine protein kinase 
+DNA-directed RNA polymerase III subunit RPC6, putative 
+40S ribosomal protein S6 
+THUMP domain-containing protein, putative 
+exoribonuclease, putative 
+Snf2-related CBP activator, putative 
+tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase 
+40S ribosomal protein S7, putative 
+translation machinery-associated protein 46, putative 
+conserved Plasmodium protein, unknown function 
+nuclear cap-binding protein subunit 1, putative 
+exosome complex exonuclease RRP44 
+RNA transcription, translation and transport factor protein, putative 
+eukaryotic translation initiation factor 3 subunit C, putative 
+polyribonucleotide 5'-hydroxyl-kinase Clp1, putative 
+mediator of RNA polymerase II transcription subunit 7, putative 
+pre-mRNA-splicing factor CLF1, putative 
+conserved Plasmodium protein, unknown function 
+U5 small nuclear ribonucleoprotein component, putative 
+Alba domain-containing protein, putative 
+T-complex protein 1 subunit delta 
+NTF2-like domain-containing protein, putative 
+60S ribosomal protein L7-3, putative 
+mediator of RNA polymerase II transcription subunit 4, putative 
+transcription factor BTF3, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	23
+cytoplasm	9
+cytosol	7
+RNA binding	7
+mitochondrion	5
+apicoplast	4
+protein binding	4
+ATP binding	4
+response to xenobiotic stimulus	3
+Swr1 complex	3
+eukaryotic translation initiation factor 3 complex	3
+structural constituent of ribosome	3
+translation	3
+histone exchange	2
+maturation of LSU-rRNA	2
+tRNA aminoacylation for protein translation	2
+translational initiation	2
+GTPase activity	2
+cytosolic small ribosomal subunit	2
+U2-type catalytic step 2 spliceosome	2
+mRNA splicing, via spliceosome	2
+mediator complex	2
+spliceosomal complex assembly	2
+chromatin remodeling	2
+ribonucleoprotein complex	2
+translation initiation factor activity	2
+ATP hydrolysis activity	2
+tRNA modification	2
+regulation of transcription by RNA polymerase II	2
+mitochondrial glycyl-tRNA aminoacylation	1
+glycyl-tRNA aminoacylation	1
+response to drug	1
+glycine-tRNA ligase activity	1
+aminoacyl-tRNA ligase activity	1
+rRNA (cytosine-C5-)-methyltransferase activity	1
+nucleolus	1
+nucleotide binding	1
+threonyl-tRNA aminoacylation	1
+threonine-tRNA ligase activity	1
+nucleosome binding	1
+valine-tRNA ligase activity	1
+cytoplasmic translational initiation	1
+tRNA pseudouridine synthesis	1
+metalloexopeptidase activity	1
+cell cycle arrest	1
+cell population proliferation	1
+valyl-tRNA aminoacylation	1
+pseudouridine synthase activity	1
+6-phosphofructokinase activity	1
+6-phosphofructokinase complex	1

@@ -1,0 +1,46 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+AMMECR1 domain-containing protein, putative	2
+WD repeat-containing protein, putative	1
+Plasmodium exported protein (PHISTa), unknown function	1
+apoptosis-inducing factor, putative	1
+ARMT1-like domain-containing protein, putative	1
+sporozoite surface antigen MB2	1
+protein AMR2	1
+exoribonuclease, putative	1
+cysteine--tRNA ligase	1
+conserved Plasmodium protein, unknown function	1
+kelch domain-containing protein, putative	1
+AP2 domain transcription factor AP2-G	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	4
+RNA binding	3
+apicoplast	2
+cytoplasm	2
+cytosol	2
+host cell	1
+mitochondrion	1
+disulfide oxidoreductase activity	1
+regulation of response to DNA damage stimulus	1
+phosphatase activity	1
+oxidation-reduction process	1
+electron transfer activity	1
+plasma membrane	1
+symbiont-containing vacuole	1
+plastid organization	1
+5'-3' exoribonuclease activity	1
+nuclear-transcribed mRNA catabolic process	1
+ATP binding	1
+cysteine-tRNA ligase activity	1
+cysteinyl-tRNA aminoacylation	1
+DNA-binding transcription activator activity	1
+protein binding	1
+sequence-specific DNA binding	1
+response to xenobiotic stimulus	1

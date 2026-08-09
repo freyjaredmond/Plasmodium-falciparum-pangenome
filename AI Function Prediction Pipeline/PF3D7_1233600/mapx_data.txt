@@ -1,0 +1,32 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+conserved Plasmodium protein, unknown function	1
+CKK domain-containing protein, putative	1
+conserved Plasmodium protein, unknown function	1
+protein hook, putative	1
+cullin-2	1
+YTH domain-containing protein 2	1
+******************
+MapX above-threshold interactors GO term counts 
+cytoplasm	2
+microneme	1
+Cul4A-RING E3 ubiquitin ligase complex	1
+cullin-RING ubiquitin ligase complex	1
+nucleus	1
+osmiophilic body	1
+protein binding	1
+ubiquitin protein ligase binding	1
+ubiquitin-protein transferase activity	1
+G1/S transition of mitotic cell cycle	1
+protein ubiquitination	1
+regulation of cell cycle	1
+N6-methyladenosine-containing RNA binding	1
+mRNA binding	1
+mRNA destabilization	1
+regulation of translation	1

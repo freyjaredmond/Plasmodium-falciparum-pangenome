@@ -1,0 +1,81 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+myosin A-tail interacting protein	1
+AP2 domain transcription factor AP2-O3, putative	1
+rhoptry neck protein 3	1
+tryptophan--tRNA ligase	1
+choline kinase	1
+multifunctional methyltransferase subunit TRM112, putative	1
+glutathione reductase	1
+methionine aminopeptidase 2	1
+conserved Plasmodium protein, unknown function	1
+Plasmodium exported protein, unknown function	1
+histone H2A.Z	1
+GYF domain-containing protein, putative	1
+GTPase-activating protein, putative	1
+protein transport protein SEC13	1
+conserved Plasmodium protein, unknown function	1
+DNA-directed RNA polymerase II subunit RPB7, putative	1
+conserved protein, unknown function	1
+DNA repair protein RAD23, putative	1
+conserved Plasmodium protein, unknown function	1
+13 kDa ribonucleoprotein-associated protein, putative	1
+antigen 332, DBL-like protein	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	12
+cytosol	4
+RNA binding	3
+protein binding	3
+Maurer's cleft	3
+cytoplasm	2
+nucleoplasm	2
+mRNA binding	2
+translation	2
+RNA N6-methyladenosine methyltransferase complex	2
+extracellular vesicle	1
+rhoptry	1
+symbiont-containing vacuole	1
+cell surface	1
+myosin binding	1
+inner membrane pellicle complex	1
+tryptophanyl-tRNA aminoacylation	1
+tryptophan-tRNA ligase activity	1
+entry into host	1
+symbiont intracellular protein transport in host	1
+host cell surface binding	1
+response to xenobiotic stimulus	1
+choline kinase activity	1
+choline binding	1
+ribosomal small subunit biogenesis	1
+tRNA methylation	1
+apicoplast	1
+thioredoxin-disulfide reductase activity	1
+cell redox homeostasis	1
+peptidyl-glutamine methylation	1
+rRNA (guanine-N7)-methylation	1
+phosphatidylcholine biosynthetic process	1
+regulation of translation	1
+cellular protein modification process	1
+metalloexopeptidase activity	1
+host cell	1
+DNA binding	1
+chromatin binding	1
+chromatin	1
+nucleosome	1
+chromatin organization	1
+chromatin assembly or disassembly	1
+COPI coating of Golgi vesicle	1
+chromatin silencing	1
+COPII vesicle coat	1
+endoplasmic reticulum exit site	1
+nuclear pore	1
+ribosomal large subunit biogenesis	1
+nuclear pore outer ring	1
+COPII-coated vesicle budding	1

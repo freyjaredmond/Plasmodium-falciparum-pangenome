@@ -1,0 +1,31 @@
+## Predicted Functions
+
+1. Inner membrane complex (IMC)-associated protein involved in merozoite assembly and/or erythrocyte invasion during schizogony.
+2. Component of the glideosome or pellicle machinery required for parasite motility and host cell entry.
+3. Gametocyte-enriched structural protein contributing to sexual stage development and maturation.
+4. Regulator of cytoskeletal organization during late asexual and sexual stage differentiation.
+5. Accessory protein in rhoptry- or microneme-mediated secretion during egress and invasion.
+
+## Summary
+
+This gene most likely encodes a protein associated with the inner membrane complex (IMC) or pellicle that functions during late schizogony (invasion/egress) and is also highly expressed in gametocytes. Transcriptomic data show strong upregulation in late asexual stages (schizonts), dramatic enrichment in gametocytes (especially stage II–V), marked upregulation in sexually committed schizonts, and significant downregulation in mosquito and sporozoite stages. Co-expression with multiple IMC proteins, invasion ligands, and cytoskeletal motors supports a role in merozoite/gametocyte structural organization and host cell invasion.
+
+## Evidence
+
+**Transcriptomics:** The gene is expressed at low-to-moderate levels in rings (TPM ~0.8–15) but increases substantially in late trophozoites and schizonts. In the Wichers IDC dataset, the late trophozoite-to-early schizont transition shows a 5.4-fold upregulation (top 4.4%, p = 2.0×10⁻⁶), and mid trophozoite-to-late trophozoite shows 1.9-fold upregulation (p = 9.1×10⁻¹⁷, top 12.8% significant). The Kucharski high-resolution time course shows progressive upregulation peaking at 42 hpi (8.7-fold vs 4 hpi). Gametocyte data are striking: the van Biljon gametocyte time course shows 12–18-fold upregulation at days 4–6 post-induction (top 0.3–0.7% of upregulated genes). The Lasonder male-to-female comparison reveals 43-fold upregulation of antisense in females (top 0.1%), while sense mRNA shows 11.9-fold downregulation (male-enriched at 952 TPM vs 80 TPM in females), indicating this gene is among the most highly expressed in male gametocytes. In sexually committed schizonts (Pelle et al.), the gene shows 5.8-fold upregulation (top 0.3%). The gene is strongly downregulated in sporozoites (−206-fold vs asexual blood stage, Hoffmann et al.) and oocysts (−3.8-fold, Gomez-Diaz), consistent with blood/sexual stage specificity. Strain comparisons (DAFT-seq) reveal dramatic downregulation in IT strain versus 3D7 (−31.3-fold, top 0.9%) and HB3 (−9.2-fold), suggesting the gene may reside in a variable or silenced locus in certain strains. The severe vs uncomplicated malaria comparison (Tonkin-Hill) shows 16.4-fold upregulation in severe malaria (top 0.4%), and antisense is also significantly altered (p = 4.5×10⁻⁵, top 4%). The BDP1 conditional knockdown (Josling) shows 1.4-fold upregulation when BDP1 is present (top 2.7%), linking it to bromodomain-controlled invasion gene regulation.
+
+**Additional Data (Proteomics/Mutagenesis):** Only 4 of 63 mass spectrometry samples detected peptides (14 unique peptides, 21 total), indicating the protein is expressed at low abundance or in restricted stages, consistent with stage-specific expression. The piggyBac mutant fitness score of −2.432 indicates this gene is essential for blood-stage growth, strongly supporting a critical role during the asexual cycle.
+
+**Coexpression (WGCNA):** The top 50 co-expressed genes are dominated by IMC components (IMC protein 1m, 1e, 1f, 1k, IMC suture component, PhIL1-interacting candidate PIC2), invasion-related proteins (merozoite surface protein 10, reticulocyte binding protein homologue 5, erythrocyte binding-like protein 1, CLAMP-linked invasion protein CLIP, rhoptry protein ROP14), glideosome components (myosin A-tail interacting protein, myosin J), and kinases/regulators (aurora-related kinase ARK3, FIKK kinase, serine/threonine protein phosphatase 7). GO term enrichment shows "inner membrane pellicle complex" (8 genes), "nucleus" (10), "cell surface" (4), "entry into host" (3), "rhoptry" (3), and "basal part of cell" (3). This co-expression network is characteristic of genes involved in merozoite assembly, IMC biogenesis, and invasion.
+
+**Localisation:** No hyperLOPIT data available.
+
+**Binding:** No gold standard or MapX interaction data available.
+
+## Confidence
+
+Confidence is moderate-to-high. The convergence of transcriptomic evidence (late schizont/gametocyte peak expression), essential fitness score (−2.432), co-expression with IMC and invasion genes, and regulation by the invasion-gene controller BDP1 strongly supports a role in IMC-associated invasion/egress processes. The dramatic gametocyte upregulation and sexual commitment enrichment add a second functional axis. The main concern is the absence of localization and protein interaction data, and the gene's variable expression across strains (particularly the extreme downregulation in IT), which could reflect epigenetic silencing or subtelomeric location rather than true functional divergence. The low proteomic detection is consistent with stage-restricted expression but limits confidence in protein-level validation.
+
+## Experimental Validation
+
+To confirm function, the protein should be epitope-tagged (e.g., 3×HA or GFP) in 3D7 parasites and localized by immunofluorescence across the IDC and gametocyte stages, with co-staining for IMC markers (e.g., GAP45, IMC1g). Conditional knockdown using the glmS or auxin-inducible degron system during late schizogony should be performed to assess invasion and egress phenotypes. Transmission-blocking assays measuring exflagellation and mosquito infectivity would test sexual-stage function. Co-immunoprecipitation followed by mass spectrometry would identify binding partners and confirm IMC/glideosome association. Bioinformatically, structural prediction (AlphaFold) and domain analysis could reveal transmembrane or coiled-coil domains characteristic of IMC proteins.

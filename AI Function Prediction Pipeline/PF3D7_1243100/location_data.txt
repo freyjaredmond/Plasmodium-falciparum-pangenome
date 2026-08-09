@@ -1,0 +1,60 @@
+****************
+Subcellular localisation 
+nucleus1
+****************
+
+Subcellular localisation GO terms 
+nucleus	214
+RNA binding	63
+cytoplasm	50
+mRNA binding	37
+mRNA splicing, via spliceosome	36
+protein binding	33
+catalytic step 2 spliceosome	25
+nucleolus	22
+spliceosomal complex	22
+RNA splicing	17
+membrane	17
+precatalytic spliceosome	16
+RNA helicase activity	16
+U2 snRNP	15
+response to xenobiotic stimulus	12
+regulation of transcription, DNA-templated	12
+rRNA processing	12
+RNA splicing, via transesterification reactions	11
+U1 snRNP	11
+cytosol	11
+U2-type prespliceosome	11
+U4/U6 x U5 tri-snRNP complex	10
+DNA binding	9
+preribosome, large subunit precursor	9
+small-subunit processome	9
+Prp19 complex	9
+regulation of gene expression	8
+U5 snRNP	8
+transcription regulator complex	8
+regulation of transcription by RNA polymerase II	8
+mitochondrion	8
+chromatin binding	7
+ribonucleoprotein complex	7
+helicase activity	7
+histone acetyltransferase complex	6
+regulation of cell cycle	6
+U2-type spliceosomal complex	6
+DNA-binding transcription factor activity	6
+chromatin remodeling	6
+translation initiation factor activity	6
+ATP hydrolysis activity	6
+protein phosphorylation	5
+ATP binding	5
+proteasome-mediated ubiquitin-dependent protein catabolic process	5
+mRNA cis splicing, via spliceosome	5
+post-mRNA release spliceosomal complex	5
+regulation of translation	5
+U4 snRNP	5
+spliceosomal complex assembly	5
+DNA repair	5
+*********************
+Coexpressed genes in the same subcellular localisation
+pre-mRNA-processing factor 19, putative
+actin-like protein, putative

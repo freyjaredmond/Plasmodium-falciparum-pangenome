@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+geranylgeranyl transferase type-2 subunit alpha, putative 
+nucleoside transporter 2 
+mitochondrial import inner membrane translocase subunit TIM50, putative 
+regulator of chromosome condensation, putative 
+conserved Plasmodium protein, unknown function 
+asparagine--tRNA ligase 
+ubiquitin-protein ligase, putative 
+aminomethyltransferase, mitochondrial, putative 
+vacuolar iron transporter 
+MORN repeat protein, putative 
+stomatin-like protein, putative 
+pyruvate kinase 2 
+geranylgeranyl transferase type-2 subunit beta, putative 
+conserved Plasmodium protein, unknown function 
+glutamine-dependent NAD(+) synthetase, putative 
+elongation factor G 
+mitochondrial-processing peptidase subunit alpha, putative 
+protein AMR2 
+SUMO-activating enzyme subunit 2 
+conserved protein, unknown function 
+multidrug resistance-associated protein 1 
+DNA repair metallo-beta-lactamase protein, putative 
+mitochondrial ribonuclease P catalytic subunit, putative 
+parasite-infected erythrocyte surface protein 
+triose phosphate transporter 
+ribosomal large subunit pseudouridylate synthase, putative 
+RNA cytosine C(5)-methyltransferase, putative 
+U1 snRNP-associated protein, putative 
+protein kinase 6 
+DEAD/DEAH box helicase, putative 
+OTU domain-containing protein, putative 
+Plasmodium exported protein, unknown function 
+PP-loop family protein, putative 
+conserved Plasmodium protein, unknown function 
+cation transporting P-ATPase 
+FACT complex subunit SSRP1, putative 
+isocitrate dehydrogenase [NADP], mitochondrial 
+aspartate--tRNA ligase, putative 
+heat shock protein 90, putative 
+protein phosphatase PPM10, putative 
+acyl-CoA synthetase 
+methyltransferase, putative 
+conserved Plasmodium protein, unknown function 
+isoleucine--tRNA ligase, putative 
+nucleoside transporter 4 
+mediator of RNA polymerase II transcription subunit 17, putative 
+conserved protein, unknown function 
+conserved protein, unknown function 
+GTP cyclohydrolase 1 
+conserved Plasmodium protein, unknown function 
+****************
+
+Top 50 coexpressed genes GO terms 
+apicoplast	13
+mitochondrion	9
+nucleus	8
+cytoplasm	7
+membrane	6
+endoplasmic reticulum	4
+response to xenobiotic stimulus	4
+protein geranylgeranyltransferase activity	2
+protein geranylgeranylation	2
+Rab-protein geranylgeranyltransferase complex	2
+antiporter activity	2
+nucleolus	2
+perinuclear region of cytoplasm	2
+Rab geranylgeranyltransferase activity	2
+TIM23 mitochondrial import inner membrane translocase complex	1
+protein import into mitochondrial matrix	1
+asparagine-tRNA ligase activity	1
+Hrd1p ubiquitin ligase ERAD-L complex	1
+asparaginyl-tRNA aminoacylation	1
+ubiquitin-dependent ERAD pathway	1
+nucleoside transport	1
+phosphoprotein phosphatase activity	1
+nucleoside transmembrane transporter activity	1
+glycine decarboxylation via glycine cleavage system	1
+glycine catabolic process	1
+aminomethyltransferase activity	1
+ferrous iron transmembrane transporter activity	1
+cellular manganese ion homeostasis	1
+intracellular sequestering of iron ion	1
+manganese ion transmembrane transporter activity	1
+iron ion transmembrane transporter activity	1
+cytosol	1
+pyruvate kinase activity	1
+glycolytic process	1
+protein prenylation	1
+NAD+ synthase (glutamine-hydrolyzing) activity	1
+glutaminase activity	1
+iron ion transport	1
+cellular iron ion homeostasis	1
+translation elongation factor activity	1
+mitochondrial translation	1
+ribosome disassembly	1
+translational elongation	1
+mitochondrial processing peptidase complex	1
+metalloendopeptidase activity	1
+ubiquinol-cytochrome-c reductase activity	1
+protein processing involved in protein targeting to mitochondrion	1
+plastid organization	1
+SUMO activating enzyme complex	1
+SUMO activating enzyme activity	1

@@ -1,0 +1,31 @@
+## Predicted Functions
+
+1. tRNA modification enzyme involved in post-transcriptional RNA processing during the intraerythrocytic developmental cycle
+2. RNA-binding protein functioning in translational regulation or tRNA maturation
+3. Nuclear-localized protein involved in gene expression regulation (transcription or RNA processing)
+4. Essential housekeeping protein contributing to protein synthesis machinery
+5. Chromatin-associated protein involved in coordinating gene expression during asexual blood-stage development
+
+## Summary
+
+This gene most likely encodes a tRNA modification enzyme or RNA-processing factor that functions in the nucleus during the asexual blood stages of <i>Plasmodium falciparum</i>. It is expressed most highly during early ring stages, with expression declining through trophozoite and schizont stages. Its essentiality (piggyBac fitness score −3.115), coexpression with multiple tRNA ligases, tRNA modification enzymes, and translation initiation factors, and its nuclear-associated interaction partners collectively support a role in tRNA maturation or translational regulation. The protein is downregulated in sporozoites relative to blood stages, consistent with a primary function during intraerythrocytic development.
+
+## Evidence
+
+**Transcriptomics:** The gene is moderately to highly expressed during asexual blood stages (e.g., ~63–155 TPM at ring/early stages in Otto, Subudhi, Wichers, and Chappell datasets), with expression peaking at early ring/0–8 hr time points and declining 2- to 6-fold by late schizont stages (e.g., FC −5.7 at 48 hr in Subudhi; FC −4.2 ring vs schizont in Tang; FC −11.8 at 40 hr in Siegel). This early-ring peak expression pattern is consistent across multiple IDC time-course studies. The gene is strongly downregulated in sporozoites compared to blood stages (FC −116.9 in Hoffmann mosquito sporozoites; significant p-values in Zanghi sporozoite comparisons with effect sizes in top 11% downregulated). Gametocyte expression is low, and there is modest downregulation during gametocyte maturation. The antisense transcript showed notable upregulation at the T40 time point (FC 9.4, top 8.8%) in Toenhake data, and strain-specific differences were observed (3D7 vs HB3 antisense FC 3.9, p < 1e-12 in DAFT-seq). In the UTR-seq data, statistically significant downregulation at 40 and 48 hr (p < 1e-8 to 1e-14) further confirms the declining expression pattern through schizogony.
+
+**Additional Data (Proteomics, PTMs, Mutagenesis):** The protein is detected by mass spectrometry in 15 of 63 samples with 42 unique peptides, indicating moderate abundance. Quantitative proteomics shows a −1.4 to −1.5 fold decrease from ring to trophozoite/schizont stages, consistent with the transcriptomic decline. The protein has 19 phosphorylation sites and 1 acetylation site, suggesting extensive post-translational regulation. The piggyBac mutant fitness score of −3.115 indicates strong essentiality, meaning disruption is lethal or severely fitness-reducing during blood-stage growth.
+
+**Coexpression (WGCNA):** The top 50 coexpressed genes are dominated by tRNA-related functions: glycine-tRNA ligase, threonine-tRNA ligase, valine-tRNA ligase, alanine-tRNA ligase, tRNA pseudouridine synthase, tRNA N6-adenosine threonylcarbamoyltransferase, tRNA (adenine(58)-N(1))-methyltransferase (TRM6), and tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase. Translation-related genes include multiple eIF3 subunits, elongation factor Tu, and ribosomal proteins. The top GO terms are nucleus (23 genes), cytoplasm (9), RNA binding (7), cytosol (7), with tRNA modification (2) and tRNA aminoacylation for protein translation (2) also represented. This coexpression profile strongly suggests involvement in tRNA biology and translational regulation.
+
+**Localisation:** No hyperLOPIT localisation data is available for this gene. However, the WGCNA nuclear GO enrichment (23/50 genes) and MAPX interactors' GO terms (nucleus: 4) suggest a nuclear localisation.
+
+**Binding (MAPX interactions):** MAPX interactors include an exoribonuclease (also present in WGCNA coexpressed genes), cysteine-tRNA ligase, AP2-G transcription factor, and several nuclear proteins. The GO terms of interactors emphasize nucleus (4), RNA binding (3), apicoplast (2), and cytoplasm (2). The interaction with cysteine-tRNA ligase reinforces a connection to tRNA biology. The AP2-G interaction may be coincidental or reflect shared nuclear compartmentalization rather than functional partnership.
+
+## Confidence
+
+Confidence is moderate-to-high that this gene functions in tRNA modification or RNA processing. The convergence of evidence is strong: (1) coexpression with six tRNA ligases and four tRNA modification enzymes, (2) early ring-stage peak expression declining through schizogony, (3) essential fitness phenotype, and (4) MAPX interaction with a tRNA ligase. The main uncertainty is the precise enzymatic function, as no direct biochemical or structural annotation is available. The lack of hyperLOPIT data prevents independent confirmation of nuclear localisation. The MAPX interaction with AP2-G and some exported/surface proteins introduces minor noise, but these interactions occurred only once each and are below the weight of the tRNA-centered coexpression signal.
+
+## Experimental Validation
+
+To confirm tRNA modification function, one could: (1) perform conditional knockdown (e.g., using the glmS or DD/Shield system) followed by tRNA mass spectrometry to detect loss of specific nucleotide modifications; (2) conduct immunofluorescence with epitope-tagged protein to confirm nuclear localisation; (3) perform RNA immunoprecipitation (RIP-seq) to identify bound tRNA substrates; (4) use recombinant protein in in vitro tRNA modification assays; (5) bioinformatically, search for conserved catalytic domains (e.g., methyltransferase, pseudouridine synthase, or THUMP domains) using HHpred or AlphaFold structure-based homology searches against known tRNA modification enzymes from model organisms.

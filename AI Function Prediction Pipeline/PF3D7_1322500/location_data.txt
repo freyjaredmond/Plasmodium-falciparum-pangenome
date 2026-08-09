@@ -1,0 +1,59 @@
+****************
+Subcellular localisation 
+ER1
+****************
+
+Subcellular localisation GO terms 
+endoplasmic reticulum	33
+membrane	23
+nucleus	22
+endoplasmic reticulum membrane	18
+RNA binding	11
+protein binding	10
+apicoplast	9
+response to xenobiotic stimulus	9
+cytoplasm	8
+cell surface	7
+cytosol	6
+Golgi apparatus	6
+intracellular protein transport	6
+vesicle-mediated transport	6
+protein targeting to ER	6
+mitochondrion	6
+endoplasmic reticulum to Golgi vesicle-mediated transport	5
+food vacuole	5
+plasma membrane	5
+EMC complex	5
+endomembrane system	5
+SNARE complex	4
+Maurer's cleft	4
+apical part of cell	4
+signal peptide processing	4
+endoplasmic reticulum-Golgi intermediate compartment	4
+SNAP receptor activity	4
+protein folding in endoplasmic reticulum	4
+GPI anchor biosynthetic process	4
+integral component of membrane	4
+COPII-coated ER to Golgi transport vesicle	4
+protein folding	4
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	3
+signal peptidase complex	3
+Golgi organization	3
+unfolded protein binding	3
+endoplasmic reticulum organization	3
+inner membrane pellicle complex	3
+chaperone cofactor-dependent protein refolding	3
+integral component of endoplasmic reticulum membrane	3
+GTP binding	3
+Golgi membrane	3
+peptidase activity	3
+protein transmembrane transporter activity	3
+posttranslational protein targeting to membrane, translocation	3
+SNARE binding	3
+vesicle fusion	3
+cellular calcium ion homeostasis	3
+zinc ion binding	2
+protein refolding	2
+*********************
+Coexpressed genes in the same subcellular localisation
+basal complex transmembrane protein 1

@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+conserved protein, unknown function 
+conserved Plasmodium protein, unknown function 
+F-box protein FBXO6, putative 
+RING zinc finger protein, putative 
+DNA topoisomerase 6 subunit B 
+conserved protein, unknown function 
+conserved Plasmodium membrane protein, unknown function 
+rap guanine nucleotide exchange factor, putative, pseudogene 
+conserved Plasmodium protein, unknown function 
+merozoite surface protein 10 
+rhoptry protein ROP14 
+CLAMP-linked invasion protein CLIP, putative 
+conserved Plasmodium protein, unknown function 
+protein CERLI1 
+myosin J, putative 
+cGMP-specific 3',5'-cyclic phosphodiesterase alpha 
+OTU-like cysteine protease 
+adenylate kinase-like protein 2 
+PH domain-containing protein, putative 
+conserved Plasmodium protein, unknown function 
+leucine-rich repeat protein 
+erythrocyte binding like protein 1, pseudogene 
+inner membrane complex suture component, putative 
+aurora-related kinase ARK3, putative 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+conserved protein, unknown function 
+conserved Plasmodium protein, unknown function 
+zinc finger protein, putative 
+inner membrane complex protein 1m, putative 
+conserved Plasmodium protein, unknown function 
+serine/threonine protein kinase, FIKK family 
+conserved protein, unknown function 
+major facilitator superfamily domain-containing protein, putative 
+inner membrane complex sub-compartment protein 3 
+MORN repeat protein, putative 
+basal complex protein BCP1 
+ankyrin-repeat protein, putative 
+conserved Plasmodium protein, unknown function 
+apicomplexan kinetochore protein 11, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+inner membrane complex protein 1e 
+C3H1-type zinc finger protein CZIF1 
+rhoptry neck protein 6 
+conserved protein, unknown function 
+conserved Plasmodium protein, unknown function 
+apical exonemal protein 
+serine/threonine protein phosphatase 7 
+phospholipid scramblase 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	8
+inner membrane pellicle complex	6
+cytoplasm	6
+membrane	4
+protein binding	4
+cytosol	3
+basal part of cell	3
+protein phosphorylation	2
+entry into host	2
+cell surface	2
+centrosome	2
+rhoptry	2
+protein serine/threonine kinase activity	2
+mitochondrion	1
+cytoplasmic microtubule organization	1
+food vacuole	1
+dynein light intermediate chain binding	1
+microtubule binding	1
+small ribosomal subunit	1
+endoplasmic reticulum membrane	1
+host cell surface binding	1
+anchored component of plasma membrane	1
+cytoskeleton-dependent intracellular transport	1
+microneme	1
+apical part of cell	1
+rhoptry membrane	1
+protein maturation	1
+lipid binding	1
+actin cytoskeleton	1
+vesicle	1
+actin filament binding	1
+identical protein binding	1
+catalytic activity	1
+response to xenobiotic stimulus	1
+DNA topoisomerase activity	1
+vesicle transport along actin filament	1
+actin filament organization	1
+microfilament motor activity	1
+actin-dependent ATPase activity	1
+cGMP catabolic process	1
+thiol-dependent deubiquitinase	1
+protein deubiquitination	1
+cGMP binding	1
+early endosome	1
+recycling endosome	1
+endosome organization	1
+trans-Golgi network	1
+receptor recycling	1
+retrograde transport, endosome to Golgi	1
+cAMP-dependent protein kinase complex	1

@@ -1,0 +1,62 @@
+Gold standard interactions 
+******************
+prefoldin subunit 3, putative
+prefoldin subunit 4, putative
+prefoldin subunit 5, putative
+prefoldin subunit 6
+prefoldin, putative
+******************
+Gold standard interactors GO term counts 
+cytoplasm	4
+prefoldin complex	4
+polysome	1
+tubulin binding	1
+unfolded protein binding	1
+'de novo' protein folding	1
+microtubule-based process	1
+tubulin complex assembly	1
+regulation of transcription, DNA-templated	1
+symbiont-containing vacuole membrane	1
+chaperone binding	1
+protein binding	1
+chaperone-mediated protein complex assembly	1
+protein folding	1
+mediator complex	1
+mitochondrion	1
+positive regulation of transcription by RNA polymerase II	1
+******************
+MapX interaction pair counts 
+cytochrome c oxidase copper chaperone, putative	1
+26S protease regulatory subunit 7, putative	1
+DNA-directed RNA polymerases I, II, and III subunit RPABC2, putative	1
+chondroitin sulfate A ligand	1
+mediator of RNA polymerase II transcription subunit 11, putative	1
+conserved Plasmodium protein, unknown function	1
+60S ribosomal protein L24, putative	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	3
+protein binding	2
+mitochondrion	1
+proteasome regulatory particle	1
+copper chaperone activity	1
+proteasome regulatory particle, base subcomplex	1
+TBP-class protein binding	1
+endopeptidase activity	1
+positive regulation of RNA polymerase II transcription preinitiation complex assembly	1
+ubiquitin-dependent protein catabolic process	1
+RNA polymerase I complex	1
+RNA polymerase II, core complex	1
+RNA polymerase III complex	1
+DNA-directed 5'-3' RNA polymerase activity	1
+transcription by RNA polymerase II	1
+Maurer's cleft	1
+host cell surface	1
+infected host cell surface knob	1
+mediator complex	1
+cytosolic large ribosomal subunit	1
+RNA binding	1
+structural constituent of ribosome	1
+assembly of large subunit precursor of preribosome	1
+ribosomal large subunit assembly	1
+translation	1

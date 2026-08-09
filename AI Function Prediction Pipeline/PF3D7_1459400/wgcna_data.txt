@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+Plasmodium exported protein (hyp13), unknown function 
+Plasmodium exported protein (PHISTc), unknown function 
+DnaJ protein, putative 
+protein KIC1 
+eukaryotic translation initiation factor 2-alpha kinase 1 
+ubiquitin carboxyl-terminal hydrolase MINDY, putative 
+Plasmodium exported protein (PHISTc), unknown function 
+Plasmodium exported protein, unknown function 
+gametocytogenesis-implicated protein 
+food vacuole resident transporter 1 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+Plasmodium exported protein, unknown function 
+protein transport protein Sec24A 
+alpha/beta hydrolase, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+serine/threonine protein kinase, FIKK family 
+phosphoinositide-binding protein PX1 
+Plasmodium exported protein, unknown function 
+sporozoite and liver stage tryptophan-rich protein, putative 
+protein KIC4 
+Plasmodium exported protein, unknown function, pseudogene 
+EMP1-trafficking protein 
+Plasmodium exported protein (PHISTa-like), unknown function 
+kelch protein K13 
+ring-infected erythrocyte surface antigen 
+acyl-CoA synthetase 
+protein kinase 1 
+Plasmodium exported protein (PHISTc), unknown function 
+Plasmodium exported protein (hyp2), unknown function 
+RNA-binding protein musashi, putative 
+Plasmodium exported protein (hyp15), unknown function 
+esterase, putative 
+Plasmodium exported protein (hyp12), unknown function 
+interspersed repeat antigen 
+Plasmodium exported protein (PHISTb), unknown function, pseudogene 
+Plasmodium exported protein (hyp6), unknown function 
+Plasmodium exported protein, unknown function 
+inositol-phosphate phosphatase, putative 
+protein kinase, putative 
+golgi protein 1 
+acyl-CoA synthetase 
+ring-infected erythrocyte surface antigen 
+Plasmodium exported protein (PHISTb), unknown function 
+Plasmodium exported protein, unknown function 
+Plasmodium exported protein (PHISTc), unknown function 
+sporozoite threonine and asparagine-rich protein 
+DnaJ domain-containing protein, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+Maurer's cleft	18
+host cell	14
+nucleus	8
+protein binding	6
+membrane	6
+endoplasmic reticulum	6
+cytoplasm	4
+food vacuole	4
+lipase activity	2
+extracellular vesicle	2
+vesicle	2
+protein serine/threonine kinase activity	2
+protein phosphorylation	2
+cell surface	2
+cytosol	2
+long-chain fatty acid-CoA ligase activity	2
+RNA binding	2
+response to xenobiotic stimulus	2
+catalytic activity	1
+ATP binding	1
+cytosolic ribosome	1
+response to starvation	1
+endoplasmic reticulum exit site	1
+COPII vesicle coat	1
+cadmium ion transmembrane transporter activity	1
+manganese ion transmembrane transporter activity	1
+posttranscriptional regulation of gene expression	1
+COPII-coated vesicle cargo loading	1
+endoplasmic reticulum to Golgi vesicle-mediated transport	1
+SNARE binding	1
+protein transport by the Sec complex	1
+zinc ion binding	1
+early endosome	1
+intracellular signal transduction	1
+phosphatidylinositol binding	1
+protein kinase activity	1
+GCN2-mediated signaling	1
+eukaryotic translation initiation factor 2alpha kinase activity	1
+retrograde transport, endosome to plasma membrane	1
+intracellular protein transport	1
+phosphatidylinositol-3-phosphate binding	1
+AP-1 adaptor complex	1
+clathrin adaptor activity	1
+Golgi to vacuole transport	1
+receptor-mediated endocytosis	1
+host cell periphery	1
+host cell cytosol	1
+endocytosis	1
+response to drug	1
+host cell plasma membrane	1

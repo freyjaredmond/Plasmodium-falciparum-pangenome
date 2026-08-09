@@ -1,0 +1,87 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+falcilysin	2
+1-cys-glutaredoxin-like protein-1	2
+translation initiation factor eIF-1A, putative	2
+phenylalanine--tRNA ligase beta subunit	2
+plasmepsin IV	1
+cytoadherence linked asexual protein 3.1	1
+bifunctional dihydrofolate reductase-thymidylate synthase	1
+60S ribosomal protein L31	1
+valine--tRNA ligase, putative	1
+conserved Plasmodium protein, unknown function	1
+chaperone binding protein, putative	1
+gametocyte exported protein 5	1
+high molecular weight rhoptry protein 3	1
+SWIB/MDM2 domain-containing protein	1
+eukaryotic peptide chain release factor GTP-binding subunit, putative	1
+XTBD domain-containing protein, putative	1
+cAMP-dependent protein kinase regulatory subunit	1
+nuclear polyadenylated RNA-binding protein NAB2, putative	1
+cysteine proteinase falcipain 2a	1
+phenylalanine--tRNA ligase alpha subunit	1
+serine/threonine protein kinase, FIKK family	1
+WD repeat-containing protein, putative	1
+nicotinamidase, putative	1
+haloacid dehalogenase-like hydrolase, putative	1
+histone chaperone ASF1	1
+conserved protein, unknown function	1
+conserved protein, unknown function	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	15
+cytoplasm	8
+RNA binding	6
+protein binding	5
+cytosol	5
+food vacuole	4
+mitochondrion	4
+extracellular vesicle	3
+hemoglobin catabolic process	3
+host cell cytoplasm	3
+phenylalanine-tRNA ligase complex	3
+phenylalanyl-tRNA aminoacylation	3
+phenylalanine-tRNA ligase activity	3
+rhoptry	2
+protein processing	2
+apicoplast	2
+metalloendopeptidase activity	2
+membrane	2
+Maurer's cleft	2
+translation	2
+translation initiation factor activity	2
+response to xenobiotic stimulus	2
+glutathione disulfide oxidoreductase activity	2
+intracellular	2
+mitochondrial matrix	2
+eukaryotic 43S preinitiation complex	2
+translational initiation	2
+disulfide oxidoreductase activity	2
+thymidylate synthase activity	1
+response to chloroquine	1
+dTMP biosynthetic process	1
+valine-tRNA ligase activity	1
+host cell plasma membrane	1
+tRNA aminoacylation for protein translation	1
+valyl-tRNA aminoacylation	1
+aspartic-type endopeptidase activity	1
+cytoadherence to microvasculature, mediated by symbiont protein	1
+anion channel activity	1
+cell adhesion molecule binding	1
+cell surface	1
+cytosolic large ribosomal subunit	1
+extracellular space	1
+host cell cytosol	1
+entry into host	1
+protein-containing complex binding	1
+proteolysis involved in cellular protein catabolic process	1
+lysosome	1
+cysteine-type endopeptidase activity	1
+proteolysis	1
+GTP binding	1

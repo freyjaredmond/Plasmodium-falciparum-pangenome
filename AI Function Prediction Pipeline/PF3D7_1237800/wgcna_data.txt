@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+60S ribosomal protein L7-3, putative 
+translation machinery-associated protein 46, putative 
+orotidine 5'-phosphate decarboxylase 
+threonine--tRNA ligase 
+conserved protein, unknown function 
+actin-like protein, putative 
+40S ribosomal protein S7, putative 
+translation initiation factor eIF-2B subunit gamma, putative 
+RuvB-like helicase 2 
+60S ribosomal protein L21 
+40S ribosomal protein S3A, putative 
+60S ribosomal protein L11a, putative 
+elongation factor 1-gamma, putative 
+protein phosphatase PPM9, putative 
+60S ribosomal protein P0 
+60S ribosomal protein L4 
+plasmepsin III 
+40S ribosomal protein S9, putative 
+60S ribosomal protein L19 
+40S ribosomal protein S6 
+ATP-dependent RNA helicase UAP56 
+60S ribosomal protein L37 
+60S ribosomal protein L5, putative 
+THUMP domain-containing protein, putative 
+60S ribosomal protein L23 
+60S ribosomal protein L15, putative 
+pre-mRNA-processing factor 19, putative 
+proline--tRNA ligase 
+T-complex protein 1 subunit gamma 
+conserved Plasmodium protein, unknown function 
+60S ribosomal protein L44 
+60S ribosomal protein L7, putative 
+60S ribosomal protein L6, putative 
+40S ribosomal protein S15 
+actin-related protein ARP6 
+small nuclear ribonucleoprotein Sm D1, putative 
+elongation factor 1-beta 
+ATP-dependent 6-phosphofructokinase 
+U5 small nuclear ribonucleoprotein component, putative 
+RuvB-like helicase 3 
+60S ribosomal protein L14, putative 
+40S ribosomal protein S4, putative 
+ADP,ATP carrier protein 1 
+elongation factor 2 
+T-complex protein 1 subunit zeta 
+40S ribosomal protein S27 
+T-complex protein 1 subunit alpha 
+60S ribosomal protein L3 
+60S ribosomal protein L18, putative 
+eukaryotic translation initiation factor 3 subunit B, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	41
+RNA binding	27
+structural constituent of ribosome	22
+translation	21
+cytosolic large ribosomal subunit	16
+cytosol	8
+cytosolic small ribosomal subunit	8
+protein binding	6
+response to xenobiotic stimulus	5
+ribosomal large subunit assembly	5
+extracellular vesicle	5
+ATP binding	4
+cytoplasmic translation	4
+cytoplasm	4
+Swr1 complex	3
+NuA4 histone acetyltransferase complex	3
+translational elongation	3
+intracellular	3
+regulation of transcription by RNA polymerase II	3
+protein folding	3
+RNA N6-methyladenosine methyltransferase complex	3
+unfolded protein binding	3
+chaperonin-containing T-complex	3
+Ino80 complex	2
+response to drug	2
+food vacuole	2
+chromatin remodeling	2
+histone acetylation	2
+translation elongation factor activity	2
+box C/D snoRNP assembly	2
+R2TP complex	2
+small-subunit processome	2
+translational initiation	2
+eukaryotic translation elongation factor 1 complex	2
+rRNA binding	2
+small ribosomal subunit	2
+Maurer's cleft	2
+mitochondrion	2
+tRNA aminoacylation for protein translation	2
+DNA helicase activity	2
+ATP hydrolysis activity	2
+catalytic step 2 spliceosome	2
+RNA splicing, via transesterification reactions	2
+GTPase activity	2
+ribonucleoprotein complex	2
+mRNA splicing, via spliceosome	2
+chromatin binding	1
+SWI/SNF complex	1
+5'-3' DNA helicase activity	1
+ATP-dependent chromatin remodeling	1

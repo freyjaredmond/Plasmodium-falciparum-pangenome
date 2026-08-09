@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+thioredoxin-like protein 
+DNA-directed RNA polymerase 
+conserved Plasmodium protein, unknown function 
+mitochondrial intermediate peptidase, putative 
+RAP protein RAP21 
+glutathione synthetase 
+parasite-infected erythrocyte surface protein 
+Plasmodium exported protein (hyp15), unknown function 
+M18 aspartyl aminopeptidase 
+geranylgeranyl transferase type-2 subunit alpha, putative 
+hydroxymethyldihydropterin pyrophosphokinase-dihydropteroate synthase 
+GrpE protein homolog, mitochondrial, putative 
+Plasmodium exported protein, unknown function 
+ATPase family AAA domain-containing protein 3A, putative 
+protein phosphatase PPM10, putative 
+plasmoredoxin 
+dihydroorotate dehydrogenase 
+orotate phosphoribosyltransferase 
+serine/threonine protein phosphatase CPPED1, putative 
+conserved Plasmodium protein, unknown function 
+phosphoenolpyruvate carboxykinase 
+mitochondrial import inner membrane translocase subunit TIM50, putative 
+aspartate carbamoyltransferase 
+mitochondrial import inner membrane translocase subunit TIM9, putative 
+multidrug resistance protein 2 
+multidrug-resistant modulator MFR3 
+drug/metabolite transporter DMT2 
+tRNA m(1)G methyltransferase, putative 
+nucleoside transporter 4 
+Plasmodium exported protein (PHISTa), unknown function 
+Plasmodium exported protein (PHISTb), unknown function 
+pyridoxal phosphate homeostasis protein, putative 
+ubiquitin-like domain-containing protein, putative 
+chondroitin sulfate A ligand 
+mediator of RNA polymerase II transcription subunit 17, putative 
+asparagine--tRNA ligase 
+pyruvate kinase 2 
+10 kDa chaperonin 
+adenylate kinase-like protein 1 
+glutamate dehydrogenase, putative 
+protein kinase 6 
+geranylgeranyl transferase type-2 subunit beta, putative 
+mitochondrial import inner membrane translocase subunit TIM17, putative 
+conserved protein, unknown function 
+activator of Hsp90 ATPase 
+glutamine-dependent NAD(+) synthetase, putative 
+RNA-binding protein, putative 
+PP-loop family protein, putative 
+mitochondrial import inner membrane translocase subunit TIM10, putative 
+prohibitin 2 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	20
+mitochondrion	17
+cytoplasm	8
+cytosol	7
+response to xenobiotic stimulus	7
+protein binding	7
+apicoplast	5
+host cell surface	3
+Maurer's cleft	3
+protein import into mitochondrial matrix	3
+protein targeting to mitochondrion	3
+membrane	3
+TIM23 mitochondrial import inner membrane translocase complex	3
+Rab-protein geranylgeranyltransferase complex	2
+mitochondrial inner membrane	2
+Rab geranylgeranyltransferase activity	2
+protein geranylgeranyltransferase activity	2
+ATP binding	2
+unfolded protein binding	2
+host cell	2
+protein geranylgeranylation	2
+protein insertion into mitochondrial inner membrane	2
+mitochondrial intermembrane space	2
+protein transport	2
+infected host cell surface knob	2
+mRNA binding	2
+host cell periphery	2
+metal ion binding	2
+protein-transporting ATPase activity	2
+mitochondrial matrix	2
+mitochondrion organization	2
+'de novo' pyrimidine nucleobase biosynthetic process	2
+cell surface	1
+glutathione synthase activity	1
+PAM complex, Tim23 associated import motor	1
+tetrahydrofolate biosynthetic process	1
+dihydropteroate synthase activity	1
+dihydrofolate biosynthetic process	1
+mitochondrial envelope	1
+response to oxidative stress	1
+glutathione biosynthetic process	1
+rRNA binding	1
+DNA binding	1
+DNA-directed 5'-3' RNA polymerase activity	1
+mitochondrial transcription	1
+mitochondrial DNA-directed RNA polymerase complex	1
+glutathione binding	1
+transcription, DNA-templated	1
+mitochondrial ribosome binding	1
+host cell surface binding	1

@@ -1,0 +1,69 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin 
+stevor 
+rifin 
+stevor 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin 
+rifin, pseudogene 
+rifin 
+rifin 
+rifin 
+Plasmodium exported protein (PHISTa), unknown function, pseudogene 
+rifin 
+rifin 
+rifin 
+Pfmc-2TM Maurer's cleft two transmembrane protein 
+rifin 
+stevor 
+rifin 
+rifin, pseudogene 
+rifin 
+Pfmc-2TM Maurer's cleft two transmembrane protein 
+Pfmc-2TM Maurer's cleft two transmembrane protein 
+rifin, pseudogene 
+rifin 
+rifin 
+stevor, pseudogene 
+Pfmc-2TM Maurer's cleft two transmembrane protein 
+rifin 
+rifin 
+rifin 
+Pfmc-2TM Maurer's cleft two transmembrane protein 
+Pfmc-2TM Maurer's cleft two transmembrane protein 
+rifin 
+stevor 
+rifin 
+Pfmc-2TM Maurer's cleft two transmembrane protein 
+stevor 
+rifin, pseudogene 
+****************
+
+Top 50 coexpressed genes GO terms 
+Maurer's cleft	35
+host cell plasma membrane	32
+antigenic variation	32
+modulation by symbiont of host erythrocyte aggregation	28
+symbiont-containing vacuole	23
+cytoadherence to microvasculature, mediated by symbiont protein	23
+membrane	6
+translocation of peptides or proteins into host	6
+integral component of membrane	5
+host cell membrane	2
+plasma membrane	1
+nucleus	1
+host cell surface receptor binding	1
+protein binding	1
