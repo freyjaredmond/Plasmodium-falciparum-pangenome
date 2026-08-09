@@ -63,7 +63,7 @@ The representative InterPro domain was also assigned to each cluster and the per
 ----------------------------
 # Duplications and reference absent genes
 Duplicated genes within a pangene cluster were identified. Reference absent genes were lifted over to 3D7 to find genes that 
-don't map to the reference genome. All of the scripts and outputs are found here [Duplications and Reference Absent Genes README](Duplications and Reference Absent Genes/README.md)
+don't map to the reference genome. All of the scripts and outputs are found here [Duplications and Reference Absent Genes README](Duplications%20and%20Reference%20Absent%20Genes/README.md)
 
 ![Reference absent genes](no_flank_unmapped.png)
 
@@ -92,24 +92,13 @@ The scripts and outputs of this analysis can be found here [ProtNLM/README.md](P
 The beta PlasmoDB summary was evaluated to assess how well the language used matches the magnitude of change. Differential expression
 statistics, directional fold change percentiles and explicit confidence and biological importance scoring was calculated and the
 PlasmoDB AI expression summary pipeline was modified to include this new data. The LLM was also asked to compare both the original
-summary and the new statistical one. The prompts are scripts are found here [AI Expression Summary/README.md](AI Expression Summary/README.md)
-![AI summary](AI_summ_panel.py)
+summary and the new statistical one. The prompts are scripts are found here [AI Expression Summary/README.md](AI%20Expression%20Summary/README.md)
+![AI summary](AI_summ_panel.png)
 
 ----------------------------
 # AI function prediction pipeline
-Alongside the transcriptomics data, additional data types such as WGCNA coexpression, hyperLOPIT subcellular localisation data and MAP-X predicted interactions were provided to the Claude Opus 4.6. It was asked to give functional predictions and justifications for its findings. The outputs, prompts and scripts can be found here [AI Function Prediction Pipeline/README.md](AI Function Prediction Pipeline/README.md). This pipeline was run on genes with literature supported annotations and unknown genes.
+Alongside the transcriptomics data, additional data types such as WGCNA coexpression, hyperLOPIT subcellular localisation data and MAP-X predicted interactions were provided to the Claude Opus 4.6. It was asked to give functional predictions and justifications for its findings. The outputs, prompts and scripts can be found here [AI Function Prediction Pipeline/README.md](AI%20Function%20Prediction%20Pipeline/README.md). This pipeline was run on genes with literature supported annotations and unknown genes.
 
-To evaluate the use of AlphaFold3 in this pipeline, AF3 was first run on curated interactions. Its performance was also assessed on WGCNA coexpressed genes and predicted MAP-X interactors. Further information can be found here [AI Function Prediction Pipeline/README.md](AI Function Prediction Pipeline/README.md).
+To evaluate the use of AlphaFold3 in this pipeline, AF3 was first run on curated interactions. Its performance was also assessed on WGCNA coexpressed genes and predicted MAP-X interactors. Further information can be found here [AI Function Prediction Pipeline/README.md](AI%20Function%20Prediction%20Pipeline/README.md).
 
 ![Alphafold3](af3_panel.png)
-
-
-
-
-
-
-
-
-
-----------------------------
-## 
