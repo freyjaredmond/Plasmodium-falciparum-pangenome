@@ -118,25 +118,6 @@ plt.subplots_adjust(bottom=0.6, left=0.2)
 plt.show()
 fig.savefig("PSEUDO/Graphs/no_flank_cloud_description.png", dpi=300)
 
-bed_df = bed_dict["Dd2"]
-chr_bed = bed_df[bed_df["chrom"] == "PfDd2_04"]
-print(chr_bed)
-
-start, end = 904261, 913085
-in_core = chr_bed[(chr_bed["name"].str.startswith("Core")) & (chr_bed["start"] <= start) & (chr_bed["end"] >= end)]
-in_var = chr_bed[(chr_bed["name"].str.startswith("Var")) & (chr_bed["start"] <= start) & (chr_bed["end"] >= end)]
-print("in_core:", in_core)
-print("in_var:", in_var)
-
-
-bed_df = bed_dict["SN01"]
-chr_bed = bed_df[bed_df["chrom"] == "PfSN01_13"]
-print(chr_bed)
-
-import pandas as pd
-data = pd.read_csv("GET_PANGENES_pseudo/no_flank_unmapped_genes.tsv", sep="\t")
-row = data[data["Gene ID"] == "PfSN01_130005000"]
-print(row)
 
 
 row = final_df[final_df["Gene ID"] == "PfSN01_130005000"]
