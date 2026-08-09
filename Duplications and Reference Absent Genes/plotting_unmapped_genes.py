@@ -45,28 +45,3 @@ fig.subplots_adjust(bottom=0.3)
 fig.savefig("PSEUDO/Graphs/no_flank_unmapped.png", bbox_inches="tight")
 plt.show()
 
-### map the reference-absent genes to their pangenome cluster
-absent_clusters = []
-unmatched = []
-for gene in no_flank_list:
-    cluster = gene_to_cluster.get(gene)
-    if cluster is not None:
-        absent_clusters.append(cluster)
-    else:
-        unmatched.append(gene)
-
-print(f"Reference-absent genes matched to a cluster: {len(absent_clusters)}")
-print(f"Reference-absent genes with no cluster match: {len(unmatched)}")
-
-cluster_counts = pd.Series(absent_clusters).value_counts()
-print(f"Clusters containing at least one reference-absent gene: {len(cluster_counts)}")
-
-genes_per_cluster = cluster_counts.value_counts().sort_index()
-
-fig2, ax2 = plt.subplots(figsize=(10, 6))
-bar = ax2.bar(genes_per_cluster.index.astype(str), genes_per_cluster.values, color="darkgreen")
-ax2.set_xlabel("Reference-absent genes per cluster")
-ax2.set_ylabel("Number of clusters")
-ax2.bar_label(bar)
-fig2.savefig("PSEUDO/Graphs/reference_absent_genes_per_cluster.png", dpi=300, bbox_inches="tight")
-plt.show()
