@@ -29,4 +29,9 @@ functional prediction, and to suggest experimental methods that could confirm th
 which are found within the prompt_output folders within the gene folders [PF3D7_1133500/Prompt_outputs](PF3D7_1133500/Prompt_outputs).
 
 ## AlphaFold Analysis
-AlphaFold3 was run on 
+AlphaFold3 was run on 10 experimentally confirmed protein interactors and the chain_ipTM and actifpTM can be found here 
+[curated_interactors.tsv](curated_interactors.tsv). For 10 randomly selected genes with ≥10 MAPX-predicted interactors, AlphaFold3 was run on each gene of interest paired with its top 10 MAPX-predicted interactors, as well as with 10 interactors that did not pass the MAPX score threshold [wgcna_scored.tsv](wgcna_scored.tsv). Additionally, for these same 10 genes, AlphaFold3 was run on each gene paired with its top 10 WGCNA-coexpressed genes, and with 10 random genes from unrelated WGCNA modules for comparison [mapx_scored.tsv](mapx_scored.tsv). The script used to run AF3 for the WGCNA test is here [afwgcna.sh](afwgcna.sh). The script used to run actifpTM
+is here [actifptm.py](actifptm.py). To extract the chain_ipTM and actifpTM from the jsons, this script was used [extract_scores.py](extract_scores.py).
+
+The AF3 results were then plotted using [af3_panel.py](af3_panel.py)
+[!](af3_panel.png)
