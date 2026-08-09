@@ -61,4 +61,55 @@ The representative InterPro domain was also assigned to each cluster and the per
 ![Function of pangenes](Function_of_pangenes/Figure4_GO_sixteen.png)
 
 ----------------------------
+# Duplications and reference absent genes
+Duplicated genes within a pangene cluster were identified. Reference absent genes were lifted over to 3D7 to find genes that 
+don't map to the reference genome. All of the scripts and outputs are found here [Duplications and Reference Absent Genes README](Duplications and Reference Absent Genes/README.md)
+
+![Reference absent genes](no_flank_unmapped.png)
+
+----------------------------
+## *rif* and *var* analysis
+*rif* subtypes were assigned using STRIDE and FHEYDER motifs were identified using exact string matching.
+
+*var* domain types were assigned using VarDom and subtypes were identified using BLAST searching, allowing domain cassettes to be identified. 
+
+More detail can be found here
+[rif_var_analysis/README.md](rif_var_analysis/README.md)
+
+This allowed *rif* subtypes to be explored across the different pangenome occupancies, as well as exploration of *var* domain cassette consistency across pangenes and across geographical locations.
+![Rif var panel](panel_rif_var.png)
+
+----------------------------
+# ProtNLM analysis
+The performance of ProtNLM was evaluated on *P. falciparum* curated genes, as well as *Babesia ovis* an apicomplexan species that was 
+absent from ProtNLM's training data. The performance of ProtNLM was compated to BLAST. 
+The scripts and outputs of this analysis can be found here [ProtNLM/README.md](ProtNLM/README.md)
+
+![ProtNLM](protnlm_panel.png)
+
+----------------------------
+# AI Transcriptional Expression Summary
+The beta PlasmoDB summary was evaluated to assess how well the language used matches the magnitude of change. Differential expression
+statistics, directional fold change percentiles and explicit confidence and biological importance scoring was calculated and the
+PlasmoDB AI expression summary pipeline was modified to include this new data. The LLM was also asked to compare both the original
+summary and the new statistical one. The prompts are scripts are found here [AI Expression Summary/README.md](AI Expression Summary/README.md)
+![AI summary](AI_summ_panel.py)
+
+----------------------------
+# AI function prediction pipeline
+Alongside the transcriptomics data, additional data types such as WGCNA coexpression, hyperLOPIT subcellular localisation data and MAP-X predicted interactions were provided to the Claude Opus 4.6. It was asked to give functional predictions and justifications for its findings. The outputs, prompts and scripts can be found here [AI Function Prediction Pipeline/README.md](AI Function Prediction Pipeline/README.md). This pipeline was run on genes with literature supported annotations and unknown genes.
+
+To evaluate the use of AlphaFold3 in this pipeline, AF3 was first run on curated interactions. Its performance was also assessed on WGCNA coexpressed genes and predicted MAP-X interactors. Further information can be found here [AI Function Prediction Pipeline/README.md](AI Function Prediction Pipeline/README.md).
+
+![Alphafold3](af3_panel.png)
+
+
+
+
+
+
+
+
+
+----------------------------
 ## 
