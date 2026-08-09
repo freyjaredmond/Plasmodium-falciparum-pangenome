@@ -1,5 +1,8 @@
-# *Plasmodium falciparum* pangenome
-The scripts used to build and explore the pangenome of Plasmodium falciparum using the GET_PANGENES pipeline
+# Construction of the Plasmodium falciparum Pangenome and AI-Based Functional Annotation
+The scripts used to construct and analysis the pangenome of *Plasmodium falciparum*, as well
+as the AI-based functional prediction of unknown *P. falciparum* genes.
+
+# *P. falciparum* pangenome
 ----------------------------
 ## LiftOff Analysis
 Prior to pangenome construction, LiftOff version 1.6.3 was used to transfer the curated 
@@ -21,32 +24,19 @@ To construct the *P. falciparum* pangenome, the GET_PANGENES pipeline was run on
 whole-genome *P. falciparum* assemblies.
 Full details of the pipeline, scripts and 
 outputs can be found in the [GET_PANGENES README](GET_PANGENES/README.md).
-The resulting pangenome was found to consist of approximately 45% core genes.
 
 ![Pangenome Occupancy](GET_PANGENES/Pangenome_occupancy_bar_growth.png)
 
-Pangenome growth simulations were computed to estimate the total size of the core and 
-pan-genome (20 permutations). The number of singleton genes contributed by each genome 
-was also identified.
-
-![Singleton Counts](GET_PANGENES/Singleton.png)
-
-Sample distance heatmaps were computed to explore the genomic similarity between 
-genome assemblies using POCS (Percentage of Conserved Sequences).
-
-![POCS Heatmap](GET_PANGENES/POCS_heatmap.png)
-
+----------------------------
 ## Rerunning GET_PANGENES
-The analysis was re run on 16 genomes exlcuding ML01, TG01, SD01 and NF135.C10 were not found to be of high enough quality (mixed infections, assembly errors).
-These genomes were inflating the cloud, shell and soft-core count.
+The analysis was re run on 16 genomes excluding ML01, TG01, SD01 and NF135.C10 were not found to be of high enough quality (mixed infections, assembly errors).These genomes were inflating the cloud, shell and soft-core count. Pseudogenes were also included to
+promote pangenome completeness.
+The below panel highlights the issues with the 20 genome pangenome
+![20_pangenome](GET_PANGENES/20_genome_quality.png).
 
-The new results are also found in [GET_PANGENES README](GET_PANGENES/README.md).
+The results and scripts of the higher quality 16 genome pangenome are also found in [GET_PANGENES README](GET_PANGENES/README.md).
 
-![Pangenome Occupancy](GET_PANGENES/Pangenome_occupancy_bar_growth_16_pseudo.png)
-
-![Singleton Counts](GET_PANGENES/Singleton_16.png)
-
-![POCS Heatmap](GET_PANGENES/POCS_heatmap_16.png)
+![16 genome](GET_PANGENES/16_genome.png)
 
 ----------------------------
 ## Analysing the pangenome
@@ -54,20 +44,21 @@ The new results are also found in [GET_PANGENES README](GET_PANGENES/README.md).
 The mean percentage of pangenes with InterPro IDs, protein length, paralog count and ortholog count were mapped to the pangenome.
 All of the scripts and analyses are found here [Exploring the pangenome README](Exploring_the_pangenome/README.md)
 
-![Characterising the pangenome](Exploring_the_pangenome/Figure2_pangenome_characteristics_sixteen.png)
+![Characterising the pangenome](Exploring_the_pangenome/Figure2_pangenome_characteristics_sixteen_PSEUDO.png)
 
 ----------------------------
 ## Evidence for pangenes
 Mean pLDDT scores, RNA-seq data and peptide counts were mapped to the pangenome.
 All of the scripts and analyses are found here [Exploring the pangenome README](Exploring_the_pangenome/README.md)
 
-![Evidence for the pangenome](Exploring_the_pangenome/Figure3_pangenome_support_sixteen.png)
-
+![Evidence for the pangenome](Exploring_the_pangenome/Figure3_pangenome_support_PSEUDO.png)
 
 ----------------------------
 ## Characterising the functions of pangenes
 GO enrichment analysis was performed on the cloud and core genes. The scripts and outputs are found here: [README.md](Function_of_pangenes/README.md)
-![GO BP](Function_of_pangenes/GO_BP_dotplot_sixteen.png)
 
-Mean domain occupancy was also calculated across the pangenome [Domain Occupancy](Function_of_pangenes/domain_occupancy.py), and the function of highly variable and invariable pangenes was explored.
-![Domain Occupancy](Function_of_pangenes/Domain_occupancy_families_six_sixteen.png)
+The representative InterPro domain was also assigned to each cluster and the percentage occupancy of that domain across the cluster was calculated. Selected families were explored as a case study to compare core vs host interaction associated domains
+![Function of pangenes](Function_of_pangenes/Figure4_GO_sixteen.png)
+
+----------------------------
+## 
