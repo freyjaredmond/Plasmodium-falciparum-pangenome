@@ -93,7 +93,7 @@ The beta PlasmoDB summary was evaluated to assess how well the language used mat
 statistics, directional fold change percentiles and explicit confidence and biological importance scoring was calculated and the
 PlasmoDB AI expression summary pipeline was modified to include this new data. The LLM was also asked to compare both the original
 summary and the new statistical one. The prompts are scripts are found here [AI Expression Summary/README.md](AI%20Expression%20Summary/README.md)
-![AI summary](AI%20Expression%20Summary/AI_summ_panel.py)
+![AI summary](AI%20Expression%20Summary/AI_summ_panel.png)
 
 ----------------------------
 # AI function prediction pipeline
