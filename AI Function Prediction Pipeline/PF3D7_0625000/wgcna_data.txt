@@ -1,0 +1,155 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+merozoites-associated armadillo repeats protein 
+duffy binding-like merozoite surface protein 
+rhoptry-associated leucine zipper-like protein 1 
+apical asparagine-rich protein AARP 
+dipeptidyl aminopeptidase 3 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+serine/threonine protein kinase, putative 
+merozoite surface protein 10 
+merozoite surface protein 3 
+conserved Plasmodium membrane protein, unknown function 
+palmitoyltransferase DHHC7 
+conserved Plasmodium protein, unknown function 
+rhoptry protein ROP14 
+conserved protein, unknown function 
+rhoptry protein, putative 
+subpellicular microtubule protein 1, putative 
+HECT domain-containing protein 1, putative 
+conserved protein, unknown function 
+serine/threonine protein phosphatase 7 
+rhoptry neck protein 2 
+CLAMP-linked invasion protein CLIP, putative 
+conserved protein, unknown function 
+merozoite surface protein 11 
+apicomplexan kinetochore protein 11, putative 
+calcium-dependent protein kinase 1 
+conserved Plasmodium protein, unknown function 
+RING zinc finger protein, putative 
+rhoptry neck protein 11, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+subtilisin propeptide-like protein 
+rhoptry-associated membrane antigen 
+MSP7-like protein 
+surface-related antigen SRA 
+MORN repeat-containing protein 1 
+myosin A-tail interacting protein 
+asparagine-rich merozoite protein ARMA 
+rhoptry associated adhesin 
+conserved protein, unknown function 
+cytoadherence linked asexual protein 3.2 
+armadillo-interacting protein AIP 
+rhoptry-associated protein 2 
+apical membrane antigen 1 
+claudin-like apicomplexan microneme protein, putative 
+pseudo protein kinase 1, putative 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+adenylyl cyclase beta 
+apical merozoite protein 
+merozoites-associated armadillo repeats protein 
+duffy binding-like merozoite surface protein 
+rhoptry-associated leucine zipper-like protein 1 
+apical asparagine-rich protein AARP 
+dipeptidyl aminopeptidase 3 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+serine/threonine protein kinase, putative 
+merozoite surface protein 10 
+merozoite surface protein 3 
+conserved Plasmodium membrane protein, unknown function 
+palmitoyltransferase DHHC7 
+conserved Plasmodium protein, unknown function 
+rhoptry protein ROP14 
+conserved protein, unknown function 
+rhoptry protein, putative 
+subpellicular microtubule protein 1, putative 
+HECT domain-containing protein 1, putative 
+conserved protein, unknown function 
+serine/threonine protein phosphatase 7 
+rhoptry neck protein 2 
+CLAMP-linked invasion protein CLIP, putative 
+conserved protein, unknown function 
+merozoite surface protein 11 
+apicomplexan kinetochore protein 11, putative 
+calcium-dependent protein kinase 1 
+conserved Plasmodium protein, unknown function 
+RING zinc finger protein, putative 
+rhoptry neck protein 11, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+subtilisin propeptide-like protein 
+rhoptry-associated membrane antigen 
+MSP7-like protein 
+surface-related antigen SRA 
+MORN repeat-containing protein 1 
+myosin A-tail interacting protein 
+asparagine-rich merozoite protein ARMA 
+rhoptry associated adhesin 
+conserved protein, unknown function 
+cytoadherence linked asexual protein 3.2 
+armadillo-interacting protein AIP 
+rhoptry-associated protein 2 
+apical membrane antigen 1 
+claudin-like apicomplexan microneme protein, putative 
+pseudo protein kinase 1, putative 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+adenylyl cyclase beta 
+apical merozoite protein 
+****************
+
+Top 50 coexpressed genes GO terms 
+entry into host	26
+cell surface	22
+rhoptry	22
+protein binding	18
+nucleus	16
+apical part of cell	12
+host cell surface binding	10
+rhoptry neck	10
+plasma membrane	6
+cytoplasm	6
+anchored component of plasma membrane	6
+microneme	6
+symbiont-containing vacuole	6
+inner membrane pellicle complex	6
+endoplasmic reticulum	4
+extracellular vesicle	4
+host cell surface receptor binding	4
+cell-cell adhesion	4
+symbiont-containing vacuole membrane	4
+host cell cytosol	4
+apical complex	4
+membrane	4
+Golgi apparatus	4
+food vacuole	4
+protein phosphorylation	4
+extracellular space	2
+plastid organization	2
+IgM binding	2
+protein catabolic process	2
+cysteine-type peptidase activity	2
+cysteine-type endopeptidase activity	2
+aminopeptidase activity	2
+lysosome	2
+acyltransferase activity	2
+protein-cysteine S-palmitoyltransferase activity	2
+palmitoyltransferase activity	2
+protein maturation	2
+endoplasmic reticulum membrane	2
+protein targeting to membrane	2
+protein palmitoylation	2
+peptidyl-L-cysteine S-palmitoylation	2
+microtubule binding	2
+subpellicular microtubule	2
+cytoskeleton	2
+ubiquitin protein ligase activity	2
+microtubule anchoring	2
+cytosol	2
+protein serine/threonine phosphatase activity	2
+protein-containing complex	2
+proteolysis involved in cellular protein catabolic process	2

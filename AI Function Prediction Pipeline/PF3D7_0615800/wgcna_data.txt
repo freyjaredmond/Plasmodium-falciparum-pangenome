@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+conserved Plasmodium protein, unknown function 
+P-loop containing nucleoside triphosphate hydrolase, putative 
+cation diffusion facilitator family protein, putative 
+conserved Plasmodium protein, unknown function 
+ATP-dependent helicase, putative 
+conserved Plasmodium protein, unknown function 
+replication factor C subunit 2, putative 
+ribosome-recycling factor 
+replication protein A1, small fragment 
+conserved Plasmodium protein, unknown function 
+protein AMR1 
+lysine decarboxylase-like protein, putative 
+pseudouridine synthase, putative 
+DNA polymerase alpha subunit B, putative 
+origin recognition complex subunit 5 
+bifunctional dihydrofolate reductase-thymidylate synthase 
+GTP-binding translation elongation factor tu family protein, putative 
+CS domain protein, putative 
+DEAD box helicase, putative 
+conserved protein, unknown function 
+structural maintenance of chromosomes protein 3 
+proliferating cell nuclear antigen 1 
+conserved protein, unknown function 
+mitochondrial inner membrane protein OXA1, putative 
+mTERF domain-containing protein, putative 
+mediator of RNA polymerase II transcription subunit 6, putative 
+GPI transamidase subunit PIG-U, putative 
+tetratricopeptide repeat protein, putative 
+RMI1 domain-containing protein, putative 
+pentatricopeptide repeat-containing protein 1 
+SPRY domain, putative 
+30S ribosomal protein S9, putative 
+ribonuclease H2 subunit B, putative 
+chromatin assembly factor 1 subunit A 
+conserved Plasmodium protein, unknown function 
+TBC domain protein, putative 
+replication factor C subunit 1 
+AP2 domain transcription factor, putative 
+protein CutA, putative 
+kinetochore protein SPC25, putative 
+ABC transporter B family member 5, putative 
+replication factor C subunit 5, putative 
+RNA-binding protein, putative 
+ABC transporter B family member 7, putative 
+apicoplast ribosomal protein S6, putative 
+conserved Plasmodium protein, unknown function 
+CCAAT-binding transcription factor, putative 
+replication factor C subunit 4, putative 
+conserved protein, unknown function 
+tetratricopeptide repeat protein, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	15
+apicoplast	12
+RNA binding	9
+mitochondrion	9
+DNA repair	5
+DNA replication factor C complex	5
+DNA replication	5
+DNA-dependent DNA replication	4
+cytosol	4
+ATP binding	4
+DNA binding	3
+protein binding	3
+leading strand elongation	3
+translation	2
+helicase activity	2
+response to xenobiotic stimulus	2
+DNA replication initiation	2
+sequence-specific DNA binding	2
+ribonucleoprotein complex	2
+nuclear periphery	2
+mitotic sister chromatid segregation	2
+membrane	2
+plasma membrane	2
+structural constituent of ribosome	2
+DNA replication factor A complex	1
+ribosomal large subunit binding	1
+ribosome disassembly	1
+zinc ion transport	1
+damaged DNA binding	1
+single-stranded DNA binding	1
+single-stranded telomeric DNA binding	1
+telomere maintenance	1
+telomere maintenance via telomerase	1
+cell surface	1
+zinc ion transmembrane transporter activity	1
+DNA unwinding involved in DNA replication	1
+double-strand break repair via homologous recombination	1
+meiotic cell cycle	1
+nucleotide-excision repair	1
+DNA biosynthetic process	1
+DNA-directed DNA polymerase activity	1
+alpha DNA polymerase:primase complex	1
+plastid organization	1
+nuclear pre-replicative complex	1
+ATP hydrolysis activity	1
+nuclear origin of replication recognition complex	1
+DNA replication, synthesis of RNA primer	1
+cytoplasm	1
+DNA replication origin binding	1
+thymidylate synthase activity	1

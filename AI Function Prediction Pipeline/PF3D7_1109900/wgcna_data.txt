@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+RNA cytosine C(5)-methyltransferase, putative 
+DNA-directed RNA polymerase III subunit RPC6, putative 
+conserved protein, unknown function 
+cyclin-like protein, putative 
+ATP-dependent 6-phosphofructokinase 
+eukaryotic translation initiation factor 3 subunit B, putative 
+RNA methyltransferase, putative 
+40S ribosomal protein S7, putative 
+transcription factor BTF3, putative 
+glycine--tRNA ligase 
+RuvB-like helicase 3 
+COBW domain-containing protein 1, putative 
+cytidine and deoxycytidylate deaminase, putative 
+valine--tRNA ligase, putative 
+THUMP domain-containing protein, putative 
+eukaryotic translation initiation factor 3 subunit M, putative 
+proliferation-associated protein 2g4, putative 
+nitric oxide synthase, putative 
+T-complex protein 1 subunit delta 
+threonine--tRNA ligase 
+mediator of RNA polymerase II transcription subunit 7, putative 
+40S ribosomal protein S6 
+60S ribosomal protein L7, putative 
+tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative 
+methyltransferase, putative 
+conserved Plasmodium protein, unknown function 
+nucleolar GTP-binding protein 1, putative 
+translation machinery-associated protein 46, putative 
+40S ribosomal protein S19 
+T-complex protein 1 subunit alpha 
+deoxyhypusine synthase 
+60S ribosomal protein L7-3, putative 
+tetratricopeptide repeat protein, putative 
+60S ribosomal protein L13-2, putative 
+methionine aminopeptidase 1b, putative 
+60S ribosomal protein L6, putative 
+cytochrome c, putative 
+60S ribosomal protein L15, putative 
+serine/threonine protein kinase 
+tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase 
+ribosomal protein RSM22 
+orotidine 5'-phosphate decarboxylase 
+DNA-directed RNA polymerase II subunit RPB3, putative 
+diphthine methyl ester synthase, putative 
+nuclear movement protein, putative 
+eukaryotic translation initiation factor 6, putative 
+40S ribosomal protein S20e, putative 
+alanine--tRNA ligase 
+tRNA N6-adenosine threonylcarbamoyltransferase 
+elongation factor Tu, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	28
+RNA binding	9
+cytosol	9
+structural constituent of ribosome	9
+translation	8
+cytoplasm	7
+mitochondrion	6
+cytosolic large ribosomal subunit	5
+ATP binding	4
+apicoplast	4
+cytosolic small ribosomal subunit	4
+cytoplasmic translation	3
+nucleolus	3
+response to xenobiotic stimulus	3
+maturation of LSU-rRNA	3
+protein folding	3
+extracellular vesicle	3
+unfolded protein binding	3
+protein binding	3
+ribosomal large subunit biogenesis	2
+metalloexopeptidase activity	2
+preribosome, large subunit precursor	2
+chaperonin-containing T-complex	2
+tRNA aminoacylation for protein translation	2
+tRNA modification	2
+regulation of transcription by RNA polymerase II	2
+eukaryotic translation initiation factor 3 complex	2
+GTP binding	2
+rRNA (cytosine-C5-)-methyltransferase activity	1
+translational initiation	1
+response to glucose	1
+RNA polymerase III complex	1
+ribosomal small subunit biogenesis	1
+rRNA processing	1
+small-subunit processome	1
+NuA4 histone acetyltransferase complex	1
+Ino80 complex	1
+mitochondrial glycyl-tRNA aminoacylation	1
+glycyl-tRNA aminoacylation	1
+glycine-tRNA ligase activity	1
+transcription regulator complex	1
+host cell periphery	1
+R2TP complex	1
+box C/D snoRNP assembly	1
+chromatin remodeling	1
+histone acetylation	1
+nucleotide binding	1
+symbiont-containing vacuole	1
+ATP hydrolysis activity	1
+DNA helicase activity	1

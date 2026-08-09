@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+conserved protein, unknown function 
+40S ribosomal protein S7, putative 
+ATP-dependent 6-phosphofructokinase 
+translation machinery-associated protein 46, putative 
+THUMP domain-containing protein, putative 
+eukaryotic translation initiation factor 3 subunit B, putative 
+RuvB-like helicase 3 
+60S ribosomal protein L7-3, putative 
+DNA-directed RNA polymerase III subunit RPC6, putative 
+40S ribosomal protein S6 
+60S ribosomal protein L15, putative 
+60S ribosomal protein L7, putative 
+40S ribosomal protein S21 
+pre-mRNA-splicing factor RDS3, putative 
+T-complex protein 1 subunit alpha 
+threonine--tRNA ligase 
+T-complex protein 1 subunit delta 
+RNA cytosine C(5)-methyltransferase, putative 
+ATP-dependent RNA helicase UAP56 
+cyclin-like protein, putative 
+transcription factor BTF3, putative 
+eukaryotic translation initiation factor 3 subunit M, putative 
+60S ribosomal protein L4 
+40S ribosomal protein S11 
+60S ribosomal protein L18, putative 
+40S ribosomal protein S23, putative 
+60S ribosomal protein L13-2, putative 
+valine--tRNA ligase, putative 
+U6 snRNA-associated Sm-like protein LSm7, putative 
+60S ribosomal protein L37ae, putative 
+cytidine and deoxycytidylate deaminase, putative 
+40S ribosomal protein S15A, putative 
+40S ribosomal protein S3A, putative 
+40S ribosomal protein S9, putative 
+40S ribosomal protein S16, putative 
+DNA/RNA-binding protein Alba 3 
+40S ribosomal protein S18, putative 
+elongation factor 1-gamma, putative 
+proliferation-associated protein 2g4, putative 
+orotidine 5'-phosphate decarboxylase 
+40S ribosomal protein S11, putative 
+40S ribosomal protein S19 
+60S ribosomal protein L5, putative 
+glycine--tRNA ligase 
+heat shock protein DNAJ homologue Pfj4 
+eukaryotic translation initiation factor 2 subunit gamma, putative 
+60S ribosomal protein L37 
+mediator of RNA polymerase II transcription subunit 7, putative 
+plasmepsin III 
+40S ribosomal protein S3 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	39
+RNA binding	20
+structural constituent of ribosome	19
+translation	18
+cytosolic small ribosomal subunit	12
+cytosol	10
+cytosolic large ribosomal subunit	8
+extracellular vesicle	7
+cytoplasm	5
+response to xenobiotic stimulus	4
+protein binding	4
+unfolded protein binding	3
+ATP binding	3
+small ribosomal subunit	3
+RNA N6-methyladenosine methyltransferase complex	3
+regulation of transcription by RNA polymerase II	2
+chaperonin-containing T-complex	2
+ribosome	2
+maturation of LSU-rRNA	2
+cytoplasmic translation	2
+eukaryotic translation initiation factor 3 complex	2
+small-subunit processome	2
+translational initiation	2
+apicoplast	2
+mitochondrion	2
+positive regulation of translational fidelity	2
+food vacuole	2
+tRNA aminoacylation for protein translation	2
+translation initiation factor activity	2
+protein folding	2
+mRNA splicing, via spliceosome	2
+rRNA processing	1
+ribosomal small subunit biogenesis	1
+R2TP complex	1
+NuA4 histone acetyltransferase complex	1
+6-phosphofructokinase complex	1
+6-phosphofructokinase activity	1
+phosphofructokinase activity	1
+response to glucose	1
+tRNA transcription by RNA polymerase III	1
+RNA polymerase III complex	1
+histone acetylation	1
+host cell periphery	1
+ATP hydrolysis activity	1
+DNA helicase activity	1
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1
+spliceosomal complex assembly	1
+precatalytic spliceosome	1
+Ino80 complex	1

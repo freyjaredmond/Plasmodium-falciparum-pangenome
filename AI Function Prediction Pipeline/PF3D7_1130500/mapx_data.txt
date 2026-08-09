@@ -1,0 +1,15 @@
+Gold standard interactions 
+******************
+conserved oligomeric Golgi complex subunit 3, putative
+conserved oligomeric Golgi complex subunit 4, putative
+conserved oligomeric Golgi complex subunit 6, putative
+******************
+Gold standard interactors GO term counts 
+intra-Golgi vesicle-mediated transport	2
+Golgi transport complex	1
+******************
+MapX interaction pair counts 
+No above-threshold MapX interactions available
+******************
+MapX above-threshold interactors GO term counts 
+No above-threshold MapX interactions available

@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+conserved oligomeric Golgi complex subunit 2, putative 
+protein AMR3 
+cyclin-like protein, putative 
+translation initiation factor eIF-2B subunit alpha, putative 
+ubiquitin carboxyl-terminal hydrolase UCH54 
+inorganic pyrophosphatase, putative, inorganic pyrophosphatase 
+phosphatidylinositol N-acetylglucosaminyltransferase subunit H, putative 
+serine/threonine protein kinase, putative 
+HROB domain-containing protein 
+DNA-(apurinic or apyrimidinic site) endonuclease 
+AP2 domain transcription factor AP2-HC 
+proline--tRNA ligase, putative 
+DNA replication licensing factor MCM7 
+conserved protein, unknown function 
+E3 ubiquitin-protein ligase 
+conserved protein, unknown function 
+spindle and kinetochore-associated protein 2, putative 
+ATP synthase F0 subunit d-like protein, putative 
+syntaxin-16, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, putative 
+DNA topoisomerase 3 
+TBC domain protein, putative 
+origin recognition complex subunit 2 
+conserved Plasmodium protein, unknown function 
+30S ribosomal protein S9, putative 
+TBCC domain-containing protein, putative 
+conserved Plasmodium protein, unknown function 
+ATPase, putative 
+DNA replication licensing factor MCM4 
+conserved protein, unknown function 
+ribosomal protein L21, apicoplast, putative 
+conserved Plasmodium protein, unknown function 
+phosphatidylinositol N-acetylglucosaminyltransferase subunit GPI1 
+cytochrome c oxidase assembly protein COX15, putative 
+leucine-rich repeat protein 1 
+dephospho-CoA kinase 
+pseudouridine synthase, putative 
+acyl carrier protein 
+kinetochore protein SPC24, putative 
+cohesin complex subunit RAD21 
+ribosomal protein S10, apicoplast, putative 
+glutamyl-tRNA(Gln) amidotransferase subunit A 
+DNA replication licensing factor MCM5, putative 
+GPI transamidase subunit PIG-U, putative 
+phosphoenolpyruvate/phosphate translocator 
+GTP-binding protein Obg2, putative 
+FAD-dependent glycerol-3-phosphate dehydrogenase, putative 
+RAD51 domain-containing protein 
+****************
+
+Top 50 coexpressed genes GO terms 
+apicoplast	14
+nucleus	13
+mitochondrion	12
+DNA replication origin binding	4
+DNA replication initiation	4
+protein binding	4
+MCM complex	3
+double-strand break repair via break-induced replication	3
+DNA unwinding involved in DNA replication	3
+single-stranded DNA binding	3
+DNA strand elongation involved in DNA replication	3
+RNA binding	3
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3
+structural constituent of ribosome	3
+cytoplasm	2
+ATP-dependent activity, acting on DNA	2
+kinetochore	2
+plastid organization	2
+intracellular protein transport	2
+membrane	2
+translation	2
+response to xenobiotic stimulus	2
+cytosol	2
+small ribosomal subunit	2
+eukaryotic translation initiation factor 2B complex	1
+regulation of translational initiation	1
+translation initiation factor activity	1
+intra-Golgi vesicle-mediated transport	1
+protein deneddylation	1
+NEDD8-specific protease activity	1
+thiol-dependent deubiquitinase	1
+DNA repair	1
+ribonuclease activity	1
+phosphodiesterase I activity	1
+phosphatase activity	1
+double-stranded DNA 3'-5' exodeoxyribonuclease activity	1
+DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+3'-5' exonuclease activity	1
+phosphate-containing compound metabolic process	1
+protein deubiquitination	1
+pyrophosphatase activity	1
+magnesium ion binding	1
+inorganic diphosphatase activity	1
+ubiquitin-dependent protein catabolic process	1
+base-excision repair	1
+prolyl-tRNA aminoacylation	1
+proline-tRNA ligase activity	1
+heterochromatin	1
+sequence-specific DNA binding	1
+entry into host	1

@@ -1,0 +1,36 @@
+## Predicted Functions
+
+1. A schizont/late trophozoite-stage nuclear protein involved in cell cycle regulation or chromosome organization during the intraerythrocytic developmental cycle (IDC).
+2. A component of protein complex assembly or scaffolding required for schizogony and merozoite formation.
+3. A regulatory protein involved in DNA replication, chromatin remodeling, or transcriptional control during late asexual blood stages.
+4. A protein contributing to inner membrane complex or apical complex biogenesis during schizont maturation.
+5. A mitochondrial-associated regulatory protein with a role in coordinating organelle division with nuclear division during schizogony.
+
+## Summary
+
+This gene encodes a nuclear protein that peaks in expression during late trophozoite and schizont stages of the <i>Plasmodium falciparum</i> intraerythrocytic developmental cycle. It is essential for parasite growth (piggyBac fitness score: −2.834) and is phosphorylated, suggesting regulatory function. Coexpression with cell cycle regulators (cohesin RAD21, condensin subunit, CDK-related kinases, cullin-1), inner membrane complex proteins, and mitochondrial components points to a role in coordinating schizogony — potentially in cell division, chromosome segregation, or organelle partitioning during the replicative stages of asexual development.
+
+## Evidence
+
+### Transcriptomics
+The gene shows a clear late-stage IDC expression peak. In the Otto et al. blood-stage time course, expression rises from 0hr (49.97 TPM) to peak at 40hr (118.6 TPM, FC 2.4) and 48hr (122.34 TPM, FC 2.4), with downregulation at 16hr (FC −5.7, top 16% downregulated). The Kucharski high-resolution time course confirms this: expression climbs from 2.16 TPM at 4hr to 62.27 TPM at 38hr (FC 28.9, top 8% upregulated) and 46.74 TPM at 34hr (FC 21.7, top 7.9%). The Toenhake IDC data shows T05 (77.81 TPM) declining through mid-IDC (T15: 4.98 TPM, FC −15.6) then recovering at T40 (222.3 TPM, FC 2.9). The Wichers et al. data shows significant upregulation from mid-trophozoite to late trophozoite (FC 3.9, p = 1.3e-21, top 8.1% significant) and from late trophozoite to early schizont (FC 2.5, p = 0.01). UTR-Seq shows the strongest upregulation at 40hr (FC 3.2, top 1.2% upregulated, p = 0). The schizont-to-trophozoite comparison (Josling et al.) shows 14.8-fold downregulation (p = 1.1e-25, top 0.7% significant), confirming schizont-enriched expression. In the Tang et al. data, ring-to-schizont FC is 6.8 (top 14.1%, p = 2.6e-13). Expression is substantially reduced in sporozoites (FC −35.8 vs blood stage, Hoffmann et al.) and in gametocytes relative to schizonts (FC −18.7, Lopez-Barragan). The antisense strand data from Gomez-Diaz and Subudhi show moderate antisense expression at ring stages, with antisense declining during late stages — consistent with an antisense regulatory relationship. The severe vs. uncomplicated malaria comparison shows antisense upregulation in severe malaria (FC 2.3, top 10.1%, p = 4.8e-4).
+
+### Additional Data (Proteomics, Mutagenesis, PTMs)
+Only 4 of 63 mass spectrometry samples detected this protein (7 unique peptides total), indicating low abundance or stage-restricted expression, consistent with schizont-specific function. The piggyBac mutant fitness score of −2.834 indicates the gene is essential for asexual blood-stage growth — disruption is highly deleterious. The protein has 7 phosphorylation sites, suggesting it is subject to kinase-mediated regulation, consistent with a role in cell cycle or signaling pathways during schizogony.
+
+### Coexpression (WGCNA)
+The top 50 coexpressed genes are enriched for nuclear proteins (15/50 with nucleus GO term), consistent with a nuclear function. Key coexpressed genes include: cohesin subunit RAD21 (chromosome segregation), condensin complex subunit 2 (chromosome condensation), cullin-1 (SCF ubiquitin ligase, cell cycle regulation), cdc2-related protein kinase 4 and cyclin-dependent kinase binding protein (cell cycle control), spindle assembly abnormal protein 6 (mitotic spindle), and inner membrane complex proteins (IMC protein, PhIL1-interacting candidate PIC6, apical polar ring protein APR1). Additional coexpressed genes include mitochondrial components (cytochrome c oxidase subunits, mitochondrial fission 1 protein, type II NADH:ubiquinone oxidoreductase, fumarate hydratase) and vesicle trafficking components (syntaxin-6, SNF7, ADP-ribosylation factor). The GO term enrichment highlights nucleus (15), mitochondrion (6), regulation of cell cycle (2), mitotic spindle organization (1), and inner membrane pellicle complex (2). This coexpression profile strongly supports a role in coordinating nuclear division with organelle biogenesis during schizogony.
+
+### Localisation
+No hyperLOPIT localisation data was available for this protein.
+
+### Binding
+No gold standard or above-threshold MapX interaction data was available.
+
+## Confidence
+
+Confidence is **moderate-to-high** for a schizont-stage nuclear function related to cell division. The transcriptomics data is highly consistent across multiple independent studies, all showing clear late-stage IDC upregulation. The essential fitness score (−2.834) strongly supports functional importance. The coexpression network robustly points toward cell cycle regulation and chromosome dynamics (RAD21, condensin, CDKs, cullin-1), with a secondary theme of inner membrane complex/apical complex biogenesis. The main limitation is the absence of localisation and protein interaction data, which prevents confirmation of the nuclear localization suggested by coexpression GO terms. The low proteomic detection (4/63 samples) could reflect either genuine low abundance or difficulties in detecting this protein. The coexpression module contains multiple functional themes (nuclear division, mitochondrial, vesicular), introducing some ambiguity, but the dominant theme is clearly nuclear/cell cycle.
+
+## Experimental Validation
+
+To confirm function: (1) Endogenous GFP-tagging would verify subcellular localization (expected: nucleus during schizogony). (2) Conditional knockdown (e.g., glmS ribozyme or DD-FKBP system) timed to late trophozoite stage, followed by phenotypic characterization (growth rate, nuclear division defects by microscopy, merozoite number per schizont) would test whether the gene is required for schizogony. (3) Co-immunoprecipitation followed by mass spectrometry during schizont stages would identify binding partners, predicted to include cohesin/condensin components or CDK complexes. (4) Phospho-mutant analysis (mutation of the 7 phosphorylation sites) could reveal regulatory mechanisms. (5) Bioinformatically, structural prediction (AlphaFold) and domain analysis could identify conserved functional motifs, and phylogenetic profiling across Apicomplexa could assess conservation in species with similar schizogony mechanisms.

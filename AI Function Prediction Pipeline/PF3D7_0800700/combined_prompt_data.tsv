@@ -1,0 +1,6 @@
+Data Type	Study	Description	Condition	Metric	Value
+Mass Spectrometry Peptide Counts	N/A	Peptide count data from Mass Spec experiments	N/A	Selected Samples that match	1
+Mass Spectrometry Peptide Counts	N/A		N/A	Sum of Unique Peptides (Within Samples)	2
+Mass Spectrometry Peptide Counts	N/A		N/A	Unique Peptides (Across Samples)	2
+Mass Spectrometry Peptide Counts	N/A		N/A	Total number of samples	63
+Mutagenesis	piggyBac insertion mutagenesis	P. falciparum NF54 piggyBac mutagenesis	N/A	P.falciparum 3D7 piggyBac insertion mutagenesis - mutant fitness score	-1.181

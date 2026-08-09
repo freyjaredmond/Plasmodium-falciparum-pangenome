@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+major facilitator superfamily domain-containing protein, putative 
+conserved Plasmodium protein, unknown function 
+serine/threonine protein kinase, putative 
+conserved Plasmodium protein, unknown function 
+apical sushi protein 
+cytoadherence linked asexual protein 3.2 
+conserved Plasmodium protein, unknown function 
+cGMP-specific 3',5'-cyclic phosphodiesterase alpha 
+apical asparagine-rich protein AARP 
+rhoptry-associated leucine zipper-like protein 1 
+rhoptry neck protein 2 
+shewanella-like protein phosphatase 2 
+phospholipid scramblase 
+dipeptidyl aminopeptidase 3 
+conserved Plasmodium protein, unknown function 
+double C2-like domain-containing protein 
+rhoptry protein, putative 
+conserved protein, unknown function 
+asparagine-rich merozoite protein ARMA 
+conserved protein, unknown function 
+negative elongation factor A, putative 
+rhoptry neck protein 5 
+rhoptry neck protein 11, putative 
+tetratricopeptide repeat protein, putative 
+conserved Plasmodium membrane protein, unknown function 
+merozoites-associated armadillo repeats protein 
+myosin light chain B 
+cytoadherence linked asexual protein 3.1 
+phosphoinositide-binding protein PH2 
+conserved Plasmodium protein, unknown function 
+surface-related antigen SRA 
+armadillo-interacting protein AIP 
+palmitoyltransferase DHHC7 
+MORN repeat-containing protein 1 
+protein CINCH 
+subpellicular microtubule protein 1, putative 
+HECT domain-containing protein 1, putative 
+plasmepsin IX 
+conserved Plasmodium protein, unknown function 
+peroxiredoxin 
+conserved protein, unknown function 
+rhoptry-associated membrane antigen 
+conserved Plasmodium membrane protein, unknown function 
+phospholipase PL38 
+duffy binding-like merozoite surface protein 
+protein kinase domain-containing protein, putative 
+apical exonemal protein 
+merozoite surface protein 10 
+conserved Plasmodium protein, unknown function 
+pseudo protein kinase 1, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+entry into host	11
+nucleus	9
+apical part of cell	8
+rhoptry	8
+protein binding	7
+rhoptry neck	6
+cell surface	6
+membrane	5
+host cell surface binding	4
+host cell plasma membrane	3
+anchored component of plasma membrane	3
+cell-cell adhesion	2
+host cell surface receptor binding	2
+extracellular vesicle	2
+protein-containing complex	2
+cytoadherence to microvasculature, mediated by symbiont protein	2
+anion channel activity	2
+cell adhesion molecule binding	2
+endoplasmic reticulum	2
+inner membrane pellicle complex	2
+basal part of cell	2
+host cell cytosol	2
+RNA binding	2
+Golgi apparatus	2
+binding	1
+microneme	1
+cGMP catabolic process	1
+cGMP binding	1
+3',5'-cyclic-GMP phosphodiesterase activity	1
+calcium ion binding	1
+perinuclear region of cytoplasm	1
+protein tyrosine phosphatase activity	1
+plasma membrane phospholipid scrambling	1
+magnesium ion binding	1
+aminopeptidase activity	1
+symbiont-containing vacuole membrane	1
+lysosome	1
+extracellular space	1
+phospholipid scramblase activity	1
+proteolysis involved in cellular protein catabolic process	1
+cysteine-type endopeptidase activity	1
+cysteine-type peptidase activity	1
+cytoplasmic vesicle	1
+calcium-dependent phospholipid binding	1
+protein catabolic process	1
+myosin complex	1
+phosphatidylinositol binding	1
+host cell cytoplasm	1
+plasma membrane	1
+host cell	1

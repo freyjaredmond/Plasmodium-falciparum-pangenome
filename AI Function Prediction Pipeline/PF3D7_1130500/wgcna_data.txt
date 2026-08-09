@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+uracil-DNA glycosylase 
+structural maintenance of chromosomes protein 4, putative 
+DNA replication licensing factor MCM3, putative 
+NSE4 domain-containing protein, putative 
+NIMA related kinase 1 
+DNA replication licensing factor MCM7 
+signal peptidase complex catalytic subunit SEC11 
+50S ribosomal protein L17, apicoplast, putative 
+DNA replication licensing factor MCM5, putative 
+conserved Plasmodium protein, unknown function 
+translation initiation factor IF-3 
+copper-transporting ATPase 
+protein TOC75, putative 
+conserved Plasmodium protein, unknown function 
+protein phosphatase containing kelch-like domains 
+cytochrome c oxidase subunit ApiCOX13, putative 
+cyclin-like protein, putative 
+conserved Plasmodium protein, unknown function 
+phosphatidylinositol N-acetylglucosaminyltransferase subunit A, putative 
+conserved protein, unknown function 
+conserved protein, unknown function 
+AP2 domain transcription factor AP2-HC 
+DNA replication licensing factor MCM4 
+ATP-dependent Clp protease adapter protein ClpS 
+DNA topoisomerase 3 
+flap endonuclease 1 
+ubiquitin carboxyl-terminal hydrolase UCH54 
+protein AMR3 
+NADH-cytochrome b5 reductase, putative 
+ribosomal protein L21, mitochondrial, putative 
+phosphatidylinositol N-acetylglucosaminyltransferase subunit H, putative 
+cytochrome c oxidase subunit 5B, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+inorganic pyrophosphatase, putative, inorganic pyrophosphatase 
+acyl carrier protein 
+condensin complex subunit 1, putative 
+crossover junction endonuclease MUS81, putative 
+GPI ethanolamine phosphate transferase 3, putative 
+ATP synthase-associated protein, putative 
+thiamine pyrophosphokinase 
+50S ribosomal protein L14, mitochondrial, putative 
+WPP motif-containing protein, putative 
+translation initiation factor eIF-2B subunit alpha, putative 
+conserved Plasmodium protein, unknown function 
+serine/threonine protein kinase, putative 
+50S ribosomal protein L18, apicoplast, putative 
+cytochrome c oxidase subunit ApiCOX18, putative 
+major facilitator superfamily domain-containing protein, putative 
+conserved Plasmodium membrane protein, unknown function 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	15
+mitochondrion	12
+apicoplast	9
+double-strand break repair via break-induced replication	5
+single-stranded DNA binding	4
+DNA replication origin binding	4
+protein binding	4
+DNA strand elongation involved in DNA replication	4
+structural constituent of ribosome	4
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication	4
+MCM complex	4
+DNA replication initiation	3
+cytoplasm	3
+mitochondrial large ribosomal subunit	3
+endoplasmic reticulum	3
+DNA unwinding involved in DNA replication	3
+mitotic DNA replication initiation	2
+mitotic chromosome condensation	2
+ATP hydrolysis activity	2
+condensin complex	2
+ATP-dependent activity, acting on DNA	2
+translation initiation factor activity	2
+mitochondrial respiratory chain complex IV	2
+cytosol	2
+endodeoxyribonuclease activity	2
+plastid organization	2
+membrane	2
+GPI anchor biosynthetic process	2
+uracil DNA N-glycosylase activity	1
+signal peptide processing	1
+peptidase activity	1
+signal peptidase complex	1
+large ribosomal subunit	1
+nuclear pre-replicative complex	1
+ATP binding	1
+DNA helicase activity	1
+translation	1
+RNA binding	1
+ribosome binding	1
+base-excision repair	1
+base-excision repair, AP site formation via deaminated base removal	1
+chromosome, centromeric region	1
+protein phosphorylation	1
+mitotic cell cycle	1
+response to xenobiotic stimulus	1
+P-type proton-exporting transporter activity	1
+P-type calcium transporter activity	1
+plasma membrane	1
+host cell plasma membrane	1
+cytoplasmic vesicle	1

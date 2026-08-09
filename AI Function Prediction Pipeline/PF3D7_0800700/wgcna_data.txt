@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+adenylate kinase-like protein 1 
+conserved protein, unknown function 
+AAA family ATPase, putative 
+ubiquitin-like domain-containing protein, putative 
+DEAD box ATP-dependent RNA helicase, putative 
+mitochondrial import inner membrane translocase subunit TIM16, putative 
+conserved Plasmodium protein, unknown function 
+pseudouridine synthase, putative 
+methyltransferase, putative 
+orotate phosphoribosyltransferase 
+pyridoxal phosphate homeostasis protein, putative 
+centrosomal protein CEP170, putative 
+LETM1-like protein, putative 
+glutathione synthetase 
+guanylate kinase 
+RAP protein RAP21 
+mitochondrial import inner membrane translocase subunit TIM9, putative 
+mitochondrial carrier protein, putative 
+conserved protein, unknown function 
+ATP-dependent RNA helicase DBP6, putative 
+conserved Plasmodium protein, unknown function 
+lysine-rich membrane-associated PHISTb protein 
+dihydroorotate dehydrogenase 
+GrpE protein homolog, mitochondrial, putative 
+translation machinery-associated protein, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+transcriptional regulatory protein sir2b 
+ABC transporter E family member 1, putative 
+multidrug-resistant modulator MFR3 
+drug/metabolite transporter DMT2 
+aspartate carbamoyltransferase 
+apicomplexan kinetochore protein 7, putative 
+activator of Hsp90 ATPase 
+lipoate-protein ligase 1 
+mitochondrial import inner membrane translocase subunit TIM10, putative 
+serine/threonine protein phosphatase CPPED1, putative 
+tRNA m(1)G methyltransferase, putative 
+mitochondrial import receptor subunit TOM22, putative 
+regulator of chromosome condensation, putative 
+conserved Plasmodium protein, unknown function 
+Plasmodium exported protein (hyp9), unknown function 
+heat shock protein 70 
+DNA-directed RNA polymerase 
+conserved Plasmodium protein, unknown function 
+calcyclin binding protein, putative 
+mitochondrial import inner membrane translocase subunit TIM8, putative 
+thioredoxin-like protein 
+M18 aspartyl aminopeptidase 
+conserved Plasmodium protein, unknown function 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	20
+mitochondrion	16
+cytoplasm	6
+cytosol	5
+ATP binding	4
+protein binding	3
+protein targeting to mitochondrion	3
+Maurer's cleft	3
+protein insertion into mitochondrial inner membrane	3
+response to xenobiotic stimulus	3
+protein-transporting ATPase activity	2
+apicoplast	2
+protein import into mitochondrial matrix	2
+TIM23 mitochondrial import inner membrane translocase complex	2
+RNA helicase activity	2
+mitochondrial intermembrane space	2
+'de novo' pyrimidine nucleobase biosynthetic process	2
+ATP hydrolysis activity	2
+mitochondrial inner membrane	2
+unfolded protein binding	2
+rRNA processing	1
+pyrimidine nucleotide biosynthetic process	1
+protein dimerization activity	1
+RNA metabolic process	1
+pyridoxal phosphate binding	1
+adenylate kinase activity	1
+glutathione synthase activity	1
+glutathione binding	1
+cellular metal ion homeostasis	1
+mRNA binding	1
+pyrimidine ribonucleoside biosynthetic process	1
+dGDP phosphorylation	1
+glutathione biosynthetic process	1
+response to oxidative stress	1
+mitochondrial ribosome binding	1
+rRNA binding	1
+guanylate kinase activity	1
+preribosome, large subunit precursor	1
+host cell cytoplasm	1
+tRNA pseudouridine synthesis	1
+orotate phosphoribosyltransferase activity	1
+pseudouridine synthase activity	1
+host cell periphery	1
+host cell membrane	1
+host cell cytosol	1
+infected host cell surface knob	1
+cytoadherence to microvasculature, mediated by symbiont protein	1
+dihydroorotate dehydrogenase activity	1
+pyrimidine ribonucleotide biosynthetic process	1
+host cell surface	1

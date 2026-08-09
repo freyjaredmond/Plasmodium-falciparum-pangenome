@@ -1,0 +1,24 @@
+Gold standard interactions 
+******************
+conserved oligomeric Golgi complex subunit 6, putative
+conserved oligomeric Golgi complex subunit 2, putative
+conserved oligomeric Golgi complex subunit 3, putative
+******************
+Gold standard interactors GO term counts 
+intra-Golgi vesicle-mediated transport	3
+Golgi transport complex	2
+Golgi organization	1
+endoplasmic reticulum to Golgi vesicle-mediated transport	1
+******************
+MapX interaction pair counts 
+tRNA wybutosine-synthesizing protein, putative	1
+ribosome maturation protein SBDS, putative	1
+zinc finger protein, putative	1
+******************
+MapX above-threshold interactors GO term counts 
+U2 snRNP	1
+precatalytic spliceosome	1
+mRNA splicing, via spliceosome	1
+preribosome, large subunit precursor	1
+rRNA binding	1
+ribosomal large subunit assembly	1

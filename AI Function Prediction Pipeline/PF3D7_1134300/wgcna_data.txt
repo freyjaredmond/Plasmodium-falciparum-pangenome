@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+spindle assembly abnormal protein 6, putative 
+conserved Plasmodium membrane protein, unknown function 
+inner membrane complex protein, putative 
+conserved Plasmodium protein, unknown function 
+fumarate hydratase 
+syntaxin-6, putative 
+conserved Plasmodium membrane protein, unknown function 
+cell division control protein CDC50A 
+GYF domain-containing protein, putative 
+cullin-1 
+arginyl-tRNA--protein transferase 
+phosphatidylinositol N-acetylglucosaminyltransferase subunit GPI1 
+conserved protein, unknown function 
+conserved Plasmodium protein, unknown function 
+type II NADH:ubiquinone oxidoreductase 
+conserved Plasmodium protein, unknown function 
+prolyl 4-hydroxylase subunit alpha, putative 
+conserved Plasmodium protein, unknown function 
+condensin complex subunit 2, putative 
+conserved protein, unknown function 
+cyclin-dependent kinases regulatory subunit, putative 
+repressor of RNA polymerase III transcription MAF1 
+conserved protein, unknown function 
+alpha/beta hydrolase, putative 
+cohesin complex subunit RAD21 
+apical polar ring protein APR1, putative 
+nucleic acid binding protein, putative 
+cyclin dependent kinase binding protein, putative 
+conserved protein, unknown function 
+KLRAQ domain-containing protein, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+cytochrome c oxidase subunit 2A, putative 
+conserved Plasmodium protein, unknown function 
+CRAL/TRIO domain-containing protein, putative 
+phosphoglucomutase-2 
+TMEM94 domain-containing protein, putative 
+protein SOC2, putative 
+GPI-anchor transamidase, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+cytochrome c oxidase subunit 6A, putative 
+DNA-(apurinic or apyrimidinic site) endonuclease 
+vacuolar-sorting protein SNF7, putative 
+RAD51 domain-containing protein 
+conserved Plasmodium protein, unknown function 
+serine/threonine protein kinase, FIKK family 
+ADP-ribosylation factor, putative 
+conserved Plasmodium protein, unknown function 
+acylated pleckstrin-homology domain-containing protein, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	16
+cytoplasm	7
+mitochondrion	7
+endoplasmic reticulum	2
+apicoplast	2
+vesicle-mediated transport	2
+Golgi apparatus	2
+intracellular protein transport	2
+RNA binding	2
+regulation of cell cycle	2
+SNARE complex	1
+fumarate metabolic process	1
+endomembrane system	1
+inner membrane pellicle complex	1
+membrane	1
+integral component of membrane	1
+centriole	1
+vesicle docking	1
+SNARE binding	1
+SNAP receptor activity	1
+trans-Golgi network	1
+vesicle fusion	1
+plasma membrane	1
+cell gliding	1
+SCF ubiquitin ligase complex	1
+cullin-RING ubiquitin ligase complex	1
+protein binding	1
+ubiquitin protein ligase binding	1
+ubiquitin-protein transferase activity	1
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1
+protein ubiquitination	1
+fumarate hydratase activity	1
+mitotic spindle organization	1
+catalytic activity	1
+arginyltransferase activity	1
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	1
+leucyltransferase activity	1
+NADPH:quinone reductase activity	1
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline	1
+condensin complex	1
+protein arginylation	1
+DNA topoisomerase binding	1
+DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activator activity	1
+mitotic chromosome condensation	1
+chromatin binding	1
+RNA polymerase III core binding	1
+negative regulation of transcription by RNA polymerase III	1
+food vacuole	1
+NADH dehydrogenase (ubiquinone) activity	1
+cohesin complex	1

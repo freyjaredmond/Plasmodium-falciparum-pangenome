@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+conserved protein, unknown function 
+CRAL/TRIO domain-containing protein, putative 
+rhomboid protease ROM6, putative 
+ATP-dependent DNA helicase Q1 
+acyl-CoA-binding protein, putative 
+thioredoxin-like protein, putative 
+selenide water dikinase, putative 
+conserved protein, unknown function 
+conserved Plasmodium protein, unknown function 
+RAP protein, putative 
+double-strand break repair protein MRE11 
+parasitophorous vacuolar protein 2 
+U1 snRNP-associated protein, putative 
+stromal-processing peptidase, putative 
+GTP-binding protein, putative 
+cation transporting P-ATPase 
+conserved protein, unknown function 
+heat shock protein 90, putative 
+folate-biopterin transporter, putative 
+conserved protein, unknown function 
+1-cys peroxiredoxin 
+pantothenate kinase 1 
+methyltransferase, putative 
+parasite-infected erythrocyte surface protein 
+lsm12, putative 
+conserved protein, unknown function 
+conserved protein, unknown function 
+metalloprotease, putative 
+conserved protein, unknown function 
+vacuolar iron transporter 
+heptatricopeptide repeat-containing protein, putative 
+elongation factor, putative 
+hydroxyethylthiazole kinase 
+lysine--tRNA ligase, putative 
+conserved Plasmodium protein, unknown function 
+mitochondrial ribonuclease P catalytic subunit, putative 
+major facilitator superfamily domain-containing protein, putative 
+regulator of nonsense transcripts 1, putative 
+conserved Plasmodium protein, unknown function 
+mediator of RNA polymerase II transcription subunit 18, putative 
+acyl-CoA synthetase 
+dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST2, putative 
+regulator of nonsense transcripts 2, putative 
+ATP synthase-associated protein, putative 
+leucine--tRNA ligase, putative 
+A/G-specific adenine glycosylase, putative 
+exoribonuclease II 
+regulator of chromosome condensation, putative 
+HP12 protein homolog, putative 
+conserved Plasmodium protein, unknown function 
+****************
+
+Top 50 coexpressed genes GO terms 
+apicoplast	15
+nucleus	10
+mitochondrion	10
+protein binding	5
+cytoplasm	5
+cytosol	4
+DNA repair	3
+membrane	3
+endoplasmic reticulum	3
+ATP hydrolysis activity	2
+double-strand break repair via homologous recombination	2
+perinuclear region of cytoplasm	2
+telomere maintenance	2
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	2
+DNA binding	1
+DNA duplex unwinding	1
+four-way junction helicase activity	1
+chromosome	1
+DNA recombination	1
+selenide, water dikinase activity	1
+regulation of gene expression, epigenetic	1
+mitochondrial double-strand break repair	1
+DNA unwinding involved in DNA replication	1
+single-stranded DNA endodeoxyribonuclease activity	1
+selenocysteine biosynthetic process	1
+site of double-strand break	1
+Mre11 complex	1
+mitochondrial double-strand break repair via homologous recombination	1
+mitotic G2 DNA damage checkpoint signaling	1
+protein-containing complex binding	1
+symbiont-containing vacuole	1
+U1 snRNP	1
+double-strand break repair via nonhomologous end joining	1
+meiotic DNA double-strand break formation	1
+nuclease activity	1
+mRNA splice site selection	1
+mRNA binding	1
+U2-type prespliceosome	1
+metalloendopeptidase activity	1
+proteolysis	1
+porphobilinogen synthase activity	1
+zinc ion binding	1
+heme biosynthetic process	1
+cation transport	1
+P-type ion transporter activity	1
+intracellular membrane-bounded organelle	1
+unfolded protein binding	1
+protein folding	1
+response to heat	1
+antioxidant activity	1

@@ -1,0 +1,18 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+60S ribosomal protein L21	1
+conserved Plasmodium membrane protein, unknown function	1
+******************
+MapX above-threshold interactors GO term counts 
+cytosolic large ribosomal subunit	1
+nucleus	1
+RNA binding	1
+structural constituent of ribosome	1
+translation	1
+membrane	1

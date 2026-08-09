@@ -1,0 +1,59 @@
+****************
+Subcellular localisation 
+transport_vesicles
+****************
+
+Subcellular localisation GO terms 
+nucleus	43
+cytoplasm	20
+endoplasmic reticulum to Golgi vesicle-mediated transport	14
+protein binding	11
+RNA binding	9
+Maurer's cleft	9
+cytosol	8
+intra-Golgi vesicle-mediated transport	8
+TRAPP complex	7
+RNA polymerase III complex	6
+DNA-directed 5'-3' RNA polymerase activity	6
+COPI vesicle coat	5
+RNA polymerase II, core complex	5
+intracellular protein transport	5
+transcription by RNA polymerase II	4
+vesicle-mediated transport	4
+mRNA binding	4
+membrane	4
+retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	4
+exosome (RNase complex)	4
+cytoplasmic exosome (RNase complex)	4
+nuclear exosome (RNase complex)	4
+translation initiation factor binding	3
+nucleolus	3
+COPII vesicle coat	3
+endoplasmic reticulum exit site	3
+COPII-coated vesicle cargo loading	3
+ubiquitin-dependent protein catabolic process	3
+ubiquitin-dependent ERAD pathway	3
+regulation of transcription by RNA polymerase II	3
+receptor-mediated endocytosis	3
+translational initiation	3
+translation initiation factor activity	3
+protein phosphorylation	3
+endoplasmic reticulum	3
+U4 snRNA 3'-end processing	3
+exonucleolytic catabolism of deadenylated mRNA	3
+exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	3
+3'-5'-exoribonuclease activity	3
+RNA polymerase II general transcription initiation factor activity	2
+DNA-templated transcription, initiation	2
+ubiquitin binding	2
+Golgi apparatus	2
+DNA repair	2
+zinc ion binding	2
+SNARE binding	2
+single-stranded DNA binding	2
+ATP hydrolysis activity	2
+nuclear polyadenyl	2
+TRAMP complex	2
+*********************
+Coexpressed genes in the same subcellular localisation
+conserved Plasmodium protein, unknown function

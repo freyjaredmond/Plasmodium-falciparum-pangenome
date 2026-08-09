@@ -1,0 +1,12 @@
+Data Type	Study	Description	Condition	Metric	Value
+Mass Spectrometry Peptide Counts	N/A	Peptide count data from Mass Spec experiments	N/A	Selected Samples that match	3
+Mass Spectrometry Peptide Counts	N/A		N/A	Selected Samples that match	3
+Mass Spectrometry Peptide Counts	N/A		N/A	Sum of Unique Peptides (Within Samples)	3
+Mass Spectrometry Peptide Counts	N/A		N/A	Sum of Unique Peptides (Within Samples)	3
+Mass Spectrometry Peptide Counts	N/A		N/A	Unique Peptides (Across Samples)	3
+Mass Spectrometry Peptide Counts	N/A		N/A	Unique Peptides (Across Samples)	3
+Mass Spectrometry Peptide Counts	N/A		N/A	Total number of samples	63
+Mass Spectrometry Peptide Counts	N/A		N/A	Total number of samples	63
+Mutagenesis	piggyBac insertion mutagenesis	P. falciparum NF54 piggyBac mutagenesis	N/A	P.falciparum 3D7 piggyBac insertion mutagenesis - mutant fitness score	-2.574
+Mutagenesis	piggyBac insertion mutagenesis		N/A	P.falciparum 3D7 piggyBac insertion mutagenesis - mutant fitness score	-2.574
+Post Translational Modification	N/A		N/A	Phosphorylation site	phosphorylation site:1
