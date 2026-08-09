@@ -1,0 +1,87 @@
+Gold standard interactions 
+******************
+2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial, putative
+******************
+Gold standard interactors GO term counts 
+mitochondrial alpha-ketoglutarate dehydrogenase complex	1
+mitochondrion	1
+alpha-ketoacid dehydrogenase activity	1
+mRNA binding	1
+branched-chain amino acid catabolic process	1
+******************
+MapX interaction pair counts 
+apoptosis-inducing factor, putative	2
+2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial, putative	2
+40S ribosomal protein S18, putative	1
+60S ribosomal protein L38	1
+eukaryotic translation initiation factor 3 subunit D, putative	1
+ubiquitin domain-containing protein DSK2, putative	1
+mRNA-binding protein PUF1	1
+kelch domain-containing protein, putative	1
+Plasmodium exported protein (PHIST), unknown function	1
+exportin-T, putative	1
+leucine-rich repeat protein 1	1
+zinc finger protein, putative	1
+conserved Plasmodium protein, unknown function	1
+merozoites-associated armadillo repeats protein	1
+choline kinase	1
+geranylgeranyl transferase type-2 subunit alpha, putative	1
+rhoptry neck protein 4	1
+AMMECR1 domain-containing protein, putative	1
+phosphoenolpyruvate carboxykinase	1
+60S ribosomal protein L31	1
+40S ribosomal protein S23, putative	1
+conserved protein, unknown function	1
+ARMT1-like domain-containing protein, putative	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	9
+mitochondrion	5
+cytosol	4
+translation	4
+structural constituent of ribosome	4
+mRNA binding	3
+RNA binding	2
+electron transfer activity	2
+disulfide oxidoreductase activity	2
+cytosolic large ribosomal subunit	2
+cytoplasm	2
+oxidation-reduction process	2
+protein binding	2
+branched-chain amino acid catabolic process	2
+entry into host	2
+mitochondrial alpha-ketoglutarate dehydrogenase complex	2
+alpha-ketoacid dehydrogenase activity	2
+regulation of translation	1
+posttranscriptional regulation of gene expression	1
+translation initiation factor activity	1
+translational initiation	1
+ubiquitin-dependent ERAD pathway	1
+polyubiquitin modification-dependent protein binding	1
+small ribosomal subunit	1
+regulation of RNA stability	1
+eukaryotic translation initiation factor 3 complex	1
+ribonucleoprotein complex assembly	1
+protein serine/threonine phosphatase inhibitor activity	1
+protein phosphatase type 1 complex	1
+host cell	1
+ubiquitin-dependent protein catabolic process	1
+choline kinase activity	1
+tRNA binding	1
+Maurer's cleft	1
+tRNA export from nucleus	1
+nuclear body	1
+primary miRNA processing	1
+apical part of cell	1
+cell surface	1
+Rab-protein geranylgeranyltransferase complex	1
+phosphatidylcholine biosynthetic process	1
+response to xenobiotic stimulus	1
+choline binding	1
+protein geranylgeranylation	1
+protein geranylgeranyltransferase activity	1
+Rab geranylgeranyltransferase activity	1
+food vacuole	1
+rhoptry neck	1
+rhoptry	1
+host cell surface binding	1

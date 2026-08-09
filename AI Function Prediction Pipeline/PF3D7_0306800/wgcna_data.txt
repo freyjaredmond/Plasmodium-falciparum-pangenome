@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+60S ribosomal protein L7-3, putative 
+orotidine 5'-phosphate decarboxylase 
+threonine--tRNA ligase 
+RuvB-like helicase 2 
+translation machinery-associated protein 46, putative 
+40S ribosomal protein S7, putative 
+protein DJ-1 
+elongation factor 1-alpha 
+60S acidic ribosomal protein P2 
+elongation factor 1-alpha 
+ribose-5-phosphate isomerase, putative 
+T-complex protein 1 subunit gamma 
+40S ribosomal protein S8e, putative 
+lysine--tRNA ligase 
+THUMP domain-containing protein, putative 
+60S ribosomal protein L10, putative 
+60S ribosomal protein L23, putative 
+60S ribosomal protein L41 
+conserved protein, unknown function 
+60S ribosomal protein L21 
+60S ribosomal protein L2 
+Obg-like ATPase 1, putative 
+40S ribosomal protein S3A, putative 
+protein SIS1 
+60S acidic ribosomal protein P1, putative 
+40S ribosomal protein S15A, putative 
+40S ribosomal protein S25 
+T-complex protein 1 subunit zeta 
+thioredoxin peroxidase 1 
+40S ribosomal protein S4, putative 
+60S ribosomal protein L35, putative 
+receptor for activated c kinase 
+DNA-directed RNA polymerase III subunit RPC6, putative 
+elongation factor 1-gamma, putative 
+60S ribosomal protein L18-2, putative 
+40S ribosomal protein S5 
+eukaryotic peptide chain release factor GTP-binding subunit, putative 
+phosphoglycerate mutase, putative 
+plasmepsin III 
+heat shock protein 70 
+elongation factor 2 
+actin-like protein, putative 
+60S ribosomal protein L13, putative 
+enolase 
+40S ribosomal protein S23, putative 
+60S ribosomal protein L4 
+protein phosphatase PPM9, putative 
+40S ribosomal protein S6 
+60S ribosomal protein L5, putative 
+40S ribosomal protein S12, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	41
+RNA binding	23
+translation	23
+structural constituent of ribosome	21
+cytosol	12
+cytosolic large ribosomal subunit	12
+cytosolic small ribosomal subunit	11
+extracellular vesicle	7
+cytoplasm	6
+protein binding	6
+translation elongation factor activity	5
+translational elongation	5
+protein folding	5
+cell surface	5
+unfolded protein binding	4
+Maurer's cleft	4
+GTPase activity	4
+eukaryotic translation elongation factor 1 complex	4
+response to xenobiotic stimulus	4
+ATP binding	4
+ATP hydrolysis activity	3
+mitochondrion	3
+food vacuole	3
+cytoplasmic translation	3
+response to heat	3
+GTP binding	3
+ribosome	2
+ribosomal large subunit assembly	2
+NuA4 histone acetyltransferase complex	2
+regulation of transcription by RNA polymerase II	2
+response to unfolded protein	2
+ribosome binding	2
+mRNA binding	2
+large ribosomal subunit	2
+chaperone cofactor-dependent protein refolding	2
+chaperonin-containing T-complex	2
+mRNA cap binding	2
+glycolytic process	2
+maturation of LSU-rRNA	1
+small-subunit processome	1
+rRNA processing	1
+histone acetylation	1
+box C/D snoRNP assembly	1
+DNA helicase activity	1
+chromatin remodeling	1
+DNA repair	1
+R2TP complex	1
+Swr1 complex	1
+5'-3' DNA helicase activity	1
+protein deglycase activity	1

@@ -1,0 +1,37 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+repressor of RNA polymerase III transcription MAF1	2
+golgin subfamily A member 6-like protein, putative	1
+lsm12, putative	1
+trafficking protein particle complex subunit 13, putative	1
+conserved protein, unknown function	1
+conserved Plasmodium protein, unknown function	1
+diphthamide biosynthesis protein 2, putative	1
+Plasmodium exported protein, unknown function	1
+dual specificity protein phosphatase	1
+******************
+MapX above-threshold interactors GO term counts 
+cytoplasm	3
+nucleus	3
+RNA polymerase III core binding	2
+negative regulation of transcription by RNA polymerase III	2
+mitochondrion	1
+mediator complex	1
+peptidyl-diphthamide biosynthetic process from peptidyl-histidine	1
+Maurer's cleft	1
+host cell	1
+phosphatase activity	1
+protein binding	1
+protein tyrosine/serine/threonine phosphatase activity	1
+structural constituent of nuclear pore	1
+zinc ion binding	1
+negative regulation of nucleocytoplasmic transport	1
+protein dephosphorylation	1
+protein phosphorylation	1
+regulation of cell development	1

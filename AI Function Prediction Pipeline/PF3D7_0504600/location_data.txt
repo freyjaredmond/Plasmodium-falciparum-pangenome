@@ -1,0 +1,66 @@
+****************
+Subcellular localisation 
+mitrochondrion
+****************
+
+Subcellular localisation GO terms 
+mitochondrion	130
+nucleus	31
+cytoplasm	16
+protein binding	11
+mitochondrial matrix	10
+tricarboxylic acid cycle	10
+mitochondrial inner membrane	8
+mitochondrial respiratory chain complex IV	8
+cytosol	7
+protein import into mitochondrial matrix	7
+unfolded protein binding	6
+ATP synthesis coupled proton transport	6
+mitochondrial respiratory chain complex III	6
+mRNA binding	6
+TIM23 mitochondrial import inner membrane translocase complex	5
+oxidation-reduction process	5
+food vacuole	5
+protein targeting to mitochondrion	5
+protein insertion into mitochondrial inner membrane	4
+translation elongation factor activity	4
+response to heat	4
+apicoplast	4
+oxidoreductase activity	4
+GTP binding	4
+iron-sulfur cluster assembly	4
+response to xenobiotic stimulus	4
+mitochondrial electron transport, ubiquinol to cytochrome c	4
+respiratory chain complex II	4
+response to unfolded protein	4
+chaperone cofactor-dependent protein refolding	3
+ubiquinol-cytochrome-c reductase activity	3
+translational elongation	3
+proton transmembrane transport	3
+mitochondrial ATP synthesis coupled proton transport	3
+RNA binding	3
+electron transfer activity	3
+ATP hydrolysis activity	3
+mitochondrion organization	3
+ATP binding	3
+aerobic respiration	3
+proton-transporting ATP synthase complex, catalytic core F(1)	3
+metalloendopeptidase activity	2
+PAM complex, Tim23 associated import motor	2
+GTPase activity	2
+membrane	2
+branched-chain amino acid catabolic process	2
+protein transmembrane transporter activity	2
+mitochondrial proton-transporting ATP synthase complex	2
+mitochondrion targeting sequence binding	2
+mitochondrial processing peptidase complex	2
+*********************
+Coexpressed genes in the same subcellular localisation
+FAD-dependent glycerol-3-phosphate dehydrogenase, putative
+cytochrome c oxidase subunit 6A, putative
+phosphoglucomutase-2
+cytochrome c oxidase subunit 6c, putative
+cytochrome b-c1 complex subunit 7, putative
+cytochrome c oxidase subunit 2A, putative
+type II NADH:ubiquinone oxidoreductase
+fumarate hydratase

@@ -1,0 +1,12 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+No above-threshold MapX interactions available
+******************
+MapX above-threshold interactors GO term counts 
+No above-threshold MapX interactions available

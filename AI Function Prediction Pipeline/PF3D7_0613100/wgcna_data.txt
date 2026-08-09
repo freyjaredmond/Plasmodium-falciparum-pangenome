@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+negative elongation factor A, putative 
+tetratricopeptide repeat protein, putative 
+armadillo-interacting protein AIP 
+conserved Plasmodium protein, unknown function 
+inner membrane complex suture component, putative 
+conserved Plasmodium protein, unknown function 
+protein disulfide-isomerase 
+F-box protein FBXO6, putative 
+cGMP-specific 3',5'-cyclic phosphodiesterase alpha 
+major facilitator superfamily domain-containing protein, putative 
+plasmepsin IX 
+phospholipid scramblase 
+conserved Plasmodium membrane protein, unknown function 
+TH1 domain-containing protein, putative 
+serine/threonine protein kinase, FIKK family 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+shewanella-like protein phosphatase 2 
+shewanella-like protein phosphatase 1, putative 
+Dpy-19-like C-mannosyltransferase 
+sphingomyelin synthase 1, putative 
+conserved protein, unknown function 
+apical exonemal protein 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium membrane protein, unknown function 
+inner membrane complex protein 
+double C2-like domain-containing protein 
+OTU-like cysteine protease 
+6-cysteine protein P12 
+conserved Plasmodium protein, unknown function 
+folate transporter 1 
+rhoptry neck protein 5 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+tripartite motif protein, putative 
+rho GTPase-activating protein, putative 
+conserved Plasmodium protein, unknown function 
+apical sushi protein 
+SET domain protein, putative 
+Nd9 protein 
+phosphoinositide-binding protein PH2 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+protein CINCH 
+conserved Plasmodium protein, unknown function 
+dynamin-like protein 
+rhoptry neck protein 12 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	10
+membrane	6
+entry into host	6
+inner membrane pellicle complex	4
+endoplasmic reticulum	4
+cytoplasm	4
+cell surface	4
+rhoptry neck	3
+apical part of cell	3
+rhoptry	3
+RNA binding	2
+plasma membrane	2
+anchored component of plasma membrane	2
+protein binding	2
+microneme	2
+aspartic-type endopeptidase activity	1
+cGMP catabolic process	1
+cGMP binding	1
+3',5'-cyclic-GMP phosphodiesterase activity	1
+response to endoplasmic reticulum stress	1
+protein folding	1
+protein disulfide isomerase activity	1
+transmembrane transport	1
+transmembrane transporter activity	1
+phospholipid scramblase activity	1
+magnesium ion binding	1
+NELF complex	1
+plasma membrane phospholipid scrambling	1
+calcium ion binding	1
+proteolysis	1
+response to xenobiotic stimulus	1
+host cell	1
+perinuclear region of cytoplasm	1
+protein tyrosine phosphatase activity	1
+phosphatase activity	1
+nuclear inner membrane	1
+mannosyltransferase activity	1
+exit from host cell	1
+mannosylation	1
+protein C-linked glycosylation	1
+protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan	1
+integral component of Golgi membrane	1
+integral component of endoplasmic reticulum membrane	1
+negative regulation of transcription elongation from RNA polymerase II promoter	1
+protein serine/threonine kinase activity	1
+intracellular signal transduction	1
+protein phosphorylation	1
+ceramide biosynthetic process	1
+sphingomyelin synthase activity	1
+ceramide cholinephosphotransferase activity	1

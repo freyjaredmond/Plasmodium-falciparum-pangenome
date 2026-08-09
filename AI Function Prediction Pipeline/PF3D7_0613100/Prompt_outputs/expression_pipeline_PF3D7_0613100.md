@@ -1,0 +1,36 @@
+## Predicted Functions
+
+1. Schizont-stage protein involved in merozoite egress or erythrocyte invasion, likely functioning in inner membrane complex (IMC) organization or secretory organelle biogenesis.
+2. Component of the apical complex or pellicle contributing to parasite motility and host cell entry.
+3. Regulator of late asexual blood-stage processes, potentially involved in signaling or protein trafficking at the parasite periphery.
+4. Membrane-associated protein participating in protein folding, quality control, or post-translational modification in the endoplasmic reticulum.
+5. Gametocyte-stage structural protein contributing to sexual differentiation or mosquito-stage development.
+
+## Summary
+
+This gene encodes a protein expressed predominantly during the late asexual blood stages (trophozoite–schizont) of <i>Plasmodium falciparum</i>, with peak expression around 38–42 hours post-invasion and moderate expression in early gametocytes. It is upregulated in schizonts relative to rings and is essential for blood-stage growth (piggyBac fitness score = 0.0). Co-expression with invasion-related genes (plasmepsin IX, rhoptry neck proteins, apical sushi protein), IMC components, and signaling molecules strongly suggests a role in late schizont processes such as merozoite assembly, egress, or invasion. The protein likely localizes to membranes at the parasite periphery or apical complex.
+
+## Evidence
+
+### Transcriptomics
+The gene shows clear IDC-stage-dependent expression. In the Otto et al. time course, expression peaks at 0 hr (rings, 138 TPM, top 18% expression) and declines through trophozoites (32 hr: 4.3-fold down, top 16% downregulated), then partially recovers by 48 hr. In the Kucharski high-resolution time course, expression rises from 9.5 TPM at 4 hr to a peak of ~43 TPM at 38 hr (4.6-fold up), then decreases. In the Wichers IDC dataset, expression increases from late trophozoite (83 TPM) through schizont (116 TPM) to late schizont (147 TPM), consistent with late-stage function. Schizont-to-trophozoite comparisons (Josling, Tang) show 1.6–2.9-fold downregulation in trophozoites versus schizonts. The gene is also moderately expressed in gametocyte stage II (244 TPM, Lopez-Barragan) but drops in stage V (121 TPM, ~2-fold down). In sporozoites, antisense transcription shows notable upregulation (Gomez-Diaz: top 4.5% antisense fold change for salivary gland sporozoites vs. blood stage). Across strains (DAFT-seq), 3D7 shows significantly lower expression than HB3 (2.1-fold, p = 3.9e-18) and IT (1.5-fold, p = 9.9e-7). The gene shows minimal differential expression in clinical severity comparisons and heat-shock mutant comparisons, suggesting it is not stress-responsive.
+
+### Additional Data (Proteomics, Mutagenesis, PTMs)
+The piggyBac insertion mutagenesis fitness score of 0.0 indicates the gene is essential for asexual blood-stage growth. Only 4 of 63 mass spectrometry samples detected peptides (2 unique peptides, 4 total), suggesting low protein abundance or restricted stage expression. The protein has one ubiquitin binding site, implicating it in regulated protein turnover. Quantitative proteomics (PfCRK4 study) shows a 2.01-fold increase from 29 to 37 hpi (top 19.5% upregulated, p = 0.017), confirming late-schizont-stage protein accumulation consistent with a role in schizogony or invasion. No significant change upon PfCRK4 destabilization at 37 hpi (FC = 1.05, p = 0.626) suggests this gene is not directly regulated by PfCRK4.
+
+### Co-expression
+The top 50 WGCNA co-expressed genes are heavily enriched for invasion and apical complex components: plasmepsin IX (merozoite egress protease), rhoptry neck proteins 5 and 12, apical sushi protein, 6-cysteine protein P12, inner membrane complex proteins, and Nd9 (exocytosis). GO terms highlight "entry into host" (6 genes), "inner membrane pellicle complex" (4), "rhoptry neck" (3), "apical part of cell" (3), "cell surface" (4), and "membrane" (6). Signaling-related co-expressed genes include cGMP phosphodiesterase alpha, FIKK kinase, Shewanella-like phosphatases 1 and 2, and a double C2-like domain protein (calcium-dependent membrane binding). This co-expression neighborhood is characteristic of genes involved in merozoite biogenesis, egress, or invasion.
+
+### Localisation
+No hyperLOPIT localisation data is available for this gene.
+
+### Binding
+No gold standard or above-threshold MAPX protein interaction data is available for this gene.
+
+## Confidence
+
+Confidence in the prediction of a late blood-stage, invasion/egress-related function is moderate-to-high. The convergence of (1) peak expression during schizogony, (2) essentiality (fitness score 0.0), (3) co-expression with well-characterized invasion genes (plasmepsin IX, rhoptry neck proteins, apical sushi protein), and (4) proteomics showing increased abundance at 37 hpi strongly supports this assignment. The main limitation is the absence of localisation and protein interaction data, which would confirm whether this protein is a direct component of the apical complex, IMC, or secretory organelles. The low mass spectrometry detection rate and the "unknown function" designation suggest the protein may be small, membrane-associated, or difficult to solubilize. The moderate gametocyte expression introduces some uncertainty about whether the protein has a secondary role in sexual development.
+
+## Experimental Validation
+
+Conditional knockdown (e.g., using the DD/Shield-1 or DiCre systems) during schizogony should reveal whether the gene is required for egress and/or invasion, measurable by flow cytometry-based invasion assays. Epitope tagging (HA or GFP) combined with immunofluorescence microscopy using co-staining for known markers (e.g., RON4 for rhoptry neck, AMA1 for micronemes, or GAP45 for IMC) would establish subcellular localisation. Co-immunoprecipitation followed by mass spectrometry would identify direct binding partners and confirm the predicted association with invasion or IMC complexes. Bioinformatically, structural prediction (AlphaFold) and domain analysis could reveal transmembrane domains or signal peptides supporting membrane localisation, and orthology analysis across Apicomplexa could identify conserved functional motifs.

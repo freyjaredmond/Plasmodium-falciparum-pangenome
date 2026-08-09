@@ -1,0 +1,63 @@
+****************
+Subcellular localisation 
+rhoptries
+****************
+
+Subcellular localisation GO terms 
+nucleus	17
+rhoptry	17
+entry into host	13
+protein binding	12
+rhoptry neck	9
+RNA binding	9
+cell surface	7
+extracellular vesicle	7
+apical part of cell	5
+symbiont-containing vacuole	4
+food vacuole	4
+host cell surface receptor binding	3
+anchored component of plasma membrane	3
+cytoplasm	3
+symbiont-containing vacuole membrane	3
+protein-containing complex	3
+rhoptry membrane	3
+host cell surface binding	3
+protein targeting to vacuole	2
+endoplasmic reticulum membrane	2
+host cell cytoplasm	2
+cell-cell adhesion	2
+protein-containing complex binding	2
+cell adhesion molecule binding	2
+host cell plasma membrane	2
+cytoadherence to microvasculature, mediated by symbiont protein	2
+anion channel activity	2
+Golgi apparatus	2
+host cell cytosol	2
+microneme	2
+mitochondrion	1
+rRNA binding	1
+lipid binding	1
+mRNA binding	1
+mitochondrial ribosome binding	1
+protein serine/threonine kinase activity	1
+protein catabolic process	1
+binding	1
+cysteine-type peptidase activity	1
+protein phosphorylation	1
+modulation by symbiont of host process	1
+intracellular signal transduction	1
+inner membrane pellicle complex	1
+cytosol	1
+cell periphery	1
+proteolysis involved in cellular protein catabolic process	1
+cysteine-type endopeptidase activity	1
+aminopeptidase activity	1
+lysosome	1
+extracellular space	1
+*********************
+Coexpressed genes in the same subcellular localisation
+rhoptry-associated leucine zipper-like protein 1
+dipeptidyl aminopeptidase 3
+protein CERLI1
+rhoptry protein ROP14
+phospholipase PL38

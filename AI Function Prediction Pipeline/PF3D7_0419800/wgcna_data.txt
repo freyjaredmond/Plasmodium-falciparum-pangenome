@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+DNA-directed RNA polymerase III subunit RPC2, putative 
+ATP-dependent RNA helicase DDX31 
+ATP-dependent RNA helicase MTR4 
+rRNA (cytosine-C(5))-methyltransferase, putative 
+U3 small nucleolar RNA-associated protein 12, putative 
+U3 small nucleolar RNA-associated protein 21, putative 
+S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase, putative 
+U3 small nucleolar RNA-interacting protein 2, putative 
+ATP-dependent RNA helicase DBP10, putative 
+conserved Plasmodium protein, unknown function 
+ATP-dependent RNA helicase DDX47, putative 
+ribonuclease, putative 
+WD repeat-containing protein, putative 
+Alba domain-containing protein, putative 
+DNA-directed RNA polymerase III subunit RPC4, putative 
+WD repeat-containing protein 79, putative 
+nucleolar GTP-binding protein 1, putative 
+tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative 
+ribosome assembly protein 4, putative 
+DNA-directed RNA polymerase III subunit RPC1, putative 
+tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase 
+conserved Plasmodium membrane protein, unknown function 
+inosine-5'-monophosphate dehydrogenase 
+ribosome assembly protein RRB1, putative 
+ribosome production factor 1, putative 
+conserved Plasmodium protein, unknown function 
+GMP synthase [glutamine-hydrolyzing] 
+cysteine proteinase falcipain 2b 
+deoxyhypusine hydroxylase 
+ATP-dependent RNA helicase DRS1, putative 
+polyribonucleotide 5'-hydroxyl-kinase Clp1, putative 
+dihydrouridine synthase, putative 
+conserved Plasmodium protein, unknown function 
+ATP-dependent RNA helicase MAK5, putative 
+periodic tryptophan protein 2, putative 
+ribonucleases P/MRP protein subunit POP1, putative 
+large subunit GTPase 1, putative 
+KRR1 small subunit processome component, putative 
+N-acetyltransferase, GNAT family, putative 
+ATP-dependent RNA helicase DBP8, putative 
+nuclear GTP-binding protein, putative 
+zinc finger protein, putative 
+mRNA-binding protein PUF3 
+nucleolar protein 10, putative 
+conserved Plasmodium protein, unknown function 
+protein HGH1, putative 
+pre-mRNA-splicing factor CWC22, putative 
+ribosome biogenesis regulatory protein, putative 
+conserved Plasmodium membrane protein, unknown function 
+ribosomal RNA methyltransferase, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleolus	19
+nucleus	15
+small-subunit processome	5
+RNA binding	4
+RNA helicase activity	4
+rRNA processing	4
+ribosomal large subunit assembly	4
+preribosome, large subunit precursor	4
+RNA polymerase III complex	3
+ribosomal large subunit biogenesis	3
+Pwp2p-containing subcomplex of 90S preribosome	2
+maturation of 5.8S rRNA	2
+ribosome biogenesis	2
+RNA methylation	2
+ATP binding	2
+cytoplasm	2
+GTPase activity	2
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2
+cytosol	2
+food vacuole	2
+apicoplast	2
+snoRNA binding	2
+DNA-directed 5'-3' RNA polymerase activity	2
+transcription by RNA polymerase III	2
+DNA helicase activity	1
+maturation of SSU-rRNA	1
+rRNA base methylation	1
+rRNA (cytosine-C5-)-methyltransferase activity	1
+RNA metabolic process	1
+TRAMP complex	1
+nuclear periphery	1
+protein binding	1
+RNA catabolic process	1
+ATP-dependent activity, acting on RNA	1
+ATP-dependent activity, acting on DNA	1
+GTP binding	1
+tRNA (m1A) methyltransferase complex	1
+endoplasmic reticulum	1
+box C/D RNP complex	1
+U3 snoRNA binding	1
+assembly of large subunit precursor of preribosome	1
+tRNA methylthiolation	1
+maturation of LSU-rRNA	1
+GMP synthase (glutamine-hydrolyzing) activity	1
+GMP synthase activity	1
+GMP biosynthetic process	1
+purine nucleotide biosynthetic process	1
+extracellular space	1
+lysosome	1
+cysteine-type endopeptidase activity	1

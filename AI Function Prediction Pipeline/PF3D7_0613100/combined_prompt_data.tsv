@@ -1,0 +1,20 @@
+Data Type	Study	Description	Condition	Metric	Value
+Mass Spectrometry Peptide Counts	N/A	Peptide count data from Mass Spec experiments	N/A	Selected Samples that match	4
+Mass Spectrometry Peptide Counts	N/A		N/A	Sum of Unique Peptides (Within Samples)	4
+Mass Spectrometry Peptide Counts	N/A		N/A	Unique Peptides (Across Samples)	2
+Mass Spectrometry Peptide Counts	N/A		N/A	Total number of samples	63
+Mutagenesis	piggyBac insertion mutagenesis	P. falciparum NF54 piggyBac mutagenesis	N/A	P.falciparum 3D7 piggyBac insertion mutagenesis - mutant fitness score	0.0
+Post Translational Modification	N/A		N/A	Ubiquitin binding site	ubiquitin binding site:1
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)	Description= Proteome determined at 29- and 37- hour post infection in Plasmodium falciparum using a clone in which PfCRK4 was conditionally destabilized. (+Shield = stable PfCRK4, -Shield = destabilized PfCRK4). Methodology used: Quantitative proteomics using isobaric labelling with tandem mass tags.	Comparison= 37hpi_minus_Shield over 37hpi_plus_Shield	Quantitative Proteomics P_value	0.626
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_minus_Shield over 37hpi_plus_Shield	Quantitative Proteomics P-value Percentile	Not significant
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_minus_Shield over 37hpi_plus_Shield	Quantitative Proteomics Fold Change	1.05
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_minus_Shield over 37hpi_plus_Shield	Quantitative Proteomics Fold Change upregulated rank	1815.0
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_minus_Shield over 37hpi_plus_Shield	Quantitative Proteomics Fold Change percentile	Top 80.4% of upregulated genes
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_minus_Shield over 37hpi_plus_Shield	Quantitative Proteomics Fold Change rank total	2257
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_plus_Shield over 29hpi_plus_Shield	Quantitative Proteomics P_value	0.0169
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_plus_Shield over 29hpi_plus_Shield	Quantitative Proteomics P_value rank	983.0
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_plus_Shield over 29hpi_plus_Shield	Quantitative Proteomics P-value Percentile	Top 59.3% of significant genes
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_plus_Shield over 29hpi_plus_Shield	Quantitative Proteomics Fold Change	2.01
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_plus_Shield over 29hpi_plus_Shield	Quantitative Proteomics Fold Change upregulated rank	363.0
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_plus_Shield over 29hpi_plus_Shield	Quantitative Proteomics Fold Change percentile	Top 19.5% of upregulated genes
+Quantitative Proteomics	PfCRK4 regulated proteome at 29 and 37 hpi (quantitative)		Comparison= 37hpi_plus_Shield over 29hpi_plus_Shield	Quantitative Proteomics Fold Change rank total	1860

@@ -1,0 +1,31 @@
+## Predicted Functions
+
+1. Rhoptry-localized protein involved in merozoite invasion of erythrocytes during the schizont/merozoite stage of the intraerythrocytic developmental cycle.
+2. Structural or accessory component of the rhoptry organelle contributing to host cell entry machinery.
+3. Protein involved in the secretory pathway supporting invasion ligand deployment at the apical end of the merozoite.
+4. Component of a rhoptry-associated protein complex that facilitates parasitophorous vacuole formation during invasion.
+5. Sporozoite-stage expressed protein with a secondary role in salivary gland sporozoite infectivity.
+
+## Summary
+
+This gene encodes a rhoptry-localized protein that is strongly upregulated during late schizogony and merozoite stages of the <i>Plasmodium falciparum</i> intraerythrocytic developmental cycle. Its expression profile, coexpression with invasion-related genes (AMA1, MSPs, rhoptry proteins, inner membrane complex proteins, calcium-dependent protein kinases), rhoptry subcellular localization, and essential nature (highly negative piggyBac fitness score) collectively indicate a critical role in merozoite-mediated erythrocyte invasion. Additional upregulation in sporozoites suggests a conserved function in host cell entry across life cycle stages.
+
+## Evidence
+
+**Transcriptomics:** The gene shows a clear late-stage IDC expression pattern. In the Otto et al. time course, expression drops from 54 TPM at 0hr to ~6–9 TPM at 16–24hr (ring/trophozoite), then rises sharply to 138–148 TPM at 40–48hr (schizont). The Kucharski high-resolution time course confirms peak expression at 38–42 hpi (FC 28–30x vs 4hr ring). In the Wichers dataset, expression increases from 5 TPM (mid-trophozoite) to 30 TPM (late trophozoite, FC 5.8, p=1.02e-27, top 5.5% significant), continuing to 126–307 TPM through schizont stages. The Toenhake IDC data shows 245 TPM at T05 (ring/merozoite) dropping drastically to 0.92 TPM at T25 (FC -244, top 3.9% downregulated), consistent with a gene maximally expressed at schizogony/merozoite release. In sporozoite comparisons (Gomez-Diaz), the gene is significantly upregulated in salivary gland sporozoites vs asexual blood stages (FC 2.8, p=4.1e-17, top 4.3% significant, effect size top 3%). The antisense data for sporozoite comparisons also shows notable upregulation (top 4.5%). The Tonkin-Hill severe vs uncomplicated malaria antisense comparison shows a striking effect size (top 0.5% downregulated), though sense strand changes are modest.
+
+**Additional Data (Proteomics, Mutagenesis, PTMs):** The protein is detected in only 4 of 63 mass spectrometry samples with 7 unique peptides, suggesting moderate abundance limited to specific stages. Quantitative proteomics shows stable expression between ring and schizont (fold difference 1.0) but a decrease from ring to trophozoite (FC -1.4, top 34.4% downregulated), consistent with trophozoite-stage downregulation seen in transcriptomics. The piggyBac mutant fitness score of -2.862 indicates the gene is essential for blood-stage parasite survival, strongly supporting a critical functional role. Four phosphorylation sites suggest regulatory post-translational control.
+
+**Coexpression:** The top 50 coexpressed genes are overwhelmingly invasion-related: merozoite surface proteins (MSP3, MSP10, MSP11, GLURP, Duffy binding-like MSP), apical membrane antigen 1 (AMA1), rhoptry proteins (RALP1, armadillo-domain rhoptry protein, ROP14), inner membrane complex proteins (IMC1c, IMC1e, IMC1m), calcium-dependent protein kinases (CDPK1, CDPK4), CERLI1, CLAMP, and AARP. The top GO terms reflect this: "entry into host" (10 genes), "cell surface" (9), "apical part of cell" (8), "inner membrane pellicle complex" (7), "rhoptry" (6), "microneme" (2). This coexpression network is remarkably coherent for invasion function.
+
+**Localization:** HyperLOPIT assigns this protein to the rhoptry compartment. The GO terms of co-localized rhoptry proteins include "entry into host" (13), "rhoptry" (17), "rhoptry neck" (9), and "cell surface" (7). Five coexpressed genes (RALP1, dipeptidyl aminopeptidase 3, CERLI1, ROP14, phospholipase PL38) are also localized to rhoptries, providing strong convergent evidence.
+
+**Binding:** No gold standard or high-confidence MapX interactions are available for this gene.
+
+## Confidence
+
+Confidence in the invasion/rhoptry function prediction is **high**. Four independent data types converge: (1) transcriptomics consistently shows peak expression at late schizogony/merozoite stages across multiple studies with strong statistical support; (2) coexpression partners are almost exclusively invasion-related proteins; (3) hyperLOPIT localizes the protein to rhoptries; and (4) the highly negative piggyBac fitness score confirms essentiality. The only minor complication is the sporozoite upregulation, which is not contradictory but suggests a broader "host cell invasion" role rather than one restricted to erythrocyte invasion. The absence of binding data limits characterization of specific interaction partners. The relatively low mass spectrometry detection (4/63 samples) is consistent with stage-restricted expression rather than low confidence.
+
+## Experimental Validation
+
+Conditional knockdown (e.g., using the glmS ribozyme or DiCre system) timed to late schizogony could confirm an invasion defect by measuring invasion rates and parasitemia. Immunofluorescence with anti-HA-tagged protein and rhoptry markers (RAP1, RhopH3) would confirm rhoptry localization. Co-immunoprecipitation followed by mass spectrometry during schizont stage could identify direct binding partners within the rhoptry complex. Electron microscopy with immunogold labeling could further refine sub-rhoptry localization (bulb vs. neck). For the sporozoite function, hepatocyte invasion assays following conditional knockdown in sporozoites would test whether the protein has a conserved invasion role across life stages.

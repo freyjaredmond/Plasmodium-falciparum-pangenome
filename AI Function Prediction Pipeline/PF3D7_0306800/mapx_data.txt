@@ -1,0 +1,114 @@
+Gold standard interactions 
+******************
+T-complex protein 1 subunit gamma
+T-complex protein 1 subunit delta
+T-complex protein 1 subunit epsilon
+T-complex protein 1 subunit zeta
+T-complex protein 1 subunit eta
+T-complex protein 1 subunit theta
+T-complex protein 1 subunit alpha
+******************
+Gold standard interactors GO term counts 
+chaperonin-containing T-complex	7
+cytosol	7
+unfolded protein binding	7
+nucleus	7
+protein folding	7
+ATP binding	2
+RNA N6-methyladenosine methyltransferase complex	1
+response to xenobiotic stimulus	1
+cell surface	1
+Maurer's cleft	1
+apical part of cell	1
+host cell cytoplasm	1
+protein binding	1
+intracellular	1
+******************
+MapX interaction pair counts 
+T-complex protein 1 subunit delta	7
+T-complex protein 1 subunit gamma	6
+T-complex protein 1 subunit alpha	6
+T-complex protein 1 subunit theta	6
+T-complex protein 1 subunit epsilon	6
+bis(5'-nucleosyl)-tetraphosphatase [asymmetrical]	5
+T-complex protein 1 subunit zeta	5
+T-complex protein 1 subunit eta	5
+ATP-dependent 6-phosphofructokinase	3
+elongation factor 2	3
+lysine--tRNA ligase	2
+chromatin assembly factor 1 subunit C, putative	2
+glutamine-dependent NAD(+) synthetase, putative	2
+cAMP-dependent protein kinase catalytic subunit	2
+protein phosphatase PPM7, putative	1
+ubiquitin regulatory protein, putative	1
+40S ribosomal protein S23, putative	1
+quinoxaline resistance protein QRP1	1
+WD repeat-containing protein, putative	1
+ras-related protein Rab-1B	1
+actin-depolymerizing factor 1	1
+6-phosphogluconate dehydrogenase, decarboxylating	1
+elongation factor Tu, putative	1
+M17 leucyl aminopeptidase	1
+FoP domain-containing protein, putative	1
+histone H2A	1
+prefoldin subunit 5, putative	1
+eukaryotic peptide chain release factor GTP-binding subunit, putative	1
+nicotinate phosphoribosyltransferase, putative	1
+M1-family alanyl aminopeptidase	1
+cysteine proteinase falcipain 2a	1
+glycine--tRNA ligase	1
+lysine decarboxylase-like protein, putative	1
+prefoldin subunit 6	1
+serine repeat antigen 6	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	63
+cytosol	53
+unfolded protein binding	43
+protein folding	42
+chaperonin-containing T-complex	41
+response to xenobiotic stimulus	18
+ATP binding	17
+cytoplasm	12
+protein binding	12
+RNA N6-methyladenosine methyltransferase complex	7
+intracellular	7
+cell surface	7
+Maurer's cleft	7
+RNA binding	6
+host cell cytoplasm	6
+apical part of cell	6
+bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity	5
+host cell membrane	5
+translation elongation factor activity	5
+GTPase activity	5
+ATP biosynthetic process	5
+AMP biosynthetic process	5
+translational elongation	5
+food vacuole	4
+proteolysis	4
+ribonucleoprotein complex	4
+ribosome binding	4
+GTP binding	4
+NAD biosynthetic process	3
+response to glucose	3
+phosphofructokinase activity	3
+6-phosphofructokinase activity	3
+6-phosphofructokinase complex	3
+diadenosine tetraphosphate biosynthetic process	2
+signal transduction	2
+prefoldin complex	2
+cysteine-type endopeptidase activity	2
+extracellular space	2
+cell differentiation	2
+cAMP-dependent protein kinase activity	2
+NAD+ synthase (glutamine-hydrolyzing) activity	2
+entry into host	2
+lysosome	2
+proteolysis involved in cellular protein catabolic process	2
+lysine-tRNA ligase activity	2
+translation	2
+lysyl-tRNA aminoacylation	2
+tRNA binding	2
+aminopeptidase activity	2
+apicoplast	2

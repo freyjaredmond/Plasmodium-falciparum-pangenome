@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+protein AMR3 
+ubiquitin carboxyl-terminal hydrolase UCH54 
+phosphatidylinositol N-acetylglucosaminyltransferase subunit H, putative 
+proline--tRNA ligase, putative 
+conserved protein, unknown function 
+conserved oligomeric Golgi complex subunit 2, putative 
+spindle and kinetochore-associated protein 2, putative 
+inorganic pyrophosphatase, putative, inorganic pyrophosphatase 
+pseudouridine synthase, putative 
+TBC domain protein, putative 
+HROB domain-containing protein 
+ATP synthase F0 subunit d-like protein, putative 
+30S ribosomal protein S9, putative 
+GPI transamidase subunit PIG-U, putative 
+cytochrome c oxidase assembly protein COX15, putative 
+translation initiation factor eIF-2B subunit alpha, putative 
+conserved protein, unknown function 
+E3 ubiquitin-protein ligase 
+serine/threonine protein kinase, putative 
+DNA replication licensing factor MCM7 
+DNA replication licensing factor MCM4 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+ribosomal protein L21, apicoplast, putative 
+COX assembly mitochondrial protein, putative 
+DNA replication licensing factor MCM2 
+phosphoenolpyruvate/phosphate translocator 
+leucine-rich repeat protein 1 
+thioesterase/thiol ester dehydrase-isomerase, putative 
+iron-sulfur cluster assembly protein SufC 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+ATP-dependent Clp protease proteolytic subunit 
+ATP synthase F0 subunit b-like protein, putative 
+cyclin-like protein, putative 
+RMI1 domain-containing protein, putative 
+acyl carrier protein 
+peptide chain release factor 1 
+dihydrolipoyl dehydrogenase, mitochondrial 
+DNA-(apurinic or apyrimidinic site) endonuclease 
+50S ribosomal protein L9, apicoplast, putative 
+CS domain protein, putative 
+conserved Plasmodium protein, unknown function 
+DNA topoisomerase 3 
+pseudouridine synthase, putative 
+ribosomal protein S10, apicoplast, putative 
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, putative 
+cation diffusion facilitator family protein, putative 
+AP2 domain transcription factor AP2-HC 
+pentatricopeptide repeat-containing protein 1 
+****************
+
+Top 50 coexpressed genes GO terms 
+apicoplast	16
+mitochondrion	13
+nucleus	10
+protein binding	7
+DNA unwinding involved in DNA replication	4
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication	3
+plastid organization	3
+MCM complex	3
+RNA binding	3
+structural constituent of ribosome	3
+DNA replication origin binding	3
+cytoplasm	3
+double-strand break repair via break-induced replication	3
+single-stranded DNA binding	3
+mitotic DNA replication initiation	2
+DNA strand elongation involved in DNA replication	2
+small ribosomal subunit	2
+translation	2
+DNA replication initiation	2
+membrane	2
+cytosol	2
+response to xenobiotic stimulus	2
+NEDD8-specific protease activity	1
+Golgi transport complex	1
+ubiquitin-dependent protein catabolic process	1
+proline-tRNA ligase activity	1
+protein deubiquitination	1
+thiol-dependent deubiquitinase	1
+GTPase activator activity	1
+phosphate-containing compound metabolic process	1
+pyrophosphatase activity	1
+magnesium ion binding	1
+inorganic diphosphatase activity	1
+mitotic cell cycle	1
+chromosome segregation	1
+microtubule binding	1
+endoplasmic reticulum to Golgi vesicle-mediated transport	1
+spindle microtubule	1
+outer kinetochore	1
+kinetochore	1
+Golgi organization	1
+intra-Golgi vesicle-mediated transport	1
+prolyl-tRNA aminoacylation	1
+plastid small ribosomal subunit	1
+regulation of translational initiation	1
+translation initiation factor activity	1
+eukaryotic translation initiation factor 2B complex	1
+respiratory chain complex IV assembly	1
+heme A biosynthetic process	1
+oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor	1

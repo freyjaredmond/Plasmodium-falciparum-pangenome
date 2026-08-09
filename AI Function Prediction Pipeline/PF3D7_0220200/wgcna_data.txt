@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+DNA-directed RNA polymerase III subunit RPC6, putative 
+nitric oxide synthase, putative 
+RNA cytosine C(5)-methyltransferase, putative 
+transcription factor BTF3, putative 
+valine--tRNA ligase, putative 
+COBW domain-containing protein 1, putative 
+deoxyhypusine synthase 
+RNA methyltransferase, putative 
+eukaryotic translation initiation factor 3 subunit B, putative 
+methionine aminopeptidase 1b, putative 
+tRNA dimethylallyltransferase, putative 
+nuclear movement protein, putative 
+RuvB-like helicase 3 
+tetratricopeptide repeat protein, putative 
+40S ribosomal protein S7, putative 
+glycine--tRNA ligase 
+THUMP domain-containing protein, putative 
+tRNA pseudouridine synthase, putative 
+mediator of RNA polymerase II transcription subunit 7, putative 
+haloacid dehalogenase-like hydrolase 
+tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative 
+threonine--tRNA ligase 
+cyclin-like protein, putative 
+exoribonuclease, putative 
+conserved protein, unknown function 
+T-complex protein 1 subunit delta 
+methyltransferase, putative 
+ATP-dependent 6-phosphofructokinase 
+60S ribosomal protein L6, putative 
+serine/threonine protein kinase 
+ribosomal protein RSM22 
+orotidine 5'-phosphate decarboxylase 
+nucleolar GTP-binding protein 1, putative 
+T-complex protein 1 subunit alpha 
+mitochondrial import inner membrane translocase subunit TIM44, putative 
+cytidine and deoxycytidylate deaminase, putative 
+T-complex protein 1 subunit theta 
+serine/threonine protein kinase, FIKK family 
+S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase, putative 
+heat shock protein 110 
+60S ribosomal protein L7, putative 
+conserved Plasmodium protein, unknown function 
+40S ribosomal protein S6 
+eukaryotic translation initiation factor 6, putative 
+elongation factor Tu, putative 
+conserved Plasmodium protein, unknown function 
+60S ribosomal protein L7-3, putative 
+EKC/KEOPS complex subunit BUD32 
+eukaryotic translation initiation factor 3 subunit D, putative 
+40S ribosomal protein S19 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	27
+cytoplasm	12
+cytosol	10
+RNA binding	7
+structural constituent of ribosome	6
+mitochondrion	6
+translation	5
+protein folding	5
+protein binding	5
+ATP binding	4
+unfolded protein binding	4
+apicoplast	4
+extracellular vesicle	3
+response to xenobiotic stimulus	3
+maturation of LSU-rRNA	3
+cytosolic small ribosomal subunit	3
+nucleolus	3
+chaperonin-containing T-complex	3
+cytosolic large ribosomal subunit	3
+protein serine/threonine kinase activity	3
+protein phosphorylation	3
+intracellular signal transduction	2
+ribosomal large subunit biogenesis	2
+eukaryotic translation initiation factor 3 complex	2
+tRNA modification	2
+preribosome, large subunit precursor	2
+regulation of transcription by RNA polymerase II	2
+Maurer's cleft	2
+translational initiation	2
+ATP hydrolysis activity	2
+GTP binding	2
+tRNA aminoacylation for protein translation	2
+tRNA transcription by RNA polymerase III	1
+RNA polymerase III complex	1
+tRNA dimethylallyltransferase activity	1
+tRNA binding	1
+cellular protein modification process	1
+proteolysis	1
+metalloexopeptidase activity	1
+nucleotide binding	1
+deoxyhypusine synthase activity	1
+peptidyl-lysine modification to peptidyl-hypusine	1
+valine-tRNA ligase activity	1
+valyl-tRNA aminoacylation	1
+host cell periphery	1
+NuA4 histone acetyltransferase complex	1
+R2TP complex	1
+Ino80 complex	1
+developmental process	1
+tRNA processing	1

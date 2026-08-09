@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+40S ribosomal protein S21 
+40S ribosomal protein S15A, putative 
+40S ribosomal protein S23, putative 
+U6 snRNA-associated Sm-like protein LSm7, putative 
+60S ribosomal protein L7-3, putative 
+60S ribosomal protein L2 
+40S ribosomal protein S18, putative 
+elongation factor 1-alpha 
+60S acidic ribosomal protein P2 
+translation machinery-associated protein 46, putative 
+60S ribosomal protein L23, putative 
+heat shock protein DNAJ homologue Pfj4 
+conserved protein, unknown function 
+60S ribosomal protein L37ae, putative 
+40S ribosomal protein S7, putative 
+40S ribosomal protein S11 
+40S ribosomal protein S11, putative 
+eukaryotic translation initiation factor 2 subunit alpha 
+lysine--tRNA ligase 
+elongation factor 1-alpha 
+40S ribosomal protein S10, putative 
+60S ribosomal protein L27 
+40S ribosomal protein S5, putative 
+60S ribosomal protein L34 
+DNA-directed RNA polymerase II subunit RPB7, putative 
+40S ribosomal protein S3A, putative 
+small nuclear ribonucleoprotein Sm D2, putative 
+40S ribosomal protein S5 
+receptor for activated c kinase 
+40S ribosomal protein S8e, putative 
+60S ribosomal protein L4 
+40S ribosomal protein S16, putative 
+60S ribosomal protein L17, putative 
+multiprotein-bridging factor 1, putative 
+60S ribosomal protein L39 
+60S ribosomal protein L28 
+60S ribosomal protein L12, putative 
+threonine--tRNA ligase 
+cell cycle regulator protein, putative 
+60S ribosomal protein L15, putative 
+THUMP domain-containing protein, putative 
+elongation factor 1-gamma, putative 
+elongation factor 2 
+40S ribosomal protein S6 
+60S ribosomal protein L3 
+orotidine 5'-phosphate decarboxylase 
+ATP-dependent RNA helicase UAP56 
+60S ribosomal protein L7, putative 
+40S ribosomal protein S4, putative 
+thioredoxin peroxidase 1 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	46
+RNA binding	30
+translation	25
+structural constituent of ribosome	24
+cytosolic small ribosomal subunit	15
+cytosolic large ribosomal subunit	13
+cytosol	8
+extracellular vesicle	7
+ribosome	4
+cytoplasmic translation	4
+cytoplasm	4
+translation elongation factor activity	4
+translational elongation	4
+eukaryotic translation elongation factor 1 complex	3
+small ribosomal subunit	3
+GTPase activity	3
+Maurer's cleft	3
+ribosome binding	3
+mitochondrion	3
+response to xenobiotic stimulus	3
+spliceosomal complex	2
+RNA splicing, via transesterification reactions	2
+ribonucleoprotein complex	2
+ATP binding	2
+catalytic step 2 spliceosome	2
+response to heat	2
+cell surface	2
+ribosomal large subunit assembly	2
+protein binding	2
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2
+rRNA binding	2
+ribosomal small subunit assembly	2
+large ribosomal subunit rRNA binding	2
+endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1
+maturation of LSU-rRNA	1
+mRNA splicing, via spliceosome	1
+U6 snRNP	1
+U2-type prespliceosome	1
+spliceosomal tri-snRNP complex	1
+Lsm1-7-Pat1 complex	1
+unfolded protein binding	1
+Hsp70 protein binding	1
+host cell cytoplasm	1
+response to unfolded protein	1
+ribosomal small subunit biogenesis	1
+eukaryotic 48S preinitiation complex	1
+small-subunit processome	1
+rRNA processing	1
+eukaryotic translation initiation factor 2B complex	1

@@ -1,0 +1,77 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+transcription elongation factor SPT4, putative	2
+GTPase-activating protein, putative	1
+WD repeat-containing protein, putative	1
+eukaryotic translation initiation factor 3 subunit B, putative	1
+eukaryotic translation initiation factor 3 subunit G, putative	1
+eukaryotic translation initiation factor 3 subunit A, putative	1
+oocyst rupture protein 1, putative	1
+eukaryotic translation initiation factor 3 subunit C, putative	1
+heat shock protein DNAJ homologue Pfj4	1
+HSP40, subfamily A	1
+RNA-binding protein, putative	1
+replication factor C subunit 4, putative	1
+vacuolar protein sorting-associated protein 4	1
+histone-arginine methyltransferase CARM1, putative	1
+eukaryotic peptide chain release factor subunit 1, putative	1
+EH domain-containing protein	1
+replication factor C subunit 1	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	14
+translational initiation	4
+translation initiation factor activity	3
+protein binding	3
+regulation of transcription, DNA-templated	3
+eukaryotic translation initiation factor 3 complex	3
+RNA binding	3
+mRNA binding	3
+cytosol	3
+DSIF complex	2
+mRNA splicing, via spliceosome	2
+mRNA processing	2
+chromatin organization	2
+regulation of transcription elongation from RNA polymerase II promoter	2
+intracellular protein transport	2
+transcription, DNA-templated	2
+rDNA binding	2
+DNA-binding transcription factor activity	2
+cytoplasm	2
+Hsp70 protein binding	2
+regulation of translational initiation	2
+DNA binding	2
+response to heat	2
+membrane	2
+RNA polymerase II complex binding	2
+DNA replication	2
+response to xenobiotic stimulus	2
+DNA replication factor C complex	2
+DNA repair	2
+ATP hydrolysis activity	2
+chromatin binding	2
+activation of GTPase activity	1
+eukaryotic translation initiation factor 3 complex, eIF3e	1
+GTPase activator activity	1
+host cell cytoplasm	1
+Maurer's cleft	1
+cell periphery	1
+translation initiation factor binding	1
+translation reinitiation	1
+eukaryotic translation initiation factor 3 complex, eIF3m	1
+multi-eIF complex	1
+formation of cytoplasmic translation initiation complex	1
+translation	1
+host cell plasma membrane	1
+unfolded protein binding	1
+response to unfolded protein	1
+U2-type spliceosomal complex	1
+U2 snRNP	1
+DNA clamp loader activity	1
+ATP binding	1

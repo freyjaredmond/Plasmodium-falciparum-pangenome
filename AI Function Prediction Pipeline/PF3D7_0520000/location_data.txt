@@ -1,0 +1,81 @@
+****************
+Subcellular localisation 
+ribosomes
+****************
+
+Subcellular localisation GO terms 
+nucleus	64
+structural constituent of ribosome	49
+translation	46
+cytosolic large ribosomal subunit	35
+RNA binding	34
+cytosolic small ribosomal subunit	20
+cytoplasmic translation	11
+extracellular vesicle	9
+ribosomal large subunit assembly	7
+large ribosomal subunit	5
+ribosome	4
+mRNA binding	3
+RNA N6-methyladenosine methyltransferase complex	3
+rRNA binding	3
+small ribosomal subunit	3
+ribosomal small subunit assembly	3
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2
+large ribosomal subunit rRNA binding	2
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2
+Maurer's cleft	2
+cytosol	2
+ribosomal large subunit biogenesis	2
+intracellular	2
+host cell surface	1
+cell surface	1
+small-subunit processome	1
+positive regulation of translational fidelity	1
+protein tetramerization	1
+entry into host	1
+ribosome biogenesis	1
+zinc ion binding	1
+protein kinase activator activity	1
+negative regulation of translation	1
+ribonucleoprotein complex binding	1
+ribonucleoprotein complex assembly	1
+chromosome, telomeric region	1
+nuclear periphery	1
+5S rDNA binding	1
+DNA binding	1
+double-stranded telomeric DNA binding	1
+histone-lysine N-methyltransferase activity	1
+histone lysine methylation	1
+negative regulation of telomere maintenance via telomere lengthening	1
+regulation of transcription, DNA-templated	1
+cytoplasm	1
+endoplasmic reticulum membrane	1
+signal recognition particle, endoplasmic reticulum targeting	1
+7S RNA binding	1
+protein binding	1
+ribosome binding	1
+*********************
+Coexpressed genes in the same subcellular localisation
+40S ribosomal protein S11
+60S ribosomal protein L27
+40S ribosomal protein S16, putative
+60S ribosomal protein L28
+60S ribosomal protein L12, putative
+40S ribosomal protein S8e, putative
+40S ribosomal protein S15A, putative
+40S ribosomal protein S6
+60S ribosomal protein L4
+40S ribosomal protein S11, putative
+60S ribosomal protein L17, putative
+40S ribosomal protein S23, putative
+40S ribosomal protein S18, putative
+40S ribosomal protein S3A, putative
+60S ribosomal protein L7-3, putative
+60S ribosomal protein L7, putative
+40S ribosomal protein S5
+60S ribosomal protein L37ae, putative
+60S acidic ribosomal protein P2
+60S ribosomal protein L3
+60S ribosomal protein L34
+60S ribosomal protein L15, putative
+60S ribosomal protein L2

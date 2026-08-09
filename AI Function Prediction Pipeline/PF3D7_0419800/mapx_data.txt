@@ -1,0 +1,100 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+KH domain-containing protein, putative	1
+40S ribosomal protein S24	1
+mitochondrial-processing peptidase subunit alpha, putative	1
+60S ribosomal protein L34	1
+conserved Plasmodium membrane protein, unknown function	1
+60S ribosomal protein L32	1
+conserved Plasmodium protein, unknown function	1
+conserved Plasmodium protein, unknown function	1
+AP-1 complex subunit sigma, putative	1
+protein BCP1, putative	1
+early transcribed membrane protein 14.1	1
+DNA damage-inducible protein 1	1
+SWIB/MDM2 domain-containing protein	1
+40S ribosomal protein S5, putative	1
+tyrosine--tRNA ligase	1
+methionine aminopeptidase 1b, putative	1
+serine/threonine protein kinase, FIKK family	1
+60S ribosomal protein L36	1
+proline--tRNA ligase	1
+N-alpha-acetyltransferase 15, NatA auxiliary subunit, putative	1
+THUMP domain-containing protein, putative	1
+carbamoyl phosphate synthetase	1
+conserved Plasmodium protein, unknown function	1
+conserved Plasmodium protein, unknown function	1
+trafficking protein particle complex subunit 13, putative	1
+peptidyl-prolyl cis-trans isomerase	1
+conserved Plasmodium protein, unknown function	1
+tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative	1
+RNA-binding protein, putative	1
+phosducin-like protein 2, putative	1
+alternative splicing factor ASF-1, putative	1
+U2 small nuclear ribonucleoprotein A', putative	1
+UMP-CMP kinase, putative	1
+EMP1-trafficking protein	1
+Plasmodium exported protein (PHISTc), unknown function	1
+cytoadherence linked asexual protein 3.1	1
+40S ribosomal protein S15A, putative	1
+chromatin assembly factor 1 subunit C, putative	1
+activator of Hsp90 ATPase	1
+40S ribosomal protein S23, putative	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	26
+RNA binding	8
+cytoplasm	6
+cytosolic small ribosomal subunit	4
+translation	4
+structural constituent of ribosome	4
+Maurer's cleft	4
+cytosolic large ribosomal subunit	3
+host cell cytoplasm	3
+mitochondrion	3
+protein binding	2
+response to xenobiotic stimulus	2
+proteolysis	2
+mRNA binding	2
+ribosome	2
+protein folding	2
+clathrin adaptor complex	1
+5'-flap endonuclease activity	1
+ribosome biogenesis	1
+AP-1 adaptor complex	1
+flap endonuclease activity	1
+metalloendopeptidase activity	1
+aspartic-type endopeptidase activity	1
+intracellular membrane-bounded organelle	1
+vesicle-mediated transport	1
+symbiont-containing vacuole membrane	1
+rRNA binding	1
+protein processing involved in protein targeting to mitochondrion	1
+ubiquinol-cytochrome-c reductase activity	1
+mitochondrial processing peptidase complex	1
+host cell cytosol	1
+ribosomal small subunit assembly	1
+regulation of transcription by RNA polymerase II	1
+host cell surface receptor binding	1
+metalloexopeptidase activity	1
+tyrosyl-tRNA aminoacylation	1
+cellular protein modification process	1
+tyrosine-tRNA ligase activity	1
+intracellular signal transduction	1
+modulation by symbiont of host process	1
+protein phosphorylation	1
+cytoplasmic translation	1
+aminoacyl-tRNA synthetase multienzyme complex	1
+Ala-tRNA(Pro) hydrolase activity	1
+proline-tRNA ligase activity	1
+protein serine/threonine kinase activity	1
+prolyl-tRNA aminoacylation	1
+response to drug	1
+N-terminal peptidyl-methionine acetylation	1
+tRNA aminoacylation for protein translation	1

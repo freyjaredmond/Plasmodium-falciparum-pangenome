@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+pseudouridine synthase, putative 
+cation diffusion facilitator family protein, putative 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+GPI transamidase subunit PIG-U, putative 
+conserved Plasmodium protein, unknown function 
+bifunctional dihydrofolate reductase-thymidylate synthase 
+replication factor C subunit 2, putative 
+CS domain protein, putative 
+30S ribosomal protein S9, putative 
+conserved protein, unknown function 
+DNA polymerase alpha subunit B, putative 
+RMI1 domain-containing protein, putative 
+lysine decarboxylase-like protein, putative 
+pentatricopeptide repeat-containing protein 1 
+conserved Plasmodium protein, unknown function 
+DEAD box helicase, putative 
+spindle and kinetochore-associated protein 2, putative 
+proliferating cell nuclear antigen 1 
+thioesterase/thiol ester dehydrase-isomerase, putative 
+origin recognition complex subunit 5 
+proline--tRNA ligase, putative 
+ribosomal RNA fragment RNA13 
+GTP-binding translation elongation factor tu family protein, putative 
+TBC domain protein, putative 
+AP2 domain transcription factor, putative 
+ribonuclease H2 subunit B, putative 
+flavoprotein subunit of succinate dehydrogenase 
+mitochondrial inner membrane protein OXA1, putative 
+ATP-dependent helicase, putative 
+thioredoxin reductase 
+ribosome-recycling factor 
+tRNA N6-adenosine threonylcarbamoyltransferase 
+P-loop containing nucleoside triphosphate hydrolase, putative 
+mediator of RNA polymerase II transcription subunit 6, putative 
+50S ribosomal protein L3, apicoplast, putative 
+50S ribosomal protein L9, apicoplast, putative 
+cytochrome c oxidase assembly protein COX15, putative 
+elongation factor Tu, putative 
+replication factor C subunit 3, putative 
+DNA replication licensing factor MCM2 
+conserved protein, unknown function 
+ATP synthase subunit beta, mitochondrial 
+AP2 domain transcription factor AP2-EXP2 
+ATP-dependent protease subunit ClpQ 
+Plasmodium exported protein, unknown function 
+peptide chain release factor 1 
+conserved protein, unknown function 
+protein CutA, putative 
+conserved protein, unknown function 
+****************
+
+Top 50 coexpressed genes GO terms 
+mitochondrion	18
+apicoplast	12
+nucleus	11
+RNA binding	6
+cytosol	4
+DNA replication	4
+DNA replication factor C complex	3
+cytoplasm	3
+protein binding	3
+DNA repair	2
+DNA-dependent DNA replication	2
+translation	2
+membrane	2
+DNA replication initiation	2
+helicase activity	2
+leading strand elongation	2
+PCNA complex	2
+translational elongation	2
+translation elongation factor activity	2
+DNA replication origin binding	2
+structural constituent of ribosome	2
+mRNA binding	2
+GTP binding	2
+response to xenobiotic stimulus	1
+response to drug	1
+zinc ion transport	1
+thymidylate synthase activity	1
+small ribosomal subunit	1
+alpha DNA polymerase:primase complex	1
+DNA biosynthetic process	1
+DNA-directed DNA polymerase activity	1
+dTMP biosynthetic process	1
+response to chloroquine	1
+DNA helicase activity	1
+DNA duplex unwinding	1
+plastid small ribosomal subunit	1
+mitochondrial small ribosomal subunit	1
+kinetochore	1
+establishment of sister chromatid cohesion	1
+outer kinetochore	1
+spindle microtubule	1
+chromosome segregation	1
+microtubule binding	1
+mitotic cell cycle	1
+DNA polymerase processivity factor activity	1
+mismatch repair	1
+translesion synthesis	1
+sequence-specific mRNA binding	1
+DNA replication, synthesis of RNA primer	1
+zinc ion transmembrane transport	1

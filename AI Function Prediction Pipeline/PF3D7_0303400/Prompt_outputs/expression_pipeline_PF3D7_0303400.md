@@ -1,0 +1,31 @@
+## Predicted Functions
+
+1. Endoplasmic reticulum-resident protein involved in GPI anchor biosynthesis or protein processing in the secretory pathway
+2. Membrane-associated protein functioning in vesicle-mediated transport between the ER and Golgi apparatus
+3. Component of the inner membrane complex (IMC) or pellicle biogenesis, contributing to schizont/merozoite maturation
+4. Essential protein involved in late-stage asexual blood development (schizont stage), potentially linked to egress or invasion preparation
+5. Protein involved in mitochondrial or organellar membrane organization during the intraerythrocytic developmental cycle
+
+## Summary
+
+This gene encodes an essential ER-localized protein that is most highly expressed during schizont stages (32–40 hpi) of the <i>Plasmodium falciparum</i> intraerythrocytic developmental cycle. Its strong upregulation during late asexual stages, severe fitness cost upon disruption (piggyBac score −3.224), ER1 localization, and coexpression with GPI-anchor biosynthesis components, secretory pathway proteins, and inner membrane complex genes suggest it functions in the ER-based secretory/processing pathway critical for merozoite formation and invasion competence.
+
+## Evidence
+
+**Transcriptomics:** The gene shows a clear schizont-stage expression peak. In the Otto et al. time course, expression rises from 62 TPM at 0 hr to 224 TPM at 40 hr (3.6-fold, top 6.4% upregulated). The Kucharski high-resolution time course confirms peak expression at 34–38 hpi (16–19-fold increase over 4 hpi, top 12% upregulated). In Toenhake et al., expression drops dramatically from T05 (rings, 42 TPM) to T20/T25 (~0.6 TPM, −62 to −65-fold, top 11% downregulated), then recovers at T40 (146 TPM, 3.4-fold up). The Wichers 2019 dataset shows significant upregulation from mid-trophozoite to late trophozoite (9.3-fold, p = 1.36e-11, top 4.8% upregulated) and significant downregulation from early ring to late ring (−3.3-fold, p = 0.002). The gene is significantly upregulated in severe vs. uncomplicated malaria (6.2-fold, p = 4.78e-5, top 4.8% upregulated), consistent with schizont-enriched parasites in severe disease. In gametocytes, expression decreases during maturation (van Biljon: 2.5-fold down at day 8 post-induction, top 5.9% downregulated). Antisense transcription shows some regulation (downregulated from blood stage to oocyst, top 1.6%), but the sense strand profile dominates. The schizont-to-trophozoite comparison in PfBDP1HA shows −34-fold downregulation (p = 1.38e-14, top 5.4% significant), confirming schizont-specific expression.
+
+**Additional Data (Proteomics/Mutagenesis):** The piggyBac mutant fitness score of −3.224 indicates the gene is essential for asexual blood-stage growth. Mass spectrometry detected the protein in 5 of 63 samples with 12 unique peptides across samples, consistent with stage-specific expression. Quantitative proteomics (PfCRK4 study) showed a modest −1.26-fold change when PfCRK4 was destabilized at 37 hpi (top 20.1% downregulated), suggesting potential regulation during the schizont-to-merozoite transition under DNA replication stress.
+
+**Coexpression:** The top 50 WGCNA-coexpressed genes include several functionally informative hits: GPI-anchor transamidase, phosphatidylinositol N-acetylglucosaminyltransferase subunit GPI1 (GPI biosynthesis), glideosome-associated protein 50 (GAP50, invasion/IMC), inner membrane complex protein, basal complex protein BLEB, cell division control protein CDC50A (lipid flippase), syntaxin-6 (vesicle trafficking), vacuolar sorting proteins (SNF7, VPS2), condensin complex subunit 2, and multiple mitochondrial components (cytochrome c oxidase subunits). GO terms are dominated by nucleus (13), cytoplasm (8), mitochondrion (6), inner membrane pellicle complex (3), ER (3), and vesicle-mediated transport (2). This coexpression pattern points toward a late-stage function in organelle biogenesis, GPI-anchored protein processing, and IMC assembly.
+
+**Localization:** HyperLOPIT assigns this protein to the ER1 compartment. The ER1 niche is enriched for ER membrane (18 genes), protein targeting to ER (6), GPI anchor biosynthesis (4), vesicle-mediated transport (6), SNARE complex (4), protein folding in ER (4), and signal peptide processing (4). Three coexpressed genes (alpha/beta hydrolase, GPI1, and a conserved Plasmodium protein) co-localize to this ER1 niche, strengthening the functional link to ER-based protein processing and GPI-anchor pathways.
+
+**Binding:** No gold standard or above-threshold MAPX interactions were available.
+
+## Confidence
+
+Confidence in the prediction of an essential, ER-localized, schizont-stage protein is high, supported by convergent evidence from transcriptomics (consistent schizont peak across >5 independent studies), proteomics localization (ER1), mutagenesis (strongly essential), and coexpression with GPI biosynthesis and IMC components. The specific molecular function remains uncertain due to the absence of direct interaction data and the heterogeneous functional themes among coexpressed genes (mitochondrial, IMC, vesicular trafficking, GPI biosynthesis). The ER1 localization and coexpression with GPI1 and GPI-anchor transamidase most strongly support a role in the GPI-anchor biosynthesis or secretory processing pathway, but a direct structural role in IMC assembly cannot be excluded.
+
+## Experimental Validation
+
+Conditional knockdown (e.g., glmS ribozyme or TetR-DOZI system) timed at the trophozoite-to-schizont transition would confirm essentiality and identify the stage of arrest. Immunofluorescence microscopy with epitope-tagged alleles would validate ER localization and determine whether the protein redistributes during schizogony. Co-immunoprecipitation followed by mass spectrometry (IP-MS) at schizont stage would identify binding partners and clarify whether the protein participates in GPI biosynthesis, IMC assembly, or vesicular trafficking. Bioinformatic analysis including HHpred or AlphaFold structural prediction could reveal domain homologies not captured by standard BLAST. Flow cytometry-based invasion assays after conditional knockdown would test whether invasion is specifically impaired, as predicted by coexpression with GAP50 and IMC components.

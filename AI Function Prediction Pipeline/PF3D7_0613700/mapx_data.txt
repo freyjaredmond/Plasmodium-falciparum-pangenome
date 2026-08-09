@@ -1,0 +1,50 @@
+Gold standard interactions 
+******************
+No gold standard interactions available
+******************
+Gold standard interactors GO term counts 
+No gold standard interactions available
+******************
+MapX interaction pair counts 
+U4/U6 snRNA-associated-splicing factor, putative	1
+mediator of RNA polymerase II transcription subunit 7, putative	1
+NEDD8-conjugating enzyme UBC12, putative	1
+S-adenosylmethionine-dependent methyltransferase, putative	1
+tRNA guanosine-2'-O-methyltransferase, putative	1
+protein GEXP15	1
+MORN repeat protein, putative	1
+nuclear cap-binding protein subunit 2, putative	1
+replication factor C subunit 2, putative	1
+transcription factor, putative	1
+RNA-binding protein 25, putative	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	4
+cytoplasm	2
+RNA binding	2
+ribonucleoprotein complex	1
+core mediator complex	1
+regulation of transcription by RNA polymerase II	1
+mediator complex	1
+ubiquitin conjugating enzyme activity	1
+NEDD8 transferase activity	1
+ubiquitin-protein transferase activity	1
+protein neddylation	1
+protein polyubiquitination	1
+methyltransferase activity	1
+tRNA (guanine-N2-)-methyltransferase activity	1
+U5 snRNP	1
+protein binding	1
+protein phosphatase regulator activity	1
+ribosome binding	1
+membrane	1
+nuclear cap binding complex	1
+RNA cap binding	1
+mRNA processing	1
+mRNA splicing, via spliceosome	1
+DNA replication factor C complex	1
+DNA repair	1
+DNA replication	1
+DNA-dependent DNA replication	1
+RNA polymerase I complex	1
+termination of RNA polymerase I transcription	1

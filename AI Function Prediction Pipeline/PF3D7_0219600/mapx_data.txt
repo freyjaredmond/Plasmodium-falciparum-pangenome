@@ -1,0 +1,75 @@
+Gold standard interactions 
+******************
+replication factor C subunit 2, putative
+replication factor C subunit 3, putative
+replication factor C subunit 4, putative
+replication factor C subunit 5, putative
+******************
+Gold standard interactors GO term counts 
+DNA replication factor C complex	4
+nucleus	4
+DNA repair	4
+DNA replication	4
+DNA-dependent DNA replication	4
+RNA binding	2
+DNA strand elongation involved in DNA replication	2
+leading strand elongation	2
+PCNA complex	1
+ATP binding	1
+DNA clamp loader activity	1
+response to xenobiotic stimulus	1
+******************
+MapX interaction pair counts 
+conserved Plasmodium protein, unknown function	1
+ISWI chromatin-remodeling complex ATPase	1
+conserved protein, unknown function	1
+RuvB-like helicase 2	1
+conserved Plasmodium protein, unknown function	1
+myosin F, putative	1
+splicing factor 3A subunit 1, putative	1
+histone-arginine methyltransferase CARM1, putative	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	3
+RNA binding	3
+chromatin remodeling	2
+cytoplasm	2
+ATP-dependent activity, acting on DNA	1
+helicase activity	1
+mitochondrion	1
+transcription cis-regulatory region binding	1
+positive regulation of transcription, DNA-templated	1
+Ino80 complex	1
+DNA binding	1
+NuA4 histone acetyltransferase complex	1
+R2TP complex	1
+Swr1 complex	1
+5'-3' DNA helicase activity	1
+ATP hydrolysis activity	1
+DNA helicase activity	1
+protein binding	1
+DNA recombination	1
+DNA repair	1
+box C/D snoRNP assembly	1
+histone acetylation	1
+regulation of transcription by RNA polymerase II	1
+actin cytoskeleton	1
+apical part of cell	1
+cytosol	1
+myosin complex	1
+vesicle	1
+actin filament binding	1
+actin-dependent ATPase activity	1
+cytoskeletal motor activity	1
+microfilament motor activity	1
+actin filament organization	1
+actin filament-based movement	1
+cytoskeleton organization	1
+vesicle transport along actin filament	1
+U2 snRNP	1
+U2-type prespliceosome	1
+catalytic step 2 spliceosome	1
+spliceosomal complex	1
+mRNA splicing, via spliceosome	1
+histone methyltransferase activity	1
+histone methylation	1

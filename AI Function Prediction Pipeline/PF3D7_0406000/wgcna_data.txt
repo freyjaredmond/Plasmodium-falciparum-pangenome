@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+3',5'-cyclic nucleotide phosphodiesterase beta 
+conserved protein, unknown function 
+conserved Plasmodium protein, unknown function 
+sphingomyelin phosphodiesterase 
+serine/threonine protein kinase 
+conserved Plasmodium protein, unknown function 
+CLASP domain-containing protein, putative 
+conserved Plasmodium membrane protein, unknown function 
+F-box protein FBXO1, putative 
+rhoptry neck protein 12 
+ribosome biogenesis GTPase A, putative 
+conserved Plasmodium membrane protein, unknown function 
+GAF domain-related protein, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+TH1 domain-containing protein, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+inner membrane complex suture component, putative 
+Dpy-19-like C-mannosyltransferase 
+ferlin, putative 
+SET domain protein, putative 
+tetratricopeptide repeat protein, putative 
+cell division control protein CDC50B 
+Nd9 protein 
+negative elongation factor A, putative 
+conserved protein, unknown function 
+protein disulfide-isomerase 
+conserved Plasmodium protein, unknown function 
+armadillo-interacting protein AIP 
+DnaJ protein, putative 
+serine/threonine protein kinase, putative 
+palmitoyltransferase DHHC5 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+cyclase-associated protein 
+CRWN-like protein, putative 
+cytoadherence linked asexual protein 9 
+serine repeat antigen 1 
+rhomboid protease ROM4 
+cGMP-dependent protein kinase 
+conserved protein, unknown function 
+conserved Plasmodium protein, unknown function 
+protein KIC8 
+glideosome-associated protein 40 
+conserved protein, unknown function 
+filament assembling protein, putative 
+NdP2 protein, putative 
+conserved Plasmodium protein, unknown function 
+glideosome associated protein with multiple membrane spans 3 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	12
+cytoplasm	7
+cell surface	7
+endoplasmic reticulum	6
+entry into host	5
+inner membrane pellicle complex	5
+protein binding	5
+membrane	4
+protein phosphorylation	3
+plasma membrane	3
+RNA binding	3
+apical part of cell	3
+Maurer's cleft	2
+peptidyl-serine phosphorylation	2
+protein serine/threonine kinase activity	2
+mitochondrion	2
+Golgi apparatus	2
+exit from host cell	2
+cytosol	2
+rhoptry	2
+signal transduction	2
+calmodulin-dependent cyclic-nucleotide phosphodiesterase activity	1
+cAMP metabolic process	1
+3',5'-cyclic-AMP phosphodiesterase activity	1
+peptidyl-threonine phosphorylation	1
+protein tyrosine kinase activity	1
+sphingomyelin metabolic process	1
+protein kinase activity	1
+sphingomyelin phosphodiesterase activity	1
+microtubule binding	1
+microtubule cytoskeleton organization	1
+cytoplasmic microtubule	1
+perinuclear region of cytoplasm	1
+SCF ubiquitin ligase complex	1
+3',5'-cyclic-nucleotide phosphodiesterase activity	1
+3',5'-cyclic-GMP phosphodiesterase activity	1
+phospholipase activity	1
+nuclease activity	1
+cGMP metabolic process	1
+apical complex	1
+GTP binding	1
+apicoplast	1
+symbiont-containing vacuole	1
+rhoptry neck	1
+cell division	1
+microneme	1
+NELF complex	1
+transmembrane transporter activity	1
+mannosyltransferase activity	1
+nuclear inner membrane	1

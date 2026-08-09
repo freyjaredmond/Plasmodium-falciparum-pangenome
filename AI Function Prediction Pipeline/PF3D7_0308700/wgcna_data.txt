@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+merozoites-associated armadillo repeats protein 
+conserved protein, unknown function 
+MSP7-like protein 
+merozoite surface protein 11 
+apicomplexan kinetochore protein 11, putative 
+serine/threonine protein phosphatase 7 
+conserved protein, unknown function 
+glutamate-rich protein GLURP 
+conserved Plasmodium protein, unknown function 
+claudin-like apicomplexan microneme protein, putative 
+conserved Plasmodium protein, unknown function 
+subtilisin propeptide-like protein 
+conserved Plasmodium membrane protein, unknown function 
+HECT domain-containing protein 1, putative 
+RING zinc finger protein, putative 
+conserved Plasmodium protein, unknown function 
+subpellicular microtubule protein 1, putative 
+serine/threonine protein kinase, putative 
+merozoite surface protein 10 
+apical membrane antigen 1 
+apical asparagine-rich protein AARP 
+conserved Plasmodium protein, unknown function 
+rhoptry-associated leucine zipper-like protein 1 
+conserved protein, unknown function 
+myosin J, putative 
+dipeptidyl aminopeptidase 3 
+duffy binding-like merozoite surface protein 
+myosin A-tail interacting protein 
+inner membrane complex protein 1m, putative 
+conserved Plasmodium protein, unknown function 
+protein CERLI1 
+armadillo-domain containing rhoptry protein 
+conserved Plasmodium protein, unknown function 
+rhoptry protein, putative 
+merozoite surface protein 3 
+calcium-dependent protein kinase 4 
+rhoptry protein ROP14 
+inner membrane complex protein 1c 
+palmitoyltransferase DHHC7 
+conserved Plasmodium protein, unknown function 
+conserved protein, unknown function 
+photosensitized INA-labeled protein PHIL1 
+erythrocyte binding like protein 1, pseudogene 
+G2 protein, putative 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+PhIL1-interacting candidate PIC4 
+calcium-dependent protein kinase 1 
+phospholipase PL38 
+inner membrane complex protein 1e 
+****************
+
+Top 50 coexpressed genes GO terms 
+entry into host	10
+cell surface	9
+protein binding	9
+apical part of cell	8
+nucleus	8
+inner membrane pellicle complex	7
+rhoptry	6
+cytoplasm	5
+host cell surface binding	3
+symbiont-containing vacuole	3
+plasma membrane	3
+microneme	2
+extracellular vesicle	2
+apical complex	2
+microtubule binding	2
+rhoptry neck	2
+host cell surface receptor binding	2
+peptidyl-serine phosphorylation	2
+protein autophosphorylation	2
+symbiont-containing vacuole membrane	2
+basal part of cell	2
+protein phosphorylation	2
+calcium-dependent protein serine/threonine kinase activity	2
+calmodulin binding	2
+intracellular signal transduction	2
+cytosol	2
+protein dephosphorylation	1
+protein serine/threonine phosphatase activity	1
+kinetochore	1
+extrinsic component of membrane	1
+microtubule anchoring	1
+anchored component of plasma membrane	1
+serine-type endopeptidase inhibitor activity	1
+negative regulation of endopeptidase activity	1
+food vacuole	1
+ubiquitin protein ligase activity	1
+cytoskeleton	1
+subpellicular microtubule	1
+peptidase inhibitor activity	1
+actin filament organization	1
+microfilament motor activity	1
+cell-cell adhesion	1
+vesicle	1
+actin filament binding	1
+actin-dependent ATPase activity	1
+actin cytoskeleton	1
+cysteine-type peptidase activity	1
+protein catabolic process	1
+proteolysis involved in cellular protein catabolic process	1
+IgM binding	1

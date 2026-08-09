@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+RNA cytosine C(5)-methyltransferase, putative 
+COBW domain-containing protein 1, putative 
+cyclin-like protein, putative 
+glycine--tRNA ligase 
+tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6, putative 
+tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase 
+conserved Plasmodium protein, unknown function 
+RNA methyltransferase, putative 
+proliferation-associated protein 2g4, putative 
+ATP-dependent 6-phosphofructokinase 
+nucleolar GTP-binding protein 1, putative 
+Alba domain-containing protein, putative 
+alanine--tRNA ligase 
+cytidine and deoxycytidylate deaminase, putative 
+methyltransferase, putative 
+ATP-dependent RNA helicase DBP10, putative 
+S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase, putative 
+tRNA pseudouridine synthase, putative 
+elongation factor Tu, putative 
+nitric oxide synthase, putative 
+DNA-directed RNA polymerase III subunit RPC6, putative 
+Fe-S cluster assembly factor HCF101, putative 
+deoxyhypusine synthase 
+rRNA (cytosine-C(5))-methyltransferase, putative 
+conserved protein, unknown function 
+valine--tRNA ligase, putative 
+eukaryotic translation initiation factor 3 subunit B, putative 
+polyribonucleotide 5'-hydroxyl-kinase Clp1, putative 
+serine/threonine protein kinase 
+eukaryotic translation initiation factor 3 subunit M, putative 
+ATP-dependent RNA helicase DDX31 
+tetratricopeptide repeat protein, putative 
+DNA-directed RNA polymerase III subunit RPC2, putative 
+tRNA N6-adenosine threonylcarbamoyltransferase 
+threonine--tRNA ligase 
+ribonucleases P/MRP protein subunit POP1, putative 
+ribosomal RNA methyltransferase, putative 
+diphthine methyl ester synthase, putative 
+RuvB-like helicase 3 
+mediator of RNA polymerase II transcription subunit 7, putative 
+conserved Plasmodium protein, unknown function 
+ribonuclease Z, putative 
+conserved Plasmodium protein, unknown function 
+transcription factor BTF3, putative 
+Snf2-related CBP activator, putative 
+40S ribosomal protein S7, putative 
+nuclear cap-binding protein subunit 1, putative 
+ribonuclease, putative 
+40S ribosomal protein S6 
+tRNA pseudouridine synthase, putative 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	19
+cytoplasm	9
+mitochondrion	6
+ATP binding	6
+apicoplast	5
+nucleolus	5
+cytosol	5
+RNA binding	4
+RNA methylation	3
+tRNA pseudouridine synthesis	2
+mRNA pseudouridine synthesis	2
+response to xenobiotic stimulus	2
+GTP binding	2
+pseudouridine synthase activity	2
+rRNA (cytosine-C5-)-methyltransferase activity	2
+rRNA base methylation	2
+Swr1 complex	2
+ATP hydrolysis activity	2
+chromatin remodeling	2
+structural constituent of ribosome	2
+translation	2
+cytosolic small ribosomal subunit	2
+protein binding	2
+DNA helicase activity	2
+tRNA aminoacylation for protein translation	2
+eukaryotic translation initiation factor 3 complex	2
+RNA polymerase III complex	2
+regulation of transcription by RNA polymerase II	2
+glycyl-tRNA aminoacylation	1
+glycine-tRNA ligase activity	1
+maturation of LSU-rRNA	1
+nucleotide binding	1
+N6-threonylcarbomyladenosine methylthiotransferase activity	1
+endoplasmic reticulum	1
+tRNA (m1A) methyltransferase complex	1
+mitochondrial glycyl-tRNA aminoacylation	1
+tRNA modification	1
+amino acid binding	1
+aminoacyl-tRNA editing activity	1
+alanine-tRNA ligase activity	1
+ribosomal large subunit biogenesis	1
+preribosome, large subunit precursor	1
+phosphofructokinase activity	1
+6-phosphofructokinase activity	1
+response to glucose	1
+6-phosphofructokinase complex	1
+cell population proliferation	1
+cell cycle arrest	1
+ribonucleoprotein complex	1
+tRNA wobble adenosine to inosine editing	1

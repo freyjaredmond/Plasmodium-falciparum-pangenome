@@ -1,0 +1,67 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+Plasmodium exported protein, unknown function, fragment 
+Plasmodium exported protein, unknown function, fragment 
+tRNA Histidine 
+tRNA Cysteine 
+tRNA Tyrosine 
+tRNA Glutamic acid 
+tRNA Glycine 
+tRNA Isoleucine 
+tRNA Phenylalanine 
+tRNA Aspartic acid 
+erythrocyte membrane protein 1 (PfEMP1), pseudogene 
+hypothetical protein 
+DNA-directed RNA polymerase subunit beta'', putative 
+Plasmodium exported protein (PHISTa), unknown function, pseudogene 
+tRNA Leucine 
+tRNA Glycine 
+apicoplast ribosomal protein S4 
+erythrocyte membrane protein 1 (PfEMP1), pseudogene 
+30S ribosomal protein S2, putative 
+Plasmodium exported protein, unknown function, pseudogene 
+hypothetical chloroplast reading frame 93 
+rifin 
+rifin 
+rifin 
+rifin 
+Plasmodium exported protein, unknown function, fragment 
+Plasmodium exported protein (PHIST), unknown function, pseudogene 
+Plasmodium exported protein, unknown function, pseudogene 
+rifin 
+hypothetical protein 
+rifin 
+rifin 
+Plasmodium exported protein, unknown function, pseudogene 
+stevor 
+stevor 
+rifin, pseudogene 
+Plasmodium exported protein, unknown function, fragment, pseudogene 
+tRNA Serine 
+tRNA Tryptophan 
+rifin, pseudogene 
+Plasmodium exported protein, unknown function, pseudogene 
+rifin 
+tRNA Glutamine 
+Plasmodium exported protein, unknown function, pseudogene 
+rifin, pseudogene 
+rifin 
+erythrocyte membrane protein 1 (PfEMP1), exon 1, pseudogene 
+rifin 
+DNA-directed RNA polymerase subunit beta', putative 
+rifin 
+****************
+
+Top 50 coexpressed genes GO terms 
+antigenic variation	10
+host cell plasma membrane	10
+modulation by symbiont of host erythrocyte aggregation	8
+Maurer's cleft	8
+symbiont-containing vacuole	6
+cytoadherence to microvasculature, mediated by symbiont protein	6
+apicoplast	3
+mitochondrial small ribosomal subunit	1
+membrane	1
+structural constituent of ribosome	1
+protein binding	1
+nucleus	1

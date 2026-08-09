@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+conserved Plasmodium protein, unknown function 
+replication protein A1, small fragment 
+P-loop containing nucleoside triphosphate hydrolase, putative 
+ATP-dependent helicase, putative 
+mTERF domain-containing protein, putative 
+conserved Plasmodium protein, unknown function 
+ribosome-recycling factor 
+conserved Plasmodium protein, unknown function 
+conserved Plasmodium protein, unknown function 
+structural maintenance of chromosomes protein 3 
+protein AMR1 
+conserved protein, unknown function 
+cation diffusion facilitator family protein, putative 
+tetratricopeptide repeat protein, putative 
+replication factor C subunit 2, putative 
+lysine decarboxylase-like protein, putative 
+ABC transporter B family member 7, putative 
+ABC transporter B family member 5, putative 
+chromatin assembly factor 1 subunit A 
+origin recognition complex subunit 5 
+SPRY domain, putative 
+GTP-binding translation elongation factor tu family protein, putative 
+DNA polymerase alpha subunit B, putative 
+CS domain protein, putative 
+conserved Plasmodium protein, unknown function 
+tetratricopeptide repeat protein, putative 
+pseudouridine synthase, putative 
+conserved Plasmodium protein, unknown function 
+bifunctional dihydrofolate reductase-thymidylate synthase 
+mitochondrial inner membrane protein OXA1, putative 
+mediator of RNA polymerase II transcription subunit 6, putative 
+LITAF-like zinc finger protein, putative 
+DEAD box helicase, putative 
+conserved protein, unknown function 
+proliferating cell nuclear antigen 1 
+conserved Plasmodium protein, unknown function 
+kinetochore protein SPC25, putative 
+RMI1 domain-containing protein, putative 
+pentatricopeptide repeat-containing protein 1 
+conserved Plasmodium protein, unknown function 
+apicoplast ribosomal protein S6, putative 
+conserved protein, unknown function 
+protein CutA, putative 
+GPI transamidase subunit PIG-U, putative 
+TBC domain protein, putative 
+snRNA-activating protein complex subunit 3, putative 
+ubiquitin-protein ligase, putative 
+RNA-binding protein, putative 
+conserved Plasmodium protein, unknown function 
+S-adenosylmethionine mitochondrial carrier protein 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	14
+apicoplast	12
+mitochondrion	9
+RNA binding	6
+cytosol	4
+protein binding	3
+ATP binding	3
+DNA repair	2
+DNA replication	2
+helicase activity	2
+plasma membrane	2
+DNA-dependent DNA replication	2
+DNA replication factor C complex	2
+mitotic sister chromatid segregation	2
+DNA replication initiation	2
+mitochondrial inner membrane	2
+membrane	2
+ribonucleoprotein complex	2
+nucleotide-excision repair	1
+meiotic cell cycle	1
+telomere maintenance via telomerase	1
+telomere maintenance	1
+single-stranded DNA binding	1
+single-stranded telomeric DNA binding	1
+DNA replication factor A complex	1
+ribosome disassembly	1
+translation	1
+chromatin	1
+DNA unwinding involved in DNA replication	1
+double-strand break repair via homologous recombination	1
+nucleolus	1
+RNA helicase activity	1
+nuclear mitotic cohesin complex	1
+nuclear chromosome	1
+cohesin complex	1
+chromosome, centromeric region	1
+chromatin binding	1
+minor groove of adenine-thymine-rich DNA binding	1
+centromeric DNA binding	1
+nuclear periphery	1
+regulation of DNA replication	1
+chromosome organization	1
+indole-3-glycerol-phosphate synthase activity	1
+cell surface	1
+ribosomal large subunit binding	1
+DNA binding	1
+damaged DNA binding	1
+sequence-specific DNA binding	1
+zinc ion transmembrane transport	1
+zinc ion transmembrane transporter activity	1

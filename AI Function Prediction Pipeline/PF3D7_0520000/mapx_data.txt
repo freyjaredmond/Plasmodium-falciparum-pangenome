@@ -1,0 +1,273 @@
+Gold standard interactions 
+******************
+40S ribosomal protein S4, putative
+40S ribosomal protein S5
+40S ribosomal protein S6
+40S ribosomal protein S5, putative
+40S ribosomal protein S7, putative
+40S ribosomal protein S15A, putative
+40S ribosomal protein S8e, putative
+40S ribosomal protein S20e, putative
+40S ribosomal protein S10, putative
+40S ribosomal protein S23, putative
+40S ribosomal protein S12, putative
+40S ribosomal protein S18, putative
+40S ribosomal protein S29, putative
+40S ribosomal protein S15
+40S ribosomal protein S11, putative
+40S ribosomal protein S17, putative
+40S ribosomal protein S19
+40S ribosomal protein S19
+40S ribosomal protein S21
+40S ribosomal protein S24
+40S ribosomal protein S25
+40S ribosomal protein S26
+40S ribosomal protein S27
+40S ribosomal protein S28e, putative
+40S ribosomal protein S30
+40S ribosomal protein S11
+40S ribosomal protein S16, putative
+60S ribosomal protein L2
+60S ribosomal protein L3
+60S ribosomal protein L4
+60S ribosomal protein L11a, putative
+60S ribosomal protein L6, putative
+60S ribosomal protein L6, putative
+60S ribosomal protein L7-3, putative
+60S ribosomal protein L13, putative
+60S ribosomal protein L13-2, putative
+60S ribosomal protein L23, putative
+60S ribosomal protein L14, putative
+60S ribosomal protein L27a, putative
+60S ribosomal protein L15, putative
+60S ribosomal protein L10, putative
+60S ribosomal protein L5, putative
+60S ribosomal protein L18-2, putative
+60S ribosomal protein L19
+60S ribosomal protein L18, putative
+60S ribosomal protein L21
+60S ribosomal protein L17, putative
+60S ribosomal protein L22, putative
+60S ribosomal protein L23
+60S ribosomal protein L26, putative
+60S ribosomal protein L24, putative
+60S ribosomal protein L27
+60S ribosomal protein L28
+60S ribosomal protein L35, putative
+60S ribosomal protein L29, putative
+60S ribosomal protein L7, putative
+60S ribosomal protein L30e, putative
+60S ribosomal protein L31
+60S ribosomal protein L32
+60S ribosomal protein L35ae, putative
+60S ribosomal protein L34
+60S ribosomal protein L36
+60S ribosomal protein L37
+60S ribosomal protein L38
+60S ribosomal protein L39
+ubiquitin-60S ribosomal protein L40
+60S ribosomal protein L41
+60S ribosomal protein L37ae, putative
+60S ribosomal protein L44
+40S ribosomal protein S3A, putative
+40S ribosomal protein S2
+40S ribosomal protein S3
+******************
+Gold standard interactors GO term counts 
+nucleus	68
+structural constituent of ribosome	63
+translation	59
+RNA binding	44
+cytosolic large ribosomal subunit	41
+cytosolic small ribosomal subunit	30
+cytoplasmic translation	12
+extracellular vesicle	9
+ribosomal small subunit assembly	7
+ribosomal large subunit assembly	6
+large ribosomal subunit	4
+small ribosomal subunit	4
+mRNA binding	4
+ribosome	4
+ribosomal large subunit biogenesis	3
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2
+rRNA binding	2
+cytosol	2
+ribosomal small subunit biogenesis	1
+small-subunit processome	1
+rRNA processing	1
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1
+mitochondrion	1
+small ribosomal subunit rRNA binding	1
+nucleolus	1
+endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	1
+maturation of SSU-rRNA	1
+zinc ion binding	1
+Maurer's cleft	1
+maturation of LSU-rRNA	1
+intracellular	1
+large ribosomal subunit rRNA binding	1
+negative regulation of translation	1
+mRNA cap binding	1
+5S rRNA binding	1
+assembly of large subunit precursor of preribosome	1
+ribosome biogenesis	1
+ribonucleoprotein complex assembly	1
+cytoplasm	1
+protein tag	1
+ubiquitin protein ligase binding	1
+cellular protein modification process	1
+modification-dependent protein catabolic process	1
+protein ubiquitination	1
+ubiquitin-dependent protein catabolic process	1
+******************
+MapX interaction pair counts 
+60S ribosomal protein L34	7
+40S ribosomal protein S21	7
+40S ribosomal protein S7, putative	7
+40S ribosomal protein S25	7
+60S ribosomal protein L23	7
+40S ribosomal protein S6	7
+60S ribosomal protein L10, putative	7
+40S ribosomal protein S5	7
+60S ribosomal protein L14, putative	7
+40S ribosomal protein S29, putative	7
+60S ribosomal protein L28	7
+40S ribosomal protein S18, putative	7
+40S ribosomal protein S4, putative	7
+40S ribosomal protein S8e, putative	7
+60S ribosomal protein L27	7
+60S ribosomal protein L6, putative	7
+40S ribosomal protein S15	7
+60S ribosomal protein L12, putative	7
+40S ribosomal protein S15A, putative	7
+40S ribosomal protein S28e, putative	7
+40S ribosomal protein S3	7
+40S ribosomal protein S3A, putative	7
+60S ribosomal protein L4	6
+60S ribosomal protein L13, putative	6
+40S ribosomal protein S19	6
+40S ribosomal protein S16, putative	6
+60S ribosomal protein L13-2, putative	6
+40S ribosomal protein S19	6
+40S ribosomal protein S23, putative	6
+40S ribosomal protein S20e, putative	6
+40S ribosomal protein S5, putative	6
+60S ribosomal protein L35, putative	6
+60S ribosomal protein L35ae, putative	6
+60S ribosomal protein L7-3, putative	6
+40S ribosomal protein S17, putative	6
+40S ribosomal protein S12, putative	5
+60S ribosomal protein L7, putative	5
+60S ribosomal protein L1, putative	5
+60S ribosomal protein L15, putative	5
+60S ribosomal protein L38	5
+60S ribosomal protein L5, putative	5
+60S ribosomal protein L21	5
+60S ribosomal protein L30e, putative	5
+60S ribosomal protein L17, putative	5
+40S ribosomal protein S10, putative	5
+40S ribosomal protein S11	5
+40S ribosomal protein S11, putative	5
+60S ribosomal protein L37	4
+60S ribosomal protein L19	4
+40S ribosomal protein S26	4
+60S ribosomal protein L2	4
+40S ribosomal protein S30	4
+60S ribosomal protein L3	4
+40S ribosomal protein S2	4
+60S ribosomal protein L23, putative	4
+60S ribosomal protein L18, putative	4
+60S ribosomal protein L22, putative	4
+60S ribosomal protein L24, putative	4
+40S ribosomal protein S24	4
+ubiquitin-60S ribosomal protein L40	3
+60S ribosomal protein L26, putative	3
+60S ribosomal protein L36	3
+40S ribosomal protein S27	3
+60S ribosomal protein L27a, putative	3
+60S ribosomal protein L6, putative	2
+60S ribosomal protein L29, putative	2
+60S ribosomal protein L11a, putative	2
+karyopherin beta	2
+60S ribosomal protein L31	2
+60S ribosomal protein L32	2
+eukaryotic translation initiation factor 3 subunit I, putative	1
+glutamate-rich protein GLURP	1
+60S ribosomal protein L18-2, putative	1
+glutathione peroxidase-like thioredoxin peroxidase	1
+NPL domain-containing protein, putative	1
+CXXC motif containing zinc binding protein, putative	1
+gametocyte exported protein 5	1
+cAMP-dependent protein kinase catalytic subunit	1
+small exported membrane protein 1	1
+26S proteasome regulatory subunit RPN3, putative	1
+ring-exported protein 2	1
+ATP-dependent zinc metalloprotease FTSH, putative	1
+XTBD domain-containing protein, putative	1
+apicoplast ribosomal protein S19	1
+high molecular weight rhoptry protein 2	1
+early transcribed membrane protein 2	1
+60S ribosomal protein L44	1
+60S ribosomal protein P0	1
+6-phosphogluconate dehydrogenase, decarboxylating	1
+liver stage associated protein 2	1
+conserved Plasmodium protein, unknown function	1
+Plasmodium exported protein, unknown function	1
+mediator of RNA polymerase II transcription subunit 11, putative	1
+conserved Plasmodium protein, unknown function	1
+60S ribosomal protein L37ae, putative	1
+actin-depolymerizing factor 1	1
+peptidyl-prolyl cis-trans isomerase	1
+******************
+MapX above-threshold interactors GO term counts 
+nucleus	375
+structural constituent of ribosome	339
+translation	325
+RNA binding	242
+cytosolic large ribosomal subunit	189
+cytosolic small ribosomal subunit	179
+extracellular vesicle	55
+cytoplasmic translation	48
+ribosomal large subunit assembly	37
+ribosomal small subunit assembly	37
+ribosome	30
+large ribosomal subunit	29
+small ribosomal subunit	26
+mRNA binding	22
+rRNA binding	20
+cytosol	18
+ribosomal large subunit biogenesis	16
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13
+Maurer's cleft	13
+large ribosomal subunit rRNA binding	12
+intracellular	11
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	11
+maturation of LSU-rRNA	11
+mitochondrion	9
+nucleolus	8
+zinc ion binding	8
+ribosome biogenesis	7
+rRNA processing	7
+ribosomal small subunit biogenesis	7
+small-subunit processome	7
+mRNA cap binding	7
+cytoplasm	7
+small ribosomal subunit rRNA binding	7
+maturation of SSU-rRNA	7
+endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	7
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	7
+negative regulation of translation	6
+protein binding	5
+ribonucleoprotein complex assembly	5
+5S rRNA binding	5
+assembly of large subunit precursor of preribosome	4
+RNA N6-methyladenosine methyltransferase complex	3
+protein tag	3
+modification-dependent protein catabolic process	3
+cellular protein modification process	3
+ubiquitin protein ligase binding	3
+ubiquitin-dependent protein catabolic process	3
+host cell cytoplasm	3
+protein ubiquitination	3
+food vacuole	3

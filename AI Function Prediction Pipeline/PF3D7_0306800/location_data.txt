@@ -1,0 +1,64 @@
+****************
+Subcellular localisation 
+nucleo-cytoplasm
+****************
+
+Subcellular localisation GO terms 
+nucleus	70
+cytoplasm	52
+cytosol	28
+unfolded protein binding	17
+protein folding	17
+RNA binding	16
+protein binding	13
+response to xenobiotic stimulus	10
+food vacuole	8
+chaperonin-containing T-complex	8
+GTP binding	7
+ubiquitin-dependent protein catabolic process	6
+cell surface	6
+U6 snRNP	5
+thiol-dependent deubiquitinase	5
+protein import into nucleus	5
+U4/U6 x U5 tri-snRNP complex	5
+histone binding	5
+entry into host	5
+mRNA splicing, via spliceosome	5
+sno(s)RNA-containing ribonucleoprotein complex	5
+ATP hydrolysis activity	5
+nuclear pore	5
+extracellular vesicle	5
+protein deubiquitination	4
+Lsm1-7-Pat1 complex	4
+RNA splicing, via transesterification reactions	4
+RNA N6-methyladenosine methyltransferase complex	4
+GTPase activity	4
+mRNA binding	4
+protein dephosphorylation	4
+protein serine/threonine phosphatase activity	4
+protein sumoylation	3
+Maurer's cleft	3
+translational elongation	3
+protein serine/threonine kinase activity	3
+RNA splicing	3
+nuclear localization sequence binding	3
+zinc ion binding	3
+translation elongation factor activity	3
+proteasome binding	3
+nuclear import signal receptor activity	3
+developmental process	3
+proteasome-mediated ubiquitin-dependent protein catabolic process	3
+P-body	3
+nucleotide-excision repair	3
+damaged DNA binding	3
+prefoldin complex	3
+Golgi apparatus	3
+intracellular	3
+*********************
+Coexpressed genes in the same subcellular localisation
+heat shock protein 70
+T-complex protein 1 subunit zeta
+Obg-like ATPase 1, putative
+elongation factor 2
+eukaryotic peptide chain release factor GTP-binding subunit, putative
+T-complex protein 1 subunit gamma

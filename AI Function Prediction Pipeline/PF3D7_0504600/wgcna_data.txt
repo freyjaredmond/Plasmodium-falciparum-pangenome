@@ -1,0 +1,105 @@
+****************
+Top 50 coexpressed genes product descriptions in descending order 
+fumarate hydratase 
+conserved Plasmodium protein, unknown function 
+spindle assembly abnormal protein 6, putative 
+conserved Plasmodium protein, unknown function 
+phosphatidylinositol N-acetylglucosaminyltransferase subunit GPI1 
+conserved protein, unknown function 
+conserved Plasmodium membrane protein, unknown function 
+condensin complex subunit 2, putative 
+syntaxin-6, putative 
+cell division control protein CDC50A 
+type II NADH:ubiquinone oxidoreductase 
+cytochrome c oxidase subunit 2A, putative 
+DNA-(apurinic or apyrimidinic site) endonuclease 
+apical polar ring protein APR1, putative 
+KLRAQ domain-containing protein, putative 
+TMEM94 domain-containing protein, putative 
+arginyl-tRNA--protein transferase 
+cyclin-dependent kinases regulatory subunit, putative 
+conserved protein, unknown function 
+inner membrane complex protein, putative 
+RAD51 domain-containing protein 
+cyclin dependent kinase binding protein, putative 
+cohesin complex subunit RAD21 
+conserved Plasmodium protein, unknown function 
+cytochrome c oxidase subunit 6c, putative 
+FAD-dependent glycerol-3-phosphate dehydrogenase, putative 
+conserved Plasmodium membrane protein, unknown function 
+cullin-1 
+conserved Plasmodium protein, unknown function 
+cytochrome c oxidase subunit 6A, putative 
+GYF domain-containing protein, putative 
+protein SOC2, putative 
+conserved Plasmodium protein, unknown function 
+phosphoglucomutase-2 
+GPI-anchor transamidase, putative 
+palmitoyltransferase DHHC3 
+conserved Plasmodium protein, unknown function 
+nucleic acid binding protein, putative 
+peptidyl-tRNA hydrolase, putative 
+translation initiation factor eIF-2B subunit alpha, putative 
+repressor of RNA polymerase III transcription MAF1 
+conserved Plasmodium protein, unknown function 
+vacuolar-sorting protein SNF7, putative 
+conserved protein, unknown function 
+DNA replication licensing factor MCM5, putative 
+cytochrome b-c1 complex subunit 7, putative 
+conserved Plasmodium protein, unknown function 
+prolyl 4-hydroxylase subunit alpha, putative 
+copper transporter 
+conserved Plasmodium protein, unknown function 
+****************
+
+Top 50 coexpressed genes GO terms 
+nucleus	15
+mitochondrion	11
+cytoplasm	5
+RNA binding	4
+endoplasmic reticulum	3
+apicoplast	3
+Golgi apparatus	2
+plasma membrane	2
+regulation of cell cycle	2
+mitochondrial respiratory chain complex IV	2
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	1
+food vacuole	1
+DNA topoisomerase binding	1
+DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activator activity	1
+chromatin binding	1
+mitotic chromosome condensation	1
+SNARE complex	1
+endomembrane system	1
+membrane	1
+condensin complex	1
+fumarate metabolic process	1
+centriole	1
+mitotic spindle organization	1
+fumarate hydratase activity	1
+vesicle docking	1
+intracellular protein transport	1
+SNARE binding	1
+SNAP receptor activity	1
+trans-Golgi network	1
+integral component of membrane	1
+cell gliding	1
+vesicle fusion	1
+NADH dehydrogenase (ubiquinone) activity	1
+NADPH:quinone reductase activity	1
+3'-5' exonuclease activity	1
+DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+double-stranded DNA 3'-5' exodeoxyribonuclease activity	1
+phosphatase activity	1
+phosphodiesterase I activity	1
+vesicle-mediated transport	1
+ribonuclease activity	1
+DNA repair	1
+entry into host	1
+base-excision repair	1
+arginyltransferase activity	1
+catalytic activity	1
+leucyltransferase activity	1
+apical complex	1
+protein arginylation	1
+inner membrane pellicle complex	1
