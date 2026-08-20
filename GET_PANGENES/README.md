@@ -25,7 +25,7 @@ found in [`20 genome GET_PANGENES_OUTPUT`](GET_PANGENES_OUTPUT) and here [`16 ge
 Quality metrics were generated using the bash script [`Run quality control`](Quality/Run%20quality%20control), 
 with the resulting metrics file found at [`20 pangenome quality`](Quality/all_clusters_quality.txt) and [`16 pangenome quality`](Quality/all_clusters_quality_pseudo_v2.txt)
 Plots of quality metrics were produced using [`Quality/Quality.py`](Quality/Quality.py) 
-and can be found in the [`Quality`](Quality) folder.
+and can be found in the [`Quality`](Quality) folder. Additional exploration was carried out into MSA completeness using ['check_msa.py'](check_msa.py)
 
 ![](Quality/quality_supplementary.png)
 
