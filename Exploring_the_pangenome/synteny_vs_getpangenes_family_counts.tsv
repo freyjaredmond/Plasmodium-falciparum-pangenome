@@ -1,0 +1,7 @@
+gene_family	method	cluster_count
+rifin	PlasmoDB	236
+rifin	GET_PANGENES	427
+var	PlasmoDB	93
+var	GET_PANGENES	182
+stevor	PlasmoDB	88
+stevor	GET_PANGENES	126
