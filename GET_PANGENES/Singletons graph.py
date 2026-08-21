@@ -21,10 +21,6 @@ for genome in pangenome_cloud.index:
     cloud_dict[genome]=count
 
 singleton_count=sum(cloud_dict.values())
-if singleton_count==2709:
-    print("Passed")
-else:
-    print("Not a match",singleton_count)
 
 clean_names=[]
 for name in cloud_dict.keys():
