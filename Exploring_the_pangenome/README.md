@@ -12,7 +12,7 @@ The length of proteins were taken from PlasmoDB and mapped to the pangene cluste
 The paralog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of paralog counts. [Paralog counts](paralog_PSEUDO.py). This analysis was also repeated with *rif* and *var* genes removed. [Filtered paralog counts](paralog_filtered_PSEUDO.py) 
 
 ## Ortholog counts
-The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of ortholog counts. [Ortholog counts](ortholog_PSEUDO.py). This analysis was also repeated with *rif* and *var* genes removed. [Filtered ortholog counts](orthologs_filtered_PSEUDO.py) 
+The ortholog counts were taken from PlasmoDB and mapped to the pangene clusters, a box plot was created to show the distribution of ortholog counts. [Ortholog counts](ortholog_PSEUDO.py). This analysis was also repeated with *rif* and *var* genes removed. [Filtered ortholog counts](orthologs_filtered_PSEUDO.py). Syntetic ortholog groups were explored further with ['syntetic_orthos.py'](syntetic_orthos.py)
 
 The figure is shown below:
 
