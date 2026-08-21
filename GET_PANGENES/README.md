@@ -13,8 +13,8 @@ pseudogene inclusion is also provided. The exlcuded genomes:
 ---
 
 ## Running GET_PANGENES
-The SLURM script for running the 20 genoome GET_PANGENES pangenome can be found here: [`Running GET_PANGENES`](Running%20GET_PANGENES).
-The gff helper script produced by Luc was modifed to include pseudogenes- this can be found here: [`Pseudogene helper script`](helper_PSEUDO.py).
+The SLURM script for running the 20 genome GET_PANGENES pangenome can be found here: [`Running GET_PANGENES`](Running%20GET_PANGENES).
+The gff helper script produced by Luc was modifed to include pseudogenes- this can be found here: [`Pseudogene helper script`](helper_PSEUDO.py). To exclude singletons the following script was run ['GET_PANGENES_PSEUDO_single.sh'](GET_PANGENES_PSEUDO_single.sh)
 
 Output, including the pangenome matrix and pangenome growth simulation results, can be 
 found in [`20 genome GET_PANGENES_OUTPUT`](GET_PANGENES_OUTPUT) and here [`16 genome GET_PANGENES_OUTPUT`](GET_PANGENES_OUTPUT_16_PSEUDO).
