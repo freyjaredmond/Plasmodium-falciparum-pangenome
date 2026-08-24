@@ -9,7 +9,7 @@ Pangene clusters lacking a 3D7 gene were identified using [get_liftoff_gffs_PSEU
 were extracted. LiftOff of the reference absent genes to 3D7 was performed using [lift_off_SLURM.sh](lift_off_SLURM.sh).
 Genes that could not be mapped to 3D7 are here [unmapped_genes](unmapped_genes).
 The number of genes per genome that could not be mapped to 3D7 was plotted [plotting_unmapped_genes.py](plotting_unmapped_genes.py)
-![unmapped](no_flank_unmapped.png)
+![unmapped](pangene_recovery_by_genome.png)
 
 The genomic position of these reference absent genes were identified using [absent_genes_info.py](absent_genes_info.py) and core/subtelomeric genes
 were identified using [absent_info_core.py](absent_info_core.py). Results are in [no_flank_unmapped_genes_location.csv](no_flank_unmapped_genes_location.csv)
