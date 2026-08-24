@@ -12,4 +12,4 @@ The number of genes per genome that could not be mapped to 3D7 was plotted [plot
 ![unmapped](pangene_recovery_by_genome.png)
 
 The genomic position of these reference absent genes were identified using [absent_genes_info.py](absent_genes_info.py) and core/subtelomeric genes
-were identified using [absent_info_core.py](absent_info_core.py). Results are in [no_flank_unmapped_genes_location.csv](no_flank_unmapped_genes_location.csv)
+were identified using [absent_info_core.py](absent_info_core.py). Results are in [no_flank_unmapped_genes_location.csv](unmapped_genes_location.csv)
