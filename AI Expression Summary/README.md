@@ -3,7 +3,7 @@
 To investigate how often the beta PlasmoDB summary over or understates the magnitude of change, an AI was asked to score the language
 within the summaries using this scoring table [scoring_keywords.tsv](scoring_keywords.tsv) for ten random genes using the following prompt
 [keyword_prompt.py](keyword_prompt.py). The reults are here [keywords_scored](keywords_scored).
-The difference between the language assigned score and the biological importance score assigned using [get_transcriptomics](get_expression_data.py) [genes_scored.xlsx](genes_scored.xlsx) and was plotted with [keyword_heatmap.py](keyword_heatmap.py)
+The difference between the language assigned score and the biological importance score assigned using [get_transcriptomics](get_expression_data.py) [genes_scored.xlsx](genes_scored.xlsx) and was plotted with [panel_stats2.py](panel_stats2.py)
 
 ## Generating the statistical based AI expression summary
 The PlasmoDB AI expression transcriptomics expression summary was modified to incorporate:
@@ -30,5 +30,5 @@ The original beta PlasmoDB expression summary and the new statistical based summ
 The output is here [comparison_output](comparison_output)
 
 
-![Panel](AI_summ_panel.png)
+![Panel](AI_summ_panel2.png)
 
