@@ -1,0 +1,958 @@
+##gff-version 3
+# Liftoff v1.6.3
+# /software/apps/liftoff/1.6.3/bin/liftoff /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/3D7/3D7_Genome.fasta /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/KE01/KE01_Genome.fasta -g /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/KE01/KE01_PSEUDO.gff -f /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/feature_types.txt -o /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/KE01/liftoff_out_PSEUDO/KE01_liftover_with_pseudogenes.gff3 -u /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/KE01/liftoff_out_PSEUDO/KE01_liftover_unmapped_features_with_pseudogenes.txt -exclude_partial -dir /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/KE01/liftoff_out_PSEUDO/intermediate_dir_1705924_10 -copies -polish
+Pf3D7_01_v3	Liftoff	gene	29526	37115	.	+	.	ID=PfKE01_040019700;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.891;sequence_ID=0.651;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040019700_0
+Pf3D7_01_v3	Liftoff	mRNA	29526	37115	.	+	.	ID=PfKE01_040019700-t41_1;Parent=PfKE01_040019700;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	29526	34762	.	+	.	ID=exon_PfKE01_040019700-t41_1-E1;Parent=PfKE01_040019700-t41_1;gene_id=PfKE01_040019700;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	35888	37115	.	+	.	ID=exon_PfKE01_040019700-t41_1-E2;Parent=PfKE01_040019700-t41_1;gene_id=PfKE01_040019700;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	29526	34762	.	+	.	ID=PfKE01_040019700-t41_1-p1-CDS1;Parent=PfKE01_040019700-t41_1;gene_id=PfKE01_040019700;protein_source_id=PfKE01_040019700-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	35888	37115	.	+	.	ID=PfKE01_040019700-t41_1-p1-CDS2;Parent=PfKE01_040019700-t41_1;gene_id=PfKE01_040019700;protein_source_id=PfKE01_040019700-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	38982	40207	.	-	.	ID=PfKE01_040006200;description=rifin;ebi_biotype=protein_coding;coverage=0.968;sequence_ID=0.819;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040006200_0
+Pf3D7_01_v3	Liftoff	mRNA	38982	40207	.	-	.	ID=PfKE01_040006200-t41_1;Parent=PfKE01_040006200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	38982	39923	.	-	.	ID=exon_PfKE01_040006200-t41_1-E2;Parent=PfKE01_040006200-t41_1;gene_id=PfKE01_040006200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	40154	40207	.	-	.	ID=exon_PfKE01_040006200-t41_1-E1;Parent=PfKE01_040006200-t41_1;gene_id=PfKE01_040006200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	38982	39923	.	-	.	ID=PfKE01_040006200-t41_1-p1-CDS2;Parent=PfKE01_040006200-t41_1;gene_id=PfKE01_040006200;protein_source_id=PfKE01_040006200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	40154	40207	.	-	.	ID=PfKE01_040006200-t41_1-p1-CDS1;Parent=PfKE01_040006200-t41_1;gene_id=PfKE01_040006200;protein_source_id=PfKE01_040006200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	62187	63400	.	-	.	ID=PfKE01_000005800;description=rifin;ebi_biotype=protein_coding;coverage=0.972;sequence_ID=0.756;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000005800_0
+Pf3D7_01_v3	Liftoff	mRNA	62187	63400	.	-	.	ID=PfKE01_000005800-t41_1;Parent=PfKE01_000005800;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	62187	63185	.	-	.	ID=exon_PfKE01_000005800-t41_1-E2;Parent=PfKE01_000005800-t41_1;gene_id=PfKE01_000005800;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	63347	63400	.	-	.	ID=exon_PfKE01_000005800-t41_1-E1;Parent=PfKE01_000005800-t41_1;gene_id=PfKE01_000005800;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	62187	63185	.	-	.	ID=PfKE01_000005800-t41_1-p1-CDS2;Parent=PfKE01_000005800-t41_1;gene_id=PfKE01_000005800;protein_source_id=PfKE01_000005800-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	63347	63400	.	-	.	ID=PfKE01_000005800-t41_1-p1-CDS1;Parent=PfKE01_000005800-t41_1;gene_id=PfKE01_000005800;protein_source_id=PfKE01_000005800-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	pseudogene	65817	66755	.	-	.	ID=PfKE01_110054100;description=rifin;ebi_biotype=pseudogene;coverage=0.987;sequence_ID=0.854;extra_copy_number=0;copy_num_ID=PfKE01_110054100_0
+Pf3D7_01_v3	Liftoff	pseudogenic_transcript	65817	66755	.	-	.	ID=PfKE01_110054100-t41_1;Parent=PfKE01_110054100;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	65817	66755	.	-	.	ID=exon_PfKE01_110054100-t41_1-E1;Parent=PfKE01_110054100-t41_1;gene_id=PfKE01_110054100;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	71624	72426	.	+	.	ID=PfKE01_100045100;Name=EPF3;description=exported protein family 3;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.998;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100045100_0
+Pf3D7_01_v3	Liftoff	mRNA	71624	72426	.	+	.	ID=PfKE01_100045100-t41_1;Parent=PfKE01_100045100;description=exported protein family 3;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	71624	71692	.	+	.	ID=exon_PfKE01_100045100-t41_1-E1;Parent=PfKE01_100045100-t41_1;gene_id=PfKE01_100045100;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	71803	72426	.	+	.	ID=exon_PfKE01_100045100-t41_1-E2;Parent=PfKE01_100045100-t41_1;gene_id=PfKE01_100045100;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	71624	71692	.	+	.	ID=PfKE01_100045100-t41_1-p1-CDS1;Parent=PfKE01_100045100-t41_1;gene_id=PfKE01_100045100;protein_source_id=PfKE01_100045100-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	71803	72426	.	+	.	ID=PfKE01_100045100-t41_1-p1-CDS2;Parent=PfKE01_100045100-t41_1;gene_id=PfKE01_100045100;protein_source_id=PfKE01_100045100-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	81765	83106	.	-	.	ID=PfKE01_070035200;description=rifin;ebi_biotype=protein_coding;coverage=0.987;sequence_ID=0.785;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_070035200_0
+Pf3D7_01_v3	Liftoff	mRNA	81765	83106	.	-	.	ID=PfKE01_070035200-t41_1;Parent=PfKE01_070035200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	81765	82820	.	-	.	ID=exon_PfKE01_070035200-t41_1-E2;Parent=PfKE01_070035200-t41_1;gene_id=PfKE01_070035200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	83053	83106	.	-	.	ID=exon_PfKE01_070035200-t41_1-E1;Parent=PfKE01_070035200-t41_1;gene_id=PfKE01_070035200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	81765	82820	.	-	.	ID=PfKE01_070035200-t41_1-p1-CDS2;Parent=PfKE01_070035200-t41_1;gene_id=PfKE01_070035200;protein_source_id=PfKE01_070035200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	83053	83106	.	-	.	ID=PfKE01_070035200-t41_1-p1-CDS1;Parent=PfKE01_070035200-t41_1;gene_id=PfKE01_070035200;protein_source_id=PfKE01_070035200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	87203	88177	.	-	.	ID=PfKE01_120059800;description=stevor;ebi_biotype=protein_coding;coverage=0.937;sequence_ID=0.860;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120059800_0
+Pf3D7_01_v3	Liftoff	mRNA	87203	88177	.	-	.	ID=PfKE01_120059800-t41_1;Parent=PfKE01_120059800;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	87203	88003	.	-	.	ID=exon_PfKE01_120059800-t41_1-E2;Parent=PfKE01_120059800-t41_1;gene_id=PfKE01_120059800;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	88109	88177	.	-	.	ID=exon_PfKE01_120059800-t41_1-E1;Parent=PfKE01_120059800-t41_1;gene_id=PfKE01_120059800;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	87203	88003	.	-	.	ID=PfKE01_120059800-t41_1-p1-CDS2;Parent=PfKE01_120059800-t41_1;gene_id=PfKE01_120059800;protein_source_id=PfKE01_120059800-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	88109	88177	.	-	.	ID=PfKE01_120059800-t41_1-p1-CDS1;Parent=PfKE01_120059800-t41_1;gene_id=PfKE01_120059800;protein_source_id=PfKE01_120059800-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	577704	583789	.	+	.	ID=PfKE01_010017900;description=surface-associated interspersed protein 1.3 (SURFIN 1.3);ebi_biotype=protein_coding;coverage=0.994;sequence_ID=0.977;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_010017900_0
+Pf3D7_01_v3	Liftoff	mRNA	577704	583789	.	+	.	ID=PfKE01_010017900-t41_1;Parent=PfKE01_010017900;description=surface-associated interspersed protein 1.3 (SURFIN 1.3);gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	577704	578496	.	+	.	ID=exon_PfKE01_010017900-t41_1-E1;Parent=PfKE01_010017900-t41_1;gene_id=PfKE01_010017900;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	578657	578922	.	+	.	ID=exon_PfKE01_010017900-t41_1-E2;Parent=PfKE01_010017900-t41_1;gene_id=PfKE01_010017900;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	579071	583789	.	+	.	ID=exon_PfKE01_010017900-t41_1-E3;Parent=PfKE01_010017900-t41_1;gene_id=PfKE01_010017900;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	577704	578496	.	+	.	ID=PfKE01_010017900-t41_1-p1-CDS1;Parent=PfKE01_010017900-t41_1;gene_id=PfKE01_010017900;protein_source_id=PfKE01_010017900-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	578657	578922	.	+	.	ID=PfKE01_010017900-t41_1-p1-CDS2;Parent=PfKE01_010017900-t41_1;gene_id=PfKE01_010017900;protein_source_id=PfKE01_010017900-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	579071	583789	.	+	.	ID=PfKE01_010017900-t41_1-p1-CDS3;Parent=PfKE01_010017900-t41_1;gene_id=PfKE01_010017900;protein_source_id=PfKE01_010017900-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	591849	593187	.	+	.	ID=PfKE01_060006200;description=rifin;ebi_biotype=protein_coding;coverage=0.944;sequence_ID=0.725;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060006200_0
+Pf3D7_01_v3	Liftoff	mRNA	591849	593187	.	+	.	ID=PfKE01_060006200-t41_1;Parent=PfKE01_060006200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	591849	591902	.	+	.	ID=exon_PfKE01_060006200-t41_1-E1;Parent=PfKE01_060006200-t41_1;gene_id=PfKE01_060006200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	592135	593187	.	+	.	ID=exon_PfKE01_060006200-t41_1-E2;Parent=PfKE01_060006200-t41_1;gene_id=PfKE01_060006200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	591849	591902	.	+	.	ID=PfKE01_060006200-t41_1-p1-CDS1;Parent=PfKE01_060006200-t41_1;gene_id=PfKE01_060006200;protein_source_id=PfKE01_060006200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	592135	593187	.	+	.	ID=PfKE01_060006200-t41_1-p1-CDS2;Parent=PfKE01_060006200-t41_1;gene_id=PfKE01_060006200;protein_source_id=PfKE01_060006200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	595102	596273	.	+	.	ID=PfKE01_140005500;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.975;sequence_ID=0.849;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_140005500_0
+Pf3D7_01_v3	Liftoff	mRNA	595102	596273	.	+	.	ID=PfKE01_140005500-t41_1;Parent=PfKE01_140005500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	595102	595170	.	+	.	ID=exon_PfKE01_140005500-t41_1-E1;Parent=PfKE01_140005500-t41_1;gene_id=PfKE01_140005500;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	595317	596273	.	+	.	ID=exon_PfKE01_140005500-t41_1-E2;Parent=PfKE01_140005500-t41_1;gene_id=PfKE01_140005500;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	595102	595170	.	+	.	ID=PfKE01_140005500-t41_1-p1-CDS1;Parent=PfKE01_140005500-t41_1;gene_id=PfKE01_140005500;protein_source_id=PfKE01_140005500-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	595317	596273	.	+	.	ID=PfKE01_140005500-t41_1-p1-CDS2;Parent=PfKE01_140005500-t41_1;gene_id=PfKE01_140005500;protein_source_id=PfKE01_140005500-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	598465	599472	.	+	.	ID=PfKE01_000009200;description=stevor;ebi_biotype=protein_coding;coverage=0.991;sequence_ID=0.858;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000009200_0
+Pf3D7_01_v3	Liftoff	mRNA	598465	599472	.	+	.	ID=PfKE01_000009200-t41_1;Parent=PfKE01_000009200;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	598465	598533	.	+	.	ID=exon_PfKE01_000009200-t41_1-E1;Parent=PfKE01_000009200-t41_1;gene_id=PfKE01_000009200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	598636	599472	.	+	.	ID=exon_PfKE01_000009200-t41_1-E2;Parent=PfKE01_000009200-t41_1;gene_id=PfKE01_000009200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	598465	598533	.	+	.	ID=PfKE01_000009200-t41_1-p1-CDS1;Parent=PfKE01_000009200-t41_1;gene_id=PfKE01_000009200;protein_source_id=PfKE01_000009200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	598636	599472	.	+	.	ID=PfKE01_000009200-t41_1-p1-CDS2;Parent=PfKE01_000009200-t41_1;gene_id=PfKE01_000009200;protein_source_id=PfKE01_000009200-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	604162	605531	.	+	.	ID=PfKE01_060038000;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.946;sequence_ID=0.724;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060038000_0
+Pf3D7_01_v3	Liftoff	mRNA	604162	605531	.	+	.	ID=PfKE01_060038000-t41_1;Parent=PfKE01_060038000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	604162	604215	.	+	.	ID=exon_PfKE01_060038000-t41_1-E1;Parent=PfKE01_060038000-t41_1;gene_id=PfKE01_060038000;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	604446	605531	.	+	.	ID=exon_PfKE01_060038000-t41_1-E2;Parent=PfKE01_060038000-t41_1;gene_id=PfKE01_060038000;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	604162	604215	.	+	.	ID=PfKE01_060038000-t41_1-p1-CDS1;Parent=PfKE01_060038000-t41_1;gene_id=PfKE01_060038000;protein_source_id=PfKE01_060038000-t41_1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	604446	605531	.	+	.	ID=PfKE01_060038000-t41_1-p1-CDS2;Parent=PfKE01_060038000-t41_1;gene_id=PfKE01_060038000;protein_source_id=PfKE01_060038000-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	25232	31168	.	+	.	ID=PfKE01_080005400;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.720;sequence_ID=0.565;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080005400_0
+Pf3D7_02_v3	Liftoff	mRNA	25232	31168	.	+	.	ID=PfKE01_080005400-t41_1;Parent=PfKE01_080005400;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	25232	29035	.	+	.	ID=exon_PfKE01_080005400-t41_1-E1;Parent=PfKE01_080005400-t41_1;gene_id=PfKE01_080005400;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	29837	31168	.	+	.	ID=exon_PfKE01_080005400-t41_1-E2;Parent=PfKE01_080005400-t41_1;gene_id=PfKE01_080005400;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	25232	29035	.	+	.	ID=PfKE01_080005400-t41_1-p1-CDS1;Parent=PfKE01_080005400-t41_1;gene_id=PfKE01_080005400;protein_source_id=PfKE01_080005400-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	29837	31168	.	+	.	ID=PfKE01_080005400-t41_1-p1-CDS2;Parent=PfKE01_080005400-t41_1;gene_id=PfKE01_080005400;protein_source_id=PfKE01_080005400-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	35927	37102	.	-	.	ID=PfKE01_040006700;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.956;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040006700_0
+Pf3D7_02_v3	Liftoff	mRNA	35927	37102	.	-	.	ID=PfKE01_040006700-t41_1;Parent=PfKE01_040006700;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	35927	37102	.	-	.	ID=exon_PfKE01_040006700-t41_1-E1;Parent=PfKE01_040006700-t41_1;gene_id=PfKE01_040006700;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	35927	37102	.	-	.	ID=PfKE01_040006700-t41_1-p1-CDS1;Parent=PfKE01_040006700-t41_1;gene_id=PfKE01_040006700;protein_source_id=PfKE01_040006700-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	38287	39303	.	-	.	ID=PfKE01_110053900;description=stevor;ebi_biotype=protein_coding;coverage=0.963;sequence_ID=0.818;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_110053900_0
+Pf3D7_02_v3	Liftoff	mRNA	38287	39303	.	-	.	ID=PfKE01_110053900-t41_1;Parent=PfKE01_110053900;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	38287	39132	.	-	.	ID=exon_PfKE01_110053900-t41_1-E2;Parent=PfKE01_110053900-t41_1;gene_id=PfKE01_110053900;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	39235	39303	.	-	.	ID=exon_PfKE01_110053900-t41_1-E1;Parent=PfKE01_110053900-t41_1;gene_id=PfKE01_110053900;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	38287	39132	.	-	.	ID=PfKE01_110053900-t41_1-p1-CDS2;Parent=PfKE01_110053900-t41_1;gene_id=PfKE01_110053900;protein_source_id=PfKE01_110053900-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	39235	39303	.	-	.	ID=PfKE01_110053900-t41_1-p1-CDS1;Parent=PfKE01_110053900-t41_1;gene_id=PfKE01_110053900;protein_source_id=PfKE01_110053900-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	41515	42858	.	-	.	ID=PfKE01_140084100;description=rifin;ebi_biotype=protein_coding;coverage=0.963;sequence_ID=0.790;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_140084100_0
+Pf3D7_02_v3	Liftoff	mRNA	41515	42858	.	-	.	ID=PfKE01_140084100-t41_1;Parent=PfKE01_140084100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	41515	42573	.	-	.	ID=exon_PfKE01_140084100-t41_1-E2;Parent=PfKE01_140084100-t41_1;gene_id=PfKE01_140084100;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	42805	42858	.	-	.	ID=exon_PfKE01_140084100-t41_1-E1;Parent=PfKE01_140084100-t41_1;gene_id=PfKE01_140084100;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	41515	42573	.	-	.	ID=PfKE01_140084100-t41_1-p1-CDS2;Parent=PfKE01_140084100-t41_1;gene_id=PfKE01_140084100;protein_source_id=PfKE01_140084100-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	42805	42858	.	-	.	ID=PfKE01_140084100-t41_1-p1-CDS1;Parent=PfKE01_140084100-t41_1;gene_id=PfKE01_140084100;protein_source_id=PfKE01_140084100-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	54254	55255	.	-	.	ID=PfKE01_120059500;description=stevor;ebi_biotype=protein_coding;coverage=0.956;sequence_ID=0.796;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120059500_0
+Pf3D7_02_v3	Liftoff	mRNA	54254	55255	.	-	.	ID=PfKE01_120059500-t41_1;Parent=PfKE01_120059500;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	54254	55082	.	-	.	ID=exon_PfKE01_120059500-t41_1-E2;Parent=PfKE01_120059500-t41_1;gene_id=PfKE01_120059500;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	55187	55255	.	-	.	ID=exon_PfKE01_120059500-t41_1-E1;Parent=PfKE01_120059500-t41_1;gene_id=PfKE01_120059500;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	54254	55082	.	-	.	ID=PfKE01_120059500-t41_1-p1-CDS2;Parent=PfKE01_120059500-t41_1;gene_id=PfKE01_120059500;protein_source_id=PfKE01_120059500-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	55187	55255	.	-	.	ID=PfKE01_120059500-t41_1-p1-CDS1;Parent=PfKE01_120059500-t41_1;gene_id=PfKE01_120059500;protein_source_id=PfKE01_120059500-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	57344	58421	.	-	.	ID=PfKE01_070005100;description=rifin;ebi_biotype=protein_coding;coverage=0.983;sequence_ID=0.830;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_070005100_0
+Pf3D7_02_v3	Liftoff	mRNA	57344	58421	.	-	.	ID=PfKE01_070005100-t41_1;Parent=PfKE01_070005100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	57344	58228	.	-	.	ID=exon_PfKE01_070005100-t41_1-E2;Parent=PfKE01_070005100-t41_1;gene_id=PfKE01_070005100;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	58368	58421	.	-	.	ID=exon_PfKE01_070005100-t41_1-E1;Parent=PfKE01_070005100-t41_1;gene_id=PfKE01_070005100;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	57344	58228	.	-	.	ID=PfKE01_070005100-t41_1-p1-CDS2;Parent=PfKE01_070005100-t41_1;gene_id=PfKE01_070005100;protein_source_id=PfKE01_070005100-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	58368	58421	.	-	.	ID=PfKE01_070005100-t41_1-p1-CDS1;Parent=PfKE01_070005100-t41_1;gene_id=PfKE01_070005100;protein_source_id=PfKE01_070005100-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	273689	274507	.	-	.	ID=PfKE01_020009300;Name=MSP2;description=merozoite surface protein 2;ebi_biotype=protein_coding;coverage=0.916;sequence_ID=0.730;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_020009300_0
+Pf3D7_02_v3	Liftoff	mRNA	273689	274507	.	-	.	ID=PfKE01_020009300-t41_1;Parent=PfKE01_020009300;description=merozoite surface protein 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	273689	274507	.	-	.	ID=exon_PfKE01_020009300-t41_1-E1;Parent=PfKE01_020009300-t41_1;gene_id=PfKE01_020009300;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	273689	274507	.	-	.	ID=PfKE01_020009300-t41_1-p1-CDS1;Parent=PfKE01_020009300-t41_1;gene_id=PfKE01_020009300;protein_source_id=PfKE01_020009300-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	876984	877832	.	+	.	ID=PfKE01_100044900_2;Name=EPF1;description=exported protein family 1;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=2;copy_num_ID=PfKE01_100044900_2
+Pf3D7_02_v3	Liftoff	mRNA	876984	877832	.	+	.	ID=PfKE01_100044900-t41_1_2;Parent=PfKE01_100044900_2;description=exported protein family 1;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=2
+Pf3D7_02_v3	Liftoff	exon	876984	877832	.	+	.	ID=exon_PfKE01_100044900-t41_1-E1_2;Parent=PfKE01_100044900-t41_1_2;gene_id=PfKE01_100044900_2;extra_copy_number=2
+Pf3D7_02_v3	Liftoff	CDS	876984	877832	.	+	.	ID=PfKE01_100044900-t41_1-p1-CDS1_2;Parent=PfKE01_100044900-t41_1_2;gene_id=PfKE01_100044900_2;protein_source_id=PfKE01_100044900-t41_1-p1_2;extra_copy_number=2
+Pf3D7_02_v3	Liftoff	gene	886625	887802	.	+	.	ID=PfKE01_060006700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.974;sequence_ID=0.783;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_060006700_0
+Pf3D7_02_v3	Liftoff	mRNA	886625	887802	.	+	.	ID=PfKE01_060006700-t41_1;Parent=PfKE01_060006700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	886625	886696	.	+	.	ID=exon_PfKE01_060006700-t41_1-E1;Parent=PfKE01_060006700-t41_1;gene_id=PfKE01_060006700;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	886795	887802	.	+	.	ID=exon_PfKE01_060006700-t41_1-E2;Parent=PfKE01_060006700-t41_1;gene_id=PfKE01_060006700;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	886625	886696	.	+	.	ID=PfKE01_060006700-t41_1-p1-CDS1;Parent=PfKE01_060006700-t41_1;gene_id=PfKE01_060006700;protein_source_id=PfKE01_060006700-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	886795	887802	.	+	.	ID=PfKE01_060006700-t41_1-p1-CDS2;Parent=PfKE01_060006700-t41_1;gene_id=PfKE01_060006700;protein_source_id=PfKE01_060006700-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	889864	890745	.	+	.	ID=PfKE01_110006000;description=rifin;ebi_biotype=protein_coding;coverage=0.823;sequence_ID=0.632;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_110006000_0
+Pf3D7_02_v3	Liftoff	mRNA	889864	890745	.	+	.	ID=PfKE01_110006000-t41_1;Parent=PfKE01_110006000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	889864	890745	.	+	.	ID=exon_PfKE01_110006000-t41_1-E2;Parent=PfKE01_110006000-t41_1;gene_id=PfKE01_110006000;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	889864	890745	.	+	.	ID=PfKE01_110006000-t41_1-p1-CDS2;Parent=PfKE01_110006000-t41_1;gene_id=PfKE01_110006000;protein_source_id=PfKE01_110006000-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	892856	894206	.	+	.	ID=PfKE01_070005300;description=rifin;ebi_biotype=protein_coding;coverage=0.964;sequence_ID=0.773;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_070005300_0
+Pf3D7_02_v3	Liftoff	mRNA	892856	894206	.	+	.	ID=PfKE01_070005300-t41_1;Parent=PfKE01_070005300;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	892856	892909	.	+	.	ID=exon_PfKE01_070005300-t41_1-E1;Parent=PfKE01_070005300-t41_1;gene_id=PfKE01_070005300;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	893154	894206	.	+	.	ID=exon_PfKE01_070005300-t41_1-E2;Parent=PfKE01_070005300-t41_1;gene_id=PfKE01_070005300;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	892856	892909	.	+	.	ID=PfKE01_070005300-t41_1-p1-CDS1;Parent=PfKE01_070005300-t41_1;gene_id=PfKE01_070005300;protein_source_id=PfKE01_070005300-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	893154	894206	.	+	.	ID=PfKE01_070005300-t41_1-p1-CDS2;Parent=PfKE01_070005300-t41_1;gene_id=PfKE01_070005300;protein_source_id=PfKE01_070005300-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	896226	897420	.	+	.	ID=PfKE01_090005800;description=rifin;ebi_biotype=protein_coding;coverage=0.952;sequence_ID=0.692;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_090005800_0
+Pf3D7_02_v3	Liftoff	mRNA	896226	897420	.	+	.	ID=PfKE01_090005800-t41_1;Parent=PfKE01_090005800;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	896226	896294	.	+	.	ID=exon_PfKE01_090005800-t41_1-E1;Parent=PfKE01_090005800-t41_1;gene_id=PfKE01_090005800;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	896443	897420	.	+	.	ID=exon_PfKE01_090005800-t41_1-E2;Parent=PfKE01_090005800-t41_1;gene_id=PfKE01_090005800;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	896226	896294	.	+	.	ID=PfKE01_090005800-t41_1-p1-CDS1;Parent=PfKE01_090005800-t41_1;gene_id=PfKE01_090005800;protein_source_id=PfKE01_090005800-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	896443	897420	.	+	.	ID=PfKE01_090005800-t41_1-p1-CDS2;Parent=PfKE01_090005800-t41_1;gene_id=PfKE01_090005800;protein_source_id=PfKE01_090005800-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	904551	905775	.	+	.	ID=PfKE01_080037700;description=rifin;ebi_biotype=protein_coding;coverage=0.991;sequence_ID=0.874;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080037700_0
+Pf3D7_02_v3	Liftoff	mRNA	904551	905775	.	+	.	ID=PfKE01_080037700-t41_1;Parent=PfKE01_080037700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	904551	904604	.	+	.	ID=exon_PfKE01_080037700-t41_1-E1;Parent=PfKE01_080037700-t41_1;gene_id=PfKE01_080037700;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	904837	905775	.	+	.	ID=exon_PfKE01_080037700-t41_1-E2;Parent=PfKE01_080037700-t41_1;gene_id=PfKE01_080037700;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	904551	904604	.	+	.	ID=PfKE01_080037700-t41_1-p1-CDS1;Parent=PfKE01_080037700-t41_1;gene_id=PfKE01_080037700;protein_source_id=PfKE01_080037700-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	904837	905775	.	+	.	ID=PfKE01_080037700-t41_1-p1-CDS2;Parent=PfKE01_080037700-t41_1;gene_id=PfKE01_080037700;protein_source_id=PfKE01_080037700-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	907678	908861	.	+	.	ID=PfKE01_040006500;description=rifin;ebi_biotype=protein_coding;coverage=0.972;sequence_ID=0.743;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040006500_0
+Pf3D7_02_v3	Liftoff	mRNA	907678	908861	.	+	.	ID=PfKE01_040006500-t41_1;Parent=PfKE01_040006500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	907678	907746	.	+	.	ID=exon_PfKE01_040006500-t41_1-E1;Parent=PfKE01_040006500-t41_1;gene_id=PfKE01_040006500;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	907893	908861	.	+	.	ID=exon_PfKE01_040006500-t41_1-E2;Parent=PfKE01_040006500-t41_1;gene_id=PfKE01_040006500;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	907678	907746	.	+	.	ID=PfKE01_040006500-t41_1-p1-CDS1;Parent=PfKE01_040006500-t41_1;gene_id=PfKE01_040006500;protein_source_id=PfKE01_040006500-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	907893	908861	.	+	.	ID=PfKE01_040006500-t41_1-p1-CDS2;Parent=PfKE01_040006500-t41_1;gene_id=PfKE01_040006500;protein_source_id=PfKE01_040006500-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	916352	923607	.	-	.	ID=PfKE01_040019800;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.920;sequence_ID=0.673;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040019800_0
+Pf3D7_02_v3	Liftoff	mRNA	916352	923607	.	-	.	ID=PfKE01_040019800-t41_1;Parent=PfKE01_040019800;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	916352	917581	.	-	.	ID=exon_PfKE01_040019800-t41_1-E2;Parent=PfKE01_040019800-t41_1;gene_id=PfKE01_040019800;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	918327	923607	.	-	.	ID=exon_PfKE01_040019800-t41_1-E1;Parent=PfKE01_040019800-t41_1;gene_id=PfKE01_040019800;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	916352	917581	.	-	.	ID=PfKE01_040019800-t41_1-p1-CDS2;Parent=PfKE01_040019800-t41_1;gene_id=PfKE01_040019800;protein_source_id=PfKE01_040019800-t41_1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	918327	923607	.	-	.	ID=PfKE01_040019800-t41_1-p1-CDS1;Parent=PfKE01_040019800-t41_1;gene_id=PfKE01_040019800;protein_source_id=PfKE01_040019800-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	37056	44482	.	+	.	ID=PfKE01_120045100;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.905;sequence_ID=0.673;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120045100_0
+Pf3D7_03_v3	Liftoff	mRNA	37056	44482	.	+	.	ID=PfKE01_120045100-t41_1;Parent=PfKE01_120045100;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	37056	42198	.	+	.	ID=exon_PfKE01_120045100-t41_1-E1;Parent=PfKE01_120045100-t41_1;gene_id=PfKE01_120045100;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	43172	44482	.	+	.	ID=exon_PfKE01_120045100-t41_1-E2;Parent=PfKE01_120045100-t41_1;gene_id=PfKE01_120045100;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	37056	42198	.	+	.	ID=PfKE01_120045100-t41_1-p1-CDS1;Parent=PfKE01_120045100-t41_1;gene_id=PfKE01_120045100;protein_source_id=PfKE01_120045100-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	43172	44482	.	+	.	ID=PfKE01_120045100-t41_1-p1-CDS2;Parent=PfKE01_120045100-t41_1;gene_id=PfKE01_120045100;protein_source_id=PfKE01_120045100-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	pseudogene	49772	51221	.	-	.	ID=PfKE01_040005700;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2%2C pseudogene;ebi_biotype=pseudogene;coverage=0.988;sequence_ID=0.816;extra_copy_number=0;copy_num_ID=PfKE01_040005700_0
+Pf3D7_03_v3	Liftoff	pseudogenic_transcript	49772	51221	.	-	.	ID=PfKE01_040005700-t41_1;Parent=PfKE01_040005700;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2%2C pseudogene;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	49772	50954	.	-	.	ID=exon_PfKE01_040005700-t41_1-E2;Parent=PfKE01_040005700-t41_1;gene_id=PfKE01_040005700;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	50957	51221	.	-	.	ID=exon_PfKE01_040005700-t41_1-E1;Parent=PfKE01_040005700-t41_1;gene_id=PfKE01_040005700;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	52280	53273	.	-	.	ID=PfKE01_060037900;description=stevor;ebi_biotype=protein_coding;coverage=0.989;sequence_ID=0.886;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060037900_0
+Pf3D7_03_v3	Liftoff	mRNA	52280	53273	.	-	.	ID=PfKE01_060037900-t41_1;Parent=PfKE01_060037900;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	52280	53101	.	-	.	ID=exon_PfKE01_060037900-t41_1-E2;Parent=PfKE01_060037900-t41_1;gene_id=PfKE01_060037900;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	53205	53273	.	-	.	ID=exon_PfKE01_060037900-t41_1-E1;Parent=PfKE01_060037900-t41_1;gene_id=PfKE01_060037900;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	52280	53101	.	-	.	ID=PfKE01_060037900-t41_1-p1-CDS2;Parent=PfKE01_060037900-t41_1;gene_id=PfKE01_060037900;protein_source_id=PfKE01_060037900-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	53205	53273	.	-	.	ID=PfKE01_060037900-t41_1-p1-CDS1;Parent=PfKE01_060037900-t41_1;gene_id=PfKE01_060037900;protein_source_id=PfKE01_060037900-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	61445	62714	.	+	.	ID=PfKE01_090005900;description=rifin;ebi_biotype=protein_coding;coverage=0.987;sequence_ID=0.792;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_090005900_0
+Pf3D7_03_v3	Liftoff	mRNA	61445	62714	.	+	.	ID=PfKE01_090005900-t41_1;Parent=PfKE01_090005900;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	61445	61498	.	+	.	ID=exon_PfKE01_090005900-t41_1-E1;Parent=PfKE01_090005900-t41_1;gene_id=PfKE01_090005900;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	61662	62714	.	+	.	ID=exon_PfKE01_090005900-t41_1-E2;Parent=PfKE01_090005900-t41_1;gene_id=PfKE01_090005900;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	61445	61498	.	+	.	ID=PfKE01_090005900-t41_1-p1-CDS1;Parent=PfKE01_090005900-t41_1;gene_id=PfKE01_090005900;protein_source_id=PfKE01_090005900-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	61662	62714	.	+	.	ID=PfKE01_090005900-t41_1-p1-CDS2;Parent=PfKE01_090005900-t41_1;gene_id=PfKE01_090005900;protein_source_id=PfKE01_090005900-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	1005952	1006800	.	+	.	ID=PfKE01_100044900;Name=EPF1;description=exported protein family 1;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100044900_0
+Pf3D7_03_v3	Liftoff	mRNA	1005952	1006800	.	+	.	ID=PfKE01_100044900-t41_1;Parent=PfKE01_100044900;description=exported protein family 1;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	1005952	1006800	.	+	.	ID=exon_PfKE01_100044900-t41_1-E1;Parent=PfKE01_100044900-t41_1;gene_id=PfKE01_100044900;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	1005952	1006800	.	+	.	ID=PfKE01_100044900-t41_1-p1-CDS1;Parent=PfKE01_100044900-t41_1;gene_id=PfKE01_100044900;protein_source_id=PfKE01_100044900-t41_1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	1015965	1016942	.	+	.	ID=PfKE01_070005200;description=rifin;ebi_biotype=protein_coding;coverage=0.935;sequence_ID=0.749;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_070005200_0
+Pf3D7_03_v3	Liftoff	mRNA	1015965	1016942	.	+	.	ID=PfKE01_070005200-t41_1;Parent=PfKE01_070005200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	1015965	1016942	.	+	.	ID=exon_PfKE01_070005200-t41_1-E2;Parent=PfKE01_070005200-t41_1;gene_id=PfKE01_070005200;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	1015965	1016942	.	+	.	ID=PfKE01_070005200-t41_1-p1-CDS2;Parent=PfKE01_070005200-t41_1;gene_id=PfKE01_070005200;protein_source_id=PfKE01_070005200-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	28727	37677	.	+	.	ID=PfKE01_070015400;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.924;sequence_ID=0.599;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_070015400_0
+Pf3D7_04_v3	Liftoff	mRNA	28727	37677	.	+	.	ID=PfKE01_070015400-t41_1;Parent=PfKE01_070015400;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	28727	35278	.	+	.	ID=exon_PfKE01_070015400-t41_1-E1;Parent=PfKE01_070015400-t41_1;gene_id=PfKE01_070015400;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	36310	37677	.	+	.	ID=exon_PfKE01_070015400-t41_1-E2;Parent=PfKE01_070015400-t41_1;gene_id=PfKE01_070015400;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	28727	35278	.	+	.	ID=PfKE01_070015400-t41_1-p1-CDS1;Parent=PfKE01_070015400-t41_1;gene_id=PfKE01_070015400;protein_source_id=PfKE01_070015400-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	36310	37677	.	+	.	ID=PfKE01_070015400-t41_1-p1-CDS2;Parent=PfKE01_070015400-t41_1;gene_id=PfKE01_070015400;protein_source_id=PfKE01_070015400-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	63104	64476	.	-	.	ID=PfKE01_110006100;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.975;sequence_ID=0.751;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_110006100_0
+Pf3D7_04_v3	Liftoff	mRNA	63104	64476	.	-	.	ID=PfKE01_110006100-t41_1;Parent=PfKE01_110006100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	63104	64192	.	-	.	ID=exon_PfKE01_110006100-t41_1-E2;Parent=PfKE01_110006100-t41_1;gene_id=PfKE01_110006100;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	64423	64476	.	-	.	ID=exon_PfKE01_110006100-t41_1-E1;Parent=PfKE01_110006100-t41_1;gene_id=PfKE01_110006100;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	63104	64192	.	-	.	ID=PfKE01_110006100-t41_1-p1-CDS2;Parent=PfKE01_110006100-t41_1;gene_id=PfKE01_110006100;protein_source_id=PfKE01_110006100-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	64423	64476	.	-	.	ID=PfKE01_110006100-t41_1-p1-CDS1;Parent=PfKE01_110006100-t41_1;gene_id=PfKE01_110006100;protein_source_id=PfKE01_110006100-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	73268	74340	.	-	.	ID=PfKE01_120059700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.993;sequence_ID=0.895;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120059700_0
+Pf3D7_04_v3	Liftoff	mRNA	73268	74340	.	-	.	ID=PfKE01_120059700-t41_1;Parent=PfKE01_120059700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	73268	74128	.	-	.	ID=exon_PfKE01_120059700-t41_1-E2;Parent=PfKE01_120059700-t41_1;gene_id=PfKE01_120059700;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	74272	74340	.	-	.	ID=exon_PfKE01_120059700-t41_1-E1;Parent=PfKE01_120059700-t41_1;gene_id=PfKE01_120059700;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	73268	74128	.	-	.	ID=PfKE01_120059700-t41_1-p1-CDS2;Parent=PfKE01_120059700-t41_1;gene_id=PfKE01_120059700;protein_source_id=PfKE01_120059700-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	74272	74340	.	-	.	ID=PfKE01_120059700-t41_1-p1-CDS1;Parent=PfKE01_120059700-t41_1;gene_id=PfKE01_120059700;protein_source_id=PfKE01_120059700-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	76033	76245	.	-	.	ID=PfKE01_050037400;description=Plasmodium RESA N-terminal%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.953;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_050037400_0
+Pf3D7_04_v3	Liftoff	mRNA	76033	76245	.	-	.	ID=PfKE01_050037400-t41_1;Parent=PfKE01_050037400;description=Plasmodium RESA N-terminal%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	76033	76245	.	-	.	ID=exon_PfKE01_050037400-t41_1-E1;Parent=PfKE01_050037400-t41_1;gene_id=PfKE01_050037400;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	76033	76245	.	-	.	ID=PfKE01_050037400-t41_1-p1-CDS1;Parent=PfKE01_050037400-t41_1;gene_id=PfKE01_050037400;protein_source_id=PfKE01_050037400-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	79193	80451	.	+	.	ID=PfKE01_010005200;description=rifin;ebi_biotype=protein_coding;coverage=0.997;sequence_ID=0.888;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_010005200_0
+Pf3D7_04_v3	Liftoff	mRNA	79193	80451	.	+	.	ID=PfKE01_010005200-t41_1;Parent=PfKE01_010005200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	79193	79246	.	+	.	ID=exon_PfKE01_010005200-t41_1-E1;Parent=PfKE01_010005200-t41_1;gene_id=PfKE01_010005200;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	79402	80451	.	+	.	ID=exon_PfKE01_010005200-t41_1-E2;Parent=PfKE01_010005200-t41_1;gene_id=PfKE01_010005200;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	79193	79246	.	+	.	ID=PfKE01_010005200-t41_1-p1-CDS1;Parent=PfKE01_010005200-t41_1;gene_id=PfKE01_010005200;protein_source_id=PfKE01_010005200-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	79402	80451	.	+	.	ID=PfKE01_010005200-t41_1-p1-CDS2;Parent=PfKE01_010005200-t41_1;gene_id=PfKE01_010005200;protein_source_id=PfKE01_010005200-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	82247	83575	.	+	.	ID=PfKE01_050037300;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.985;sequence_ID=0.791;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_050037300_0
+Pf3D7_04_v3	Liftoff	mRNA	82247	83575	.	+	.	ID=PfKE01_050037300-t41_1;Parent=PfKE01_050037300;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	82247	82300	.	+	.	ID=exon_PfKE01_050037300-t41_1-E1;Parent=PfKE01_050037300-t41_1;gene_id=PfKE01_050037300;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	82502	83575	.	+	.	ID=exon_PfKE01_050037300-t41_1-E2;Parent=PfKE01_050037300-t41_1;gene_id=PfKE01_050037300;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	82247	82300	.	+	.	ID=PfKE01_050037300-t41_1-p1-CDS1;Parent=PfKE01_050037300-t41_1;gene_id=PfKE01_050037300;protein_source_id=PfKE01_050037300-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	82502	83575	.	+	.	ID=PfKE01_050037300-t41_1-p1-CDS2;Parent=PfKE01_050037300-t41_1;gene_id=PfKE01_050037300;protein_source_id=PfKE01_050037300-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	559436	560638	.	-	.	ID=PfKE01_120045500;description=rifin;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.964;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120045500_0
+Pf3D7_04_v3	Liftoff	mRNA	559436	560638	.	-	.	ID=PfKE01_120045500-t41_1;Parent=PfKE01_120045500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	559436	560392	.	-	.	ID=exon_PfKE01_120045500-t41_1-E2;Parent=PfKE01_120045500-t41_1;gene_id=PfKE01_120045500;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	560570	560638	.	-	.	ID=exon_PfKE01_120045500-t41_1-E1;Parent=PfKE01_120045500-t41_1;gene_id=PfKE01_120045500;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	559436	560392	.	-	.	ID=PfKE01_120045500-t41_1-p1-CDS2;Parent=PfKE01_120045500-t41_1;gene_id=PfKE01_120045500;protein_source_id=PfKE01_120045500-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	560570	560638	.	-	.	ID=PfKE01_120045500-t41_1-p1-CDS1;Parent=PfKE01_120045500-t41_1;gene_id=PfKE01_120045500;protein_source_id=PfKE01_120045500-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	561667	569144	.	-	.	ID=PfKE01_000006800;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.900;sequence_ID=0.649;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_000006800_0
+Pf3D7_04_v3	Liftoff	mRNA	561667	569144	.	-	.	ID=PfKE01_000006800-t41_1;Parent=PfKE01_000006800;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	561667	563001	.	-	.	ID=exon_PfKE01_000006800-t41_1-E2;Parent=PfKE01_000006800-t41_1;gene_id=PfKE01_000006800;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	563844	569144	.	-	.	ID=exon_PfKE01_000006800-t41_1-E1;Parent=PfKE01_000006800-t41_1;gene_id=PfKE01_000006800;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	561667	563001	.	-	.	ID=PfKE01_000006800-t41_1-p1-CDS2;Parent=PfKE01_000006800-t41_1;gene_id=PfKE01_000006800;protein_source_id=PfKE01_000006800-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	563844	569144	.	-	.	ID=PfKE01_000006800-t41_1-p1-CDS1;Parent=PfKE01_000006800-t41_1;gene_id=PfKE01_000006800;protein_source_id=PfKE01_000006800-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	603166	604456	.	-	.	ID=PfKE01_040020100;description=rifin;ebi_biotype=protein_coding;coverage=0.957;sequence_ID=0.733;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040020100_0
+Pf3D7_04_v3	Liftoff	mRNA	603166	604456	.	-	.	ID=PfKE01_040020100-t41_1;Parent=PfKE01_040020100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	603166	604227	.	-	.	ID=exon_PfKE01_040020100-t41_1-E2;Parent=PfKE01_040020100-t41_1;gene_id=PfKE01_040020100;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	604388	604456	.	-	.	ID=exon_PfKE01_040020100-t41_1-E1;Parent=PfKE01_040020100-t41_1;gene_id=PfKE01_040020100;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	603166	604227	.	-	.	ID=PfKE01_040020100-t41_1-p1-CDS2;Parent=PfKE01_040020100-t41_1;gene_id=PfKE01_040020100;protein_source_id=PfKE01_040020100-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	604388	604456	.	-	.	ID=PfKE01_040020100-t41_1-p1-CDS1;Parent=PfKE01_040020100-t41_1;gene_id=PfKE01_040020100;protein_source_id=PfKE01_040020100-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	967087	968273	.	+	.	ID=PfKE01_000009000;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.990;sequence_ID=0.833;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000009000_0
+Pf3D7_04_v3	Liftoff	mRNA	967087	968273	.	+	.	ID=PfKE01_000009000-t41_1;Parent=PfKE01_000009000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	967087	967155	.	+	.	ID=exon_PfKE01_000009000-t41_1-E1;Parent=PfKE01_000009000-t41_1;gene_id=PfKE01_000009000;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	967302	968273	.	+	.	ID=exon_PfKE01_000009000-t41_1-E2;Parent=PfKE01_000009000-t41_1;gene_id=PfKE01_000009000;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	967087	967155	.	+	.	ID=PfKE01_000009000-t41_1-p1-CDS1;Parent=PfKE01_000009000-t41_1;gene_id=PfKE01_000009000;protein_source_id=PfKE01_000009000-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	967302	968273	.	+	.	ID=PfKE01_000009000-t41_1-p1-CDS2;Parent=PfKE01_000009000-t41_1;gene_id=PfKE01_000009000;protein_source_id=PfKE01_000009000-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	969031	976513	.	-	.	ID=PfKE01_040005500;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.909;sequence_ID=0.670;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040005500_0
+Pf3D7_04_v3	Liftoff	mRNA	969031	976513	.	-	.	ID=PfKE01_040005500-t41_1;Parent=PfKE01_040005500;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	969031	970311	.	-	.	ID=exon_PfKE01_040005500-t41_1-E2;Parent=PfKE01_040005500-t41_1;gene_id=PfKE01_040005500;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	971291	976513	.	-	.	ID=exon_PfKE01_040005500-t41_1-E1;Parent=PfKE01_040005500-t41_1;gene_id=PfKE01_040005500;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	969031	970311	.	-	.	ID=PfKE01_040005500-t41_1-p1-CDS2;Parent=PfKE01_040005500-t41_1;gene_id=PfKE01_040005500;protein_source_id=PfKE01_040005500-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	971291	976513	.	-	.	ID=PfKE01_040005500-t41_1-p1-CDS1;Parent=PfKE01_040005500-t41_1;gene_id=PfKE01_040005500;protein_source_id=PfKE01_040005500-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	pseudogene	1136768	1137379	.	+	.	ID=PfKE01_120058700;description=hypothetical protein;ebi_biotype=pseudogene;coverage=0.928;sequence_ID=0.784;extra_copy_number=0;copy_num_ID=PfKE01_120058700_0
+Pf3D7_04_v3	Liftoff	pseudogenic_transcript	1136768	1137379	.	+	.	ID=PfKE01_120058700-t41_1;Parent=PfKE01_120058700;description=hypothetical protein;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1136768	1137205	.	+	.	ID=exon_PfKE01_120058700-t41_1-E1;Parent=PfKE01_120058700-t41_1;gene_id=PfKE01_120058700;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1137206	1137379	.	+	.	ID=exon_PfKE01_120058700-t41_1-E2;Parent=PfKE01_120058700-t41_1;gene_id=PfKE01_120058700;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	1141231	1142154	.	+	.	ID=PfKE01_120059000;description=Plasmodium RESA N-terminal%2C putative;ebi_biotype=protein_coding;coverage=0.991;sequence_ID=0.785;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120059000_0
+Pf3D7_04_v3	Liftoff	mRNA	1141231	1142154	.	+	.	ID=PfKE01_120059000-t41_1;Parent=PfKE01_120059000;description=Plasmodium RESA N-terminal%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1141231	1141314	.	+	.	ID=exon_PfKE01_120059000-t41_1-E1;Parent=PfKE01_120059000-t41_1;gene_id=PfKE01_120059000;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1141490	1141653	.	+	.	ID=exon_PfKE01_120059000-t41_1-E2;Parent=PfKE01_120059000-t41_1;gene_id=PfKE01_120059000;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1141711	1142154	.	+	.	ID=exon_PfKE01_120059000-t41_1-E3;Parent=PfKE01_120059000-t41_1;gene_id=PfKE01_120059000;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1141231	1141314	.	+	.	ID=PfKE01_120059000-t41_1-p1-CDS1;Parent=PfKE01_120059000-t41_1;gene_id=PfKE01_120059000;protein_source_id=PfKE01_120059000-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1141490	1141653	.	+	.	ID=PfKE01_120059000-t41_1-p1-CDS2;Parent=PfKE01_120059000-t41_1;gene_id=PfKE01_120059000;protein_source_id=PfKE01_120059000-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1141711	1142154	.	+	.	ID=PfKE01_120059000-t41_1-p1-CDS3;Parent=PfKE01_120059000-t41_1;gene_id=PfKE01_120059000;protein_source_id=PfKE01_120059000-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	1146672	1147697	.	-	.	ID=PfKE01_130077600;description=stevor;ebi_biotype=protein_coding;coverage=0.972;sequence_ID=0.832;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_130077600_0
+Pf3D7_04_v3	Liftoff	mRNA	1146672	1147697	.	-	.	ID=PfKE01_130077600-t41_1;Parent=PfKE01_130077600;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1146672	1147538	.	-	.	ID=exon_PfKE01_130077600-t41_1-E2;Parent=PfKE01_130077600-t41_1;gene_id=PfKE01_130077600;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1147650	1147697	.	-	.	ID=exon_PfKE01_130077600-t41_1-E1;Parent=PfKE01_130077600-t41_1;gene_id=PfKE01_130077600;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1146672	1147538	.	-	.	ID=PfKE01_130077600-t41_1-p1-CDS2;Parent=PfKE01_130077600-t41_1;gene_id=PfKE01_130077600;protein_source_id=PfKE01_130077600-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1147650	1147697	.	-	.	ID=PfKE01_130077600-t41_1-p1-CDS1;Parent=PfKE01_130077600-t41_1;gene_id=PfKE01_130077600;protein_source_id=PfKE01_130077600-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	1173053	1180226	.	-	.	ID=PfKE01_000006200;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.870;sequence_ID=0.631;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000006200_0
+Pf3D7_04_v3	Liftoff	mRNA	1173053	1180226	.	-	.	ID=PfKE01_000006200-t41_1;Parent=PfKE01_000006200;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1173053	1174435	.	-	.	ID=exon_PfKE01_000006200-t41_1-E2;Parent=PfKE01_000006200-t41_1;gene_id=PfKE01_000006200;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1175160	1180226	.	-	.	ID=exon_PfKE01_000006200-t41_1-E1;Parent=PfKE01_000006200-t41_1;gene_id=PfKE01_000006200;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1173053	1174435	.	-	.	ID=PfKE01_000006200-t41_1-p1-CDS2;Parent=PfKE01_000006200-t41_1;gene_id=PfKE01_000006200;protein_source_id=PfKE01_000006200-t41_1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1175160	1180226	.	-	.	ID=PfKE01_000006200-t41_1-p1-CDS1;Parent=PfKE01_000006200-t41_1;gene_id=PfKE01_000006200;protein_source_id=PfKE01_000006200-t41_1-p1;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	gene	21150	28456	.	+	.	ID=PfKE01_140084200;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.894;sequence_ID=0.672;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_140084200_0
+Pf3D7_05_v3	Liftoff	mRNA	21150	28456	.	+	.	ID=PfKE01_140084200-t41_1;Parent=PfKE01_140084200;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	exon	21150	26316	.	+	.	ID=exon_PfKE01_140084200-t41_1-E1;Parent=PfKE01_140084200-t41_1;gene_id=PfKE01_140084200;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	exon	27215	28456	.	+	.	ID=exon_PfKE01_140084200-t41_1-E2;Parent=PfKE01_140084200-t41_1;gene_id=PfKE01_140084200;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	CDS	21150	26316	.	+	.	ID=PfKE01_140084200-t41_1-p1-CDS1;Parent=PfKE01_140084200-t41_1;gene_id=PfKE01_140084200;protein_source_id=PfKE01_140084200-t41_1-p1;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	CDS	27215	28456	.	+	.	ID=PfKE01_140084200-t41_1-p1-CDS2;Parent=PfKE01_140084200-t41_1;gene_id=PfKE01_140084200;protein_source_id=PfKE01_140084200-t41_1-p1;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	gene	29776	30963	.	-	.	ID=PfKE01_040032400;description=rifin;ebi_biotype=protein_coding;coverage=0.971;sequence_ID=0.783;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040032400_0
+Pf3D7_05_v3	Liftoff	mRNA	29776	30963	.	-	.	ID=PfKE01_040032400-t41_1;Parent=PfKE01_040032400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	exon	29776	30744	.	-	.	ID=exon_PfKE01_040032400-t41_1-E2;Parent=PfKE01_040032400-t41_1;gene_id=PfKE01_040032400;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	exon	30910	30963	.	-	.	ID=exon_PfKE01_040032400-t41_1-E1;Parent=PfKE01_040032400-t41_1;gene_id=PfKE01_040032400;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	CDS	29776	30744	.	-	.	ID=PfKE01_040032400-t41_1-p1-CDS2;Parent=PfKE01_040032400-t41_1;gene_id=PfKE01_040032400;protein_source_id=PfKE01_040032400-t41_1-p1;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	CDS	30910	30963	.	-	.	ID=PfKE01_040032400-t41_1-p1-CDS1;Parent=PfKE01_040032400-t41_1;gene_id=PfKE01_040032400;protein_source_id=PfKE01_040032400-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	pseudogene	15065	16126	.	-	.	ID=PfKE01_000006700;description=rifin;ebi_biotype=pseudogene;coverage=0.958;sequence_ID=0.775;extra_copy_number=0;copy_num_ID=PfKE01_000006700_0
+Pf3D7_06_v3	Liftoff	pseudogenic_transcript	15065	16126	.	-	.	ID=PfKE01_000006700-t41_1;Parent=PfKE01_000006700;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	15065	15916	.	-	.	ID=exon_PfKE01_000006700-t41_1-E3;Parent=PfKE01_000006700-t41_1;gene_id=PfKE01_000006700;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	15920	15990	.	-	.	ID=exon_PfKE01_000006700-t41_1-E2;Parent=PfKE01_000006700-t41_1;gene_id=PfKE01_000006700;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	15992	16126	.	-	.	ID=exon_PfKE01_000006700-t41_1-E1;Parent=PfKE01_000006700-t41_1;gene_id=PfKE01_000006700;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	31965	33244	.	-	.	ID=PfKE01_100005900;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.978;sequence_ID=0.794;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100005900_0
+Pf3D7_06_v3	Liftoff	mRNA	31965	33244	.	-	.	ID=PfKE01_100005900-t41_1;Parent=PfKE01_100005900;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	31965	32960	.	-	.	ID=exon_PfKE01_100005900-t41_1-E2;Parent=PfKE01_100005900-t41_1;gene_id=PfKE01_100005900;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	33191	33244	.	-	.	ID=exon_PfKE01_100005900-t41_1-E1;Parent=PfKE01_100005900-t41_1;gene_id=PfKE01_100005900;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	31965	32960	.	-	.	ID=PfKE01_100005900-t41_1-p1-CDS2;Parent=PfKE01_100005900-t41_1;gene_id=PfKE01_100005900;protein_source_id=PfKE01_100005900-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	33191	33244	.	-	.	ID=PfKE01_100005900-t41_1-p1-CDS1;Parent=PfKE01_100005900-t41_1;gene_id=PfKE01_100005900;protein_source_id=PfKE01_100005900-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	pseudogene	38721	39781	.	-	.	ID=PfKE01_060037800;description=rifin;ebi_biotype=pseudogene;coverage=0.991;sequence_ID=0.839;extra_copy_number=0;copy_num_ID=PfKE01_060037800_0
+Pf3D7_06_v3	Liftoff	pseudogenic_transcript	38721	39781	.	-	.	ID=PfKE01_060037800-t41_1;Parent=PfKE01_060037800;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	38721	39611	.	-	.	ID=exon_PfKE01_060037800-t41_1-E2;Parent=PfKE01_060037800-t41_1;gene_id=PfKE01_060037800;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	39710	39781	.	-	.	ID=exon_PfKE01_060037800-t41_1-E1;Parent=PfKE01_060037800-t41_1;gene_id=PfKE01_060037800;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	42097	43218	.	-	.	ID=PfKE01_100045200;Name=EPF4;description=exported protein family 4;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100045200_0
+Pf3D7_06_v3	Liftoff	mRNA	42097	43218	.	-	.	ID=PfKE01_100045200-t41_1;Parent=PfKE01_100045200;description=exported protein family 4;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	42097	42957	.	-	.	ID=exon_PfKE01_100045200-t41_1-E2;Parent=PfKE01_100045200-t41_1;gene_id=PfKE01_100045200;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	43150	43218	.	-	.	ID=exon_PfKE01_100045200-t41_1-E1;Parent=PfKE01_100045200-t41_1;gene_id=PfKE01_100045200;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	42097	42957	.	-	.	ID=PfKE01_100045200-t41_1-p1-CDS2;Parent=PfKE01_100045200-t41_1;gene_id=PfKE01_100045200;protein_source_id=PfKE01_100045200-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	43150	43218	.	-	.	ID=PfKE01_100045200-t41_1-p1-CDS1;Parent=PfKE01_100045200-t41_1;gene_id=PfKE01_100045200;protein_source_id=PfKE01_100045200-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	48874	49722	.	-	.	ID=PfKE01_100044900_1;Name=EPF1;description=exported protein family 1;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=1;copy_num_ID=PfKE01_100044900_1
+Pf3D7_06_v3	Liftoff	mRNA	48874	49722	.	-	.	ID=PfKE01_100044900-t41_1_1;Parent=PfKE01_100044900_1;description=exported protein family 1;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	exon	48874	49722	.	-	.	ID=exon_PfKE01_100044900-t41_1-E1_1;Parent=PfKE01_100044900-t41_1_1;gene_id=PfKE01_100044900_1;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	CDS	48874	49722	.	-	.	ID=PfKE01_100044900-t41_1-p1-CDS1_1;Parent=PfKE01_100044900-t41_1_1;gene_id=PfKE01_100044900_1;protein_source_id=PfKE01_100044900-t41_1-p1_1;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	gene	1323294	1324435	.	+	.	ID=PfKE01_100045200_1;Name=EPF4;description=exported protein family 4;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=1;copy_num_ID=PfKE01_100045200_1
+Pf3D7_06_v3	Liftoff	mRNA	1323294	1324435	.	+	.	ID=PfKE01_100045200-t41_1_1;Parent=PfKE01_100045200_1;description=exported protein family 4;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	exon	1323294	1323362	.	+	.	ID=exon_PfKE01_100045200-t41_1-E1_1;Parent=PfKE01_100045200-t41_1_1;gene_id=PfKE01_100045200_1;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	exon	1323575	1324435	.	+	.	ID=exon_PfKE01_100045200-t41_1-E2_1;Parent=PfKE01_100045200-t41_1_1;gene_id=PfKE01_100045200_1;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	CDS	1323294	1323362	.	+	.	ID=PfKE01_100045200-t41_1-p1-CDS1_1;Parent=PfKE01_100045200-t41_1_1;gene_id=PfKE01_100045200_1;protein_source_id=PfKE01_100045200-t41_1-p1_1;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	CDS	1323575	1324435	.	+	.	ID=PfKE01_100045200-t41_1-p1-CDS2_1;Parent=PfKE01_100045200-t41_1_1;gene_id=PfKE01_100045200_1;protein_source_id=PfKE01_100045200-t41_1-p1_1;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	gene	1338218	1339417	.	-	.	ID=PfKE01_110005700;description=rifin;ebi_biotype=protein_coding;coverage=0.984;sequence_ID=0.877;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_110005700_0
+Pf3D7_06_v3	Liftoff	mRNA	1338218	1339417	.	-	.	ID=PfKE01_110005700-t41_1;Parent=PfKE01_110005700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1338218	1339135	.	-	.	ID=exon_PfKE01_110005700-t41_1-E2;Parent=PfKE01_110005700-t41_1;gene_id=PfKE01_110005700;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1339364	1339417	.	-	.	ID=exon_PfKE01_110005700-t41_1-E1;Parent=PfKE01_110005700-t41_1;gene_id=PfKE01_110005700;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1338218	1339135	.	-	.	ID=PfKE01_110005700-t41_1-p1-CDS2;Parent=PfKE01_110005700-t41_1;gene_id=PfKE01_110005700;protein_source_id=PfKE01_110005700-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1339364	1339417	.	-	.	ID=PfKE01_110005700-t41_1-p1-CDS1;Parent=PfKE01_110005700-t41_1;gene_id=PfKE01_110005700;protein_source_id=PfKE01_110005700-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1341307	1342386	.	-	.	ID=PfKE01_000006100;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.927;sequence_ID=0.758;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_000006100_0
+Pf3D7_06_v3	Liftoff	mRNA	1341307	1342386	.	-	.	ID=PfKE01_000006100-t41_1;Parent=PfKE01_000006100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1341307	1342386	.	-	.	ID=exon_PfKE01_000006100-t41_1-E2;Parent=PfKE01_000006100-t41_1;gene_id=PfKE01_000006100;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1341307	1342386	.	-	.	ID=PfKE01_000006100-t41_1-p1-CDS2;Parent=PfKE01_000006100-t41_1;gene_id=PfKE01_000006100;protein_source_id=PfKE01_000006100-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1347341	1348571	.	+	.	ID=PfKE01_070034900;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.999;sequence_ID=0.929;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_070034900_0
+Pf3D7_06_v3	Liftoff	mRNA	1347341	1348571	.	+	.	ID=PfKE01_070034900-t41_1;Parent=PfKE01_070034900;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1347341	1347409	.	+	.	ID=exon_PfKE01_070034900-t41_1-E1;Parent=PfKE01_070034900-t41_1;gene_id=PfKE01_070034900;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1347561	1348571	.	+	.	ID=exon_PfKE01_070034900-t41_1-E2;Parent=PfKE01_070034900-t41_1;gene_id=PfKE01_070034900;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1347341	1347409	.	+	.	ID=PfKE01_070034900-t41_1-p1-CDS1;Parent=PfKE01_070034900-t41_1;gene_id=PfKE01_070034900;protein_source_id=PfKE01_070034900-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1347561	1348571	.	+	.	ID=PfKE01_070034900-t41_1-p1-CDS2;Parent=PfKE01_070034900-t41_1;gene_id=PfKE01_070034900;protein_source_id=PfKE01_070034900-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1350724	1352087	.	+	.	ID=PfKE01_120005500;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.957;sequence_ID=0.757;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120005500_0
+Pf3D7_06_v3	Liftoff	mRNA	1350724	1352087	.	+	.	ID=PfKE01_120005500-t41_1;Parent=PfKE01_120005500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1350724	1350777	.	+	.	ID=exon_PfKE01_120005500-t41_1-E1;Parent=PfKE01_120005500-t41_1;gene_id=PfKE01_120005500;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1351008	1352087	.	+	.	ID=exon_PfKE01_120005500-t41_1-E2;Parent=PfKE01_120005500-t41_1;gene_id=PfKE01_120005500;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1350724	1350777	.	+	.	ID=PfKE01_120005500-t41_1-p1-CDS1;Parent=PfKE01_120005500-t41_1;gene_id=PfKE01_120005500;protein_source_id=PfKE01_120005500-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1351008	1352087	.	+	.	ID=PfKE01_120005500-t41_1-p1-CDS2;Parent=PfKE01_120005500-t41_1;gene_id=PfKE01_120005500;protein_source_id=PfKE01_120005500-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	pseudogene	1367912	1369107	.	+	.	ID=PfKE01_060038400;description=rifin;ebi_biotype=pseudogene;coverage=0.996;sequence_ID=0.954;extra_copy_number=0;copy_num_ID=PfKE01_060038400_0
+Pf3D7_06_v3	Liftoff	pseudogenic_transcript	1367912	1369107	.	+	.	ID=PfKE01_060038400-t41_1;Parent=PfKE01_060038400;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1367912	1367980	.	+	.	ID=exon_PfKE01_060038400-t41_1-E1;Parent=PfKE01_060038400-t41_1;gene_id=PfKE01_060038400;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1368127	1369107	.	+	.	ID=exon_PfKE01_060038400-t41_1-E2;Parent=PfKE01_060038400-t41_1;gene_id=PfKE01_060038400;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1371501	1372861	.	+	.	ID=PfKE01_090005400;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.947;sequence_ID=0.739;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_090005400_0
+Pf3D7_06_v3	Liftoff	mRNA	1371501	1372861	.	+	.	ID=PfKE01_090005400-t41_1;Parent=PfKE01_090005400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1371501	1371554	.	+	.	ID=exon_PfKE01_090005400-t41_1-E1;Parent=PfKE01_090005400-t41_1;gene_id=PfKE01_090005400;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1371785	1372861	.	+	.	ID=exon_PfKE01_090005400-t41_1-E2;Parent=PfKE01_090005400-t41_1;gene_id=PfKE01_090005400;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1371501	1371554	.	+	.	ID=PfKE01_090005400-t41_1-p1-CDS1;Parent=PfKE01_090005400-t41_1;gene_id=PfKE01_090005400;protein_source_id=PfKE01_090005400-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1371785	1372861	.	+	.	ID=PfKE01_090005400-t41_1-p1-CDS2;Parent=PfKE01_090005400-t41_1;gene_id=PfKE01_090005400;protein_source_id=PfKE01_090005400-t41_1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1374797	1376200	.	-	.	ID=PfKE01_040006800;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;ebi_biotype=protein_coding;coverage=0.963;sequence_ID=0.812;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040006800_0
+Pf3D7_06_v3	Liftoff	mRNA	1374797	1376200	.	-	.	ID=PfKE01_040006800-t41_1;Parent=PfKE01_040006800;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1374797	1376200	.	-	.	ID=exon_PfKE01_040006800-t41_1-E1;Parent=PfKE01_040006800-t41_1;gene_id=PfKE01_040006800;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1374797	1376200	.	-	.	ID=PfKE01_040006800-t41_1-p1-CDS1;Parent=PfKE01_040006800-t41_1;gene_id=PfKE01_040006800;protein_source_id=PfKE01_040006800-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	20542	28076	.	+	.	ID=PfKE01_070016000;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.869;sequence_ID=0.599;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_070016000_0
+Pf3D7_07_v3	Liftoff	mRNA	20542	28076	.	+	.	ID=PfKE01_070016000-t41_1;Parent=PfKE01_070016000;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	20542	25829	.	+	.	ID=exon_PfKE01_070016000-t41_1-E1;Parent=PfKE01_070016000-t41_1;gene_id=PfKE01_070016000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	26746	28076	.	+	.	ID=exon_PfKE01_070016000-t41_1-E2;Parent=PfKE01_070016000-t41_1;gene_id=PfKE01_070016000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	20542	25829	.	+	.	ID=PfKE01_070016000-t41_1-p1-CDS1;Parent=PfKE01_070016000-t41_1;gene_id=PfKE01_070016000;protein_source_id=PfKE01_070016000-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	26746	28076	.	+	.	ID=PfKE01_070016000-t41_1-p1-CDS2;Parent=PfKE01_070016000-t41_1;gene_id=PfKE01_070016000;protein_source_id=PfKE01_070016000-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	36922	37927	.	-	.	ID=PfKE01_040005800;description=stevor;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.941;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040005800_0
+Pf3D7_07_v3	Liftoff	mRNA	36922	37927	.	-	.	ID=PfKE01_040005800-t41_1;Parent=PfKE01_040005800;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	36922	37755	.	-	.	ID=exon_PfKE01_040005800-t41_1-E2;Parent=PfKE01_040005800-t41_1;gene_id=PfKE01_040005800;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	37859	37927	.	-	.	ID=exon_PfKE01_040005800-t41_1-E1;Parent=PfKE01_040005800-t41_1;gene_id=PfKE01_040005800;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	36922	37755	.	-	.	ID=PfKE01_040005800-t41_1-p1-CDS2;Parent=PfKE01_040005800-t41_1;gene_id=PfKE01_040005800;protein_source_id=PfKE01_040005800-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	37859	37927	.	-	.	ID=PfKE01_040005800-t41_1-p1-CDS1;Parent=PfKE01_040005800-t41_1;gene_id=PfKE01_040005800;protein_source_id=PfKE01_040005800-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	55528	56781	.	-	.	ID=PfKE01_040007700;description=rifin;ebi_biotype=protein_coding;coverage=0.903;sequence_ID=0.676;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040007700_0
+Pf3D7_07_v3	Liftoff	mRNA	55528	56781	.	-	.	ID=PfKE01_040007700-t41_1;Parent=PfKE01_040007700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	55528	56096	.	-	.	ID=exon_PfKE01_040007700-t41_1-E3;Parent=PfKE01_040007700-t41_1;gene_id=PfKE01_040007700;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	56169	56497	.	-	.	ID=exon_PfKE01_040007700-t41_1-E2;Parent=PfKE01_040007700-t41_1;gene_id=PfKE01_040007700;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	56728	56781	.	-	.	ID=exon_PfKE01_040007700-t41_1-E1;Parent=PfKE01_040007700-t41_1;gene_id=PfKE01_040007700;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	55528	56096	.	-	.	ID=PfKE01_040007700-t41_1-p1-CDS3;Parent=PfKE01_040007700-t41_1;gene_id=PfKE01_040007700;protein_source_id=PfKE01_040007700-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	56169	56497	.	-	.	ID=PfKE01_040007700-t41_1-p1-CDS2;Parent=PfKE01_040007700-t41_1;gene_id=PfKE01_040007700;protein_source_id=PfKE01_040007700-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	56728	56781	.	-	.	ID=PfKE01_040007700-t41_1-p1-CDS1;Parent=PfKE01_040007700-t41_1;gene_id=PfKE01_040007700;protein_source_id=PfKE01_040007700-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	59277	60366	.	-	.	ID=PfKE01_140083700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.987;sequence_ID=0.800;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_140083700_0
+Pf3D7_07_v3	Liftoff	mRNA	59277	60366	.	-	.	ID=PfKE01_140083700-t41_1;Parent=PfKE01_140083700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	59277	60148	.	-	.	ID=exon_PfKE01_140083700-t41_1-E2;Parent=PfKE01_140083700-t41_1;gene_id=PfKE01_140083700;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	60313	60366	.	-	.	ID=exon_PfKE01_140083700-t41_1-E1;Parent=PfKE01_140083700-t41_1;gene_id=PfKE01_140083700;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	59277	60148	.	-	.	ID=PfKE01_140083700-t41_1-p1-CDS2;Parent=PfKE01_140083700-t41_1;gene_id=PfKE01_140083700;protein_source_id=PfKE01_140083700-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	60313	60366	.	-	.	ID=PfKE01_140083700-t41_1-p1-CDS1;Parent=PfKE01_140083700-t41_1;gene_id=PfKE01_140083700;protein_source_id=PfKE01_140083700-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	pseudogene	65718	66606	.	-	.	ID=PfKE01_000005000;description=hypothetical protein;ebi_biotype=pseudogene;coverage=0.994;sequence_ID=0.992;extra_copy_number=0;copy_num_ID=PfKE01_000005000_0
+Pf3D7_07_v3	Liftoff	pseudogenic_transcript	65718	66606	.	-	.	ID=PfKE01_000005000-t41_1;Parent=PfKE01_000005000;description=hypothetical protein;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	65718	65878	.	-	.	ID=exon_PfKE01_000005000-t41_1-E11;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	65880	65981	.	-	.	ID=exon_PfKE01_000005000-t41_1-E10;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	65985	66022	.	-	.	ID=exon_PfKE01_000005000-t41_1-E9;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66024	66074	.	-	.	ID=exon_PfKE01_000005000-t41_1-E8;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66078	66104	.	-	.	ID=exon_PfKE01_000005000-t41_1-E7;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66106	66133	.	-	.	ID=exon_PfKE01_000005000-t41_1-E6;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66135	66259	.	-	.	ID=exon_PfKE01_000005000-t41_1-E5;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66261	66356	.	-	.	ID=exon_PfKE01_000005000-t41_1-E4;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66358	66543	.	-	.	ID=exon_PfKE01_000005000-t41_1-E3;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66547	66552	.	-	.	ID=exon_PfKE01_000005000-t41_1-E2;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	66555	66606	.	-	.	ID=exon_PfKE01_000005000-t41_1-E1;Parent=PfKE01_000005000-t41_1;gene_id=PfKE01_000005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	pseudogene	512171	519389	.	-	.	ID=PfKE01_000007100;Name=VAR;description=erythrocyte membrane protein 1 (PfEMP1)%2C pseudogene;ebi_biotype=pseudogene;coverage=0.880;sequence_ID=0.655;extra_copy_number=0;copy_num_ID=PfKE01_000007100_0
+Pf3D7_07_v3	Liftoff	pseudogenic_transcript	512171	519389	.	-	.	ID=PfKE01_000007100-t41_1;Parent=PfKE01_000007100;description=erythrocyte membrane protein 1 (PfEMP1)%2C pseudogene;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	512171	512674	.	-	.	ID=exon_PfKE01_000007100-t41_1-E5;Parent=PfKE01_000007100-t41_1;gene_id=PfKE01_000007100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	512677	513344	.	-	.	ID=exon_PfKE01_000007100-t41_1-E4;Parent=PfKE01_000007100-t41_1;gene_id=PfKE01_000007100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	514173	514739	.	-	.	ID=exon_PfKE01_000007100-t41_1-E3;Parent=PfKE01_000007100-t41_1;gene_id=PfKE01_000007100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	514742	514994	.	-	.	ID=exon_PfKE01_000007100-t41_1-E2;Parent=PfKE01_000007100-t41_1;gene_id=PfKE01_000007100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	514997	519389	.	-	.	ID=exon_PfKE01_000007100-t41_1-E1;Parent=PfKE01_000007100-t41_1;gene_id=PfKE01_000007100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	525112	525903	.	-	.	ID=PfKE01_040019600;description=rifin;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.972;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040019600_0
+Pf3D7_07_v3	Liftoff	mRNA	525112	525903	.	-	.	ID=PfKE01_040019600-t41_1;Parent=PfKE01_040019600;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	525112	525903	.	-	.	ID=exon_PfKE01_040019600-t41_1-E1;Parent=PfKE01_040019600-t41_1;gene_id=PfKE01_040019600;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	525112	525903	.	-	.	ID=PfKE01_040019600-t41_1-p1-CDS1;Parent=PfKE01_040019600-t41_1;gene_id=PfKE01_040019600;protein_source_id=PfKE01_040019600-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	552158	553405	.	-	.	ID=PfKE01_060006000;Name=VAR;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;ebi_biotype=protein_coding;coverage=0.974;sequence_ID=0.893;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_060006000_0
+Pf3D7_07_v3	Liftoff	mRNA	552158	553405	.	-	.	ID=PfKE01_060006000-t41_1;Parent=PfKE01_060006000;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	552158	553405	.	-	.	ID=exon_PfKE01_060006000-t41_1-E1;Parent=PfKE01_060006000-t41_1;gene_id=PfKE01_060006000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	552158	553405	.	-	.	ID=PfKE01_060006000-t41_1-p1-CDS1;Parent=PfKE01_060006000-t41_1;gene_id=PfKE01_060006000;protein_source_id=PfKE01_060006000-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	562906	564160	.	-	.	ID=PfKE01_040019300;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.986;sequence_ID=0.836;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040019300_0
+Pf3D7_07_v3	Liftoff	mRNA	562906	564160	.	-	.	ID=PfKE01_040019300-t41_1;Parent=PfKE01_040019300;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	562906	563970	.	-	.	ID=exon_PfKE01_040019300-t41_1-E2;Parent=PfKE01_040019300-t41_1;gene_id=PfKE01_040019300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	564089	564160	.	-	.	ID=exon_PfKE01_040019300-t41_1-E1;Parent=PfKE01_040019300-t41_1;gene_id=PfKE01_040019300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	562906	563970	.	-	.	ID=PfKE01_040019300-t41_1-p1-CDS2;Parent=PfKE01_040019300-t41_1;gene_id=PfKE01_040019300;protein_source_id=PfKE01_040019300-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	564089	564160	.	-	.	ID=PfKE01_040019300-t41_1-p1-CDS1;Parent=PfKE01_040019300-t41_1;gene_id=PfKE01_040019300;protein_source_id=PfKE01_040019300-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	566726	574300	.	-	.	ID=PfKE01_120005400;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.860;sequence_ID=0.611;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120005400_0
+Pf3D7_07_v3	Liftoff	mRNA	566726	574300	.	-	.	ID=PfKE01_120005400-t41_1;Parent=PfKE01_120005400;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	566726	568078	.	-	.	ID=exon_PfKE01_120005400-t41_1-E2;Parent=PfKE01_120005400-t41_1;gene_id=PfKE01_120005400;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	569014	574300	.	-	.	ID=exon_PfKE01_120005400-t41_1-E1;Parent=PfKE01_120005400-t41_1;gene_id=PfKE01_120005400;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	566726	568078	.	-	.	ID=PfKE01_120005400-t41_1-p1-CDS2;Parent=PfKE01_120005400-t41_1;gene_id=PfKE01_120005400;protein_source_id=PfKE01_120005400-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	569014	574300	.	-	.	ID=PfKE01_120005400-t41_1-p1-CDS1;Parent=PfKE01_120005400-t41_1;gene_id=PfKE01_120005400;protein_source_id=PfKE01_120005400-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	581561	588923	.	-	.	ID=PfKE01_120060300;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.885;sequence_ID=0.647;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120060300_0
+Pf3D7_07_v3	Liftoff	mRNA	581561	588923	.	-	.	ID=PfKE01_120060300-t41_1;Parent=PfKE01_120060300;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	581561	582822	.	-	.	ID=exon_PfKE01_120060300-t41_1-E2;Parent=PfKE01_120060300-t41_1;gene_id=PfKE01_120060300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	583641	588923	.	-	.	ID=exon_PfKE01_120060300-t41_1-E1;Parent=PfKE01_120060300-t41_1;gene_id=PfKE01_120060300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	581561	582822	.	-	.	ID=PfKE01_120060300-t41_1-p1-CDS2;Parent=PfKE01_120060300-t41_1;gene_id=PfKE01_120060300;protein_source_id=PfKE01_120060300-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	583641	588923	.	-	.	ID=PfKE01_120060300-t41_1-p1-CDS1;Parent=PfKE01_120060300-t41_1;gene_id=PfKE01_120060300;protein_source_id=PfKE01_120060300-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	590326	597733	.	-	.	ID=PfKE01_100005500;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.884;sequence_ID=0.668;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100005500_0
+Pf3D7_07_v3	Liftoff	mRNA	590326	597733	.	-	.	ID=PfKE01_100005500-t41_1;Parent=PfKE01_100005500;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	590326	591558	.	-	.	ID=exon_PfKE01_100005500-t41_1-E2;Parent=PfKE01_100005500-t41_1;gene_id=PfKE01_100005500;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	592388	597733	.	-	.	ID=exon_PfKE01_100005500-t41_1-E1;Parent=PfKE01_100005500-t41_1;gene_id=PfKE01_100005500;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	590326	591558	.	-	.	ID=PfKE01_100005500-t41_1-p1-CDS2;Parent=PfKE01_100005500-t41_1;gene_id=PfKE01_100005500;protein_source_id=PfKE01_100005500-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	592388	597733	.	-	.	ID=PfKE01_100005500-t41_1-p1-CDS1;Parent=PfKE01_100005500-t41_1;gene_id=PfKE01_100005500;protein_source_id=PfKE01_100005500-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	602141	603381	.	+	.	ID=PfKE01_060005700;description=rifin;ebi_biotype=protein_coding;coverage=0.962;sequence_ID=0.719;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060005700_0
+Pf3D7_07_v3	Liftoff	mRNA	602141	603381	.	+	.	ID=PfKE01_060005700-t41_1;Parent=PfKE01_060005700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	602141	602209	.	+	.	ID=exon_PfKE01_060005700-t41_1-E1;Parent=PfKE01_060005700-t41_1;gene_id=PfKE01_060005700;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	602410	603381	.	+	.	ID=exon_PfKE01_060005700-t41_1-E2;Parent=PfKE01_060005700-t41_1;gene_id=PfKE01_060005700;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	602141	602209	.	+	.	ID=PfKE01_060005700-t41_1-p1-CDS1;Parent=PfKE01_060005700-t41_1;gene_id=PfKE01_060005700;protein_source_id=PfKE01_060005700-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	602410	603381	.	+	.	ID=PfKE01_060005700-t41_1-p1-CDS2;Parent=PfKE01_060005700-t41_1;gene_id=PfKE01_060005700;protein_source_id=PfKE01_060005700-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	1385635	1386626	.	+	.	ID=PfKE01_130006100;description=stevor;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.925;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_130006100_0
+Pf3D7_07_v3	Liftoff	mRNA	1385635	1386626	.	+	.	ID=PfKE01_130006100-t41_1;Parent=PfKE01_130006100;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1385635	1385703	.	+	.	ID=exon_PfKE01_130006100-t41_1-E1;Parent=PfKE01_130006100-t41_1;gene_id=PfKE01_130006100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1385805	1386626	.	+	.	ID=exon_PfKE01_130006100-t41_1-E2;Parent=PfKE01_130006100-t41_1;gene_id=PfKE01_130006100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1385635	1385703	.	+	.	ID=PfKE01_130006100-t41_1-p1-CDS1;Parent=PfKE01_130006100-t41_1;gene_id=PfKE01_130006100;protein_source_id=PfKE01_130006100-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1385805	1386626	.	+	.	ID=PfKE01_130006100-t41_1-p1-CDS2;Parent=PfKE01_130006100-t41_1;gene_id=PfKE01_130006100;protein_source_id=PfKE01_130006100-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	1390711	1392043	.	+	.	ID=PfKE01_000009100;description=rifin;ebi_biotype=protein_coding;coverage=0.950;sequence_ID=0.739;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000009100_0
+Pf3D7_07_v3	Liftoff	mRNA	1390711	1392043	.	+	.	ID=PfKE01_000009100-t41_1;Parent=PfKE01_000009100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1390711	1390764	.	+	.	ID=exon_PfKE01_000009100-t41_1-E1;Parent=PfKE01_000009100-t41_1;gene_id=PfKE01_000009100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1390997	1392043	.	+	.	ID=exon_PfKE01_000009100-t41_1-E2;Parent=PfKE01_000009100-t41_1;gene_id=PfKE01_000009100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1390711	1390764	.	+	.	ID=PfKE01_000009100-t41_1-p1-CDS1;Parent=PfKE01_000009100-t41_1;gene_id=PfKE01_000009100;protein_source_id=PfKE01_000009100-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1390997	1392043	.	+	.	ID=PfKE01_000009100-t41_1-p1-CDS2;Parent=PfKE01_000009100-t41_1;gene_id=PfKE01_000009100;protein_source_id=PfKE01_000009100-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	1396437	1397639	.	-	.	ID=PfKE01_050037200;description=rifin;ebi_biotype=protein_coding;coverage=0.978;sequence_ID=0.839;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_050037200_0
+Pf3D7_07_v3	Liftoff	mRNA	1396437	1397639	.	-	.	ID=PfKE01_050037200-t41_1;Parent=PfKE01_050037200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1396437	1397384	.	-	.	ID=exon_PfKE01_050037200-t41_1-E2;Parent=PfKE01_050037200-t41_1;gene_id=PfKE01_050037200;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1397586	1397639	.	-	.	ID=exon_PfKE01_050037200-t41_1-E1;Parent=PfKE01_050037200-t41_1;gene_id=PfKE01_050037200;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1396437	1397384	.	-	.	ID=PfKE01_050037200-t41_1-p1-CDS2;Parent=PfKE01_050037200-t41_1;gene_id=PfKE01_050037200;protein_source_id=PfKE01_050037200-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1397586	1397639	.	-	.	ID=PfKE01_050037200-t41_1-p1-CDS1;Parent=PfKE01_050037200-t41_1;gene_id=PfKE01_050037200;protein_source_id=PfKE01_050037200-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	1402623	1403978	.	-	.	ID=PfKE01_000006000;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.968;sequence_ID=0.783;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000006000_0
+Pf3D7_07_v3	Liftoff	mRNA	1402623	1403978	.	-	.	ID=PfKE01_000006000-t41_1;Parent=PfKE01_000006000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1402623	1403672	.	-	.	ID=exon_PfKE01_000006000-t41_1-E2;Parent=PfKE01_000006000-t41_1;gene_id=PfKE01_000006000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1403925	1403978	.	-	.	ID=exon_PfKE01_000006000-t41_1-E1;Parent=PfKE01_000006000-t41_1;gene_id=PfKE01_000006000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1402623	1403672	.	-	.	ID=PfKE01_000006000-t41_1-p1-CDS2;Parent=PfKE01_000006000-t41_1;gene_id=PfKE01_000006000;protein_source_id=PfKE01_000006000-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1403925	1403978	.	-	.	ID=PfKE01_000006000-t41_1-p1-CDS1;Parent=PfKE01_000006000-t41_1;gene_id=PfKE01_000006000;protein_source_id=PfKE01_000006000-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	1408781	1409975	.	+	.	ID=PfKE01_000008800;description=rifin;ebi_biotype=protein_coding;coverage=0.952;sequence_ID=0.678;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000008800_0
+Pf3D7_07_v3	Liftoff	mRNA	1408781	1409975	.	+	.	ID=PfKE01_000008800-t41_1;Parent=PfKE01_000008800;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1408781	1408849	.	+	.	ID=exon_PfKE01_000008800-t41_1-E1;Parent=PfKE01_000008800-t41_1;gene_id=PfKE01_000008800;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1408965	1409975	.	+	.	ID=exon_PfKE01_000008800-t41_1-E2;Parent=PfKE01_000008800-t41_1;gene_id=PfKE01_000008800;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1408781	1408849	.	+	.	ID=PfKE01_000008800-t41_1-p1-CDS1;Parent=PfKE01_000008800-t41_1;gene_id=PfKE01_000008800;protein_source_id=PfKE01_000008800-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1408965	1409975	.	+	.	ID=PfKE01_000008800-t41_1-p1-CDS2;Parent=PfKE01_000008800-t41_1;gene_id=PfKE01_000008800;protein_source_id=PfKE01_000008800-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	1417588	1426209	.	-	.	ID=PfKE01_090005300;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.875;sequence_ID=0.667;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_090005300_0
+Pf3D7_07_v3	Liftoff	mRNA	1417588	1426209	.	-	.	ID=PfKE01_090005300-t41_1;Parent=PfKE01_090005300;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1417588	1419030	.	-	.	ID=exon_PfKE01_090005300-t41_1-E2;Parent=PfKE01_090005300-t41_1;gene_id=PfKE01_090005300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	1421101	1426209	.	-	.	ID=exon_PfKE01_090005300-t41_1-E1;Parent=PfKE01_090005300-t41_1;gene_id=PfKE01_090005300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1417588	1419030	.	-	.	ID=PfKE01_090005300-t41_1-p1-CDS2;Parent=PfKE01_090005300-t41_1;gene_id=PfKE01_090005300;protein_source_id=PfKE01_090005300-t41_1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	1421101	1426209	.	-	.	ID=PfKE01_090005300-t41_1-p1-CDS1;Parent=PfKE01_090005300-t41_1;gene_id=PfKE01_090005300;protein_source_id=PfKE01_090005300-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	21361	28653	.	+	.	ID=PfKE01_060038600;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.892;sequence_ID=0.661;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060038600_0
+Pf3D7_08_v3	Liftoff	mRNA	21361	28653	.	+	.	ID=PfKE01_060038600-t41_1;Parent=PfKE01_060038600;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	21361	26364	.	+	.	ID=exon_PfKE01_060038600-t41_1-E1;Parent=PfKE01_060038600-t41_1;gene_id=PfKE01_060038600;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	27295	28653	.	+	.	ID=exon_PfKE01_060038600-t41_1-E2;Parent=PfKE01_060038600-t41_1;gene_id=PfKE01_060038600;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	21361	26364	.	+	.	ID=PfKE01_060038600-t41_1-p1-CDS1;Parent=PfKE01_060038600-t41_1;gene_id=PfKE01_060038600;protein_source_id=PfKE01_060038600-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	27295	28653	.	+	.	ID=PfKE01_060038600-t41_1-p1-CDS2;Parent=PfKE01_060038600-t41_1;gene_id=PfKE01_060038600;protein_source_id=PfKE01_060038600-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	52760	53698	.	-	.	ID=PfKE01_100005700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.930;sequence_ID=0.799;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_100005700_0
+Pf3D7_08_v3	Liftoff	mRNA	52760	53698	.	-	.	ID=PfKE01_100005700-t41_1;Parent=PfKE01_100005700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	52760	53698	.	-	.	ID=exon_PfKE01_100005700-t41_1-E2;Parent=PfKE01_100005700-t41_1;gene_id=PfKE01_100005700;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	52760	53698	.	-	.	ID=PfKE01_100005700-t41_1-p1-CDS2;Parent=PfKE01_100005700-t41_1;gene_id=PfKE01_100005700;protein_source_id=PfKE01_100005700-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	431265	439051	.	+	.	ID=PfKE01_110005600;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.877;sequence_ID=0.606;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_110005600_0
+Pf3D7_08_v3	Liftoff	mRNA	431265	439051	.	+	.	ID=PfKE01_110005600-t41_1;Parent=PfKE01_110005600;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	431265	436546	.	+	.	ID=exon_PfKE01_110005600-t41_1-E1;Parent=PfKE01_110005600-t41_1;gene_id=PfKE01_110005600;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	437636	439051	.	+	.	ID=exon_PfKE01_110005600-t41_1-E2;Parent=PfKE01_110005600-t41_1;gene_id=PfKE01_110005600;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	431265	436546	.	+	.	ID=PfKE01_110005600-t41_1-p1-CDS1;Parent=PfKE01_110005600-t41_1;gene_id=PfKE01_110005600;protein_source_id=PfKE01_110005600-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	437636	439051	.	+	.	ID=PfKE01_110005600-t41_1-p1-CDS2;Parent=PfKE01_110005600-t41_1;gene_id=PfKE01_110005600;protein_source_id=PfKE01_110005600-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	440465	448062	.	+	.	ID=PfKE01_040019000;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.895;sequence_ID=0.642;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040019000_0
+Pf3D7_08_v3	Liftoff	mRNA	440465	448062	.	+	.	ID=PfKE01_040019000-t41_1;Parent=PfKE01_040019000;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	440465	445771	.	+	.	ID=exon_PfKE01_040019000-t41_1-E1;Parent=PfKE01_040019000-t41_1;gene_id=PfKE01_040019000;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	446731	448062	.	+	.	ID=exon_PfKE01_040019000-t41_1-E2;Parent=PfKE01_040019000-t41_1;gene_id=PfKE01_040019000;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	440465	445771	.	+	.	ID=PfKE01_040019000-t41_1-p1-CDS1;Parent=PfKE01_040019000-t41_1;gene_id=PfKE01_040019000;protein_source_id=PfKE01_040019000-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	446731	448062	.	+	.	ID=PfKE01_040019000-t41_1-p1-CDS2;Parent=PfKE01_040019000-t41_1;gene_id=PfKE01_040019000;protein_source_id=PfKE01_040019000-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	453803	454919	.	+	.	ID=PfKE01_040019200;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.996;sequence_ID=0.910;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040019200_0
+Pf3D7_08_v3	Liftoff	mRNA	453803	454919	.	+	.	ID=PfKE01_040019200-t41_1;Parent=PfKE01_040019200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	453803	453856	.	+	.	ID=exon_PfKE01_040019200-t41_1-E1;Parent=PfKE01_040019200-t41_1;gene_id=PfKE01_040019200;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	453975	454919	.	+	.	ID=exon_PfKE01_040019200-t41_1-E2;Parent=PfKE01_040019200-t41_1;gene_id=PfKE01_040019200;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	453803	453856	.	+	.	ID=PfKE01_040019200-t41_1-p1-CDS1;Parent=PfKE01_040019200-t41_1;gene_id=PfKE01_040019200;protein_source_id=PfKE01_040019200-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	453975	454919	.	+	.	ID=PfKE01_040019200-t41_1-p1-CDS2;Parent=PfKE01_040019200-t41_1;gene_id=PfKE01_040019200;protein_source_id=PfKE01_040019200-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1399560	1400583	.	-	.	ID=PfKE01_010005400;description=stevor;ebi_biotype=protein_coding;coverage=0.981;sequence_ID=0.842;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_010005400_0
+Pf3D7_08_v3	Liftoff	mRNA	1399560	1400583	.	-	.	ID=PfKE01_010005400-t41_1;Parent=PfKE01_010005400;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1399560	1400405	.	-	.	ID=exon_PfKE01_010005400-t41_1-E2;Parent=PfKE01_010005400-t41_1;gene_id=PfKE01_010005400;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1400515	1400583	.	-	.	ID=exon_PfKE01_010005400-t41_1-E1;Parent=PfKE01_010005400-t41_1;gene_id=PfKE01_010005400;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1399560	1400405	.	-	.	ID=PfKE01_010005400-t41_1-p1-CDS2;Parent=PfKE01_010005400-t41_1;gene_id=PfKE01_010005400;protein_source_id=PfKE01_010005400-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1400515	1400583	.	-	.	ID=PfKE01_010005400-t41_1-p1-CDS1;Parent=PfKE01_010005400-t41_1;gene_id=PfKE01_010005400;protein_source_id=PfKE01_010005400-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1406197	1406999	.	-	.	ID=PfKE01_090006100;description=stevor;ebi_biotype=protein_coding;coverage=0.786;sequence_ID=0.644;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_090006100_0
+Pf3D7_08_v3	Liftoff	mRNA	1406197	1406999	.	-	.	ID=PfKE01_090006100-t41_1;Parent=PfKE01_090006100;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1406197	1406719	.	-	.	ID=exon_PfKE01_090006100-t41_1-E2;Parent=PfKE01_090006100-t41_1;gene_id=PfKE01_090006100;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1406931	1406999	.	-	.	ID=exon_PfKE01_090006100-t41_1-E1;Parent=PfKE01_090006100-t41_1;gene_id=PfKE01_090006100;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1406197	1406719	.	-	.	ID=PfKE01_090006100-t41_1-p1-CDS2;Parent=PfKE01_090006100-t41_1;gene_id=PfKE01_090006100;protein_source_id=PfKE01_090006100-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1406931	1406999	.	-	.	ID=PfKE01_090006100-t41_1-p1-CDS1;Parent=PfKE01_090006100-t41_1;gene_id=PfKE01_090006100;protein_source_id=PfKE01_090006100-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1417438	1418625	.	+	.	ID=PfKE01_120060100;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.990;sequence_ID=0.849;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120060100_0
+Pf3D7_08_v3	Liftoff	mRNA	1417438	1418625	.	+	.	ID=PfKE01_120060100-t41_1;Parent=PfKE01_120060100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1417438	1417491	.	+	.	ID=exon_PfKE01_120060100-t41_1-E1;Parent=PfKE01_120060100-t41_1;gene_id=PfKE01_120060100;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1417573	1418625	.	+	.	ID=exon_PfKE01_120060100-t41_1-E2;Parent=PfKE01_120060100-t41_1;gene_id=PfKE01_120060100;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1417438	1417491	.	+	.	ID=PfKE01_120060100-t41_1-p1-CDS1;Parent=PfKE01_120060100-t41_1;gene_id=PfKE01_120060100;protein_source_id=PfKE01_120060100-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1417573	1418625	.	+	.	ID=PfKE01_120060100-t41_1-p1-CDS2;Parent=PfKE01_120060100-t41_1;gene_id=PfKE01_120060100;protein_source_id=PfKE01_120060100-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1420818	1422077	.	-	.	ID=PfKE01_040007600;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.956;sequence_ID=0.794;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040007600_0
+Pf3D7_08_v3	Liftoff	mRNA	1420818	1422077	.	-	.	ID=PfKE01_040007600-t41_1;Parent=PfKE01_040007600;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1420818	1421870	.	-	.	ID=exon_PfKE01_040007600-t41_1-E2;Parent=PfKE01_040007600-t41_1;gene_id=PfKE01_040007600;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1422024	1422077	.	-	.	ID=exon_PfKE01_040007600-t41_1-E1;Parent=PfKE01_040007600-t41_1;gene_id=PfKE01_040007600;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1420818	1421870	.	-	.	ID=PfKE01_040007600-t41_1-p1-CDS2;Parent=PfKE01_040007600-t41_1;gene_id=PfKE01_040007600;protein_source_id=PfKE01_040007600-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1422024	1422077	.	-	.	ID=PfKE01_040007600-t41_1-p1-CDS1;Parent=PfKE01_040007600-t41_1;gene_id=PfKE01_040007600;protein_source_id=PfKE01_040007600-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1424993	1425205	.	+	.	ID=PfKE01_040006000;description=Plasmodium RESA N-terminal%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.915;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040006000_0
+Pf3D7_08_v3	Liftoff	mRNA	1424993	1425205	.	+	.	ID=PfKE01_040006000-t41_1;Parent=PfKE01_040006000;description=Plasmodium RESA N-terminal%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1424993	1425205	.	+	.	ID=exon_PfKE01_040006000-t41_1-E1;Parent=PfKE01_040006000-t41_1;gene_id=PfKE01_040006000;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1424993	1425205	.	+	.	ID=PfKE01_040006000-t41_1-p1-CDS1;Parent=PfKE01_040006000-t41_1;gene_id=PfKE01_040006000;protein_source_id=PfKE01_040006000-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1428607	1430514	.	+	.	ID=PfKE01_000005900;Name=VAR;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;ebi_biotype=protein_coding;coverage=0.957;sequence_ID=0.849;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000005900_0
+Pf3D7_08_v3	Liftoff	mRNA	1428607	1430514	.	+	.	ID=PfKE01_000005900-t41_1;Parent=PfKE01_000005900;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1428607	1428678	.	+	.	ID=exon_PfKE01_000005900-t41_1-E1;Parent=PfKE01_000005900-t41_1;gene_id=PfKE01_000005900;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1429330	1430514	.	+	.	ID=exon_PfKE01_000005900-t41_1-E2;Parent=PfKE01_000005900-t41_1;gene_id=PfKE01_000005900;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1428607	1428678	.	+	.	ID=PfKE01_000005900-t41_1-p1-CDS1;Parent=PfKE01_000005900-t41_1;gene_id=PfKE01_000005900;protein_source_id=PfKE01_000005900-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1429330	1430514	.	+	.	ID=PfKE01_000005900-t41_1-p1-CDS2;Parent=PfKE01_000005900-t41_1;gene_id=PfKE01_000005900;protein_source_id=PfKE01_000005900-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1432696	1433932	.	+	.	ID=PfKE01_040006400;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.984;sequence_ID=0.849;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040006400_0
+Pf3D7_08_v3	Liftoff	mRNA	1432696	1433932	.	+	.	ID=PfKE01_040006400-t41_1;Parent=PfKE01_040006400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1432696	1432749	.	+	.	ID=exon_PfKE01_040006400-t41_1-E1;Parent=PfKE01_040006400-t41_1;gene_id=PfKE01_040006400;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1432964	1433932	.	+	.	ID=exon_PfKE01_040006400-t41_1-E2;Parent=PfKE01_040006400-t41_1;gene_id=PfKE01_040006400;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1432696	1432749	.	+	.	ID=PfKE01_040006400-t41_1-p1-CDS1;Parent=PfKE01_040006400-t41_1;gene_id=PfKE01_040006400;protein_source_id=PfKE01_040006400-t41_1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1432964	1433932	.	+	.	ID=PfKE01_040006400-t41_1-p1-CDS2;Parent=PfKE01_040006400-t41_1;gene_id=PfKE01_040006400;protein_source_id=PfKE01_040006400-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	33553	34795	.	-	.	ID=PfKE01_060038100;description=rifin;ebi_biotype=protein_coding;coverage=0.991;sequence_ID=0.887;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060038100_0
+Pf3D7_09_v3	Liftoff	mRNA	33553	34795	.	-	.	ID=PfKE01_060038100-t41_1;Parent=PfKE01_060038100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	33553	34563	.	-	.	ID=exon_PfKE01_060038100-t41_1-E2;Parent=PfKE01_060038100-t41_1;gene_id=PfKE01_060038100;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	34727	34795	.	-	.	ID=exon_PfKE01_060038100-t41_1-E1;Parent=PfKE01_060038100-t41_1;gene_id=PfKE01_060038100;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	33553	34563	.	-	.	ID=PfKE01_060038100-t41_1-p1-CDS2;Parent=PfKE01_060038100-t41_1;gene_id=PfKE01_060038100;protein_source_id=PfKE01_060038100-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	34727	34795	.	-	.	ID=PfKE01_060038100-t41_1-p1-CDS1;Parent=PfKE01_060038100-t41_1;gene_id=PfKE01_060038100;protein_source_id=PfKE01_060038100-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	39554	40740	.	+	.	ID=PfKE01_010005100;description=rifin;ebi_biotype=protein_coding;coverage=0.996;sequence_ID=0.916;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_010005100_0
+Pf3D7_09_v3	Liftoff	mRNA	39554	40740	.	+	.	ID=PfKE01_010005100-t41_1;Parent=PfKE01_010005100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	39554	39607	.	+	.	ID=exon_PfKE01_010005100-t41_1-E1;Parent=PfKE01_010005100-t41_1;gene_id=PfKE01_010005100;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	39763	40740	.	+	.	ID=exon_PfKE01_010005100-t41_1-E2;Parent=PfKE01_010005100-t41_1;gene_id=PfKE01_010005100;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	39554	39607	.	+	.	ID=PfKE01_010005100-t41_1-p1-CDS1;Parent=PfKE01_010005100-t41_1;gene_id=PfKE01_010005100;protein_source_id=PfKE01_010005100-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	39763	40740	.	+	.	ID=PfKE01_010005100-t41_1-p1-CDS2;Parent=PfKE01_010005100-t41_1;gene_id=PfKE01_010005100;protein_source_id=PfKE01_010005100-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	42909	44045	.	-	.	ID=PfKE01_000005700;description=rifin;ebi_biotype=protein_coding;coverage=0.937;sequence_ID=0.755;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000005700_0
+Pf3D7_09_v3	Liftoff	mRNA	42909	44045	.	-	.	ID=PfKE01_000005700-t41_1;Parent=PfKE01_000005700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	42909	43856	.	-	.	ID=exon_PfKE01_000005700-t41_1-E2;Parent=PfKE01_000005700-t41_1;gene_id=PfKE01_000005700;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	43977	44045	.	-	.	ID=exon_PfKE01_000005700-t41_1-E1;Parent=PfKE01_000005700-t41_1;gene_id=PfKE01_000005700;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	42909	43856	.	-	.	ID=PfKE01_000005700-t41_1-p1-CDS2;Parent=PfKE01_000005700-t41_1;gene_id=PfKE01_000005700;protein_source_id=PfKE01_000005700-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	43977	44045	.	-	.	ID=PfKE01_000005700-t41_1-p1-CDS1;Parent=PfKE01_000005700-t41_1;gene_id=PfKE01_000005700;protein_source_id=PfKE01_000005700-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	45902	47236	.	-	.	ID=PfKE01_120060200;description=rifin;ebi_biotype=protein_coding;coverage=0.983;sequence_ID=0.815;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120060200_0
+Pf3D7_09_v3	Liftoff	mRNA	45902	47236	.	-	.	ID=PfKE01_120060200-t41_1;Parent=PfKE01_120060200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	45902	46951	.	-	.	ID=exon_PfKE01_120060200-t41_1-E2;Parent=PfKE01_120060200-t41_1;gene_id=PfKE01_120060200;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	47183	47236	.	-	.	ID=exon_PfKE01_120060200-t41_1-E1;Parent=PfKE01_120060200-t41_1;gene_id=PfKE01_120060200;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	45902	46951	.	-	.	ID=PfKE01_120060200-t41_1-p1-CDS2;Parent=PfKE01_120060200-t41_1;gene_id=PfKE01_120060200;protein_source_id=PfKE01_120060200-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	47183	47236	.	-	.	ID=PfKE01_120060200-t41_1-p1-CDS1;Parent=PfKE01_120060200-t41_1;gene_id=PfKE01_120060200;protein_source_id=PfKE01_120060200-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	49612	50971	.	-	.	ID=PfKE01_120006000;description=rifin;ebi_biotype=protein_coding;coverage=0.950;sequence_ID=0.724;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120006000_0
+Pf3D7_09_v3	Liftoff	mRNA	49612	50971	.	-	.	ID=PfKE01_120006000-t41_1;Parent=PfKE01_120006000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	49612	50688	.	-	.	ID=exon_PfKE01_120006000-t41_1-E2;Parent=PfKE01_120006000-t41_1;gene_id=PfKE01_120006000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	50903	50971	.	-	.	ID=exon_PfKE01_120006000-t41_1-E1;Parent=PfKE01_120006000-t41_1;gene_id=PfKE01_120006000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	49612	50688	.	-	.	ID=PfKE01_120006000-t41_1-p1-CDS2;Parent=PfKE01_120006000-t41_1;gene_id=PfKE01_120006000;protein_source_id=PfKE01_120006000-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	50903	50971	.	-	.	ID=PfKE01_120006000-t41_1-p1-CDS1;Parent=PfKE01_120006000-t41_1;gene_id=PfKE01_120006000;protein_source_id=PfKE01_120006000-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	pseudogene	52648	53748	.	-	.	ID=PfKE01_080006000;description=erythrocyte membrane protein 1 (PfEMP1)%2C pseudogene;ebi_biotype=pseudogene;coverage=0.998;sequence_ID=0.981;extra_copy_number=0;copy_num_ID=PfKE01_080006000_0
+Pf3D7_09_v3	Liftoff	pseudogenic_transcript	52648	53748	.	-	.	ID=PfKE01_080006000-t41_1;Parent=PfKE01_080006000;description=erythrocyte membrane protein 1 (PfEMP1)%2C pseudogene;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	52648	53267	.	-	.	ID=exon_PfKE01_080006000-t41_1-E2;Parent=PfKE01_080006000-t41_1;gene_id=PfKE01_080006000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	53270	53748	.	-	.	ID=exon_PfKE01_080006000-t41_1-E1;Parent=PfKE01_080006000-t41_1;gene_id=PfKE01_080006000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	58162	59240	.	-	.	ID=PfKE01_060005400;description=rifin;ebi_biotype=protein_coding;coverage=0.931;sequence_ID=0.740;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060005400_0
+Pf3D7_09_v3	Liftoff	mRNA	58162	59240	.	-	.	ID=PfKE01_060005400-t41_1;Parent=PfKE01_060005400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	58162	59022	.	-	.	ID=exon_PfKE01_060005400-t41_1-E2;Parent=PfKE01_060005400-t41_1;gene_id=PfKE01_060005400;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	59172	59240	.	-	.	ID=exon_PfKE01_060005400-t41_1-E1;Parent=PfKE01_060005400-t41_1;gene_id=PfKE01_060005400;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	58162	59022	.	-	.	ID=PfKE01_060005400-t41_1-p1-CDS2;Parent=PfKE01_060005400-t41_1;gene_id=PfKE01_060005400;protein_source_id=PfKE01_060005400-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	59172	59240	.	-	.	ID=PfKE01_060005400-t41_1-p1-CDS1;Parent=PfKE01_060005400-t41_1;gene_id=PfKE01_060005400;protein_source_id=PfKE01_060005400-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	67334	68625	.	+	.	ID=PfKE01_080005700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.976;sequence_ID=0.771;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080005700_0
+Pf3D7_09_v3	Liftoff	mRNA	67334	68625	.	+	.	ID=PfKE01_080005700-t41_1;Parent=PfKE01_080005700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	67334	67387	.	+	.	ID=exon_PfKE01_080005700-t41_1-E1;Parent=PfKE01_080005700-t41_1;gene_id=PfKE01_080005700;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	67543	68625	.	+	.	ID=exon_PfKE01_080005700-t41_1-E2;Parent=PfKE01_080005700-t41_1;gene_id=PfKE01_080005700;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	67334	67387	.	+	.	ID=PfKE01_080005700-t41_1-p1-CDS1;Parent=PfKE01_080005700-t41_1;gene_id=PfKE01_080005700;protein_source_id=PfKE01_080005700-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	67543	68625	.	+	.	ID=PfKE01_080005700-t41_1-p1-CDS2;Parent=PfKE01_080005700-t41_1;gene_id=PfKE01_080005700;protein_source_id=PfKE01_080005700-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	70755	71738	.	+	.	ID=PfKE01_040028000;description=rifin;ebi_biotype=protein_coding;coverage=0.889;sequence_ID=0.639;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040028000_0
+Pf3D7_09_v3	Liftoff	mRNA	70755	71738	.	+	.	ID=PfKE01_040028000-t41_1;Parent=PfKE01_040028000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	70755	71738	.	+	.	ID=exon_PfKE01_040028000-t41_1-E2;Parent=PfKE01_040028000-t41_1;gene_id=PfKE01_040028000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	70755	71738	.	+	.	ID=PfKE01_040028000-t41_1-p1-CDS2;Parent=PfKE01_040028000-t41_1;gene_id=PfKE01_040028000;protein_source_id=PfKE01_040028000-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	77861	78874	.	+	.	ID=PfKE01_140006000;description=stevor;ebi_biotype=protein_coding;coverage=0.977;sequence_ID=0.812;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_140006000_0
+Pf3D7_09_v3	Liftoff	mRNA	77861	78874	.	+	.	ID=PfKE01_140006000-t41_1;Parent=PfKE01_140006000;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	77861	77929	.	+	.	ID=exon_PfKE01_140006000-t41_1-E1;Parent=PfKE01_140006000-t41_1;gene_id=PfKE01_140006000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	78032	78874	.	+	.	ID=exon_PfKE01_140006000-t41_1-E2;Parent=PfKE01_140006000-t41_1;gene_id=PfKE01_140006000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	77861	77929	.	+	.	ID=PfKE01_140006000-t41_1-p1-CDS1;Parent=PfKE01_140006000-t41_1;gene_id=PfKE01_140006000;protein_source_id=PfKE01_140006000-t41_1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	78032	78874	.	+	.	ID=PfKE01_140006000-t41_1-p1-CDS2;Parent=PfKE01_140006000-t41_1;gene_id=PfKE01_140006000;protein_source_id=PfKE01_140006000-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	38050	39395	.	-	.	ID=PfKE01_040032500;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.961;sequence_ID=0.780;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040032500_0
+Pf3D7_10_v3	Liftoff	mRNA	38050	39395	.	-	.	ID=PfKE01_040032500-t41_1;Parent=PfKE01_040032500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	38050	39111	.	-	.	ID=exon_PfKE01_040032500-t41_1-E2;Parent=PfKE01_040032500-t41_1;gene_id=PfKE01_040032500;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	39342	39395	.	-	.	ID=exon_PfKE01_040032500-t41_1-E1;Parent=PfKE01_040032500-t41_1;gene_id=PfKE01_040032500;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	38050	39111	.	-	.	ID=PfKE01_040032500-t41_1-p1-CDS2;Parent=PfKE01_040032500-t41_1;gene_id=PfKE01_040032500;protein_source_id=PfKE01_040032500-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	39342	39395	.	-	.	ID=PfKE01_040032500-t41_1-p1-CDS1;Parent=PfKE01_040032500-t41_1;gene_id=PfKE01_040032500;protein_source_id=PfKE01_040032500-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	41773	42738	.	-	.	ID=PfKE01_040006300;description=rifin;ebi_biotype=protein_coding;coverage=0.932;sequence_ID=0.765;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040006300_0
+Pf3D7_10_v3	Liftoff	mRNA	41773	42738	.	-	.	ID=PfKE01_040006300-t41_1;Parent=PfKE01_040006300;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	41773	42738	.	-	.	ID=exon_PfKE01_040006300-t41_1-E2;Parent=PfKE01_040006300-t41_1;gene_id=PfKE01_040006300;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	41773	42738	.	-	.	ID=PfKE01_040006300-t41_1-p1-CDS2;Parent=PfKE01_040006300-t41_1;gene_id=PfKE01_040006300;protein_source_id=PfKE01_040006300-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	44816	46133	.	-	.	ID=PfKE01_080005900;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.986;sequence_ID=0.890;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080005900_0
+Pf3D7_10_v3	Liftoff	mRNA	44816	46133	.	-	.	ID=PfKE01_080005900-t41_1;Parent=PfKE01_080005900;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	44816	45877	.	-	.	ID=exon_PfKE01_080005900-t41_1-E2;Parent=PfKE01_080005900-t41_1;gene_id=PfKE01_080005900;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	46080	46133	.	-	.	ID=exon_PfKE01_080005900-t41_1-E1;Parent=PfKE01_080005900-t41_1;gene_id=PfKE01_080005900;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	44816	45877	.	-	.	ID=PfKE01_080005900-t41_1-p1-CDS2;Parent=PfKE01_080005900-t41_1;gene_id=PfKE01_080005900;protein_source_id=PfKE01_080005900-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	46080	46133	.	-	.	ID=PfKE01_080005900-t41_1-p1-CDS1;Parent=PfKE01_080005900-t41_1;gene_id=PfKE01_080005900;protein_source_id=PfKE01_080005900-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	48052	49384	.	-	.	ID=PfKE01_050037700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.973;sequence_ID=0.756;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_050037700_0
+Pf3D7_10_v3	Liftoff	mRNA	48052	49384	.	-	.	ID=PfKE01_050037700-t41_1;Parent=PfKE01_050037700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	48052	49107	.	-	.	ID=exon_PfKE01_050037700-t41_1-E2;Parent=PfKE01_050037700-t41_1;gene_id=PfKE01_050037700;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	49331	49384	.	-	.	ID=exon_PfKE01_050037700-t41_1-E1;Parent=PfKE01_050037700-t41_1;gene_id=PfKE01_050037700;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	48052	49107	.	-	.	ID=PfKE01_050037700-t41_1-p1-CDS2;Parent=PfKE01_050037700-t41_1;gene_id=PfKE01_050037700;protein_source_id=PfKE01_050037700-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	49331	49384	.	-	.	ID=PfKE01_050037700-t41_1-p1-CDS1;Parent=PfKE01_050037700-t41_1;gene_id=PfKE01_050037700;protein_source_id=PfKE01_050037700-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	68689	68961	.	-	.	ID=PfKE01_120058800;description=Acyl CoA binding protein%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.930;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120058800_0
+Pf3D7_10_v3	Liftoff	mRNA	68689	68961	.	-	.	ID=PfKE01_120058800-t41_1;Parent=PfKE01_120058800;description=Acyl CoA binding protein%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	68689	68961	.	-	.	ID=exon_PfKE01_120058800-t41_1-E1;Parent=PfKE01_120058800-t41_1;gene_id=PfKE01_120058800;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	68689	68961	.	-	.	ID=PfKE01_120058800-t41_1-p1-CDS1;Parent=PfKE01_120058800-t41_1;gene_id=PfKE01_120058800;protein_source_id=PfKE01_120058800-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1591578	1592367	.	-	.	ID=PfKE01_100045000;Name=MC-2TM;description=Pfmc-2TM Maurer's cleft two transmembrane protein;ebi_biotype=protein_coding;coverage=0.997;sequence_ID=0.961;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100045000_0
+Pf3D7_10_v3	Liftoff	mRNA	1591578	1592367	.	-	.	ID=PfKE01_100045000-t41_1;Parent=PfKE01_100045000;description=Pfmc-2TM Maurer's cleft two transmembrane protein;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1591578	1592204	.	-	.	ID=exon_PfKE01_100045000-t41_1-E2;Parent=PfKE01_100045000-t41_1;gene_id=PfKE01_100045000;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1592299	1592367	.	-	.	ID=exon_PfKE01_100045000-t41_1-E1;Parent=PfKE01_100045000-t41_1;gene_id=PfKE01_100045000;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1591578	1592204	.	-	.	ID=PfKE01_100045000-t41_1-p1-CDS2;Parent=PfKE01_100045000-t41_1;gene_id=PfKE01_100045000;protein_source_id=PfKE01_100045000-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1592299	1592367	.	-	.	ID=PfKE01_100045000-t41_1-p1-CDS1;Parent=PfKE01_100045000-t41_1;gene_id=PfKE01_100045000;protein_source_id=PfKE01_100045000-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1602935	1603989	.	+	.	ID=PfKE01_050037500;description=rifin;ebi_biotype=protein_coding;coverage=0.928;sequence_ID=0.742;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_050037500_0
+Pf3D7_10_v3	Liftoff	mRNA	1602935	1603989	.	+	.	ID=PfKE01_050037500-t41_1;Parent=PfKE01_050037500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1602935	1603003	.	+	.	ID=exon_PfKE01_050037500-t41_1-E1;Parent=PfKE01_050037500-t41_1;gene_id=PfKE01_050037500;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1603129	1603989	.	+	.	ID=exon_PfKE01_050037500-t41_1-E2;Parent=PfKE01_050037500-t41_1;gene_id=PfKE01_050037500;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1602935	1603003	.	+	.	ID=PfKE01_050037500-t41_1-p1-CDS1;Parent=PfKE01_050037500-t41_1;gene_id=PfKE01_050037500;protein_source_id=PfKE01_050037500-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1603129	1603989	.	+	.	ID=PfKE01_050037500-t41_1-p1-CDS2;Parent=PfKE01_050037500-t41_1;gene_id=PfKE01_050037500;protein_source_id=PfKE01_050037500-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1609369	1610422	.	+	.	ID=PfKE01_020024700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.932;sequence_ID=0.809;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_020024700_0
+Pf3D7_10_v3	Liftoff	mRNA	1609369	1610422	.	+	.	ID=PfKE01_020024700-t41_1;Parent=PfKE01_020024700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1609369	1610422	.	+	.	ID=exon_PfKE01_020024700-t41_1-E2;Parent=PfKE01_020024700-t41_1;gene_id=PfKE01_020024700;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1609369	1610422	.	+	.	ID=PfKE01_020024700-t41_1-p1-CDS2;Parent=PfKE01_020024700-t41_1;gene_id=PfKE01_020024700;protein_source_id=PfKE01_020024700-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1612530	1613735	.	+	.	ID=PfKE01_080005800;description=rifin;ebi_biotype=protein_coding;coverage=0.984;sequence_ID=0.812;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080005800_0
+Pf3D7_10_v3	Liftoff	mRNA	1612530	1613735	.	+	.	ID=PfKE01_080005800-t41_1;Parent=PfKE01_080005800;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1612530	1612598	.	+	.	ID=exon_PfKE01_080005800-t41_1-E1;Parent=PfKE01_080005800-t41_1;gene_id=PfKE01_080005800;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1612758	1613735	.	+	.	ID=exon_PfKE01_080005800-t41_1-E2;Parent=PfKE01_080005800-t41_1;gene_id=PfKE01_080005800;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1612530	1612598	.	+	.	ID=PfKE01_080005800-t41_1-p1-CDS1;Parent=PfKE01_080005800-t41_1;gene_id=PfKE01_080005800;protein_source_id=PfKE01_080005800-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1612758	1613735	.	+	.	ID=PfKE01_080005800-t41_1-p1-CDS2;Parent=PfKE01_080005800-t41_1;gene_id=PfKE01_080005800;protein_source_id=PfKE01_080005800-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1615804	1617070	.	+	.	ID=PfKE01_100005600;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.977;sequence_ID=0.829;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100005600_0
+Pf3D7_10_v3	Liftoff	mRNA	1615804	1617070	.	+	.	ID=PfKE01_100005600-t41_1;Parent=PfKE01_100005600;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1615804	1615857	.	+	.	ID=exon_PfKE01_100005600-t41_1-E1;Parent=PfKE01_100005600-t41_1;gene_id=PfKE01_100005600;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1616072	1617070	.	+	.	ID=exon_PfKE01_100005600-t41_1-E2;Parent=PfKE01_100005600-t41_1;gene_id=PfKE01_100005600;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1615804	1615857	.	+	.	ID=PfKE01_100005600-t41_1-p1-CDS1;Parent=PfKE01_100005600-t41_1;gene_id=PfKE01_100005600;protein_source_id=PfKE01_100005600-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1616072	1617070	.	+	.	ID=PfKE01_100005600-t41_1-p1-CDS2;Parent=PfKE01_100005600-t41_1;gene_id=PfKE01_100005600;protein_source_id=PfKE01_100005600-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1625772	1626862	.	+	.	ID=PfKE01_130006200;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.986;sequence_ID=0.777;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_130006200_0
+Pf3D7_10_v3	Liftoff	mRNA	1625772	1626862	.	+	.	ID=PfKE01_130006200-t41_1;Parent=PfKE01_130006200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1625772	1625840	.	+	.	ID=exon_PfKE01_130006200-t41_1-E1;Parent=PfKE01_130006200-t41_1;gene_id=PfKE01_130006200;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1625991	1626862	.	+	.	ID=exon_PfKE01_130006200-t41_1-E2;Parent=PfKE01_130006200-t41_1;gene_id=PfKE01_130006200;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1625772	1625840	.	+	.	ID=PfKE01_130006200-t41_1-p1-CDS1;Parent=PfKE01_130006200-t41_1;gene_id=PfKE01_130006200;protein_source_id=PfKE01_130006200-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1625991	1626862	.	+	.	ID=PfKE01_130006200-t41_1-p1-CDS2;Parent=PfKE01_130006200-t41_1;gene_id=PfKE01_130006200;protein_source_id=PfKE01_130006200-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1628914	1630023	.	+	.	ID=PfKE01_000005200;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.948;sequence_ID=0.709;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000005200_0
+Pf3D7_10_v3	Liftoff	mRNA	1628914	1630023	.	+	.	ID=PfKE01_000005200-t41_1;Parent=PfKE01_000005200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1628914	1628982	.	+	.	ID=exon_PfKE01_000005200-t41_1-E1;Parent=PfKE01_000005200-t41_1;gene_id=PfKE01_000005200;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1629157	1630023	.	+	.	ID=exon_PfKE01_000005200-t41_1-E2;Parent=PfKE01_000005200-t41_1;gene_id=PfKE01_000005200;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1628914	1628982	.	+	.	ID=PfKE01_000005200-t41_1-p1-CDS1;Parent=PfKE01_000005200-t41_1;gene_id=PfKE01_000005200;protein_source_id=PfKE01_000005200-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1629157	1630023	.	+	.	ID=PfKE01_000005200-t41_1-p1-CDS2;Parent=PfKE01_000005200-t41_1;gene_id=PfKE01_000005200;protein_source_id=PfKE01_000005200-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1635596	1636779	.	+	.	ID=PfKE01_040007000;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.974;sequence_ID=0.839;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040007000_0
+Pf3D7_10_v3	Liftoff	mRNA	1635596	1636779	.	+	.	ID=PfKE01_040007000-t41_1;Parent=PfKE01_040007000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1635596	1635664	.	+	.	ID=exon_PfKE01_040007000-t41_1-E1;Parent=PfKE01_040007000-t41_1;gene_id=PfKE01_040007000;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1635829	1636779	.	+	.	ID=exon_PfKE01_040007000-t41_1-E2;Parent=PfKE01_040007000-t41_1;gene_id=PfKE01_040007000;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1635596	1635664	.	+	.	ID=PfKE01_040007000-t41_1-p1-CDS1;Parent=PfKE01_040007000-t41_1;gene_id=PfKE01_040007000;protein_source_id=PfKE01_040007000-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1635829	1636779	.	+	.	ID=PfKE01_040007000-t41_1-p1-CDS2;Parent=PfKE01_040007000-t41_1;gene_id=PfKE01_040007000;protein_source_id=PfKE01_040007000-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1639171	1640518	.	+	.	ID=PfKE01_060038500;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.949;sequence_ID=0.714;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060038500_0
+Pf3D7_10_v3	Liftoff	mRNA	1639171	1640518	.	+	.	ID=PfKE01_060038500-t41_1;Parent=PfKE01_060038500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1639171	1639224	.	+	.	ID=exon_PfKE01_060038500-t41_1-E1;Parent=PfKE01_060038500-t41_1;gene_id=PfKE01_060038500;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1639457	1640518	.	+	.	ID=exon_PfKE01_060038500-t41_1-E2;Parent=PfKE01_060038500-t41_1;gene_id=PfKE01_060038500;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1639171	1639224	.	+	.	ID=PfKE01_060038500-t41_1-p1-CDS1;Parent=PfKE01_060038500-t41_1;gene_id=PfKE01_060038500;protein_source_id=PfKE01_060038500-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1639457	1640518	.	+	.	ID=PfKE01_060038500-t41_1-p1-CDS2;Parent=PfKE01_060038500-t41_1;gene_id=PfKE01_060038500;protein_source_id=PfKE01_060038500-t41_1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1642401	1643636	.	-	.	ID=PfKE01_000008600;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;ebi_biotype=protein_coding;coverage=0.974;sequence_ID=0.906;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_000008600_0
+Pf3D7_10_v3	Liftoff	mRNA	1642401	1643636	.	-	.	ID=PfKE01_000008600-t41_1;Parent=PfKE01_000008600;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1642401	1643636	.	-	.	ID=exon_PfKE01_000008600-t41_1-E1;Parent=PfKE01_000008600-t41_1;gene_id=PfKE01_000008600;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1642401	1643636	.	-	.	ID=PfKE01_000008600-t41_1-p1-CDS1;Parent=PfKE01_000008600-t41_1;gene_id=PfKE01_000008600;protein_source_id=PfKE01_000008600-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	45056	46233	.	+	.	ID=PfKE01_000008900;description=rifin;ebi_biotype=protein_coding;coverage=0.956;sequence_ID=0.690;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000008900_0
+Pf3D7_11_v3	Liftoff	mRNA	45056	46233	.	+	.	ID=PfKE01_000008900-t41_1;Parent=PfKE01_000008900;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	45056	45109	.	+	.	ID=exon_PfKE01_000008900-t41_1-E1;Parent=PfKE01_000008900-t41_1;gene_id=PfKE01_000008900;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	45265	46233	.	+	.	ID=exon_PfKE01_000008900-t41_1-E2;Parent=PfKE01_000008900-t41_1;gene_id=PfKE01_000008900;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	45056	45109	.	+	.	ID=PfKE01_000008900-t41_1-p1-CDS1;Parent=PfKE01_000008900-t41_1;gene_id=PfKE01_000008900;protein_source_id=PfKE01_000008900-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	45265	46233	.	+	.	ID=PfKE01_000008900-t41_1-p1-CDS2;Parent=PfKE01_000008900-t41_1;gene_id=PfKE01_000008900;protein_source_id=PfKE01_000008900-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	66686	67965	.	-	.	ID=PfKE01_050037600;description=rifin;ebi_biotype=protein_coding;coverage=0.959;sequence_ID=0.771;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_050037600_0
+Pf3D7_11_v3	Liftoff	mRNA	66686	67965	.	-	.	ID=PfKE01_050037600-t41_1;Parent=PfKE01_050037600;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	66686	67681	.	-	.	ID=exon_PfKE01_050037600-t41_1-E2;Parent=PfKE01_050037600-t41_1;gene_id=PfKE01_050037600;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	67912	67965	.	-	.	ID=exon_PfKE01_050037600-t41_1-E1;Parent=PfKE01_050037600-t41_1;gene_id=PfKE01_050037600;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	66686	67681	.	-	.	ID=PfKE01_050037600-t41_1-p1-CDS2;Parent=PfKE01_050037600-t41_1;gene_id=PfKE01_050037600;protein_source_id=PfKE01_050037600-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	67912	67965	.	-	.	ID=PfKE01_050037600-t41_1-p1-CDS1;Parent=PfKE01_050037600-t41_1;gene_id=PfKE01_050037600;protein_source_id=PfKE01_050037600-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	73244	74442	.	-	.	ID=PfKE01_020024900;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.948;sequence_ID=0.748;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_020024900_0
+Pf3D7_11_v3	Liftoff	mRNA	73244	74442	.	-	.	ID=PfKE01_020024900-t41_1;Parent=PfKE01_020024900;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	73244	74167	.	-	.	ID=exon_PfKE01_020024900-t41_1-E2;Parent=PfKE01_020024900-t41_1;gene_id=PfKE01_020024900;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	74389	74442	.	-	.	ID=exon_PfKE01_020024900-t41_1-E1;Parent=PfKE01_020024900-t41_1;gene_id=PfKE01_020024900;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	73244	74167	.	-	.	ID=PfKE01_020024900-t41_1-p1-CDS2;Parent=PfKE01_020024900-t41_1;gene_id=PfKE01_020024900;protein_source_id=PfKE01_020024900-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	74389	74442	.	-	.	ID=PfKE01_020024900-t41_1-p1-CDS1;Parent=PfKE01_020024900-t41_1;gene_id=PfKE01_020024900;protein_source_id=PfKE01_020024900-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	76820	78000	.	-	.	ID=PfKE01_000005100;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.961;sequence_ID=0.772;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_000005100_0
+Pf3D7_11_v3	Liftoff	mRNA	76820	78000	.	-	.	ID=PfKE01_000005100-t41_1;Parent=PfKE01_000005100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	76820	77830	.	-	.	ID=exon_PfKE01_000005100-t41_1-E2;Parent=PfKE01_000005100-t41_1;gene_id=PfKE01_000005100;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	77929	78000	.	-	.	ID=exon_PfKE01_000005100-t41_1-E1;Parent=PfKE01_000005100-t41_1;gene_id=PfKE01_000005100;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	76820	77830	.	-	.	ID=PfKE01_000005100-t41_1-p1-CDS2;Parent=PfKE01_000005100-t41_1;gene_id=PfKE01_000005100;protein_source_id=PfKE01_000005100-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	77929	78000	.	-	.	ID=PfKE01_000005100-t41_1-p1-CDS1;Parent=PfKE01_000005100-t41_1;gene_id=PfKE01_000005100;protein_source_id=PfKE01_000005100-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	2004754	2005011	.	+	.	ID=PfKE01_060005500;description=Plasmodium RESA N-terminal%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.949;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060005500_0
+Pf3D7_11_v3	Liftoff	mRNA	2004754	2005011	.	+	.	ID=PfKE01_060005500-t41_1;Parent=PfKE01_060005500;description=Plasmodium RESA N-terminal%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	2004754	2005011	.	+	.	ID=exon_PfKE01_060005500-t41_1-E1;Parent=PfKE01_060005500-t41_1;gene_id=PfKE01_060005500;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	2004754	2005011	.	+	.	ID=PfKE01_060005500-t41_1-p1-CDS1;Parent=PfKE01_060005500-t41_1;gene_id=PfKE01_060005500;protein_source_id=PfKE01_060005500-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	2006706	2007829	.	+	.	ID=PfKE01_080006200;description=rifin;ebi_biotype=protein_coding;coverage=0.968;sequence_ID=0.774;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080006200_0
+Pf3D7_11_v3	Liftoff	mRNA	2006706	2007829	.	+	.	ID=PfKE01_080006200-t41_1;Parent=PfKE01_080006200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	2006706	2006774	.	+	.	ID=exon_PfKE01_080006200-t41_1-E1;Parent=PfKE01_080006200-t41_1;gene_id=PfKE01_080006200;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	2006954	2007829	.	+	.	ID=exon_PfKE01_080006200-t41_1-E2;Parent=PfKE01_080006200-t41_1;gene_id=PfKE01_080006200;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	2006706	2006774	.	+	.	ID=PfKE01_080006200-t41_1-p1-CDS1;Parent=PfKE01_080006200-t41_1;gene_id=PfKE01_080006200;protein_source_id=PfKE01_080006200-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	2006954	2007829	.	+	.	ID=PfKE01_080006200-t41_1-p1-CDS2;Parent=PfKE01_080006200-t41_1;gene_id=PfKE01_080006200;protein_source_id=PfKE01_080006200-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	2009875	2010902	.	+	.	ID=PfKE01_020024800;description=stevor;ebi_biotype=protein_coding;coverage=0.995;sequence_ID=0.885;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_020024800_0
+Pf3D7_11_v3	Liftoff	mRNA	2009875	2010902	.	+	.	ID=PfKE01_020024800-t41_1;Parent=PfKE01_020024800;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	2009875	2009943	.	+	.	ID=exon_PfKE01_020024800-t41_1-E1;Parent=PfKE01_020024800-t41_1;gene_id=PfKE01_020024800;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	2010045	2010902	.	+	.	ID=exon_PfKE01_020024800-t41_1-E2;Parent=PfKE01_020024800-t41_1;gene_id=PfKE01_020024800;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	2009875	2009943	.	+	.	ID=PfKE01_020024800-t41_1-p1-CDS1;Parent=PfKE01_020024800-t41_1;gene_id=PfKE01_020024800;protein_source_id=PfKE01_020024800-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	2010045	2010902	.	+	.	ID=PfKE01_020024800-t41_1-p1-CDS2;Parent=PfKE01_020024800-t41_1;gene_id=PfKE01_020024800;protein_source_id=PfKE01_020024800-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	2015641	2016758	.	-	.	ID=PfKE01_130005900;description=rifin;ebi_biotype=protein_coding;coverage=0.967;sequence_ID=0.775;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_130005900_0
+Pf3D7_11_v3	Liftoff	mRNA	2015641	2016758	.	-	.	ID=PfKE01_130005900-t41_1;Parent=PfKE01_130005900;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	2015641	2016520	.	-	.	ID=exon_PfKE01_130005900-t41_1-E2;Parent=PfKE01_130005900-t41_1;gene_id=PfKE01_130005900;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	2016705	2016758	.	-	.	ID=exon_PfKE01_130005900-t41_1-E1;Parent=PfKE01_130005900-t41_1;gene_id=PfKE01_130005900;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	2015641	2016520	.	-	.	ID=PfKE01_130005900-t41_1-p1-CDS2;Parent=PfKE01_130005900-t41_1;gene_id=PfKE01_130005900;protein_source_id=PfKE01_130005900-t41_1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	2016705	2016758	.	-	.	ID=PfKE01_130005900-t41_1-p1-CDS1;Parent=PfKE01_130005900-t41_1;gene_id=PfKE01_130005900;protein_source_id=PfKE01_130005900-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	16973	24428	.	+	.	ID=PfKE01_120045400;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.879;sequence_ID=0.640;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120045400_0
+Pf3D7_12_v3	Liftoff	mRNA	16973	24428	.	+	.	ID=PfKE01_120045400-t41_1;Parent=PfKE01_120045400;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	16973	22048	.	+	.	ID=exon_PfKE01_120045400-t41_1-E1;Parent=PfKE01_120045400-t41_1;gene_id=PfKE01_120045400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	23037	24428	.	+	.	ID=exon_PfKE01_120045400-t41_1-E2;Parent=PfKE01_120045400-t41_1;gene_id=PfKE01_120045400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	16973	22048	.	+	.	ID=PfKE01_120045400-t41_1-p1-CDS1;Parent=PfKE01_120045400-t41_1;gene_id=PfKE01_120045400;protein_source_id=PfKE01_120045400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	23037	24428	.	+	.	ID=PfKE01_120045400-t41_1-p1-CDS2;Parent=PfKE01_120045400-t41_1;gene_id=PfKE01_120045400;protein_source_id=PfKE01_120045400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	26321	27687	.	-	.	ID=PfKE01_140005400;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.951;sequence_ID=0.770;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_140005400_0
+Pf3D7_12_v3	Liftoff	mRNA	26321	27687	.	-	.	ID=PfKE01_140005400-t41_1;Parent=PfKE01_140005400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	26321	27403	.	-	.	ID=exon_PfKE01_140005400-t41_1-E2;Parent=PfKE01_140005400-t41_1;gene_id=PfKE01_140005400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	27634	27687	.	-	.	ID=exon_PfKE01_140005400-t41_1-E1;Parent=PfKE01_140005400-t41_1;gene_id=PfKE01_140005400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	26321	27403	.	-	.	ID=PfKE01_140005400-t41_1-p1-CDS2;Parent=PfKE01_140005400-t41_1;gene_id=PfKE01_140005400;protein_source_id=PfKE01_140005400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	27634	27687	.	-	.	ID=PfKE01_140005400-t41_1-p1-CDS1;Parent=PfKE01_140005400-t41_1;gene_id=PfKE01_140005400;protein_source_id=PfKE01_140005400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	30447	31261	.	-	.	ID=PfKE01_100045400;description=rifin;ebi_biotype=protein_coding;coverage=0.928;sequence_ID=0.739;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_100045400_0
+Pf3D7_12_v3	Liftoff	mRNA	30447	31261	.	-	.	ID=PfKE01_100045400-t41_1;Parent=PfKE01_100045400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	30447	31046	.	-	.	ID=exon_PfKE01_100045400-t41_1-E2;Parent=PfKE01_100045400-t41_1;gene_id=PfKE01_100045400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	31193	31261	.	-	.	ID=exon_PfKE01_100045400-t41_1-E1;Parent=PfKE01_100045400-t41_1;gene_id=PfKE01_100045400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	30447	31046	.	-	.	ID=PfKE01_100045400-t41_1-p1-CDS2;Parent=PfKE01_100045400-t41_1;gene_id=PfKE01_100045400;protein_source_id=PfKE01_100045400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	31193	31261	.	-	.	ID=PfKE01_100045400-t41_1-p1-CDS1;Parent=PfKE01_100045400-t41_1;gene_id=PfKE01_100045400;protein_source_id=PfKE01_100045400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	32733	41940	.	+	.	ID=PfKE01_090005600;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.903;sequence_ID=0.634;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_090005600_0
+Pf3D7_12_v3	Liftoff	mRNA	32733	41940	.	+	.	ID=PfKE01_090005600-t41_1;Parent=PfKE01_090005600;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	32733	39078	.	+	.	ID=exon_PfKE01_090005600-t41_1-E1;Parent=PfKE01_090005600-t41_1;gene_id=PfKE01_090005600;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	40726	41940	.	+	.	ID=exon_PfKE01_090005600-t41_1-E2;Parent=PfKE01_090005600-t41_1;gene_id=PfKE01_090005600;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	32733	39078	.	+	.	ID=PfKE01_090005600-t41_1-p1-CDS1;Parent=PfKE01_090005600-t41_1;gene_id=PfKE01_090005600;protein_source_id=PfKE01_090005600-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	40726	41940	.	+	.	ID=PfKE01_090005600-t41_1-p1-CDS2;Parent=PfKE01_090005600-t41_1;gene_id=PfKE01_090005600;protein_source_id=PfKE01_090005600-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	43800	45106	.	-	.	ID=PfKE01_040032300;description=rifin;ebi_biotype=protein_coding;coverage=0.964;sequence_ID=0.797;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_040032300_0
+Pf3D7_12_v3	Liftoff	mRNA	43800	45106	.	-	.	ID=PfKE01_040032300-t41_1;Parent=PfKE01_040032300;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	43800	44855	.	-	.	ID=exon_PfKE01_040032300-t41_1-E2;Parent=PfKE01_040032300-t41_1;gene_id=PfKE01_040032300;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	45053	45106	.	-	.	ID=exon_PfKE01_040032300-t41_1-E1;Parent=PfKE01_040032300-t41_1;gene_id=PfKE01_040032300;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	43800	44855	.	-	.	ID=PfKE01_040032300-t41_1-p1-CDS2;Parent=PfKE01_040032300-t41_1;gene_id=PfKE01_040032300;protein_source_id=PfKE01_040032300-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	45053	45106	.	-	.	ID=PfKE01_040032300-t41_1-p1-CDS1;Parent=PfKE01_040032300-t41_1;gene_id=PfKE01_040032300;protein_source_id=PfKE01_040032300-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	46788	47393	.	-	.	ID=PfKE01_120059900;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.947;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120059900_0
+Pf3D7_12_v3	Liftoff	mRNA	46788	47393	.	-	.	ID=PfKE01_120059900-t41_1;Parent=PfKE01_120059900;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	46788	47393	.	-	.	ID=exon_PfKE01_120059900-t41_1-E1;Parent=PfKE01_120059900-t41_1;gene_id=PfKE01_120059900;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	46788	47393	.	-	.	ID=PfKE01_120059900-t41_1-p1-CDS1;Parent=PfKE01_120059900-t41_1;gene_id=PfKE01_120059900;protein_source_id=PfKE01_120059900-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	57076	57435	.	-	.	ID=PfKE01_120006200;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.966;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120006200_0
+Pf3D7_12_v3	Liftoff	mRNA	57076	57435	.	-	.	ID=PfKE01_120006200-t41_1;Parent=PfKE01_120006200;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	57076	57435	.	-	.	ID=exon_PfKE01_120006200-t41_1-E1;Parent=PfKE01_120006200-t41_1;gene_id=PfKE01_120006200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	57076	57435	.	-	.	ID=PfKE01_120006200-t41_1-p1-CDS1;Parent=PfKE01_120006200-t41_1;gene_id=PfKE01_120006200;protein_source_id=PfKE01_120006200-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	1688353	1688803	.	-	.	ID=PfKE01_120045000;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120045000_0
+Pf3D7_12_v3	Liftoff	mRNA	1688353	1688803	.	-	.	ID=PfKE01_120045000-t41_1;Parent=PfKE01_120045000;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1688353	1688495	.	-	.	ID=exon_PfKE01_120045000-t41_1-E2;Parent=PfKE01_120045000-t41_1;gene_id=PfKE01_120045000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1688551	1688803	.	-	.	ID=exon_PfKE01_120045000-t41_1-E1;Parent=PfKE01_120045000-t41_1;gene_id=PfKE01_120045000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1688353	1688495	.	-	.	ID=PfKE01_120045000-t41_1-p1-CDS2;Parent=PfKE01_120045000-t41_1;gene_id=PfKE01_120045000;protein_source_id=PfKE01_120045000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1688551	1688803	.	-	.	ID=PfKE01_120045000-t41_1-p1-CDS1;Parent=PfKE01_120045000-t41_1;gene_id=PfKE01_120045000;protein_source_id=PfKE01_120045000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	1704633	1712490	.	+	.	ID=PfKE01_020025000;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.878;sequence_ID=0.615;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_020025000_0
+Pf3D7_12_v3	Liftoff	mRNA	1704633	1712490	.	+	.	ID=PfKE01_020025000-t41_1;Parent=PfKE01_020025000;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1704633	1709944	.	+	.	ID=exon_PfKE01_020025000-t41_1-E1;Parent=PfKE01_020025000-t41_1;gene_id=PfKE01_020025000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1711060	1712490	.	+	.	ID=exon_PfKE01_020025000-t41_1-E2;Parent=PfKE01_020025000-t41_1;gene_id=PfKE01_020025000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1704633	1709944	.	+	.	ID=PfKE01_020025000-t41_1-p1-CDS1;Parent=PfKE01_020025000-t41_1;gene_id=PfKE01_020025000;protein_source_id=PfKE01_020025000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1711060	1712490	.	+	.	ID=PfKE01_020025000-t41_1-p1-CDS2;Parent=PfKE01_020025000-t41_1;gene_id=PfKE01_020025000;protein_source_id=PfKE01_020025000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	1719849	1727456	.	+	.	ID=PfKE01_040020000;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.886;sequence_ID=0.596;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040020000_0
+Pf3D7_12_v3	Liftoff	mRNA	1719849	1727456	.	+	.	ID=PfKE01_040020000-t41_1;Parent=PfKE01_040020000;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1719849	1725312	.	+	.	ID=exon_PfKE01_040020000-t41_1-E1;Parent=PfKE01_040020000-t41_1;gene_id=PfKE01_040020000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1726116	1727456	.	+	.	ID=exon_PfKE01_040020000-t41_1-E2;Parent=PfKE01_040020000-t41_1;gene_id=PfKE01_040020000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1719849	1725312	.	+	.	ID=PfKE01_040020000-t41_1-p1-CDS1;Parent=PfKE01_040020000-t41_1;gene_id=PfKE01_040020000;protein_source_id=PfKE01_040020000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1726116	1727456	.	+	.	ID=PfKE01_040020000-t41_1-p1-CDS2;Parent=PfKE01_040020000-t41_1;gene_id=PfKE01_040020000;protein_source_id=PfKE01_040020000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	1735734	1743320	.	+	.	ID=PfKE01_040019400;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.901;sequence_ID=0.674;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040019400_0
+Pf3D7_12_v3	Liftoff	mRNA	1735734	1743320	.	+	.	ID=PfKE01_040019400-t41_1;Parent=PfKE01_040019400;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1735734	1741002	.	+	.	ID=exon_PfKE01_040019400-t41_1-E1;Parent=PfKE01_040019400-t41_1;gene_id=PfKE01_040019400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	1742005	1743320	.	+	.	ID=exon_PfKE01_040019400-t41_1-E2;Parent=PfKE01_040019400-t41_1;gene_id=PfKE01_040019400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1735734	1741002	.	+	.	ID=PfKE01_040019400-t41_1-p1-CDS1;Parent=PfKE01_040019400-t41_1;gene_id=PfKE01_040019400;protein_source_id=PfKE01_040019400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	1742005	1743320	.	+	.	ID=PfKE01_040019400-t41_1-p1-CDS2;Parent=PfKE01_040019400-t41_1;gene_id=PfKE01_040019400;protein_source_id=PfKE01_040019400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	pseudogene	2180419	2182651	.	+	.	ID=PfKE01_120059200;description=acyl-CoA synthetase;ebi_biotype=pseudogene;coverage=0.959;sequence_ID=0.921;extra_copy_number=0;copy_num_ID=PfKE01_120059200_0
+Pf3D7_12_v3	Liftoff	pseudogenic_transcript	2180419	2182651	.	+	.	ID=PfKE01_120059200-t41_1;Parent=PfKE01_120059200;description=acyl-CoA synthetase;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2180419	2180548	.	+	.	ID=exon_PfKE01_120059200-t41_1-E1;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2180551	2180627	.	+	.	ID=exon_PfKE01_120059200-t41_1-E2;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2180629	2180792	.	+	.	ID=exon_PfKE01_120059200-t41_1-E3;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2180794	2181082	.	+	.	ID=exon_PfKE01_120059200-t41_1-E4;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2181085	2181674	.	+	.	ID=exon_PfKE01_120059200-t41_1-E5;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2181676	2181730	.	+	.	ID=exon_PfKE01_120059200-t41_1-E6;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2181733	2182087	.	+	.	ID=exon_PfKE01_120059200-t41_1-E7;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2182090	2182095	.	+	.	ID=exon_PfKE01_120059200-t41_1-E8;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2182099	2182170	.	+	.	ID=exon_PfKE01_120059200-t41_1-E9;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2182171	2182255	.	+	.	ID=exon_PfKE01_120059200-t41_1-E10;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2182258	2182651	.	+	.	ID=exon_PfKE01_120059200-t41_1-E11;Parent=PfKE01_120059200-t41_1;gene_id=PfKE01_120059200;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	2201495	2202686	.	+	.	ID=PfKE01_040007400;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.982;sequence_ID=0.840;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040007400_0
+Pf3D7_12_v3	Liftoff	mRNA	2201495	2202686	.	+	.	ID=PfKE01_040007400-t41_1;Parent=PfKE01_040007400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2201495	2201564	.	+	.	ID=exon_PfKE01_040007400-t41_1-E1;Parent=PfKE01_040007400-t41_1;gene_id=PfKE01_040007400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2201703	2202686	.	+	.	ID=exon_PfKE01_040007400-t41_1-E2;Parent=PfKE01_040007400-t41_1;gene_id=PfKE01_040007400;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2201495	2201564	.	+	.	ID=PfKE01_040007400-t41_1-p1-CDS1;Parent=PfKE01_040007400-t41_1;gene_id=PfKE01_040007400;protein_source_id=PfKE01_040007400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2201703	2202686	.	+	.	ID=PfKE01_040007400-t41_1-p1-CDS2;Parent=PfKE01_040007400-t41_1;gene_id=PfKE01_040007400;protein_source_id=PfKE01_040007400-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	2204724	2205714	.	+	.	ID=PfKE01_100005800;description=stevor;ebi_biotype=protein_coding;coverage=0.997;sequence_ID=0.896;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_100005800_0
+Pf3D7_12_v3	Liftoff	mRNA	2204724	2205714	.	+	.	ID=PfKE01_100005800-t41_1;Parent=PfKE01_100005800;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2204724	2204792	.	+	.	ID=exon_PfKE01_100005800-t41_1-E1;Parent=PfKE01_100005800-t41_1;gene_id=PfKE01_100005800;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2204896	2205714	.	+	.	ID=exon_PfKE01_100005800-t41_1-E2;Parent=PfKE01_100005800-t41_1;gene_id=PfKE01_100005800;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2204724	2204792	.	+	.	ID=PfKE01_100005800-t41_1-p1-CDS1;Parent=PfKE01_100005800-t41_1;gene_id=PfKE01_100005800;protein_source_id=PfKE01_100005800-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2204896	2205714	.	+	.	ID=PfKE01_100005800-t41_1-p1-CDS2;Parent=PfKE01_100005800-t41_1;gene_id=PfKE01_100005800;protein_source_id=PfKE01_100005800-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	2207830	2209115	.	+	.	ID=PfKE01_120060000;description=rifin;ebi_biotype=protein_coding;coverage=0.931;sequence_ID=0.697;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120060000_0
+Pf3D7_12_v3	Liftoff	mRNA	2207830	2209115	.	+	.	ID=PfKE01_120060000-t41_1;Parent=PfKE01_120060000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2207830	2207883	.	+	.	ID=exon_PfKE01_120060000-t41_1-E1;Parent=PfKE01_120060000-t41_1;gene_id=PfKE01_120060000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2208114	2209115	.	+	.	ID=exon_PfKE01_120060000-t41_1-E2;Parent=PfKE01_120060000-t41_1;gene_id=PfKE01_120060000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2207830	2207883	.	+	.	ID=PfKE01_120060000-t41_1-p1-CDS1;Parent=PfKE01_120060000-t41_1;gene_id=PfKE01_120060000;protein_source_id=PfKE01_120060000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2208114	2209115	.	+	.	ID=PfKE01_120060000-t41_1-p1-CDS2;Parent=PfKE01_120060000-t41_1;gene_id=PfKE01_120060000;protein_source_id=PfKE01_120060000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	2214671	2216019	.	+	.	ID=PfKE01_130006000;description=rifin;ebi_biotype=protein_coding;coverage=0.918;sequence_ID=0.663;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_130006000_0
+Pf3D7_12_v3	Liftoff	mRNA	2214671	2216019	.	+	.	ID=PfKE01_130006000-t41_1;Parent=PfKE01_130006000;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2214671	2214739	.	+	.	ID=exon_PfKE01_130006000-t41_1-E1;Parent=PfKE01_130006000-t41_1;gene_id=PfKE01_130006000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2214949	2216019	.	+	.	ID=exon_PfKE01_130006000-t41_1-E2;Parent=PfKE01_130006000-t41_1;gene_id=PfKE01_130006000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2214671	2214739	.	+	.	ID=PfKE01_130006000-t41_1-p1-CDS1;Parent=PfKE01_130006000-t41_1;gene_id=PfKE01_130006000;protein_source_id=PfKE01_130006000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2214949	2216019	.	+	.	ID=PfKE01_130006000-t41_1-p1-CDS2;Parent=PfKE01_130006000-t41_1;gene_id=PfKE01_130006000;protein_source_id=PfKE01_130006000-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	2238210	2239417	.	+	.	ID=PfKE01_060006100;description=rifin;ebi_biotype=protein_coding;coverage=0.988;sequence_ID=0.830;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060006100_0
+Pf3D7_12_v3	Liftoff	mRNA	2238210	2239417	.	+	.	ID=PfKE01_060006100-t41_1;Parent=PfKE01_060006100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2238210	2238263	.	+	.	ID=exon_PfKE01_060006100-t41_1-E1;Parent=PfKE01_060006100-t41_1;gene_id=PfKE01_060006100;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2238419	2239417	.	+	.	ID=exon_PfKE01_060006100-t41_1-E2;Parent=PfKE01_060006100-t41_1;gene_id=PfKE01_060006100;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2238210	2238263	.	+	.	ID=PfKE01_060006100-t41_1-p1-CDS1;Parent=PfKE01_060006100-t41_1;gene_id=PfKE01_060006100;protein_source_id=PfKE01_060006100-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2238419	2239417	.	+	.	ID=PfKE01_060006100-t41_1-p1-CDS2;Parent=PfKE01_060006100-t41_1;gene_id=PfKE01_060006100;protein_source_id=PfKE01_060006100-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	2241271	2248866	.	-	.	ID=PfKE01_000007800;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.887;sequence_ID=0.628;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_000007800_0
+Pf3D7_12_v3	Liftoff	mRNA	2241271	2248866	.	-	.	ID=PfKE01_000007800-t41_1;Parent=PfKE01_000007800;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2241271	2242602	.	-	.	ID=exon_PfKE01_000007800-t41_1-E2;Parent=PfKE01_000007800-t41_1;gene_id=PfKE01_000007800;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	2243488	2248866	.	-	.	ID=exon_PfKE01_000007800-t41_1-E1;Parent=PfKE01_000007800-t41_1;gene_id=PfKE01_000007800;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2241271	2242602	.	-	.	ID=PfKE01_000007800-t41_1-p1-CDS2;Parent=PfKE01_000007800-t41_1;gene_id=PfKE01_000007800;protein_source_id=PfKE01_000007800-t41_1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	2243488	2248866	.	-	.	ID=PfKE01_000007800-t41_1-p1-CDS1;Parent=PfKE01_000007800-t41_1;gene_id=PfKE01_000007800;protein_source_id=PfKE01_000007800-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	21364	28787	.	+	.	ID=PfKE01_140005300;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=protein_coding;coverage=0.901;sequence_ID=0.677;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_140005300_0
+Pf3D7_13_v3	Liftoff	mRNA	21364	28787	.	+	.	ID=PfKE01_140005300-t41_1;Parent=PfKE01_140005300;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	21364	26538	.	+	.	ID=exon_PfKE01_140005300-t41_1-E1;Parent=PfKE01_140005300-t41_1;gene_id=PfKE01_140005300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	27474	28787	.	+	.	ID=exon_PfKE01_140005300-t41_1-E2;Parent=PfKE01_140005300-t41_1;gene_id=PfKE01_140005300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	21364	26538	.	+	.	ID=PfKE01_140005300-t41_1-p1-CDS1;Parent=PfKE01_140005300-t41_1;gene_id=PfKE01_140005300;protein_source_id=PfKE01_140005300-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	27474	28787	.	+	.	ID=PfKE01_140005300-t41_1-p1-CDS2;Parent=PfKE01_140005300-t41_1;gene_id=PfKE01_140005300;protein_source_id=PfKE01_140005300-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	30605	31881	.	-	.	ID=PfKE01_080005500;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.976;sequence_ID=0.798;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080005500_0
+Pf3D7_13_v3	Liftoff	mRNA	30605	31881	.	-	.	ID=PfKE01_080005500-t41_1;Parent=PfKE01_080005500;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	30605	31597	.	-	.	ID=exon_PfKE01_080005500-t41_1-E2;Parent=PfKE01_080005500-t41_1;gene_id=PfKE01_080005500;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	31828	31881	.	-	.	ID=exon_PfKE01_080005500-t41_1-E1;Parent=PfKE01_080005500-t41_1;gene_id=PfKE01_080005500;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	30605	31597	.	-	.	ID=PfKE01_080005500-t41_1-p1-CDS2;Parent=PfKE01_080005500-t41_1;gene_id=PfKE01_080005500;protein_source_id=PfKE01_080005500-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	31828	31881	.	-	.	ID=PfKE01_080005500-t41_1-p1-CDS1;Parent=PfKE01_080005500-t41_1;gene_id=PfKE01_080005500;protein_source_id=PfKE01_080005500-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	33959	35952	.	-	.	ID=PfKE01_120005600;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;ebi_biotype=protein_coding;coverage=0.914;sequence_ID=0.832;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120005600_0
+Pf3D7_13_v3	Liftoff	mRNA	33959	35952	.	-	.	ID=PfKE01_120005600-t41_1;Parent=PfKE01_120005600;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	33959	35155	.	-	.	ID=exon_PfKE01_120005600-t41_1-E2;Parent=PfKE01_120005600-t41_1;gene_id=PfKE01_120005600;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	35899	35952	.	-	.	ID=exon_PfKE01_120005600-t41_1-E1;Parent=PfKE01_120005600-t41_1;gene_id=PfKE01_120005600;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	33959	35155	.	-	.	ID=PfKE01_120005600-t41_1-p1-CDS2;Parent=PfKE01_120005600-t41_1;gene_id=PfKE01_120005600;protein_source_id=PfKE01_120005600-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	35899	35952	.	-	.	ID=PfKE01_120005600-t41_1-p1-CDS1;Parent=PfKE01_120005600-t41_1;gene_id=PfKE01_120005600;protein_source_id=PfKE01_120005600-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	57109	58422	.	-	.	ID=PfKE01_080006300;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.976;sequence_ID=0.841;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080006300_0
+Pf3D7_13_v3	Liftoff	mRNA	57109	58422	.	-	.	ID=PfKE01_080006300-t41_1;Parent=PfKE01_080006300;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	57109	58164	.	-	.	ID=exon_PfKE01_080006300-t41_1-E2;Parent=PfKE01_080006300-t41_1;gene_id=PfKE01_080006300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	58369	58422	.	-	.	ID=exon_PfKE01_080006300-t41_1-E1;Parent=PfKE01_080006300-t41_1;gene_id=PfKE01_080006300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	57109	58164	.	-	.	ID=PfKE01_080006300-t41_1-p1-CDS2;Parent=PfKE01_080006300-t41_1;gene_id=PfKE01_080006300;protein_source_id=PfKE01_080006300-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	58369	58422	.	-	.	ID=PfKE01_080006300-t41_1-p1-CDS1;Parent=PfKE01_080006300-t41_1;gene_id=PfKE01_080006300;protein_source_id=PfKE01_080006300-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	68484	69151	.	-	.	ID=PfKE01_090006000;description=Plasmodium RESA N-terminal%2C putative;ebi_biotype=protein_coding;coverage=0.991;sequence_ID=0.900;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_090006000_0
+Pf3D7_13_v3	Liftoff	mRNA	68484	69151	.	-	.	ID=PfKE01_090006000-t41_1;Parent=PfKE01_090006000;description=Plasmodium RESA N-terminal%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	68484	68899	.	-	.	ID=exon_PfKE01_090006000-t41_1-E2;Parent=PfKE01_090006000-t41_1;gene_id=PfKE01_090006000;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	69080	69151	.	-	.	ID=exon_PfKE01_090006000-t41_1-E1;Parent=PfKE01_090006000-t41_1;gene_id=PfKE01_090006000;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	68484	68899	.	-	.	ID=PfKE01_090006000-t41_1-p1-CDS2;Parent=PfKE01_090006000-t41_1;gene_id=PfKE01_090006000;protein_source_id=PfKE01_090006000-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	69080	69151	.	-	.	ID=PfKE01_090006000-t41_1-p1-CDS1;Parent=PfKE01_090006000-t41_1;gene_id=PfKE01_090006000;protein_source_id=PfKE01_090006000-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	2845767	2846538	.	+	.	ID=PfKE01_130077400;description=Plasmodium exported protein (PHIST)%2C unknown function;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.996;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_130077400_0
+Pf3D7_13_v3	Liftoff	mRNA	2845767	2846538	.	+	.	ID=PfKE01_130077400-t41_1;Parent=PfKE01_130077400;description=Plasmodium exported protein (PHIST)%2C unknown function;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2845767	2845850	.	+	.	ID=exon_PfKE01_130077400-t41_1-E1;Parent=PfKE01_130077400-t41_1;gene_id=PfKE01_130077400;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2846002	2846538	.	+	.	ID=exon_PfKE01_130077400-t41_1-E2;Parent=PfKE01_130077400-t41_1;gene_id=PfKE01_130077400;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2845767	2845850	.	+	.	ID=PfKE01_130077400-t41_1-p1-CDS1;Parent=PfKE01_130077400-t41_1;gene_id=PfKE01_130077400;protein_source_id=PfKE01_130077400-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2846002	2846538	.	+	.	ID=PfKE01_130077400-t41_1-p1-CDS2;Parent=PfKE01_130077400-t41_1;gene_id=PfKE01_130077400;protein_source_id=PfKE01_130077400-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	2850891	2853482	.	+	.	ID=PfKE01_130077500;description=acyl-CoA synthetase;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.998;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_130077500_0
+Pf3D7_13_v3	Liftoff	mRNA	2850891	2853482	.	+	.	ID=PfKE01_130077500-t41_1;Parent=PfKE01_130077500;Note=6.2.1.3 (Long-chain-fatty-acid--CoA ligase);description=acyl-CoA synthetase;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2850891	2853482	.	+	.	ID=exon_PfKE01_130077500-t41_1-E1;Parent=PfKE01_130077500-t41_1;gene_id=PfKE01_130077500;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2850891	2853482	.	+	.	ID=PfKE01_130077500-t41_1-p1-CDS1;Parent=PfKE01_130077500-t41_1;gene_id=PfKE01_130077500;protein_source_id=PfKE01_130077500-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2854544	2855403	.	-	.	ID=PfKE01_120059300;description=stevor;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.996;extra_copy_number=0;copy_num_ID=PfKE01_120059300_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2854544	2855403	.	-	.	ID=PfKE01_120059300-t41_1;Parent=PfKE01_120059300;description=stevor;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2854544	2855068	.	-	.	ID=exon_PfKE01_120059300-t41_1-E2;Parent=PfKE01_120059300-t41_1;gene_id=PfKE01_120059300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2855071	2855403	.	-	.	ID=exon_PfKE01_120059300-t41_1-E1;Parent=PfKE01_120059300-t41_1;gene_id=PfKE01_120059300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	2856026	2858064	.	+	.	ID=PfKE01_040032200;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.998;sequence_ID=0.962;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_040032200_0
+Pf3D7_13_v3	Liftoff	mRNA	2856026	2858064	.	+	.	ID=PfKE01_040032200-t41_1;Parent=PfKE01_040032200;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2856026	2856061	.	+	.	ID=exon_PfKE01_040032200-t41_1-E1;Parent=PfKE01_040032200-t41_1;gene_id=PfKE01_040032200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2856242	2856275	.	+	.	ID=exon_PfKE01_040032200-t41_1-E2;Parent=PfKE01_040032200-t41_1;gene_id=PfKE01_040032200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2857191	2858064	.	+	.	ID=exon_PfKE01_040032200-t41_1-E3;Parent=PfKE01_040032200-t41_1;gene_id=PfKE01_040032200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2856026	2856061	.	+	.	ID=PfKE01_040032200-t41_1-p1-CDS1;Parent=PfKE01_040032200-t41_1;gene_id=PfKE01_040032200;protein_source_id=PfKE01_040032200-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2856242	2856275	.	+	.	ID=PfKE01_040032200-t41_1-p1-CDS2;Parent=PfKE01_040032200-t41_1;gene_id=PfKE01_040032200;protein_source_id=PfKE01_040032200-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2857191	2858064	.	+	.	ID=PfKE01_040032200-t41_1-p1-CDS3;Parent=PfKE01_040032200-t41_1;gene_id=PfKE01_040032200;protein_source_id=PfKE01_040032200-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	2860163	2861441	.	+	.	ID=PfKE01_000008700;description=rifin;ebi_biotype=protein_coding;coverage=0.967;sequence_ID=0.778;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000008700_0
+Pf3D7_13_v3	Liftoff	mRNA	2860163	2861441	.	+	.	ID=PfKE01_000008700-t41_1;Parent=PfKE01_000008700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2860163	2860216	.	+	.	ID=exon_PfKE01_000008700-t41_1-E1;Parent=PfKE01_000008700-t41_1;gene_id=PfKE01_000008700;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2860449	2861441	.	+	.	ID=exon_PfKE01_000008700-t41_1-E2;Parent=PfKE01_000008700-t41_1;gene_id=PfKE01_000008700;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2860163	2860216	.	+	.	ID=PfKE01_000008700-t41_1-p1-CDS1;Parent=PfKE01_000008700-t41_1;gene_id=PfKE01_000008700;protein_source_id=PfKE01_000008700-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2860449	2861441	.	+	.	ID=PfKE01_000008700-t41_1-p1-CDS2;Parent=PfKE01_000008700-t41_1;gene_id=PfKE01_000008700;protein_source_id=PfKE01_000008700-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	2863860	2864869	.	+	.	ID=PfKE01_140083800;description=stevor;ebi_biotype=protein_coding;coverage=0.967;sequence_ID=0.843;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_140083800_0
+Pf3D7_13_v3	Liftoff	mRNA	2863860	2864869	.	+	.	ID=PfKE01_140083800-t41_1;Parent=PfKE01_140083800;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2863860	2863928	.	+	.	ID=exon_PfKE01_140083800-t41_1-E1;Parent=PfKE01_140083800-t41_1;gene_id=PfKE01_140083800;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2864030	2864869	.	+	.	ID=exon_PfKE01_140083800-t41_1-E2;Parent=PfKE01_140083800-t41_1;gene_id=PfKE01_140083800;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2863860	2863928	.	+	.	ID=PfKE01_140083800-t41_1-p1-CDS1;Parent=PfKE01_140083800-t41_1;gene_id=PfKE01_140083800;protein_source_id=PfKE01_140083800-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2864030	2864869	.	+	.	ID=PfKE01_140083800-t41_1-p1-CDS2;Parent=PfKE01_140083800-t41_1;gene_id=PfKE01_140083800;protein_source_id=PfKE01_140083800-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	2881591	2882956	.	+	.	ID=PfKE01_060005100;description=rifin;ebi_biotype=protein_coding;coverage=0.945;sequence_ID=0.733;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_060005100_0
+Pf3D7_13_v3	Liftoff	mRNA	2881591	2882956	.	+	.	ID=PfKE01_060005100-t41_1;Parent=PfKE01_060005100;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2881591	2881644	.	+	.	ID=exon_PfKE01_060005100-t41_1-E1;Parent=PfKE01_060005100-t41_1;gene_id=PfKE01_060005100;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2881877	2882956	.	+	.	ID=exon_PfKE01_060005100-t41_1-E2;Parent=PfKE01_060005100-t41_1;gene_id=PfKE01_060005100;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2881591	2881644	.	+	.	ID=PfKE01_060005100-t41_1-p1-CDS1;Parent=PfKE01_060005100-t41_1;gene_id=PfKE01_060005100;protein_source_id=PfKE01_060005100-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2881877	2882956	.	+	.	ID=PfKE01_060005100-t41_1-p1-CDS2;Parent=PfKE01_060005100-t41_1;gene_id=PfKE01_060005100;protein_source_id=PfKE01_060005100-t41_1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	2884786	2886114	.	-	.	ID=PfKE01_050038200;Name=VAR;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;ebi_biotype=protein_coding;coverage=0.995;sequence_ID=0.930;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_050038200_0
+Pf3D7_13_v3	Liftoff	mRNA	2884786	2886114	.	-	.	ID=PfKE01_050038200-t41_1;Parent=PfKE01_050038200;description=erythrocyte membrane protein 1 (PfEMP1)%2C exon 2;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2884786	2886114	.	-	.	ID=exon_PfKE01_050038200-t41_1-E1;Parent=PfKE01_050038200-t41_1;gene_id=PfKE01_050038200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	2884786	2886114	.	-	.	ID=PfKE01_050038200-t41_1-p1-CDS1;Parent=PfKE01_050038200-t41_1;gene_id=PfKE01_050038200;protein_source_id=PfKE01_050038200-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	gene	20894	22232	.	-	.	ID=PfKE01_010005300;description=rifin;ebi_biotype=protein_coding;coverage=0.946;sequence_ID=0.686;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_010005300_0
+Pf3D7_14_v3	Liftoff	mRNA	20894	22232	.	-	.	ID=PfKE01_010005300-t41_1;Parent=PfKE01_010005300;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	20894	21946	.	-	.	ID=exon_PfKE01_010005300-t41_1-E2;Parent=PfKE01_010005300-t41_1;gene_id=PfKE01_010005300;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	22179	22232	.	-	.	ID=exon_PfKE01_010005300-t41_1-E1;Parent=PfKE01_010005300-t41_1;gene_id=PfKE01_010005300;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	20894	21946	.	-	.	ID=PfKE01_010005300-t41_1-p1-CDS2;Parent=PfKE01_010005300-t41_1;gene_id=PfKE01_010005300;protein_source_id=PfKE01_010005300-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	22179	22232	.	-	.	ID=PfKE01_010005300-t41_1-p1-CDS1;Parent=PfKE01_010005300-t41_1;gene_id=PfKE01_010005300;protein_source_id=PfKE01_010005300-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	gene	24337	25320	.	-	.	ID=PfKE01_080006100;description=stevor;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.919;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_080006100_0
+Pf3D7_14_v3	Liftoff	mRNA	24337	25320	.	-	.	ID=PfKE01_080006100-t41_1;Parent=PfKE01_080006100;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	24337	25149	.	-	.	ID=exon_PfKE01_080006100-t41_1-E2;Parent=PfKE01_080006100-t41_1;gene_id=PfKE01_080006100;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	25252	25320	.	-	.	ID=exon_PfKE01_080006100-t41_1-E1;Parent=PfKE01_080006100-t41_1;gene_id=PfKE01_080006100;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	24337	25149	.	-	.	ID=PfKE01_080006100-t41_1-p1-CDS2;Parent=PfKE01_080006100-t41_1;gene_id=PfKE01_080006100;protein_source_id=PfKE01_080006100-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	25252	25320	.	-	.	ID=PfKE01_080006100-t41_1-p1-CDS1;Parent=PfKE01_080006100-t41_1;gene_id=PfKE01_080006100;protein_source_id=PfKE01_080006100-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	gene	27321	28428	.	-	.	ID=PfKE01_120005700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.991;sequence_ID=0.836;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_120005700_0
+Pf3D7_14_v3	Liftoff	mRNA	27321	28428	.	-	.	ID=PfKE01_120005700-t41_1;Parent=PfKE01_120005700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	27321	28202	.	-	.	ID=exon_PfKE01_120005700-t41_1-E2;Parent=PfKE01_120005700-t41_1;gene_id=PfKE01_120005700;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	28375	28428	.	-	.	ID=exon_PfKE01_120005700-t41_1-E1;Parent=PfKE01_120005700-t41_1;gene_id=PfKE01_120005700;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	27321	28202	.	-	.	ID=PfKE01_120005700-t41_1-p1-CDS2;Parent=PfKE01_120005700-t41_1;gene_id=PfKE01_120005700;protein_source_id=PfKE01_120005700-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	28375	28428	.	-	.	ID=PfKE01_120005700-t41_1-p1-CDS1;Parent=PfKE01_120005700-t41_1;gene_id=PfKE01_120005700;protein_source_id=PfKE01_120005700-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	gene	3269494	3270496	.	+	.	ID=PfKE01_070005000;description=stevor;ebi_biotype=protein_coding;coverage=0.965;sequence_ID=0.828;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_070005000_0
+Pf3D7_14_v3	Liftoff	mRNA	3269494	3270496	.	+	.	ID=PfKE01_070005000-t41_1;Parent=PfKE01_070005000;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	3269494	3269562	.	+	.	ID=exon_PfKE01_070005000-t41_1-E1;Parent=PfKE01_070005000-t41_1;gene_id=PfKE01_070005000;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	3269666	3270496	.	+	.	ID=exon_PfKE01_070005000-t41_1-E2;Parent=PfKE01_070005000-t41_1;gene_id=PfKE01_070005000;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	3269494	3269562	.	+	.	ID=PfKE01_070005000-t41_1-p1-CDS1;Parent=PfKE01_070005000-t41_1;gene_id=PfKE01_070005000;protein_source_id=PfKE01_070005000-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	3269666	3270496	.	+	.	ID=PfKE01_070005000-t41_1-p1-CDS2;Parent=PfKE01_070005000-t41_1;gene_id=PfKE01_070005000;protein_source_id=PfKE01_070005000-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	gene	3276510	3277501	.	+	.	ID=PfKE01_120059400;description=rifin;ebi_biotype=protein_coding;coverage=0.915;sequence_ID=0.716;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfKE01_120059400_0
+Pf3D7_14_v3	Liftoff	mRNA	3276510	3277501	.	+	.	ID=PfKE01_120059400-t41_1;Parent=PfKE01_120059400;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	3276510	3277501	.	+	.	ID=exon_PfKE01_120059400-t41_1-E3;Parent=PfKE01_120059400-t41_1;gene_id=PfKE01_120059400;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	3276510	3277501	.	+	.	ID=PfKE01_120059400-t41_1-p1-CDS3;Parent=PfKE01_120059400-t41_1;gene_id=PfKE01_120059400;protein_source_id=PfKE01_120059400-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	gene	3282729	3283752	.	+	.	ID=PfKE01_130005800;description=stevor;ebi_biotype=protein_coding;coverage=0.996;sequence_ID=0.867;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_130005800_0
+Pf3D7_14_v3	Liftoff	mRNA	3282729	3283752	.	+	.	ID=PfKE01_130005800-t41_1;Parent=PfKE01_130005800;description=stevor;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	3282729	3282797	.	+	.	ID=exon_PfKE01_130005800-t41_1-E1;Parent=PfKE01_130005800-t41_1;gene_id=PfKE01_130005800;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	3282907	3283752	.	+	.	ID=exon_PfKE01_130005800-t41_1-E2;Parent=PfKE01_130005800-t41_1;gene_id=PfKE01_130005800;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	3282729	3282797	.	+	.	ID=PfKE01_130005800-t41_1-p1-CDS1;Parent=PfKE01_130005800-t41_1;gene_id=PfKE01_130005800;protein_source_id=PfKE01_130005800-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	3282907	3283752	.	+	.	ID=PfKE01_130005800-t41_1-p1-CDS2;Parent=PfKE01_130005800-t41_1;gene_id=PfKE01_130005800;protein_source_id=PfKE01_130005800-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	gene	3285900	3287003	.	+	.	ID=PfKE01_130005700;Name=RIF;description=rifin;ebi_biotype=protein_coding;coverage=0.993;sequence_ID=0.914;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_130005700_0
+Pf3D7_14_v3	Liftoff	mRNA	3285900	3287003	.	+	.	ID=PfKE01_130005700-t41_1;Parent=PfKE01_130005700;description=rifin;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	3285900	3285953	.	+	.	ID=exon_PfKE01_130005700-t41_1-E1;Parent=PfKE01_130005700-t41_1;gene_id=PfKE01_130005700;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	exon	3286035	3287003	.	+	.	ID=exon_PfKE01_130005700-t41_1-E2;Parent=PfKE01_130005700-t41_1;gene_id=PfKE01_130005700;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	3285900	3285953	.	+	.	ID=PfKE01_130005700-t41_1-p1-CDS1;Parent=PfKE01_130005700-t41_1;gene_id=PfKE01_130005700;protein_source_id=PfKE01_130005700-t41_1-p1;extra_copy_number=0
+Pf3D7_14_v3	Liftoff	CDS	3286035	3287003	.	+	.	ID=PfKE01_130005700-t41_1-p1-CDS2;Parent=PfKE01_130005700-t41_1;gene_id=PfKE01_130005700;protein_source_id=PfKE01_130005700-t41_1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	18977	22051	.	-	.	ID=PfKE01_000015700;Name=RPOB;description=RNA polymerase beta subunit%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000015700_0
+Pf3D7_API_v3	Liftoff	mRNA	18977	22051	.	-	.	ID=PfKE01_000015700-t41_1;Parent=PfKE01_000015700;description=RNA polymerase beta subunit%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	18977	22051	.	-	.	ID=exon_PfKE01_000015700-t41_1-E1;Parent=PfKE01_000015700-t41_1;gene_id=PfKE01_000015700;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	18977	22051	.	-	.	ID=PfKE01_000015700-t41_1-p1-CDS1;Parent=PfKE01_000015700-t41_1;gene_id=PfKE01_000015700;protein_source_id=PfKE01_000015700-t41_1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	22528	23940	.	-	.	ID=PfKE01_000016000;Name=SUFB;description=SufB protein%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.998;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfKE01_000016000_0
+Pf3D7_API_v3	Liftoff	mRNA	22528	23940	.	-	.	ID=PfKE01_000016000-t41_1;Parent=PfKE01_000016000;description=SufB protein%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	22528	23940	.	-	.	ID=exon_PfKE01_000016000-t41_1-E1;Parent=PfKE01_000016000-t41_1;gene_id=PfKE01_000016000;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	22528	23940	.	-	.	ID=PfKE01_000016000-t41_1-p1-CDS1;Parent=PfKE01_000016000-t41_1;gene_id=PfKE01_000016000;protein_source_id=PfKE01_000016000-t41_1-p1;extra_copy_number=0

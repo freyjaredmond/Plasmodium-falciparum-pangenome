@@ -1,0 +1,534 @@
+##gff-version 3
+# Liftoff v1.6.3
+# /software/apps/liftoff/1.6.3/bin/liftoff /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/3D7/3D7_Genome.fasta /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/NF54/NF54_Genome.fasta -g /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/NF54/NF54_PSEUDO.gff -f /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/feature_types.txt -o /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/NF54/liftoff_out_PSEUDO/NF54_liftover_with_pseudogenes.gff3 -u /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/NF54/liftoff_out_PSEUDO/NF54_liftover_unmapped_features_with_pseudogenes.txt -exclude_partial -dir /mnt/hc-storage/users/freyja/get_pangenes/LiftOff/Genome_data/NF54/liftoff_out_PSEUDO/intermediate_dir_1705924_13 -copies -polish
+Pf3D7_01_v3	Liftoff	gene	12740	12946	.	+	.	ID=PfNF54_010005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010005000_0
+Pf3D7_01_v3	Liftoff	mRNA	12740	12946	.	+	.	ID=PfNF54_010005000.1;Parent=PfNF54_010005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	12740	12946	.	+	.	ID=exon_PfNF54_010005000.1-E1;Parent=PfNF54_010005000.1;gene_id=PfNF54_010005000;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	12740	12946	.	+	.	ID=PfNF54_010005000.1-p1-CDS1;Parent=PfNF54_010005000.1;gene_id=PfNF54_010005000;protein_source_id=PfNF54_010005000.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	16837	17049	.	-	.	ID=PfNF54_010005100;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010005100_0
+Pf3D7_01_v3	Liftoff	mRNA	16837	17049	.	-	.	ID=PfNF54_010005100.1;Parent=PfNF54_010005100;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	16837	17049	.	-	.	ID=exon_PfNF54_010005100.1-E1;Parent=PfNF54_010005100.1;gene_id=PfNF54_010005100;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	16837	17049	.	-	.	ID=PfNF54_010005100.1-p1-CDS1;Parent=PfNF54_010005100.1;gene_id=PfNF54_010005100;protein_source_id=PfNF54_010005100.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	19575	19841	.	-	.	ID=PfNF54_010005200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010005200_0
+Pf3D7_01_v3	Liftoff	mRNA	19575	19841	.	-	.	ID=PfNF54_010005200.1;Parent=PfNF54_010005200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	19575	19841	.	-	.	ID=exon_PfNF54_010005200.1-E1;Parent=PfNF54_010005200.1;gene_id=PfNF54_010005200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	19575	19841	.	-	.	ID=PfNF54_010005200.1-p1-CDS1;Parent=PfNF54_010005200.1;gene_id=PfNF54_010005200;protein_source_id=PfNF54_010005200.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	25038	25433	.	+	.	ID=PfNF54_010005300;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010005300_0
+Pf3D7_01_v3	Liftoff	mRNA	25038	25433	.	+	.	ID=PfNF54_010005300.1;Parent=PfNF54_010005300;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	25038	25433	.	+	.	ID=exon_PfNF54_010005300.1-E1;Parent=PfNF54_010005300.1;gene_id=PfNF54_010005300;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	25038	25433	.	+	.	ID=PfNF54_010005300.1-p1-CDS1;Parent=PfNF54_010005300.1;gene_id=PfNF54_010005300;protein_source_id=PfNF54_010005300.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	25549	25830	.	+	.	ID=PfNF54_010005400;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010005400_0
+Pf3D7_01_v3	Liftoff	mRNA	25549	25830	.	+	.	ID=PfNF54_010005400.1;Parent=PfNF54_010005400;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	25549	25830	.	+	.	ID=exon_PfNF54_010005400.1-E1;Parent=PfNF54_010005400.1;gene_id=PfNF54_010005400;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	25549	25830	.	+	.	ID=PfNF54_010005400.1-p1-CDS1;Parent=PfNF54_010005400.1;gene_id=PfNF54_010005400;protein_source_id=PfNF54_010005400.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	25946	26488	.	+	.	ID=PfNF54_010005500;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010005500_0
+Pf3D7_01_v3	Liftoff	mRNA	25946	26488	.	+	.	ID=PfNF54_010005500.1;Parent=PfNF54_010005500;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	25946	26488	.	+	.	ID=exon_PfNF54_010005500.1-E1;Parent=PfNF54_010005500.1;gene_id=PfNF54_010005500;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	25946	26488	.	+	.	ID=PfNF54_010005500.1-p1-CDS1;Parent=PfNF54_010005500.1;gene_id=PfNF54_010005500;protein_source_id=PfNF54_010005500.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	479525	479749	.	-	.	ID=PfNF54_010017200;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010017200_0
+Pf3D7_01_v3	Liftoff	mRNA	479525	479749	.	-	.	ID=PfNF54_010017200.1;Parent=PfNF54_010017200;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	479525	479749	.	-	.	ID=exon_PfNF54_010017200.1-E1;Parent=PfNF54_010017200.1;gene_id=PfNF54_010017200;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	479525	479749	.	-	.	ID=PfNF54_010017200.1-p1-CDS1;Parent=PfNF54_010017200.1;gene_id=PfNF54_010017200;protein_source_id=PfNF54_010017200.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	gene	479977	480484	.	+	.	ID=PfNF54_010017300;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_010017300_0
+Pf3D7_01_v3	Liftoff	mRNA	479977	480484	.	+	.	ID=PfNF54_010017300.1;Parent=PfNF54_010017300;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	479977	480120	.	+	.	ID=exon_PfNF54_010017300.1-E1;Parent=PfNF54_010017300.1;gene_id=PfNF54_010017300;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	exon	480392	480484	.	+	.	ID=exon_PfNF54_010017300.1-E2;Parent=PfNF54_010017300.1;gene_id=PfNF54_010017300;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	479977	480120	.	+	.	ID=PfNF54_010017300.1-p1-CDS1;Parent=PfNF54_010017300.1;gene_id=PfNF54_010017300;protein_source_id=PfNF54_010017300.1-p1;extra_copy_number=0
+Pf3D7_01_v3	Liftoff	CDS	480392	480484	.	+	.	ID=PfNF54_010017300.1-p1-CDS2;Parent=PfNF54_010017300.1;gene_id=PfNF54_010017300;protein_source_id=PfNF54_010017300.1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	14892	15098	.	-	.	ID=PfNF54_020005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_020005000_0
+Pf3D7_02_v3	Liftoff	mRNA	14892	15098	.	-	.	ID=PfNF54_020005000.1;Parent=PfNF54_020005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	14892	15098	.	-	.	ID=exon_PfNF54_020005000.1-E1;Parent=PfNF54_020005000.1;gene_id=PfNF54_020005000;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	14892	15098	.	-	.	ID=PfNF54_020005000.1-p1-CDS1;Parent=PfNF54_020005000.1;gene_id=PfNF54_020005000;protein_source_id=PfNF54_020005000.1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	927336	927898	.	+	.	ID=PfNF54_020027600;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_020027600_0
+Pf3D7_02_v3	Liftoff	mRNA	927336	927898	.	+	.	ID=PfNF54_020027600.1;Parent=PfNF54_020027600;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	927336	927437	.	+	.	ID=exon_PfNF54_020027600.1-E1;Parent=PfNF54_020027600.1;gene_id=PfNF54_020027600;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	927632	927898	.	+	.	ID=exon_PfNF54_020027600.1-E2;Parent=PfNF54_020027600.1;gene_id=PfNF54_020027600;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	927336	927437	.	+	.	ID=PfNF54_020027600.1-p1-CDS1;Parent=PfNF54_020027600.1;gene_id=PfNF54_020027600;protein_source_id=PfNF54_020027600.1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	927632	927898	.	+	.	ID=PfNF54_020027600.1-p1-CDS2;Parent=PfNF54_020027600.1;gene_id=PfNF54_020027600;protein_source_id=PfNF54_020027600.1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	gene	927977	928365	.	+	.	ID=PfNF54_020027700;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_020027700_0
+Pf3D7_02_v3	Liftoff	mRNA	927977	928365	.	+	.	ID=PfNF54_020027700.1;Parent=PfNF54_020027700;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	927977	928030	.	+	.	ID=exon_PfNF54_020027700.1-E1;Parent=PfNF54_020027700.1;gene_id=PfNF54_020027700;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	exon	928201	928365	.	+	.	ID=exon_PfNF54_020027700.1-E2;Parent=PfNF54_020027700.1;gene_id=PfNF54_020027700;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	927977	928030	.	+	.	ID=PfNF54_020027700.1-p1-CDS1;Parent=PfNF54_020027700.1;gene_id=PfNF54_020027700;protein_source_id=PfNF54_020027700.1-p1;extra_copy_number=0
+Pf3D7_02_v3	Liftoff	CDS	928201	928365	.	+	.	ID=PfNF54_020027700.1-p1-CDS2;Parent=PfNF54_020027700.1;gene_id=PfNF54_020027700;protein_source_id=PfNF54_020027700.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	31881	32318	.	-	.	ID=PfNF54_030005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_030005000_0
+Pf3D7_03_v3	Liftoff	mRNA	31881	32318	.	-	.	ID=PfNF54_030005000.1;Parent=PfNF54_030005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	31881	32084	.	-	.	ID=exon_PfNF54_030005000.1-E2;Parent=PfNF54_030005000.1;gene_id=PfNF54_030005000;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	32202	32318	.	-	.	ID=exon_PfNF54_030005000.1-E1;Parent=PfNF54_030005000.1;gene_id=PfNF54_030005000;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	31881	32084	.	-	.	ID=PfNF54_030005000.1-p1-CDS2;Parent=PfNF54_030005000.1;gene_id=PfNF54_030005000;protein_source_id=PfNF54_030005000.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	32202	32318	.	-	.	ID=PfNF54_030005000.1-p1-CDS1;Parent=PfNF54_030005000.1;gene_id=PfNF54_030005000;protein_source_id=PfNF54_030005000.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	33584	33871	.	+	.	ID=PfNF54_030005100;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_030005100_0
+Pf3D7_03_v3	Liftoff	mRNA	33584	33871	.	+	.	ID=PfNF54_030005100.1;Parent=PfNF54_030005100;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	33584	33871	.	+	.	ID=exon_PfNF54_030005100.1-E1;Parent=PfNF54_030005100.1;gene_id=PfNF54_030005100;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	33584	33871	.	+	.	ID=PfNF54_030005100.1-p1-CDS1;Parent=PfNF54_030005100.1;gene_id=PfNF54_030005100;protein_source_id=PfNF54_030005100.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	33904	34314	.	+	.	ID=PfNF54_030005200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_030005200_0
+Pf3D7_03_v3	Liftoff	mRNA	33904	34314	.	+	.	ID=PfNF54_030005200.1;Parent=PfNF54_030005200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	33904	34314	.	+	.	ID=exon_PfNF54_030005200.1-E1;Parent=PfNF54_030005200.1;gene_id=PfNF54_030005200;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	33904	34314	.	+	.	ID=PfNF54_030005200.1-p1-CDS1;Parent=PfNF54_030005200.1;gene_id=PfNF54_030005200;protein_source_id=PfNF54_030005200.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	695965	696223	.	+	.	ID=PfNF54_030022200;description=hypothetical protein;ebi_biotype=protein_coding;coverage=0.951;sequence_ID=0.937;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_030022200_0
+Pf3D7_03_v3	Liftoff	mRNA	695965	696223	.	+	.	ID=PfNF54_030022200.1;Parent=PfNF54_030022200;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	695965	696223	.	+	.	ID=exon_PfNF54_030022200.1-E1;Parent=PfNF54_030022200.1;gene_id=PfNF54_030022200;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	695965	696223	.	+	.	ID=PfNF54_030022200.1-p1-CDS1;Parent=PfNF54_030022200.1;gene_id=PfNF54_030022200;protein_source_id=PfNF54_030022200.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	1007454	1007838	.	-	.	ID=PfNF54_030029400;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.979;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_030029400_0
+Pf3D7_03_v3	Liftoff	mRNA	1007454	1007838	.	-	.	ID=PfNF54_030029400.1;Parent=PfNF54_030029400;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	1007454	1007838	.	-	.	ID=exon_PfNF54_030029400.1-E1;Parent=PfNF54_030029400.1;gene_id=PfNF54_030029400;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	1007454	1007838	.	-	.	ID=PfNF54_030029400.1-p1-CDS1;Parent=PfNF54_030029400.1;gene_id=PfNF54_030029400;protein_source_id=PfNF54_030029400.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	1010342	1011140	.	-	.	ID=PfNF54_030029500;description=Plasmodium protein of unknown function (Plasmod_dom_1)%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.998;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_030029500_0
+Pf3D7_03_v3	Liftoff	mRNA	1010342	1011140	.	-	.	ID=PfNF54_030029500.1;Parent=PfNF54_030029500;description=Plasmodium protein of unknown function (Plasmod_dom_1)%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	1010342	1010958	.	-	.	ID=exon_PfNF54_030029500.1-E2;Parent=PfNF54_030029500.1;gene_id=PfNF54_030029500;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	1011127	1011140	.	-	.	ID=exon_PfNF54_030029500.1-E1;Parent=PfNF54_030029500.1;gene_id=PfNF54_030029500;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	1010342	1010958	.	-	.	ID=PfNF54_030029500.1-p1-CDS2;Parent=PfNF54_030029500.1;gene_id=PfNF54_030029500;protein_source_id=PfNF54_030029500.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	1011127	1011140	.	-	.	ID=PfNF54_030029500.1-p1-CDS1;Parent=PfNF54_030029500.1;gene_id=PfNF54_030029500;protein_source_id=PfNF54_030029500.1-p1;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	gene	1044208	1044483	.	+	.	ID=PfNF54_030030400;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_030030400_0
+Pf3D7_03_v3	Liftoff	mRNA	1044208	1044483	.	+	.	ID=PfNF54_030030400.1;Parent=PfNF54_030030400;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	exon	1044208	1044483	.	+	.	ID=exon_PfNF54_030030400.1-E1;Parent=PfNF54_030030400.1;gene_id=PfNF54_030030400;extra_copy_number=0
+Pf3D7_03_v3	Liftoff	CDS	1044208	1044483	.	+	.	ID=PfNF54_030030400.1-p1-CDS1;Parent=PfNF54_030030400.1;gene_id=PfNF54_030030400;protein_source_id=PfNF54_030030400.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	2823	3425	.	+	.	ID=PfNF54_040005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_040005000_0
+Pf3D7_04_v3	Liftoff	mRNA	2823	3425	.	+	.	ID=PfNF54_040005000.1;Parent=PfNF54_040005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	2823	3425	.	+	.	ID=exon_PfNF54_040005000.1-E1;Parent=PfNF54_040005000.1;gene_id=PfNF54_040005000;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	2823	3425	.	+	.	ID=PfNF54_040005000.1-p1-CDS1;Parent=PfNF54_040005000.1;gene_id=PfNF54_040005000;protein_source_id=PfNF54_040005000.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	15955	16176	.	+	.	ID=PfNF54_040005100;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_040005100_0
+Pf3D7_04_v3	Liftoff	mRNA	15955	16176	.	+	.	ID=PfNF54_040005100.1;Parent=PfNF54_040005100;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	15955	16176	.	+	.	ID=exon_PfNF54_040005100.1-E1;Parent=PfNF54_040005100.1;gene_id=PfNF54_040005100;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	15955	16176	.	+	.	ID=PfNF54_040005100.1-p1-CDS1;Parent=PfNF54_040005100.1;gene_id=PfNF54_040005100;protein_source_id=PfNF54_040005100.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	19142	19483	.	-	.	ID=PfNF54_040005200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_040005200_0
+Pf3D7_04_v3	Liftoff	mRNA	19142	19483	.	-	.	ID=PfNF54_040005200.1;Parent=PfNF54_040005200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	19142	19244	.	-	.	ID=exon_PfNF54_040005200.1-E2;Parent=PfNF54_040005200.1;gene_id=PfNF54_040005200;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	19356	19483	.	-	.	ID=exon_PfNF54_040005200.1-E1;Parent=PfNF54_040005200.1;gene_id=PfNF54_040005200;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	19142	19244	.	-	.	ID=PfNF54_040005200.1-p1-CDS2;Parent=PfNF54_040005200.1;gene_id=PfNF54_040005200;protein_source_id=PfNF54_040005200.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	19356	19483	.	-	.	ID=PfNF54_040005200.1-p1-CDS1;Parent=PfNF54_040005200.1;gene_id=PfNF54_040005200;protein_source_id=PfNF54_040005200.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	21933	22460	.	-	.	ID=PfNF54_040005300;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_040005300_0
+Pf3D7_04_v3	Liftoff	mRNA	21933	22460	.	-	.	ID=PfNF54_040005300.1;Parent=PfNF54_040005300;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	21933	22075	.	-	.	ID=exon_PfNF54_040005300.1-E3;Parent=PfNF54_040005300.1;gene_id=PfNF54_040005300;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	22161	22227	.	-	.	ID=exon_PfNF54_040005300.1-E2;Parent=PfNF54_040005300.1;gene_id=PfNF54_040005300;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	22365	22460	.	-	.	ID=exon_PfNF54_040005300.1-E1;Parent=PfNF54_040005300.1;gene_id=PfNF54_040005300;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	21933	22075	.	-	.	ID=PfNF54_040005300.1-p1-CDS3;Parent=PfNF54_040005300.1;gene_id=PfNF54_040005300;protein_source_id=PfNF54_040005300.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	22161	22227	.	-	.	ID=PfNF54_040005300.1-p1-CDS2;Parent=PfNF54_040005300.1;gene_id=PfNF54_040005300;protein_source_id=PfNF54_040005300.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	22365	22460	.	-	.	ID=PfNF54_040005300.1-p1-CDS1;Parent=PfNF54_040005300.1;gene_id=PfNF54_040005300;protein_source_id=PfNF54_040005300.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	22501	22836	.	-	.	ID=PfNF54_040005400;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_040005400_0
+Pf3D7_04_v3	Liftoff	mRNA	22501	22836	.	-	.	ID=PfNF54_040005400.1;Parent=PfNF54_040005400;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	22501	22658	.	-	.	ID=exon_PfNF54_040005400.1-E2;Parent=PfNF54_040005400.1;gene_id=PfNF54_040005400;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	22722	22836	.	-	.	ID=exon_PfNF54_040005400.1-E1;Parent=PfNF54_040005400.1;gene_id=PfNF54_040005400;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	22501	22658	.	-	.	ID=PfNF54_040005400.1-p1-CDS2;Parent=PfNF54_040005400.1;gene_id=PfNF54_040005400;protein_source_id=PfNF54_040005400.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	22722	22836	.	-	.	ID=PfNF54_040005400.1-p1-CDS1;Parent=PfNF54_040005400.1;gene_id=PfNF54_040005400;protein_source_id=PfNF54_040005400.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	23813	24117	.	-	.	ID=PfNF54_040005500;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_040005500_0
+Pf3D7_04_v3	Liftoff	mRNA	23813	24117	.	-	.	ID=PfNF54_040005500.1;Parent=PfNF54_040005500;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	23813	23954	.	-	.	ID=exon_PfNF54_040005500.1-E2;Parent=PfNF54_040005500.1;gene_id=PfNF54_040005500;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	24053	24117	.	-	.	ID=exon_PfNF54_040005500.1-E1;Parent=PfNF54_040005500.1;gene_id=PfNF54_040005500;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	23813	23954	.	-	.	ID=PfNF54_040005500.1-p1-CDS2;Parent=PfNF54_040005500.1;gene_id=PfNF54_040005500;protein_source_id=PfNF54_040005500.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	24053	24117	.	-	.	ID=PfNF54_040005500.1-p1-CDS1;Parent=PfNF54_040005500.1;gene_id=PfNF54_040005500;protein_source_id=PfNF54_040005500.1-p1;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	gene	1186281	1186514	.	-	.	ID=PfNF54_040031500;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_040031500_0
+Pf3D7_04_v3	Liftoff	mRNA	1186281	1186514	.	-	.	ID=PfNF54_040031500.1;Parent=PfNF54_040031500;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	exon	1186281	1186514	.	-	.	ID=exon_PfNF54_040031500.1-E1;Parent=PfNF54_040031500.1;gene_id=PfNF54_040031500;extra_copy_number=0
+Pf3D7_04_v3	Liftoff	CDS	1186281	1186514	.	-	.	ID=PfNF54_040031500.1-p1-CDS1;Parent=PfNF54_040031500.1;gene_id=PfNF54_040031500;protein_source_id=PfNF54_040031500.1-p1;extra_copy_number=0
+Pf3D7_05_v3	Liftoff	gene	4905	5144	.	+	.	ID=PfNF54_130005000_1;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=1;copy_num_ID=PfNF54_130005000_1
+Pf3D7_05_v3	Liftoff	mRNA	4905	5144	.	+	.	ID=PfNF54_130005000.1_1;Parent=PfNF54_130005000_1;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=1
+Pf3D7_05_v3	Liftoff	exon	4905	5144	.	+	.	ID=exon_PfNF54_130005000.1-E1_1;Parent=PfNF54_130005000.1_1;gene_id=PfNF54_130005000_1;extra_copy_number=1
+Pf3D7_05_v3	Liftoff	CDS	4905	5144	.	+	.	ID=PfNF54_130005000.1-p1-CDS1_1;Parent=PfNF54_130005000.1_1;gene_id=PfNF54_130005000_1;protein_source_id=PfNF54_130005000.1-p1_1;extra_copy_number=1
+Pf3D7_05_v3	Liftoff	gene	13823	14131	.	+	.	ID=PfNF54_130005100_1;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=1;copy_num_ID=PfNF54_130005100_1
+Pf3D7_05_v3	Liftoff	mRNA	13823	14131	.	+	.	ID=PfNF54_130005100.1_1;Parent=PfNF54_130005100_1;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=1
+Pf3D7_05_v3	Liftoff	exon	13823	14131	.	+	.	ID=exon_PfNF54_130005100.1-E1_1;Parent=PfNF54_130005100.1_1;gene_id=PfNF54_130005100_1;extra_copy_number=1
+Pf3D7_05_v3	Liftoff	CDS	13823	14131	.	+	.	ID=PfNF54_130005100.1-p1-CDS1_1;Parent=PfNF54_130005100.1_1;gene_id=PfNF54_130005100_1;protein_source_id=PfNF54_130005100.1-p1_1;extra_copy_number=1
+Pf3D7_06_v3	Liftoff	pseudogene	48874	49722	.	-	.	ID=PfNF54_030029300:pseudogene;description=exported protein family 1;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_030029300:pseudogene_0
+Pf3D7_06_v3	Liftoff	pseudogenic_transcript	48874	49722	.	-	.	ID=PfNF54_030029300.1;Parent=PfNF54_030029300:pseudogene;description=exported protein family 1;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	48874	49209	.	-	.	ID=exon_PfNF54_030029300.1-E2;Parent=PfNF54_030029300.1;gene_id=PfNF54_030029300:pseudogene;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	49213	49722	.	-	.	ID=exon_PfNF54_030029300.1-E1;Parent=PfNF54_030029300.1;gene_id=PfNF54_030029300:pseudogene;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	60200	62845	.	+	.	ID=PfNF54_060006300;description=Plasmodium repeat_MYXSPDY%2C putative;ebi_biotype=protein_coding;coverage=0.962;sequence_ID=0.962;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_060006300_0
+Pf3D7_06_v3	Liftoff	mRNA	60200	62845	.	+	.	ID=PfNF54_060006300.1;Parent=PfNF54_060006300;description=Plasmodium repeat_MYXSPDY%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	60200	62845	.	+	.	ID=exon_PfNF54_060006300.1-E1;Parent=PfNF54_060006300.1;gene_id=PfNF54_060006300;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	60200	62845	.	+	.	ID=PfNF54_060006300.1-p1-CDS1;Parent=PfNF54_060006300.1;gene_id=PfNF54_060006300;protein_source_id=PfNF54_060006300.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	80850	81268	.	-	.	ID=PfNF54_060006800;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_060006800_0
+Pf3D7_06_v3	Liftoff	mRNA	80850	81268	.	-	.	ID=PfNF54_060006800.1;Parent=PfNF54_060006800;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	80850	81021	.	-	.	ID=exon_PfNF54_060006800.1-E2;Parent=PfNF54_060006800.1;gene_id=PfNF54_060006800;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	81237	81268	.	-	.	ID=exon_PfNF54_060006800.1-E1;Parent=PfNF54_060006800.1;gene_id=PfNF54_060006800;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	80850	81021	.	-	.	ID=PfNF54_060006800.1-p1-CDS2;Parent=PfNF54_060006800.1;gene_id=PfNF54_060006800;protein_source_id=PfNF54_060006800.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	81237	81268	.	-	.	ID=PfNF54_060006800.1-p1-CDS1;Parent=PfNF54_060006800.1;gene_id=PfNF54_060006800;protein_source_id=PfNF54_060006800.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1316698	1317721	.	+	.	ID=PfNF54_060036600;Name=EPF1;description=exported protein family 1;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.996;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_060036600_0
+Pf3D7_06_v3	Liftoff	mRNA	1316698	1317721	.	+	.	ID=PfNF54_060036600.1;Parent=PfNF54_060036600;description=exported protein family 1;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_stop_codon=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1316698	1316756	.	+	.	ID=exon_PfNF54_060036600.1-E1;Parent=PfNF54_060036600.1;gene_id=PfNF54_060036600;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1316825	1317721	.	+	.	ID=exon_PfNF54_060036600.1-E2;Parent=PfNF54_060036600.1;gene_id=PfNF54_060036600;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1316698	1316756	.	+	.	ID=PfNF54_060036600.1-p1-CDS1;Parent=PfNF54_060036600.1;gene_id=PfNF54_060036600;protein_source_id=PfNF54_060036600.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1316825	1317721	.	+	.	ID=PfNF54_060036600.1-p1-CDS2;Parent=PfNF54_060036600.1;gene_id=PfNF54_060036600;protein_source_id=PfNF54_060036600.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1321320	1322094	.	-	.	ID=PfNF54_060036800;Name=EPF3;description=exported protein family 3;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_060036800_0
+Pf3D7_06_v3	Liftoff	mRNA	1321320	1322094	.	-	.	ID=PfNF54_060036800.1;Parent=PfNF54_060036800;description=exported protein family 3;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1321320	1321943	.	-	.	ID=exon_PfNF54_060036800.1-E2;Parent=PfNF54_060036800.1;gene_id=PfNF54_060036800;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1322026	1322094	.	-	.	ID=exon_PfNF54_060036800.1-E1;Parent=PfNF54_060036800.1;gene_id=PfNF54_060036800;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1321320	1321943	.	-	.	ID=PfNF54_060036800.1-p1-CDS2;Parent=PfNF54_060036800.1;gene_id=PfNF54_060036800;protein_source_id=PfNF54_060036800.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1322026	1322094	.	-	.	ID=PfNF54_060036800.1-p1-CDS1;Parent=PfNF54_060036800.1;gene_id=PfNF54_060036800;protein_source_id=PfNF54_060036800.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1386700	1386924	.	+	.	ID=PfNF54_060038200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_060038200_0
+Pf3D7_06_v3	Liftoff	mRNA	1386700	1386924	.	+	.	ID=PfNF54_060038200.1;Parent=PfNF54_060038200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1386700	1386924	.	+	.	ID=exon_PfNF54_060038200.1-E1;Parent=PfNF54_060038200.1;gene_id=PfNF54_060038200;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1386700	1386924	.	+	.	ID=PfNF54_060038200.1-p1-CDS1;Parent=PfNF54_060038200.1;gene_id=PfNF54_060038200;protein_source_id=PfNF54_060038200.1-p1;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	gene	1413555	1414157	.	-	.	ID=PfNF54_060038300;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_060038300_0
+Pf3D7_06_v3	Liftoff	mRNA	1413555	1414157	.	-	.	ID=PfNF54_060038300.1;Parent=PfNF54_060038300;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	exon	1413555	1414157	.	-	.	ID=exon_PfNF54_060038300.1-E1;Parent=PfNF54_060038300.1;gene_id=PfNF54_060038300;extra_copy_number=0
+Pf3D7_06_v3	Liftoff	CDS	1413555	1414157	.	-	.	ID=PfNF54_060038300.1-p1-CDS1;Parent=PfNF54_060038300.1;gene_id=PfNF54_060038300;protein_source_id=PfNF54_060038300.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	2850	4246	.	+	.	ID=PfNF54_070005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_070005000_0
+Pf3D7_07_v3	Liftoff	mRNA	2850	4246	.	+	.	ID=PfNF54_070005000.1;Parent=PfNF54_070005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	2850	2949	.	+	.	ID=exon_PfNF54_070005000.1-E1;Parent=PfNF54_070005000.1;gene_id=PfNF54_070005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	3603	4246	.	+	.	ID=exon_PfNF54_070005000.1-E2;Parent=PfNF54_070005000.1;gene_id=PfNF54_070005000;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	2850	2949	.	+	.	ID=PfNF54_070005000.1-p1-CDS1;Parent=PfNF54_070005000.1;gene_id=PfNF54_070005000;protein_source_id=PfNF54_070005000.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	3603	4246	.	+	.	ID=PfNF54_070005000.1-p1-CDS2;Parent=PfNF54_070005000.1;gene_id=PfNF54_070005000;protein_source_id=PfNF54_070005000.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	4310	4716	.	-	.	ID=PfNF54_070005100;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_070005100_0
+Pf3D7_07_v3	Liftoff	mRNA	4310	4716	.	-	.	ID=PfNF54_070005100.1;Parent=PfNF54_070005100;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	4310	4372	.	-	.	ID=exon_PfNF54_070005100.1-E3;Parent=PfNF54_070005100.1;gene_id=PfNF54_070005100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	4461	4532	.	-	.	ID=exon_PfNF54_070005100.1-E2;Parent=PfNF54_070005100.1;gene_id=PfNF54_070005100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	4627	4716	.	-	.	ID=exon_PfNF54_070005100.1-E1;Parent=PfNF54_070005100.1;gene_id=PfNF54_070005100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	4310	4372	.	-	.	ID=PfNF54_070005100.1-p1-CDS3;Parent=PfNF54_070005100.1;gene_id=PfNF54_070005100;protein_source_id=PfNF54_070005100.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	4461	4532	.	-	.	ID=PfNF54_070005100.1-p1-CDS2;Parent=PfNF54_070005100.1;gene_id=PfNF54_070005100;protein_source_id=PfNF54_070005100.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	4627	4716	.	-	.	ID=PfNF54_070005100.1-p1-CDS1;Parent=PfNF54_070005100.1;gene_id=PfNF54_070005100;protein_source_id=PfNF54_070005100.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	13099	13365	.	-	.	ID=PfNF54_070005200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_070005200_0
+Pf3D7_07_v3	Liftoff	mRNA	13099	13365	.	-	.	ID=PfNF54_070005200.1;Parent=PfNF54_070005200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	13099	13365	.	-	.	ID=exon_PfNF54_070005200.1-E1;Parent=PfNF54_070005200.1;gene_id=PfNF54_070005200;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	13099	13365	.	-	.	ID=PfNF54_070005200.1-p1-CDS1;Parent=PfNF54_070005200.1;gene_id=PfNF54_070005200;protein_source_id=PfNF54_070005200.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	15545	15811	.	+	.	ID=PfNF54_070005300;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_070005300_0
+Pf3D7_07_v3	Liftoff	mRNA	15545	15811	.	+	.	ID=PfNF54_070005300.1;Parent=PfNF54_070005300;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	15545	15811	.	+	.	ID=exon_PfNF54_070005300.1-E1;Parent=PfNF54_070005300.1;gene_id=PfNF54_070005300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	15545	15811	.	+	.	ID=PfNF54_070005300.1-p1-CDS1;Parent=PfNF54_070005300.1;gene_id=PfNF54_070005300;protein_source_id=PfNF54_070005300.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	15885	16270	.	+	.	ID=PfNF54_070005400;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_070005400_0
+Pf3D7_07_v3	Liftoff	mRNA	15885	16270	.	+	.	ID=PfNF54_070005400.1;Parent=PfNF54_070005400;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	15885	16008	.	+	.	ID=exon_PfNF54_070005400.1-E1;Parent=PfNF54_070005400.1;gene_id=PfNF54_070005400;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	16125	16270	.	+	.	ID=exon_PfNF54_070005400.1-E2;Parent=PfNF54_070005400.1;gene_id=PfNF54_070005400;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	15885	16008	.	+	.	ID=PfNF54_070005400.1-p1-CDS1;Parent=PfNF54_070005400.1;gene_id=PfNF54_070005400;protein_source_id=PfNF54_070005400.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	16125	16270	.	+	.	ID=PfNF54_070005400.1-p1-CDS2;Parent=PfNF54_070005400.1;gene_id=PfNF54_070005400;protein_source_id=PfNF54_070005400.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	pseudogene	43198	44140	.	-	.	ID=PfNF54_070006000:pseudogene;description=Plasmodium RESA N-terminal%2C putative;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_070006000:pseudogene_0
+Pf3D7_07_v3	Liftoff	pseudogenic_transcript	43198	44140	.	-	.	ID=PfNF54_070006000.1;Parent=PfNF54_070006000:pseudogene;description=Plasmodium RESA N-terminal%2C putative;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	43198	43917	.	-	.	ID=exon_PfNF54_070006000.1-E2;Parent=PfNF54_070006000.1;gene_id=PfNF54_070006000:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	44009	44140	.	-	.	ID=exon_PfNF54_070006000.1-E1;Parent=PfNF54_070006000.1;gene_id=PfNF54_070006000:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	45559	46043	.	+	.	ID=PfNF54_070006100;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_070006100_0
+Pf3D7_07_v3	Liftoff	mRNA	45559	46043	.	+	.	ID=PfNF54_070006100.1;Parent=PfNF54_070006100;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	45559	45627	.	+	.	ID=exon_PfNF54_070006100.1-E1;Parent=PfNF54_070006100.1;gene_id=PfNF54_070006100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	45813	46043	.	+	.	ID=exon_PfNF54_070006100.1-E2;Parent=PfNF54_070006100.1;gene_id=PfNF54_070006100;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	45559	45627	.	+	.	ID=PfNF54_070006100.1-p1-CDS1;Parent=PfNF54_070006100.1;gene_id=PfNF54_070006100;protein_source_id=PfNF54_070006100.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	45813	46043	.	+	.	ID=PfNF54_070006100.1-p1-CDS2;Parent=PfNF54_070006100.1;gene_id=PfNF54_070006100;protein_source_id=PfNF54_070006100.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	46116	46607	.	+	.	ID=PfNF54_070006200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_070006200_0
+Pf3D7_07_v3	Liftoff	mRNA	46116	46607	.	+	.	ID=PfNF54_070006200.1;Parent=PfNF54_070006200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	46116	46607	.	+	.	ID=exon_PfNF54_070006200.1-E1;Parent=PfNF54_070006200.1;gene_id=PfNF54_070006200;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	46116	46607	.	+	.	ID=PfNF54_070006200.1-p1-CDS1;Parent=PfNF54_070006200.1;gene_id=PfNF54_070006200;protein_source_id=PfNF54_070006200.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	48300	49106	.	+	.	ID=PfNF54_070006300;Name=MC-2TM;description=Pfmc-2TM Maurer's cleft two transmembrane protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_070006300_0
+Pf3D7_07_v3	Liftoff	mRNA	48300	49106	.	+	.	ID=PfNF54_070006300.1;Parent=PfNF54_070006300;description=Pfmc-2TM Maurer's cleft two transmembrane protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	48300	48368	.	+	.	ID=exon_PfNF54_070006300.1-E1;Parent=PfNF54_070006300.1;gene_id=PfNF54_070006300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	48480	49106	.	+	.	ID=exon_PfNF54_070006300.1-E2;Parent=PfNF54_070006300.1;gene_id=PfNF54_070006300;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	48300	48368	.	+	.	ID=PfNF54_070006300.1-p1-CDS1;Parent=PfNF54_070006300.1;gene_id=PfNF54_070006300;protein_source_id=PfNF54_070006300.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	48480	49106	.	+	.	ID=PfNF54_070006300.1-p1-CDS2;Parent=PfNF54_070006300.1;gene_id=PfNF54_070006300;protein_source_id=PfNF54_070006300.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	pseudogene	49737	50559	.	-	.	ID=PfNF54_070006400:pseudogene;description=hypothetical protein%2C conserved;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_070006400:pseudogene_0
+Pf3D7_07_v3	Liftoff	pseudogenic_transcript	49737	50559	.	-	.	ID=PfNF54_070006400.1;Parent=PfNF54_070006400:pseudogene;description=hypothetical protein%2C conserved;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	49737	50036	.	-	.	ID=exon_PfNF54_070006400.1-E3;Parent=PfNF54_070006400.1;gene_id=PfNF54_070006400:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	50039	50173	.	-	.	ID=exon_PfNF54_070006400.1-E2;Parent=PfNF54_070006400.1;gene_id=PfNF54_070006400:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	50176	50559	.	-	.	ID=exon_PfNF54_070006400.1-E1;Parent=PfNF54_070006400.1;gene_id=PfNF54_070006400:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	gene	53235	53636	.	+	.	ID=PfNF54_110006400;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_110006400_0
+Pf3D7_07_v3	Liftoff	mRNA	53235	53636	.	+	.	ID=PfNF54_110006400.1;Parent=PfNF54_110006400;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	53235	53636	.	+	.	ID=exon_PfNF54_110006400.1-E1;Parent=PfNF54_110006400.1;gene_id=PfNF54_110006400;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	CDS	53235	53636	.	+	.	ID=PfNF54_110006400.1-p1-CDS1;Parent=PfNF54_110006400.1;gene_id=PfNF54_110006400;protein_source_id=PfNF54_110006400.1-p1;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	pseudogene	71049	71860	.	+	.	ID=PfNF54_110007000:pseudogene;description=Pfmc-2TM Maurer's cleft two transmembrane protein;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.995;extra_copy_number=0;copy_num_ID=PfNF54_110007000:pseudogene_0
+Pf3D7_07_v3	Liftoff	pseudogenic_transcript	71049	71860	.	+	.	ID=PfNF54_110007000.1;Parent=PfNF54_110007000:pseudogene;description=Pfmc-2TM Maurer's cleft two transmembrane protein;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	71049	71117	.	+	.	ID=exon_PfNF54_110007000.1-E1;Parent=PfNF54_110007000.1;gene_id=PfNF54_110007000:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	71222	71459	.	+	.	ID=exon_PfNF54_110007000.1-E2;Parent=PfNF54_110007000.1;gene_id=PfNF54_110007000:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	71462	71705	.	+	.	ID=exon_PfNF54_110007000.1-E3;Parent=PfNF54_110007000.1;gene_id=PfNF54_110007000:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	71708	71804	.	+	.	ID=exon_PfNF54_110007000.1-E4;Parent=PfNF54_110007000.1;gene_id=PfNF54_110007000:pseudogene;extra_copy_number=0
+Pf3D7_07_v3	Liftoff	exon	71807	71860	.	+	.	ID=exon_PfNF54_110007000.1-E5;Parent=PfNF54_110007000.1;gene_id=PfNF54_110007000:pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	pseudogene	8031	9036	.	+	.	ID=PfNF54_100045800:pseudogene;description=Plasmodium exported protein (PHISTa)%2C unknown function;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_100045800:pseudogene_0
+Pf3D7_08_v3	Liftoff	pseudogenic_transcript	8031	9036	.	+	.	ID=PfNF54_100045800.1;Parent=PfNF54_100045800:pseudogene;description=Plasmodium exported protein (PHISTa)%2C unknown function;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	8031	9020	.	+	.	ID=exon_PfNF54_100045800.1-E1;Parent=PfNF54_100045800.1;gene_id=PfNF54_100045800:pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	9022	9036	.	+	.	ID=exon_PfNF54_100045800.1-E2;Parent=PfNF54_100045800.1;gene_id=PfNF54_100045800:pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	pseudogene	12464	13815	.	+	.	ID=PfNF54_100045900;Name=RIF;description=rifin;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_100045900_0
+Pf3D7_08_v3	Liftoff	pseudogenic_transcript	12464	13815	.	+	.	ID=PfNF54_100045900.1;Parent=PfNF54_100045900;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	12464	12517	.	+	.	ID=exon_PfNF54_100045900.1-E1;Parent=PfNF54_100045900.1;gene_id=PfNF54_100045900;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	12742	13815	.	+	.	ID=exon_PfNF54_100045900.1-E2;Parent=PfNF54_100045900.1;gene_id=PfNF54_100045900;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	pseudogene	16183	17405	.	+	.	ID=PfNF54_100046000;Name=RIF;description=rifin;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_100046000_0
+Pf3D7_08_v3	Liftoff	pseudogenic_transcript	16183	17405	.	+	.	ID=PfNF54_100046000.1;Parent=PfNF54_100046000;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	16183	16236	.	+	.	ID=exon_PfNF54_100046000.1-E1;Parent=PfNF54_100046000.1;gene_id=PfNF54_100046000;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	16467	17405	.	+	.	ID=exon_PfNF54_100046000.1-E2;Parent=PfNF54_100046000.1;gene_id=PfNF54_100046000;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	pseudogene	19224	29213	.	-	.	ID=PfNF54_100046100;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=pseudogene;coverage=0.999;sequence_ID=0.999;extra_copy_number=0;copy_num_ID=PfNF54_100046100_0
+Pf3D7_08_v3	Liftoff	pseudogenic_transcript	19224	29213	.	-	.	ID=PfNF54_100046100.1;Parent=PfNF54_100046100;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	19224	20530	.	-	.	ID=exon_PfNF54_100046100.1-E2;Parent=PfNF54_100046100.1;gene_id=PfNF54_100046100;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	21579	29213	.	-	.	ID=exon_PfNF54_100046100.1-E1;Parent=PfNF54_100046100.1;gene_id=PfNF54_100046100;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	pseudogene	31129	40461	.	+	.	ID=PfNF54_100046200;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=pseudogene;coverage=0.999;sequence_ID=0.999;extra_copy_number=0;copy_num_ID=PfNF54_100046200_0
+Pf3D7_08_v3	Liftoff	pseudogenic_transcript	31129	40461	.	+	.	ID=PfNF54_100046200.1;Parent=PfNF54_100046200;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	31129	38526	.	+	.	ID=exon_PfNF54_100046200.1-E1;Parent=PfNF54_100046200.1;gene_id=PfNF54_100046200;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	39284	40461	.	+	.	ID=exon_PfNF54_100046200.1-E2;Parent=PfNF54_100046200.1;gene_id=PfNF54_100046200;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	pseudogene	41508	48800	.	-	.	ID=PfNF54_100046300;Name=VAR;description=erythrocyte membrane protein 1%2C PfEMP1;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_100046300_0
+Pf3D7_08_v3	Liftoff	pseudogenic_transcript	41508	48800	.	-	.	ID=PfNF54_100046300.1;Parent=PfNF54_100046300;description=erythrocyte membrane protein 1%2C PfEMP1;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	41508	42866	.	-	.	ID=exon_PfNF54_100046300.1-E2;Parent=PfNF54_100046300.1;gene_id=PfNF54_100046300;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	43797	48800	.	-	.	ID=exon_PfNF54_100046300.1-E1;Parent=PfNF54_100046300.1;gene_id=PfNF54_100046300;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1276351	1276681	.	+	.	ID=PfNF54_080033400;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_080033400_0
+Pf3D7_08_v3	Liftoff	mRNA	1276351	1276681	.	+	.	ID=PfNF54_080033400.1;Parent=PfNF54_080033400;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1276351	1276453	.	+	.	ID=exon_PfNF54_080033400.1-E1;Parent=PfNF54_080033400.1;gene_id=PfNF54_080033400;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1276575	1276681	.	+	.	ID=exon_PfNF54_080033400.1-E2;Parent=PfNF54_080033400.1;gene_id=PfNF54_080033400;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1276351	1276453	.	+	.	ID=PfNF54_080033400.1-p1-CDS1;Parent=PfNF54_080033400.1;gene_id=PfNF54_080033400;protein_source_id=PfNF54_080033400.1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1276575	1276681	.	+	.	ID=PfNF54_080033400.1-p1-CDS2;Parent=PfNF54_080033400.1;gene_id=PfNF54_080033400;protein_source_id=PfNF54_080033400.1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1288291	1288587	.	-	.	ID=PfNF54_080033600;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_080033600_0
+Pf3D7_08_v3	Liftoff	mRNA	1288291	1288587	.	-	.	ID=PfNF54_080033600.1;Parent=PfNF54_080033600;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1288291	1288587	.	-	.	ID=exon_PfNF54_080033600.1-E1;Parent=PfNF54_080033600.1;gene_id=PfNF54_080033600;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1288291	1288587	.	-	.	ID=PfNF54_080033600.1-p1-CDS1;Parent=PfNF54_080033600.1;gene_id=PfNF54_080033600;protein_source_id=PfNF54_080033600.1-p1;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	gene	1466178	1466417	.	-	.	ID=PfNF54_080037000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_080037000_0
+Pf3D7_08_v3	Liftoff	mRNA	1466178	1466417	.	-	.	ID=PfNF54_080037000.1;Parent=PfNF54_080037000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	exon	1466178	1466417	.	-	.	ID=exon_PfNF54_080037000.1-E1;Parent=PfNF54_080037000.1;gene_id=PfNF54_080037000;extra_copy_number=0
+Pf3D7_08_v3	Liftoff	CDS	1466178	1466417	.	-	.	ID=PfNF54_080037000.1-p1-CDS1;Parent=PfNF54_080037000.1;gene_id=PfNF54_080037000;protein_source_id=PfNF54_080037000.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	3814	4053	.	+	.	ID=PfNF54_090005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_090005000_0
+Pf3D7_09_v3	Liftoff	mRNA	3814	4053	.	+	.	ID=PfNF54_090005000.1;Parent=PfNF54_090005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	3814	4053	.	+	.	ID=exon_PfNF54_090005000.1-E1;Parent=PfNF54_090005000.1;gene_id=PfNF54_090005000;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	3814	4053	.	+	.	ID=PfNF54_090005000.1-p1-CDS1;Parent=PfNF54_090005000.1;gene_id=PfNF54_090005000;protein_source_id=PfNF54_090005000.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	10332	10532	.	-	.	ID=PfNF54_090005100;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_090005100_0
+Pf3D7_09_v3	Liftoff	mRNA	10332	10532	.	-	.	ID=PfNF54_090005100.1;Parent=PfNF54_090005100;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	10332	10532	.	-	.	ID=exon_PfNF54_090005100.1-E1;Parent=PfNF54_090005100.1;gene_id=PfNF54_090005100;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	10332	10532	.	-	.	ID=PfNF54_090005100.1-p1-CDS1;Parent=PfNF54_090005100.1;gene_id=PfNF54_090005100;protein_source_id=PfNF54_090005100.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	16390	16848	.	+	.	ID=PfNF54_090005200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_090005200_0
+Pf3D7_09_v3	Liftoff	mRNA	16390	16848	.	+	.	ID=PfNF54_090005200.1;Parent=PfNF54_090005200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	16390	16848	.	+	.	ID=exon_PfNF54_090005200.1-E1;Parent=PfNF54_090005200.1;gene_id=PfNF54_090005200;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	16390	16848	.	+	.	ID=PfNF54_090005200.1-p1-CDS1;Parent=PfNF54_090005200.1;gene_id=PfNF54_090005200;protein_source_id=PfNF54_090005200.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	1248218	1248826	.	+	.	ID=PfNF54_090036200;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_090036200_0
+Pf3D7_09_v3	Liftoff	mRNA	1248218	1248826	.	+	.	ID=PfNF54_090036200.1;Parent=PfNF54_090036200;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	1248218	1248325	.	+	.	ID=exon_PfNF54_090036200.1-E1;Parent=PfNF54_090036200.1;gene_id=PfNF54_090036200;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	1248707	1248826	.	+	.	ID=exon_PfNF54_090036200.1-E2;Parent=PfNF54_090036200.1;gene_id=PfNF54_090036200;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	1248218	1248325	.	+	.	ID=PfNF54_090036200.1-p1-CDS1;Parent=PfNF54_090036200.1;gene_id=PfNF54_090036200;protein_source_id=PfNF54_090036200.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	1248707	1248826	.	+	.	ID=PfNF54_090036200.1-p1-CDS2;Parent=PfNF54_090036200.1;gene_id=PfNF54_090036200;protein_source_id=PfNF54_090036200.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	1512199	1512719	.	+	.	ID=PfNF54_090043200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_090043200_0
+Pf3D7_09_v3	Liftoff	mRNA	1512199	1512719	.	+	.	ID=PfNF54_090043200.1;Parent=PfNF54_090043200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	1512199	1512414	.	+	.	ID=exon_PfNF54_090043200.1-E1;Parent=PfNF54_090043200.1;gene_id=PfNF54_090043200;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	1512519	1512719	.	+	.	ID=exon_PfNF54_090043200.1-E2;Parent=PfNF54_090043200.1;gene_id=PfNF54_090043200;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	1512199	1512414	.	+	.	ID=PfNF54_090043200.1-p1-CDS1;Parent=PfNF54_090043200.1;gene_id=PfNF54_090043200;protein_source_id=PfNF54_090043200.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	1512519	1512719	.	+	.	ID=PfNF54_090043200.1-p1-CDS2;Parent=PfNF54_090043200.1;gene_id=PfNF54_090043200;protein_source_id=PfNF54_090043200.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	1512801	1513046	.	-	.	ID=PfNF54_090043300;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_090043300_0
+Pf3D7_09_v3	Liftoff	mRNA	1512801	1513046	.	-	.	ID=PfNF54_090043300.1;Parent=PfNF54_090043300;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	1512801	1513046	.	-	.	ID=exon_PfNF54_090043300.1-E1;Parent=PfNF54_090043300.1;gene_id=PfNF54_090043300;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	1512801	1513046	.	-	.	ID=PfNF54_090043300.1-p1-CDS1;Parent=PfNF54_090043300.1;gene_id=PfNF54_090043300;protein_source_id=PfNF54_090043300.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	gene	1524758	1525090	.	+	.	ID=PfNF54_090043400;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_090043400_0
+Pf3D7_09_v3	Liftoff	mRNA	1524758	1525090	.	+	.	ID=PfNF54_090043400.1;Parent=PfNF54_090043400;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	1524758	1524881	.	+	.	ID=exon_PfNF54_090043400.1-E1;Parent=PfNF54_090043400.1;gene_id=PfNF54_090043400;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	exon	1524975	1525090	.	+	.	ID=exon_PfNF54_090043400.1-E2;Parent=PfNF54_090043400.1;gene_id=PfNF54_090043400;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	1524758	1524881	.	+	.	ID=PfNF54_090043400.1-p1-CDS1;Parent=PfNF54_090043400.1;gene_id=PfNF54_090043400;protein_source_id=PfNF54_090043400.1-p1;extra_copy_number=0
+Pf3D7_09_v3	Liftoff	CDS	1524975	1525090	.	+	.	ID=PfNF54_090043400.1-p1-CDS2;Parent=PfNF54_090043400.1;gene_id=PfNF54_090043400;protein_source_id=PfNF54_090043400.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	10861	11215	.	-	.	ID=PfNF54_100005000;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_100005000_0
+Pf3D7_10_v3	Liftoff	mRNA	10861	11215	.	-	.	ID=PfNF54_100005000.1;Parent=PfNF54_100005000;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	10861	11089	.	-	.	ID=exon_PfNF54_100005000.1-E2;Parent=PfNF54_100005000.1;gene_id=PfNF54_100005000;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	11172	11215	.	-	.	ID=exon_PfNF54_100005000.1-E1;Parent=PfNF54_100005000.1;gene_id=PfNF54_100005000;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	10861	11089	.	-	.	ID=PfNF54_100005000.1-p1-CDS2;Parent=PfNF54_100005000.1;gene_id=PfNF54_100005000;protein_source_id=PfNF54_100005000.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	11172	11215	.	-	.	ID=PfNF54_100005000.1-p1-CDS1;Parent=PfNF54_100005000.1;gene_id=PfNF54_100005000;protein_source_id=PfNF54_100005000.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	24128	24493	.	+	.	ID=PfNF54_100005100;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_100005100_0
+Pf3D7_10_v3	Liftoff	mRNA	24128	24493	.	+	.	ID=PfNF54_100005100.1;Parent=PfNF54_100005100;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	24128	24493	.	+	.	ID=exon_PfNF54_100005100.1-E1;Parent=PfNF54_100005100.1;gene_id=PfNF54_100005100;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	24128	24493	.	+	.	ID=PfNF54_100005100.1-p1-CDS1;Parent=PfNF54_100005100.1;gene_id=PfNF54_100005100;protein_source_id=PfNF54_100005100.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	24671	24931	.	+	.	ID=PfNF54_100005200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_100005200_0
+Pf3D7_10_v3	Liftoff	mRNA	24671	24931	.	+	.	ID=PfNF54_100005200.1;Parent=PfNF54_100005200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	24671	24931	.	+	.	ID=exon_PfNF54_100005200.1-E1;Parent=PfNF54_100005200.1;gene_id=PfNF54_100005200;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	24671	24931	.	+	.	ID=PfNF54_100005200.1-p1-CDS1;Parent=PfNF54_100005200.1;gene_id=PfNF54_100005200;protein_source_id=PfNF54_100005200.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1581698	1582711	.	-	.	ID=PfNF54_100043800;description=Plasmodium repeat_MYXSPDY%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_100043800_0
+Pf3D7_10_v3	Liftoff	mRNA	1581698	1582711	.	-	.	ID=PfNF54_100043800.1;Parent=PfNF54_100043800;description=Plasmodium repeat_MYXSPDY%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1581698	1582711	.	-	.	ID=exon_PfNF54_100043800.1-E1;Parent=PfNF54_100043800.1;gene_id=PfNF54_100043800;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1581698	1582711	.	-	.	ID=PfNF54_100043800.1-p1-CDS1;Parent=PfNF54_100043800.1;gene_id=PfNF54_100043800;protein_source_id=PfNF54_100043800.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1652753	1652965	.	-	.	ID=PfNF54_100045500;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_100045500_0
+Pf3D7_10_v3	Liftoff	mRNA	1652753	1652965	.	-	.	ID=PfNF54_100045500.1;Parent=PfNF54_100045500;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1652753	1652965	.	-	.	ID=exon_PfNF54_100045500.1-E1;Parent=PfNF54_100045500.1;gene_id=PfNF54_100045500;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1652753	1652965	.	-	.	ID=PfNF54_100045500.1-p1-CDS1;Parent=PfNF54_100045500.1;gene_id=PfNF54_100045500;protein_source_id=PfNF54_100045500.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1653029	1653430	.	+	.	ID=PfNF54_100045600;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_100045600_0
+Pf3D7_10_v3	Liftoff	mRNA	1653029	1653430	.	+	.	ID=PfNF54_100045600.1;Parent=PfNF54_100045600;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1653029	1653126	.	+	.	ID=exon_PfNF54_100045600.1-E1;Parent=PfNF54_100045600.1;gene_id=PfNF54_100045600;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1653193	1653430	.	+	.	ID=exon_PfNF54_100045600.1-E2;Parent=PfNF54_100045600.1;gene_id=PfNF54_100045600;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1653029	1653126	.	+	.	ID=PfNF54_100045600.1-p1-CDS1;Parent=PfNF54_100045600.1;gene_id=PfNF54_100045600;protein_source_id=PfNF54_100045600.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1653193	1653430	.	+	.	ID=PfNF54_100045600.1-p1-CDS2;Parent=PfNF54_100045600.1;gene_id=PfNF54_100045600;protein_source_id=PfNF54_100045600.1-p1;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	gene	1664729	1665054	.	+	.	ID=PfNF54_140005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=0.992;sequence_ID=0.762;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_140005000_0
+Pf3D7_10_v3	Liftoff	mRNA	1664729	1665054	.	+	.	ID=PfNF54_140005000.1;Parent=PfNF54_140005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	exon	1664729	1665054	.	+	.	ID=exon_PfNF54_140005000.1-E1;Parent=PfNF54_140005000.1;gene_id=PfNF54_140005000;extra_copy_number=0
+Pf3D7_10_v3	Liftoff	CDS	1664729	1665054	.	+	.	ID=PfNF54_140005000.1-p1-CDS1;Parent=PfNF54_140005000.1;gene_id=PfNF54_140005000;protein_source_id=PfNF54_140005000.1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	3583	4146	.	+	.	ID=PfNF54_110005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_110005000_0
+Pf3D7_11_v3	Liftoff	mRNA	3583	4146	.	+	.	ID=PfNF54_110005000.1;Parent=PfNF54_110005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	3583	4146	.	+	.	ID=exon_PfNF54_110005000.1-E1;Parent=PfNF54_110005000.1;gene_id=PfNF54_110005000;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	3583	4146	.	+	.	ID=PfNF54_110005000.1-p1-CDS1;Parent=PfNF54_110005000.1;gene_id=PfNF54_110005000;protein_source_id=PfNF54_110005000.1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	10937	11182	.	+	.	ID=PfNF54_110005100;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_110005100_0
+Pf3D7_11_v3	Liftoff	mRNA	10937	11182	.	+	.	ID=PfNF54_110005100.1;Parent=PfNF54_110005100;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	10937	11182	.	+	.	ID=exon_PfNF54_110005100.1-E1;Parent=PfNF54_110005100.1;gene_id=PfNF54_110005100;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	10937	11182	.	+	.	ID=PfNF54_110005100.1-p1-CDS1;Parent=PfNF54_110005100.1;gene_id=PfNF54_110005100;protein_source_id=PfNF54_110005100.1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	15451	15684	.	-	.	ID=PfNF54_110005200;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_110005200_0
+Pf3D7_11_v3	Liftoff	mRNA	15451	15684	.	-	.	ID=PfNF54_110005200.1;Parent=PfNF54_110005200;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	15451	15684	.	-	.	ID=exon_PfNF54_110005200.1-E1;Parent=PfNF54_110005200.1;gene_id=PfNF54_110005200;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	15451	15684	.	-	.	ID=PfNF54_110005200.1-p1-CDS1;Parent=PfNF54_110005200.1;gene_id=PfNF54_110005200;protein_source_id=PfNF54_110005200.1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	pseudogene	59550	60325	.	+	.	ID=PfNF54_110006200:pseudogene;description=hypothetical protein;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.988;extra_copy_number=0;copy_num_ID=PfNF54_110006200:pseudogene_0
+Pf3D7_11_v3	Liftoff	pseudogenic_transcript	59550	60325	.	+	.	ID=PfNF54_110006200.1;Parent=PfNF54_110006200:pseudogene;description=hypothetical protein;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	59550	59580	.	+	.	ID=exon_PfNF54_110006200.1-E1;Parent=PfNF54_110006200.1;gene_id=PfNF54_110006200:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	59583	59636	.	+	.	ID=exon_PfNF54_110006200.1-E2;Parent=PfNF54_110006200.1;gene_id=PfNF54_110006200:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	59708	59833	.	+	.	ID=exon_PfNF54_110006200.1-E3;Parent=PfNF54_110006200.1;gene_id=PfNF54_110006200:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	59849	59981	.	+	.	ID=exon_PfNF54_110006200.1-E4;Parent=PfNF54_110006200.1;gene_id=PfNF54_110006200:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	59984	60286	.	+	.	ID=exon_PfNF54_110006200.1-E5;Parent=PfNF54_110006200.1;gene_id=PfNF54_110006200:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	60289	60325	.	+	.	ID=exon_PfNF54_110006200.1-E6;Parent=PfNF54_110006200.1;gene_id=PfNF54_110006200:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	pseudogene	60928	61766	.	-	.	ID=PfNF54_110006300:pseudogene;description=hypothetical protein%2C conserved;ebi_biotype=pseudogene;coverage=0.992;sequence_ID=0.897;extra_copy_number=0;copy_num_ID=PfNF54_110006300:pseudogene_0
+Pf3D7_11_v3	Liftoff	pseudogenic_transcript	60928	61766	.	-	.	ID=PfNF54_110006300.1;Parent=PfNF54_110006300:pseudogene;description=hypothetical protein%2C conserved;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	60928	61227	.	-	.	ID=exon_PfNF54_110006300.1-E5;Parent=PfNF54_110006300.1;gene_id=PfNF54_110006300:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	61230	61359	.	-	.	ID=exon_PfNF54_110006300.1-E4;Parent=PfNF54_110006300.1;gene_id=PfNF54_110006300:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	61362	61377	.	-	.	ID=exon_PfNF54_110006300.1-E3;Parent=PfNF54_110006300.1;gene_id=PfNF54_110006300:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	61380	61436	.	-	.	ID=exon_PfNF54_110006300.1-E2;Parent=PfNF54_110006300.1;gene_id=PfNF54_110006300:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	61439	61766	.	-	.	ID=exon_PfNF54_110006300.1-E1;Parent=PfNF54_110006300.1;gene_id=PfNF54_110006300:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	pseudogene	66686	67629	.	-	.	ID=PfNF54_000012500:pseudogene;description=hypothetical protein;ebi_biotype=pseudogene;coverage=0.991;sequence_ID=0.991;extra_copy_number=0;copy_num_ID=PfNF54_000012500:pseudogene_0
+Pf3D7_11_v3	Liftoff	pseudogenic_transcript	66686	67629	.	-	.	ID=PfNF54_000012500.1;Parent=PfNF54_000012500:pseudogene;description=hypothetical protein;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	66686	67629	.	-	.	ID=exon_PfNF54_000012500.1-E1;Parent=PfNF54_000012500.1;gene_id=PfNF54_000012500:pseudogene;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	85629	86418	.	+	.	ID=PfNF54_060036700;Name=MC-2TM;description=Pfmc-2TM Maurer's cleft two transmembrane protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.992;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_060036700_0
+Pf3D7_11_v3	Liftoff	mRNA	85629	86418	.	+	.	ID=PfNF54_060036700.1;Parent=PfNF54_060036700;description=Pfmc-2TM Maurer's cleft two transmembrane protein;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	85629	85697	.	+	.	ID=exon_PfNF54_060036700.1-E1;Parent=PfNF54_060036700.1;gene_id=PfNF54_060036700;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	85792	86418	.	+	.	ID=exon_PfNF54_060036700.1-E2;Parent=PfNF54_060036700.1;gene_id=PfNF54_060036700;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	85629	85697	.	+	.	ID=PfNF54_060036700.1-p1-CDS1;Parent=PfNF54_060036700.1;gene_id=PfNF54_060036700;protein_source_id=PfNF54_060036700.1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	85792	86418	.	+	.	ID=PfNF54_060036700.1-p1-CDS2;Parent=PfNF54_060036700.1;gene_id=PfNF54_060036700;protein_source_id=PfNF54_060036700.1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	96964	99609	.	+	.	ID=PfNF54_110007300;description=Plasmodium repeat_MYXSPDY%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_110007300_0
+Pf3D7_11_v3	Liftoff	mRNA	96964	99609	.	+	.	ID=PfNF54_110007300.1;Parent=PfNF54_110007300;description=Plasmodium repeat_MYXSPDY%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	96964	99609	.	+	.	ID=exon_PfNF54_110007300.1-E1;Parent=PfNF54_110007300.1;gene_id=PfNF54_110007300;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	96964	99609	.	+	.	ID=PfNF54_110007300.1-p1-CDS1;Parent=PfNF54_110007300.1;gene_id=PfNF54_110007300;protein_source_id=PfNF54_110007300.1-p1;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	gene	1115977	1116234	.	-	.	ID=PfNF54_110033100;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_110033100_0
+Pf3D7_11_v3	Liftoff	mRNA	1115977	1116234	.	-	.	ID=PfNF54_110033100.1;Parent=PfNF54_110033100;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	exon	1115977	1116234	.	-	.	ID=exon_PfNF54_110033100.1-E1;Parent=PfNF54_110033100.1;gene_id=PfNF54_110033100;extra_copy_number=0
+Pf3D7_11_v3	Liftoff	CDS	1115977	1116234	.	-	.	ID=PfNF54_110033100.1-p1-CDS1;Parent=PfNF54_110033100.1;gene_id=PfNF54_110033100;protein_source_id=PfNF54_110033100.1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	13765	13983	.	+	.	ID=PfNF54_120005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_120005000_0
+Pf3D7_12_v3	Liftoff	mRNA	13765	13983	.	+	.	ID=PfNF54_120005000.1;Parent=PfNF54_120005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	13765	13983	.	+	.	ID=exon_PfNF54_120005000.1-E1;Parent=PfNF54_120005000.1;gene_id=PfNF54_120005000;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	13765	13983	.	+	.	ID=PfNF54_120005000.1-p1-CDS1;Parent=PfNF54_120005000.1;gene_id=PfNF54_120005000;protein_source_id=PfNF54_120005000.1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	14097	14402	.	+	.	ID=PfNF54_120005100;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_120005100_0
+Pf3D7_12_v3	Liftoff	mRNA	14097	14402	.	+	.	ID=PfNF54_120005100.1;Parent=PfNF54_120005100;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	14097	14402	.	+	.	ID=exon_PfNF54_120005100.1-E1;Parent=PfNF54_120005100.1;gene_id=PfNF54_120005100;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	14097	14402	.	+	.	ID=PfNF54_120005100.1-p1-CDS1;Parent=PfNF54_120005100.1;gene_id=PfNF54_120005100;protein_source_id=PfNF54_120005100.1-p1;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	pseudogene	974447	975541	.	+	.	ID=PfNF54_120028600:pseudogene;description=GTP cyclohydrolase I;ebi_biotype=pseudogene;coverage=0.935;sequence_ID=0.931;extra_copy_number=0;copy_num_ID=PfNF54_120028600:pseudogene_0
+Pf3D7_12_v3	Liftoff	pseudogenic_transcript	974447	975541	.	+	.	ID=PfNF54_120028600.1;Parent=PfNF54_120028600:pseudogene;description=GTP cyclohydrolase I;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	974447	974462	.	+	.	ID=exon_PfNF54_120028600.1-E3;Parent=PfNF54_120028600.1;gene_id=PfNF54_120028600:pseudogene;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	974465	974507	.	+	.	ID=exon_PfNF54_120028600.1-E4;Parent=PfNF54_120028600.1;gene_id=PfNF54_120028600:pseudogene;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	974510	974631	.	+	.	ID=exon_PfNF54_120028600.1-E5;Parent=PfNF54_120028600.1;gene_id=PfNF54_120028600:pseudogene;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	974633	974702	.	+	.	ID=exon_PfNF54_120028600.1-E6;Parent=PfNF54_120028600.1;gene_id=PfNF54_120028600:pseudogene;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	974705	975541	.	+	.	ID=exon_PfNF54_120028600.1-E7;Parent=PfNF54_120028600.1;gene_id=PfNF54_120028600:pseudogene;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	gene	977759	978031	.	-	.	ID=PfNF54_120028900;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=0.945;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_120028900_0
+Pf3D7_12_v3	Liftoff	mRNA	977759	978031	.	-	.	ID=PfNF54_120028900.1;Parent=PfNF54_120028900;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;inframe_stop_codon=True;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	exon	977759	978031	.	-	.	ID=exon_PfNF54_120028900.1-E1;Parent=PfNF54_120028900.1;gene_id=PfNF54_120028900;extra_copy_number=0
+Pf3D7_12_v3	Liftoff	CDS	977759	978031	.	-	.	ID=PfNF54_120028900.1-p1-CDS1;Parent=PfNF54_120028900.1;gene_id=PfNF54_120028900;protein_source_id=PfNF54_120028900.1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	5340	5579	.	+	.	ID=PfNF54_130005000;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_130005000_0
+Pf3D7_13_v3	Liftoff	mRNA	5340	5579	.	+	.	ID=PfNF54_130005000.1;Parent=PfNF54_130005000;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	5340	5579	.	+	.	ID=exon_PfNF54_130005000.1-E1;Parent=PfNF54_130005000.1;gene_id=PfNF54_130005000;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	5340	5579	.	+	.	ID=PfNF54_130005000.1-p1-CDS1;Parent=PfNF54_130005000.1;gene_id=PfNF54_130005000;protein_source_id=PfNF54_130005000.1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	14258	14566	.	+	.	ID=PfNF54_130005100;description=hypothetical protein%2C conserved;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_130005100_0
+Pf3D7_13_v3	Liftoff	mRNA	14258	14566	.	+	.	ID=PfNF54_130005100.1;Parent=PfNF54_130005100;description=hypothetical protein%2C conserved;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	14258	14566	.	+	.	ID=exon_PfNF54_130005100.1-E1;Parent=PfNF54_130005100.1;gene_id=PfNF54_130005100;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	14258	14566	.	+	.	ID=PfNF54_130005100.1-p1-CDS1;Parent=PfNF54_130005100.1;gene_id=PfNF54_130005100;protein_source_id=PfNF54_130005100.1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	gene	454816	455175	.	-	.	ID=PfNF54_130015500;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_130015500_0
+Pf3D7_13_v3	Liftoff	mRNA	454816	455175	.	-	.	ID=PfNF54_130015500.1;Parent=PfNF54_130015500;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	454816	455028	.	-	.	ID=exon_PfNF54_130015500.1-E2;Parent=PfNF54_130015500.1;gene_id=PfNF54_130015500;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	455140	455175	.	-	.	ID=exon_PfNF54_130015500.1-E1;Parent=PfNF54_130015500.1;gene_id=PfNF54_130015500;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	454816	455028	.	-	.	ID=PfNF54_130015500.1-p1-CDS2;Parent=PfNF54_130015500.1;gene_id=PfNF54_130015500;protein_source_id=PfNF54_130015500.1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	CDS	455140	455175	.	-	.	ID=PfNF54_130015500.1-p1-CDS1;Parent=PfNF54_130015500.1;gene_id=PfNF54_130015500;protein_source_id=PfNF54_130015500.1-p1;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2844809	2846043	.	-	.	ID=PfNF54_130077200;Name=RIF;description=rifin;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.999;extra_copy_number=0;copy_num_ID=PfNF54_130077200_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2844809	2846043	.	-	.	ID=PfNF54_130077200.1;Parent=PfNF54_130077200;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2844809	2845804	.	-	.	ID=exon_PfNF54_130077200.1-E2;Parent=PfNF54_130077200.1;gene_id=PfNF54_130077200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2845974	2846043	.	-	.	ID=exon_PfNF54_130077200.1-E1;Parent=PfNF54_130077200.1;gene_id=PfNF54_130077200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2847756	2847965	.	-	.	ID=PfNF54_130077100;description=Plasmodium exported protein%2C unknown function;ebi_biotype=pseudogene;coverage=0.985;sequence_ID=0.985;extra_copy_number=0;copy_num_ID=PfNF54_130077100_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2847756	2847965	.	-	.	ID=PfNF54_130077100.1;Parent=PfNF54_130077100;description=Plasmodium exported protein%2C unknown function;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2847756	2847965	.	-	.	ID=exon_PfNF54_130077100.1-E1;Parent=PfNF54_130077100.1;gene_id=PfNF54_130077100;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2857427	2857780	.	-	.	ID=PfNF54_130076800;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130076800_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2857427	2857780	.	-	.	ID=PfNF54_130076800.1;Parent=PfNF54_130076800;description=acidic terminal segments%2C variant surface antigen of PfEMP1%2C putative;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2857427	2857780	.	-	.	ID=exon_PfNF54_130076800.1-E1;Parent=PfNF54_130076800.1;gene_id=PfNF54_130076800;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2859106	2860116	.	-	.	ID=PfNF54_130076700:pseudogene;description=stevor;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.998;extra_copy_number=0;copy_num_ID=PfNF54_130076700:pseudogene_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2859106	2860116	.	-	.	ID=PfNF54_130076700.1;Parent=PfNF54_130076700:pseudogene;description=stevor;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2859106	2859946	.	-	.	ID=exon_PfNF54_130076700.1-E2;Parent=PfNF54_130076700.1;gene_id=PfNF54_130076700:pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2860048	2860116	.	-	.	ID=exon_PfNF54_130076700.1-E1;Parent=PfNF54_130076700.1;gene_id=PfNF54_130076700:pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2862535	2863813	.	-	.	ID=PfNF54_130076600;Name=RIF;description=rifin;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130076600_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2862535	2863813	.	-	.	ID=PfNF54_130076600.1;Parent=PfNF54_130076600;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2862535	2863527	.	-	.	ID=exon_PfNF54_130076600.1-E2;Parent=PfNF54_130076600.1;gene_id=PfNF54_130076600;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2863760	2863813	.	-	.	ID=exon_PfNF54_130076600.1-E1;Parent=PfNF54_130076600.1;gene_id=PfNF54_130076600;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2865911	2866782	.	-	.	ID=PfNF54_130076500:pseudogene;description=rifin;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130076500:pseudogene_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2865911	2866782	.	-	.	ID=PfNF54_130076500.1;Parent=PfNF54_130076500:pseudogene;description=rifin;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2865911	2865958	.	-	.	ID=exon_PfNF54_130076500.1-E2;Parent=PfNF54_130076500.1;gene_id=PfNF54_130076500:pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2865961	2866782	.	-	.	ID=exon_PfNF54_130076500.1-E1;Parent=PfNF54_130076500.1;gene_id=PfNF54_130076500:pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2877413	2878183	.	-	.	ID=PfNF54_130076200;description=Plasmodium exported protein (PHIST)%2C unknown function;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130076200_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2877413	2878183	.	-	.	ID=PfNF54_130076200.1;Parent=PfNF54_130076200;description=Plasmodium exported protein (PHIST)%2C unknown function;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2877413	2877949	.	-	.	ID=exon_PfNF54_130076200.1-E2;Parent=PfNF54_130076200.1;gene_id=PfNF54_130076200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2878100	2878183	.	-	.	ID=exon_PfNF54_130076200.1-E1;Parent=PfNF54_130076200.1;gene_id=PfNF54_130076200;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2893284	2894097	.	-	.	ID=PfNF54_130075800;description=Plasmodium exported protein%2C unknown function;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130075800_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2893284	2894097	.	-	.	ID=PfNF54_130075800.1;Parent=PfNF54_130075800;description=Plasmodium exported protein%2C unknown function;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2893284	2893844	.	-	.	ID=exon_PfNF54_130075800.1-E2;Parent=PfNF54_130075800.1;gene_id=PfNF54_130075800;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2894026	2894097	.	-	.	ID=exon_PfNF54_130075800.1-E1;Parent=PfNF54_130075800.1;gene_id=PfNF54_130075800;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2898680	2900468	.	+	.	ID=PfNF54_130075700;description=Plasmodium exported protein%2C unknown function;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130075700_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2898680	2900468	.	+	.	ID=PfNF54_130075700.1;Parent=PfNF54_130075700;description=Plasmodium exported protein%2C unknown function;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2898680	2898682	.	+	.	ID=exon_PfNF54_130075700.1-E1;Parent=PfNF54_130075700.1;gene_id=PfNF54_130075700;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2899218	2900468	.	+	.	ID=exon_PfNF54_130075700.1-E2;Parent=PfNF54_130075700.1;gene_id=PfNF54_130075700;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2901478	2903691	.	-	.	ID=PfNF54_130075600;description=serine/threonine protein kinase%2C FIKK family;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130075600_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2901478	2903691	.	-	.	ID=PfNF54_130075600.1;Parent=PfNF54_130075600;description=serine/threonine protein kinase%2C FIKK family;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2901478	2901558	.	-	.	ID=exon_PfNF54_130075600.1-E3;Parent=PfNF54_130075600.1;gene_id=PfNF54_130075600;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2901983	2903491	.	-	.	ID=exon_PfNF54_130075600.1-E2;Parent=PfNF54_130075600.1;gene_id=PfNF54_130075600;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2903596	2903691	.	-	.	ID=exon_PfNF54_130075600.1-E1;Parent=PfNF54_130075600.1;gene_id=PfNF54_130075600;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2907577	2908155	.	-	.	ID=PfNF54_130075400;description=hypothetical protein;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130075400_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2907577	2908155	.	-	.	ID=PfNF54_130075400.1;Parent=PfNF54_130075400;description=hypothetical protein;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2907577	2908155	.	-	.	ID=exon_PfNF54_130075400.1-E1;Parent=PfNF54_130075400.1;gene_id=PfNF54_130075400;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2910637	2911296	.	+	.	ID=PfNF54_130075300;description=probable protein%2C unknown function;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=PfNF54_130075300_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2910637	2911296	.	+	.	ID=PfNF54_130075300.1;Parent=PfNF54_130075300;description=probable protein%2C unknown function;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2910637	2910705	.	+	.	ID=exon_PfNF54_130075300.1-E1;Parent=PfNF54_130075300.1;gene_id=PfNF54_130075300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2910859	2911296	.	+	.	ID=exon_PfNF54_130075300.1-E2;Parent=PfNF54_130075300.1;gene_id=PfNF54_130075300;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	pseudogene	2917047	2924044	.	-	.	ID=PfNF54_100045700;description=surface-associated interspersed protein 14.1 (SURFIN 14.1);ebi_biotype=pseudogene;coverage=0.973;sequence_ID=0.733;extra_copy_number=0;copy_num_ID=PfNF54_100045700_0
+Pf3D7_13_v3	Liftoff	pseudogenic_transcript	2917047	2924044	.	-	.	ID=PfNF54_100045700.1;Parent=PfNF54_100045700;description=surface-associated interspersed protein 14.1 (SURFIN 14.1);gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2917047	2922758	.	-	.	ID=exon_PfNF54_100045700.1-E3;Parent=PfNF54_100045700.1;gene_id=PfNF54_100045700;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2922913	2923296	.	-	.	ID=exon_PfNF54_100045700.1-E2;Parent=PfNF54_100045700.1;gene_id=PfNF54_100045700;extra_copy_number=0
+Pf3D7_13_v3	Liftoff	exon	2923510	2924044	.	-	.	ID=exon_PfNF54_100045700.1-E1;Parent=PfNF54_100045700.1;gene_id=PfNF54_100045700;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	pseudogene	4178	4567	.	+	.	ID=PfNF54_000011900:pseudogene;description=Ribosomal protein L16p/L10e%2C putative;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.978;extra_copy_number=0;copy_num_ID=PfNF54_000011900:pseudogene_0
+Pf3D7_API_v3	Liftoff	pseudogenic_transcript	4178	4567	.	+	.	ID=PfNF54_000011900.1;Parent=PfNF54_000011900:pseudogene;description=Ribosomal protein L16p/L10e%2C putative;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4178	4202	.	+	.	ID=exon_PfNF54_000011900.1-E1;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4205	4217	.	+	.	ID=exon_PfNF54_000011900.1-E2;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4221	4223	.	+	.	ID=exon_PfNF54_000011900.1-E3;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4226	4238	.	+	.	ID=exon_PfNF54_000011900.1-E4;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4241	4334	.	+	.	ID=exon_PfNF54_000011900.1-E5;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4337	4376	.	+	.	ID=exon_PfNF54_000011900.1-E6;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4379	4391	.	+	.	ID=exon_PfNF54_000011900.1-E7;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4394	4421	.	+	.	ID=exon_PfNF54_000011900.1-E8;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4424	4454	.	+	.	ID=exon_PfNF54_000011900.1-E9;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4457	4567	.	+	.	ID=exon_PfNF54_000011900.1-E10;Parent=PfNF54_000011900.1;gene_id=PfNF54_000011900:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	pseudogene	4802	5158	.	+	.	ID=PfNF54_000011800:pseudogene;description=Ribosomal protein L14p/L23e%2C putative;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.997;extra_copy_number=0;copy_num_ID=PfNF54_000011800:pseudogene_0
+Pf3D7_API_v3	Liftoff	pseudogenic_transcript	4802	5158	.	+	.	ID=PfNF54_000011800.1;Parent=PfNF54_000011800:pseudogene;description=Ribosomal protein L14p/L23e%2C putative;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4802	4994	.	+	.	ID=exon_PfNF54_000011800.1-E1;Parent=PfNF54_000011800.1;gene_id=PfNF54_000011800:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	4997	5158	.	+	.	ID=exon_PfNF54_000011800.1-E2;Parent=PfNF54_000011800.1;gene_id=PfNF54_000011800:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	pseudogene	6072	6791	.	+	.	ID=PfNF54_000011600:pseudogene;description=apicoplast ribosomal protein S5;ebi_biotype=pseudogene;coverage=1.0;sequence_ID=0.997;extra_copy_number=0;copy_num_ID=PfNF54_000011600:pseudogene_0
+Pf3D7_API_v3	Liftoff	pseudogenic_transcript	6072	6791	.	+	.	ID=PfNF54_000011600.1;Parent=PfNF54_000011600:pseudogene;description=apicoplast ribosomal protein S5;gene_ebi_biotype=pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	6072	6393	.	+	.	ID=exon_PfNF54_000011600.1-E1;Parent=PfNF54_000011600.1;gene_id=PfNF54_000011600:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	6396	6408	.	+	.	ID=exon_PfNF54_000011600.1-E2;Parent=PfNF54_000011600.1;gene_id=PfNF54_000011600:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	6411	6791	.	+	.	ID=exon_PfNF54_000011600.1-E3;Parent=PfNF54_000011600.1;gene_id=PfNF54_000011600:pseudogene;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	7559	7927	.	+	.	ID=PfNF54_000011300;Name=RPS12;description=apicoplast ribosomal protein S12;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_000011300_0
+Pf3D7_API_v3	Liftoff	mRNA	7559	7927	.	+	.	ID=PfNF54_000011300.1;Parent=PfNF54_000011300;description=apicoplast ribosomal protein S12;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	7559	7927	.	+	.	ID=exon_PfNF54_000011300.1-E1;Parent=PfNF54_000011300.1;gene_id=PfNF54_000011300;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	7559	7927	.	+	.	ID=PfNF54_000011300.1-p1-CDS1;Parent=PfNF54_000011300.1;gene_id=PfNF54_000011300;protein_source_id=PfNF54_000011300.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	7943	8371	.	+	.	ID=PfNF54_000011200;Name=RPS7;description=apicoplast ribosomal protein S7;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_000011200_0
+Pf3D7_API_v3	Liftoff	mRNA	7943	8371	.	+	.	ID=PfNF54_000011200.1;Parent=PfNF54_000011200;description=apicoplast ribosomal protein S7;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	7943	8371	.	+	.	ID=exon_PfNF54_000011200.1-E1;Parent=PfNF54_000011200.1;gene_id=PfNF54_000011200;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	7943	8371	.	+	.	ID=PfNF54_000011200.1-p1-CDS1;Parent=PfNF54_000011200.1;gene_id=PfNF54_000011200;protein_source_id=PfNF54_000011200.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	8417	9649	.	+	.	ID=PfNF54_000011100;Name=RIFA;description=elongation factor Tu%2C putative;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_000011100_0
+Pf3D7_API_v3	Liftoff	mRNA	8417	9649	.	+	.	ID=PfNF54_000011100.1;Parent=PfNF54_000011100;description=elongation factor Tu%2C putative;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	8417	9649	.	+	.	ID=exon_PfNF54_000011100.1-E1;Parent=PfNF54_000011100.1;gene_id=PfNF54_000011100;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	8417	9649	.	+	.	ID=PfNF54_000011100.1-p1-CDS1;Parent=PfNF54_000011100.1;gene_id=PfNF54_000011100;protein_source_id=PfNF54_000011100.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	10596	12899	.	+	.	ID=PfNF54_000010500;Name=ClpM;description=chaperone protein ClpM;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_000010500_0
+Pf3D7_API_v3	Liftoff	mRNA	10596	12899	.	+	.	ID=PfNF54_000010500.1;Parent=PfNF54_000010500;description=chaperone protein ClpM;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	10596	12899	.	+	.	ID=exon_PfNF54_000010500.1-E1;Parent=PfNF54_000010500.1;gene_id=PfNF54_000010500;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	10596	12899	.	+	.	ID=PfNF54_000010500.1-p1-CDS1;Parent=PfNF54_000010500.1;gene_id=PfNF54_000010500;protein_source_id=PfNF54_000010500.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	13661	15241	.	-	.	ID=PfNF54_000010100;Name=RPOD;description=RNA polymerase D;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_000010100_0
+Pf3D7_API_v3	Liftoff	mRNA	13661	15241	.	-	.	ID=PfNF54_000010100.1;Parent=PfNF54_000010100;description=RNA polymerase D;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	13661	14208	.	-	.	ID=exon_PfNF54_000010100.1-E2;Parent=PfNF54_000010100.1;gene_id=PfNF54_000010100;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	14389	15241	.	-	.	ID=exon_PfNF54_000010100.1-E1;Parent=PfNF54_000010100.1;gene_id=PfNF54_000010100;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	13661	14208	.	-	.	ID=PfNF54_000010100.1-p1-CDS2;Parent=PfNF54_000010100.1;gene_id=PfNF54_000010100;protein_source_id=PfNF54_000010100.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	14389	15241	.	-	.	ID=PfNF54_000010100.1-p1-CDS1;Parent=PfNF54_000010100.1;gene_id=PfNF54_000010100;protein_source_id=PfNF54_000010100.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	26547	27927	.	-	.	ID=PfNF54_000007800;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_000007800_0
+Pf3D7_API_v3	Liftoff	mRNA	26547	27927	.	-	.	ID=PfNF54_000007800.1;Parent=PfNF54_000007800;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	26547	26563	.	-	.	ID=exon_PfNF54_000007800.1-E4;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	26819	26862	.	-	.	ID=exon_PfNF54_000007800.1-E3;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	26997	27093	.	-	.	ID=exon_PfNF54_000007800.1-E2;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	exon	27762	27927	.	-	.	ID=exon_PfNF54_000007800.1-E1;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	26547	26563	.	-	.	ID=PfNF54_000007800.1-p1-CDS4;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;protein_source_id=PfNF54_000007800.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	26819	26862	.	-	.	ID=PfNF54_000007800.1-p1-CDS3;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;protein_source_id=PfNF54_000007800.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	26997	27093	.	-	.	ID=PfNF54_000007800.1-p1-CDS2;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;protein_source_id=PfNF54_000007800.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	CDS	27762	27927	.	-	.	ID=PfNF54_000007800.1-p1-CDS1;Parent=PfNF54_000007800.1;gene_id=PfNF54_000007800;protein_source_id=PfNF54_000007800.1-p1;extra_copy_number=0
+Pf3D7_API_v3	Liftoff	gene	30264	31644	.	+	.	ID=PfNF54_000007800_1;description=hypothetical protein;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=1;copy_num_ID=PfNF54_000007800_1
+Pf3D7_API_v3	Liftoff	mRNA	30264	31644	.	+	.	ID=PfNF54_000007800.1_1;Parent=PfNF54_000007800_1;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	exon	30264	30429	.	+	.	ID=exon_PfNF54_000007800.1-E1_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	exon	31098	31194	.	+	.	ID=exon_PfNF54_000007800.1-E2_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	exon	31329	31372	.	+	.	ID=exon_PfNF54_000007800.1-E3_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	exon	31628	31644	.	+	.	ID=exon_PfNF54_000007800.1-E4_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	CDS	30264	30429	.	+	.	ID=PfNF54_000007800.1-p1-CDS1_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;protein_source_id=PfNF54_000007800.1-p1_1;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	CDS	31098	31194	.	+	.	ID=PfNF54_000007800.1-p1-CDS2_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;protein_source_id=PfNF54_000007800.1-p1_1;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	CDS	31329	31372	.	+	.	ID=PfNF54_000007800.1-p1-CDS3_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;protein_source_id=PfNF54_000007800.1-p1_1;extra_copy_number=1
+Pf3D7_API_v3	Liftoff	CDS	31628	31644	.	+	.	ID=PfNF54_000007800.1-p1-CDS4_1;Parent=PfNF54_000007800.1_1;gene_id=PfNF54_000007800_1;protein_source_id=PfNF54_000007800.1-p1_1;extra_copy_number=1
+Pf3D7_MIT_v3	Liftoff	gene	26	325	.	+	.	ID=PfNF54_000012900;description=hypothetical protein;ebi_biotype=protein_coding;coverage=0.9;sequence_ID=0.9;valid_ORFs=0;extra_copy_number=0;copy_num_ID=PfNF54_000012900_0
+Pf3D7_MIT_v3	Liftoff	mRNA	26	325	.	+	.	ID=PfNF54_000012900.1;Parent=PfNF54_000012900;description=hypothetical protein;gene_ebi_biotype=protein_coding;matches_ref_protein=False;valid_ORF=False;missing_start_codon=True;extra_copy_number=0
+Pf3D7_MIT_v3	Liftoff	exon	26	142	.	+	.	ID=exon_PfNF54_000012900.1-E2;Parent=PfNF54_000012900.1;gene_id=PfNF54_000012900;extra_copy_number=0
+Pf3D7_MIT_v3	Liftoff	exon	254	325	.	+	.	ID=exon_PfNF54_000012900.1-E3;Parent=PfNF54_000012900.1;gene_id=PfNF54_000012900;extra_copy_number=0
+Pf3D7_MIT_v3	Liftoff	CDS	26	142	.	+	.	ID=PfNF54_000012900.1-p1-CDS2;Parent=PfNF54_000012900.1;gene_id=PfNF54_000012900;protein_source_id=PfNF54_000012900.1-p1;extra_copy_number=0
+Pf3D7_MIT_v3	Liftoff	CDS	254	325	.	+	.	ID=PfNF54_000012900.1-p1-CDS3;Parent=PfNF54_000012900.1;gene_id=PfNF54_000012900;protein_source_id=PfNF54_000012900.1-p1;extra_copy_number=0
+Pf3D7_MIT_v3	Liftoff	gene	3837	4622	.	+	.	ID=PfNF54_000013000;Name=CYTB;description=cytochrome b;ebi_biotype=protein_coding;coverage=1.0;sequence_ID=1.0;valid_ORFs=1;extra_copy_number=0;copy_num_ID=PfNF54_000013000_0
+Pf3D7_MIT_v3	Liftoff	mRNA	3837	4622	.	+	.	ID=PfNF54_000013000.1;Parent=PfNF54_000013000;description=cytochrome b;gene_ebi_biotype=protein_coding;matches_ref_protein=True;valid_ORF=True;extra_copy_number=0
+Pf3D7_MIT_v3	Liftoff	exon	3837	4622	.	+	.	ID=exon_PfNF54_000013000.1-E1;Parent=PfNF54_000013000.1;gene_id=PfNF54_000013000;extra_copy_number=0
+Pf3D7_MIT_v3	Liftoff	CDS	3837	4622	.	+	.	ID=PfNF54_000013000.1-p1-CDS1;Parent=PfNF54_000013000.1;gene_id=PfNF54_000013000;protein_source_id=PfNF54_000013000.1-p1;extra_copy_number=0
