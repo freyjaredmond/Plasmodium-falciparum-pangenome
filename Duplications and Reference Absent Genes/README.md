@@ -6,7 +6,7 @@ They are listed here [duplications_PSEUDO.tsv](duplications_PSEUDO.tsv)
 
 ## Reference absent genes
 Pangene clusters lacking a 3D7 gene were identified using [get_liftoff_gffs_PSEUDO.py](get_liftoff_gffs_PSEUDO.py) and their gffs
-were extracted. LiftOff of the reference absent genes to 3D7 was performed using [lift_off_SLURM.sh](lift_off_SLURM.sh).
+were extracted. LiftOff of the reference absent genes to 3D7 was performed using [lift_off_SLURM.sh](LIFTOFF_PSEUDO.sh).
 Genes that could not be mapped to 3D7 are here [unmapped_genes](unmapped_genes).
 The number of genes per genome that could not be mapped to 3D7 was plotted [plotting_unmapped_genes.py](plotting_unmapped_genes.py)
 ![unmapped](pangene_recovery_by_genome.png)
