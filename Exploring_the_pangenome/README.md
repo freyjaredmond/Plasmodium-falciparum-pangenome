@@ -21,7 +21,7 @@ The figure is shown below:
 # Evidence to support the pangenome
 
 ## Mean pLDDT
-AlphaFold statistics were calculated for each pangene and the mean pLDDT was mapped to each pangenome occupancy. The script is here [Mean pLDDT](plddt_PSEUDO.py). Alphafold data is here [3D7 Alphafold data](Alphafold_stats_from_tar.csv) and here [Non-3D7 Alphafold data](Alphafold_stats_from_tar_non3d7.csv).
+AlphaFold2 models were taken for the reference genome from the AlphaFold Protein Structure Database. For non-reference representative genes, the best corresponding Uniprot identifier was extracted using [get best uniprot](get_best_uniprot.py) and the corresponding structure was extracted using [af search](af_uniprot_search.py). The mean pLDDT was extracted from these models and mapped to each pangenome occupancy. The script is here [Mean pLDDT](plddt_PSEUDO.py). Alphafold data is here [3D7 Alphafold data](Alphafold_stats_from_tar.csv) and here [Non-3D7 Alphafold data](Alphafold_stats_from_tar_non3d7.csv).
 
 ## RNA-seq
 All available RNA-seq datasets were taken from PlasmoDB and filtered to include sense strand (unique) only data. Gene expression was mapped to the pangene clusters- note that gene expression data was only available for 3D7. 
